@@ -6,7 +6,19 @@ Spanish PER (Patrón de Embarcaciones de Recreo) study guide, intended to become
 - `npm run verify` — check + unit + build + e2e. **A task is done only when this passes**; report failures with output.
 - `npm run check` (typecheck, Biome, content validation) · `npm test` (Vitest) · `npm run build` (→ `dist/index.html`, single file) · `npm run e2e` (Playwright, 390 + 1280 px).
 - Hooks in `.claude/settings.json` block edits to `dist/`, `legacy/`, `tools/patches/`, lockfile, and lint/typecheck every edit (plus validate the bank on `content/questions` edits).
-- `main` is protected: work on a branch, open a PR, CI must be green.
+- `main` is protected: work on a branch, open a PR, CI must be green. `npm run check:ids` fails if a question id on `main` disappears.
+
+## Claude Code setup (`.claude/`)
+- **Rules** (`.claude/rules/`, loaded by path): `content`, `questions`, `ui`, `storage`, `tests`.
+- **Skills:** `/verify` (definition of done), `/add-questions <topic> [n]`, `/content-audit <topic>`, `/ship` (manual only), `/catchup` (after `/clear`), `/adr`.
+- **Agents** (`.claude/agents/`): `content-reviewer` (opus, regulations and exams), `question-auditor`, `code-reviewer`, `ux-reviewer` (Playwright MCP), `test-writer`. Use a reviewer that didn't write the change.
+- **Hooks:**
+  - guard edits to frozen paths and lint/typecheck/validate after edits;
+  - block pushes and commits on `main`, and ask before `--update-snapshots`;
+  - a Stop gate runs `check` + unit tests on uncommitted changes (`PER_HOOKS=minimal` skips it);
+  - `SessionStart` prints branch, roadmap step and days to the exam.
+- **MCP:** `playwright` (`.mcp.json`, pinned) to look at the built app (`file://…/dist/index.html`).
+- After changing any of this, run the prompts in `docs/CANARIES.md`.
 
 ## What's here
 - `index.html` — the HTML shell (views, header, footer); loads `src/main.ts`. **Not runnable on its own**: run `npm run dev` (http://localhost:5173) or `npm run build` and open `dist/index.html`.

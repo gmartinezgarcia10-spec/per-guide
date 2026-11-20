@@ -14,10 +14,11 @@
     "lint": "biome check .",
     "format": "biome check --write .",
     "validate:content": "node scripts/validate-content.ts --quiet",
-    "check": "npm run typecheck && npm run lint && npm run validate:content",
+    "check": "npm run typecheck && npm run lint && npm run validate:content && npm run check:ids",
     "test": "vitest run",
     "e2e": "playwright test",
-    "verify": "npm run check && npm run test && npm run build && npm run e2e"
+    "verify": "npm run check && npm run test && npm run build && npm run e2e",
+    "check:ids": "node scripts/check-ids.ts"
   },
   "devDependencies": {
     "@biomejs/biome": "2.6.8",
