@@ -13,7 +13,7 @@
     "resolveJsonModule": true,
     "skipLibCheck": true,
     "noEmit": true,
-    "types": ["node"],
+    "types": ["node", "vite/client"],
     "allowImportingTsExtensions": true
   },
   "include": ["src", "scripts", "tests/unit", "tests/e2e", "*.config.ts"]

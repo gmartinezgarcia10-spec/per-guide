@@ -3,6 +3,7 @@
   "files": {
     "includes": [
       "**",
+      "!src/legacy",
       "!index.html",
       "!dist",
       "!legacy",
@@ -44,6 +45,22 @@
             "useDomNodeTextContent": "off"
           }
         }
+      }
+    },
+    {
+      "includes": ["src/styles/app.css"],
+      "linter": {
+        "rules": {
+          "style": {
+            "noDescendingSpecificity": "off"
+          },
+          "complexity": {
+            "noImportantStyles": "off"
+          }
+        }
+      },
+      "formatter": {
+        "enabled": false
       }
     }
   ]
