@@ -209,20 +209,8 @@ function renderPlan(){renderContinue();
 }
 
 
-/* ================= pass forecast (Monte Carlo) ================= */
-function rgamma(k){if(k<1){return rgamma(k+1)*Math.pow(Math.random(),1/k)}const d=k-1/3,c=1/Math.sqrt(9*d);for(;;){let x,v;do{const u1=Math.random(),u2=Math.random();x=Math.sqrt(-2*Math.log(u1||1e-12))*Math.cos(2*Math.PI*u2);v=1+c*x}while(v<=0);v=v*v*v;const u=Math.random();if(u<1-.0331*x*x*x*x)return d*v;if(Math.log(u)<.5*x*x+d*(1-v+Math.log(v)))return d*v}}
-const rbeta=(a,b)=>{const x=rgamma(a);return x/(x+rgamma(b))};
-function topicAcc(t){let a=0,b=0;Q.forEach(q=>{if(q[0]!==t)return;const s=st(q);if(s){a+=s[1];b+=s[0]}});return [a,b]}
-function simulate(P,n){let pass=0,sum=0;const mins={baliz:0,ripa:0,carta:0};
-  for(let k=0;k<n;k++){let tot=0,ok=true;for(const t of T){const p=P[t.id]();let c=0;for(let j=0;j<t.q;j++)if(Math.random()<p)c++;tot+=c;if(t.min){if(c>=t.min)mins[t.id]++;else ok=false}}sum+=tot;if(ok&&tot>=32)pass++}
-  return {p:pass/n,exp:sum/n,mins:Object.fromEntries(Object.entries(mins).map(([k,v])=>[k,v/n]))}}
-function forecast(){
-  const A={};let answered=0;T.forEach(t=>{const [a,b]=topicAcc(t.id);A[t.id]=[a,b];answered+=b});
-  const mk=(boost)=>Object.fromEntries(T.map(t=>{const [a,b]=A[t.id];const al=3+a,be=2+(b-a);return [t.id,()=>{const p=rbeta(al,be);return t.id===boost?Math.min(.99,p+.1):p}]}));
-  const base=simulate(mk(null),4000);
-  const lev=T.map(t=>({t,gain:simulate(mk(t.id),1500).p-base.p})).sort((x,y)=>y.gain-x.gain);
-  return {base,lev,answered,A};
-}
+/* ================= pass forecast (Monte Carlo): src/learn/forecast.ts ================= */
+function forecast(){return PER.forecast.forecast(PER.forecast.topicAccuracy(Q,S.stats,qid,q=>q[0]))}
 function renderForecast(){
   const el=$("#forecast");if(!el)return;const f=forecast();const pc=Math.round(f.base.p*100);
   if(f.answered<40){el.innerHTML=`<p class="muted">Responde al menos 40 preguntas (llevas ${f.answered}) y aquí verás tu probabilidad de aprobar, calculada simulando miles de exámenes con tu acierto real por tema.</p>`;return f}

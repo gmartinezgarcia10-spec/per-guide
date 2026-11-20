@@ -3,6 +3,7 @@
 import type { LegacyQuestion } from "../content/schema.ts";
 import { assembleMock } from "../exam/assemble.ts";
 import { daysToExam, EXAM, scoreAnswers, TOPICS, type Topic, type TopicId } from "../exam/spec.ts";
+import { forecast, topicAccuracy } from "../learn/forecast.ts";
 import { isDue, nextReviewLabel, review } from "../learn/srs.ts";
 import { horn } from "./audio.ts";
 import { $, $$ } from "./dom.ts";
@@ -49,6 +50,7 @@ export const PER = {
   migrateProgress,
   exam: { EXAM, scoreAnswers, assembleMock, daysToExam },
   srs: { review, isDue, nextReviewLabel },
+  forecast: { forecast, topicAccuracy },
 };
 
 declare global {
