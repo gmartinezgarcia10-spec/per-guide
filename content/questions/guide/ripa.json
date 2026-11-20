@@ -10,7 +10,7 @@
       "El que tenga al otro por babor"
     ],
     "answer": 1,
-    "explanation": "Salvo que el velero esté alcanzando."
+    "explanation": "Regla 18: el de propulsión mecánica se aparta del velero. Excepción: si el velero es el que alcanza, se aparta él (regla 13, el que alcanza siempre se aparta)."
   },
   {
     "id": "g-0048",
@@ -39,12 +39,12 @@
   {
     "id": "g-0051",
     "topic": "ripa",
-    "q": "Un pesquero alcanza a un velero por babor con riesgo de abordaje. Debe maniobrar…",
+    "q": "Un pesquero alcanza a un velero con riesgo de abordaje. Debe maniobrar…",
     "options": [
       "El velero, por ser más maniobrable",
       "El pesquero, porque es el que alcanza",
       "El velero, por ser el alcanzado",
-      "Ninguno"
+      "El que tenga al otro por estribor"
     ],
     "answer": 1,
     "explanation": "El que alcanza siempre se mantiene apartado."
@@ -55,7 +55,7 @@
     "q": "Dos buques de propulsión mecánica de vuelta encontrada deben…",
     "options": ["Caer ambos a babor", "Caer ambos a estribor", "Parar máquinas", "Maniobrar el más pequeño"],
     "answer": 1,
-    "explanation": "Regla 14."
+    "explanation": "Regla 14: de vuelta encontrada, ambos caen a estribor para pasar babor con babor. Caer a babor es justo lo que hay que evitar."
   },
   {
     "id": "g-0053",
@@ -63,7 +63,7 @@
     "q": "En un cruce entre dos buques de propulsión mecánica maniobra el que…",
     "options": ["Ve al otro por su babor", "Ve al otro por su estribor", "Es más rápido", "Es más grande"],
     "answer": 1,
-    "explanation": "Regla 15, y evitando cortarle la proa."
+    "explanation": "Regla 15: maniobra el que ve al otro por su estribor (su luz roja), y evita cortarle la proa. El que lo tiene por babor (ve su verde) mantiene rumbo y velocidad."
   },
   {
     "id": "g-0054",
@@ -79,7 +79,7 @@
     "q": "Luces roja, blanca y roja todo horizonte en vertical indican un buque…",
     "options": ["Sin gobierno", "Con maniobrabilidad restringida", "Pesquero", "Varado"],
     "answer": 1,
-    "explanation": "De día: esfera, bicono, esfera."
+    "explanation": "Regla 27 b): roja-blanca-roja en vertical es maniobra restringida; de día, esfera-bicono-esfera. Dos rojas solas serían sin gobierno."
   },
   {
     "id": "g-0056",
@@ -158,7 +158,7 @@
     "q": "Una pitada corta significa…",
     "options": ["Caigo a babor", "Caigo a estribor", "Doy atrás", "Duda"],
     "answer": 1,
-    "explanation": "Dos cortas: a babor. Tres: atrás."
+    "explanation": "Regla 34 a): una corta, caigo a estribor; dos cortas, caigo a babor; tres cortas, estoy dando atrás. Cinco o más cortas expresan duda."
   },
   {
     "id": "g-0064",
@@ -216,20 +216,20 @@
       "Debe fondear"
     ],
     "answer": 1,
-    "explanation": "Regla 9."
+    "explanation": "Regla 9 b): el de menos de 20 m no estorbará a un buque que solo puede navegar con seguridad dentro del canal; no tiene preferencia por ser pequeño."
   },
   {
     "id": "g-0070",
     "topic": "ripa",
     "q": "Si se cruza un dispositivo de separación de tráfico, se hará…",
     "options": [
-      "Con rumbo perpendicular a la dirección general del tráfico",
+      "Con una proa lo más perpendicular posible a la dirección general del tráfico",
       "Con un ángulo de 45°",
       "Siguiendo la vía de tráfico",
       "Por la zona de separación"
     ],
     "answer": 0,
-    "explanation": "Regla 10."
+    "explanation": "Regla 10 c): si hay que cruzar una vía de circulación, se hace con la proa lo más perpendicular posible a la dirección del tráfico, para estar el menor tiempo dentro y que se vea claramente la intención."
   },
   {
     "id": "g-0071",
@@ -237,7 +237,7 @@
     "q": "Existe riesgo de abordaje si la demora de un buque que se aproxima…",
     "options": ["Aumenta rápidamente", "No varía de forma apreciable", "Disminuye", "Cambia 90°"],
     "answer": 1,
-    "explanation": "Regla 7."
+    "explanation": "Regla 7 d): si la demora no cambia de forma apreciable y la distancia disminuye, existe riesgo de abordaje. Ojo: también puede haberlo aunque la demora cambie, con un buque muy grande, un remolque o a corta distancia."
   },
   {
     "id": "g-0072",
@@ -245,7 +245,7 @@
     "q": "Blanca sobre roja todo horizonte indica un buque…",
     "options": ["Pesquero", "Práctico en servicio", "Fondeado", "Sin gobierno"],
     "answer": 1,
-    "explanation": "«Blanco sobre rojo, práctico a bordo»."
+    "explanation": "Regla 29: blanca sobre roja todo horizonte es un práctico en servicio («blanco sobre rojo, práctico a bordo»). Rojo sobre blanco sería un pesquero que no pesca al arrastre."
   },
   {
     "id": "g-0073",
@@ -279,7 +279,7 @@
   {
     "id": "g-0181",
     "topic": "ripa",
-    "q": "Un buque que pesca al curricán (con líneas) se considera…",
+    "q": "Un buque que pesca al curricán (líneas remolcadas que no restringen su maniobra) se considera…",
     "options": [
       "Dedicado a la pesca",
       "Buque de propulsión mecánica (o de vela) normal",
@@ -511,13 +511,13 @@
     "topic": "ripa",
     "q": "La regla 5 del RIPA obliga a mantener en todo momento…",
     "options": [
-      "Velocidad máxima",
+      "Vigilancia solo por radar",
       "Una eficaz vigilancia visual y auditiva",
       "El motor en marcha",
-      "La radio apagada"
+      "Vigilancia solo de noche"
     ],
     "answer": 1,
-    "explanation": "Vigilancia por todos los medios."
+    "explanation": "Regla 5: vigilancia visual y auditiva eficaz en todo momento, de día y de noche, y con todos los medios disponibles (radar, VHF…). El radar ayuda, pero no sustituye a la vista y el oído."
   },
   {
     "id": "g-0349",
@@ -525,7 +525,7 @@
     "q": "Ante la duda sobre si existe riesgo de abordaje…",
     "options": ["Se considera que no existe", "Se considera que existe", "Se para el motor", "Se fondea"],
     "answer": 1,
-    "explanation": "Regla 7."
+    "explanation": "Regla 7 a): en caso de duda, se considera que el riesgo de abordaje existe. Suponer que no lo hay es justo el error que la regla quiere evitar."
   },
   {
     "id": "g-0350",
@@ -538,7 +538,7 @@
       "Hacia babor"
     ],
     "answer": 1,
-    "explanation": "Regla 8."
+    "explanation": "Regla 8: la maniobra debe ser amplia, hecha con tiempo suficiente y clara para el otro (en rumbo o velocidad). Pequeñas maniobras sucesivas no se ven por radar ni a la vista."
   },
   {
     "id": "g-0351",
@@ -572,7 +572,7 @@
       "Solo de los mayores"
     ],
     "answer": 1,
-    "explanation": "Regla 18."
+    "explanation": "Regla 18 a): el de propulsión mecánica se aparta de los sin gobierno, con maniobra restringida, dedicados a la pesca y de vela; además no estorbará al restringido por su calado."
   },
   {
     "id": "g-0354",
@@ -585,7 +585,7 @@
       "Una moto náutica"
     ],
     "answer": 1,
-    "explanation": "Regla 18."
+    "explanation": "Regla 18 b): el velero se aparta de los sin gobierno, con maniobra restringida y dedicados a la pesca. Del de propulsión mecánica no: es este quien se aparta del velero (salvo que el velero alcance)."
   },
   {
     "id": "g-0355",
@@ -593,7 +593,7 @@
     "q": "Un buque dedicado a la pesca se aparta de…",
     "options": ["Los de vela", "Los sin gobierno y con maniobra restringida", "Los de motor", "Ninguno"],
     "answer": 1,
-    "explanation": "Y en lo posible no estorba al restringido por calado."
+    "explanation": "Regla 18 c): el pesquero se aparta de los sin gobierno y con maniobra restringida, y en lo posible no estorba al restringido por su calado. Los de vela y motor se apartan de él."
   },
   {
     "id": "g-0356",
@@ -698,8 +698,8 @@
     "topic": "ripa",
     "q": "¿Cuántas reglas tiene el RIPA?",
     "options": ["25", "31", "37", "41"],
-    "answer": 2,
-    "explanation": "37 reglas y varios anexos."
+    "answer": 3,
+    "explanation": "41 reglas en seis partes (A a F) y 4 anexos. Las reglas 39 a 41 (parte F, auditorías de la OMI) están en vigor desde el 1 de enero de 2016; antes eran 38. Nunca han sido 37."
   },
   {
     "id": "g-0708",
@@ -785,10 +785,10 @@
       "El estado de visibilidad",
       "El resplandor de las luces de tierra",
       "La densidad de tráfico",
-      "El color del casco"
+      "La bandera del buque"
     ],
     "answer": 3,
-    "explanation": "Regla 6."
+    "explanation": "Regla 6: la velocidad de seguridad depende de la visibilidad, la densidad de tráfico, la maniobrabilidad del buque, las luces de tierra de fondo, el viento, la mar y la corriente, el calado frente a la sonda y el radar. La bandera del buque no influye en cómo puede parar o evitar un abordaje."
   },
   {
     "id": "g-0716",
@@ -854,9 +854,14 @@
     "id": "g-0721",
     "topic": "ripa",
     "q": "En un canal angosto, ¿quién NO debe estorbar a un buque que solo puede navegar dentro?",
-    "options": ["Solo los pesqueros", "Los de menos de 20 m y los de vela", "Ninguno", "Los de más de 50 m"],
+    "options": [
+      "Solo los de propulsión mecánica",
+      "Los de menos de 20 m y los de vela",
+      "Ninguno",
+      "Los de más de 50 m"
+    ],
     "answer": 1,
-    "explanation": "Y los pesqueros a ningún buque que navegue dentro."
+    "explanation": "Regla 9: los de menos de 20 m y los de vela no estorbarán a quien solo puede navegar con seguridad dentro del canal; los pesqueros tampoco estorbarán a ningún buque que navegue por él."
   },
   {
     "id": "g-0722",
@@ -976,7 +981,7 @@
       "Con una luz amarilla"
     ],
     "answer": 1,
-    "explanation": "Ambos caen a estribor."
+    "explanation": "Regla 14 d): de vuelta encontrada ves al otro con los topes enfilados o casi enfilados y/o con las dos luces de costado. Solo con la verde lo verías por su estribor (cruce), y solo con la de alcance, por la popa."
   },
   {
     "id": "g-0732",
@@ -1005,7 +1010,7 @@
     "q": "Un buque de motor con preferencia en un cruce que decide maniobrar evitará caer…",
     "options": ["A estribor", "A babor por un buque que esté por su babor", "Atrás", "Nunca puede maniobrar"],
     "answer": 1,
-    "explanation": "Regla 17 c)."
+    "explanation": "Regla 17 c): si el que tiene preferencia decide maniobrar para evitar el abordaje, no caerá a babor ante un buque que esté por su babor, porque se metería en su camino."
   },
   {
     "id": "g-0735",
@@ -1027,11 +1032,11 @@
     "options": [
       "Tiene preferencia sobre todos",
       "Se mantendrá alejado de todos los buques",
-      "Es un buque sin gobierno",
-      "Es un buque de vela"
+      "Tiene preferencia solo sobre los de vela",
+      "Debe ser evitado por todos los buques"
     ],
     "answer": 1,
-    "explanation": "Si hay riesgo, cumple las reglas de esta parte."
+    "explanation": "Regla 18 e): el hidroavión amarado se mantendrá, en general, alejado de todos los buques y evitará estorbar su navegación; si hay riesgo de abordaje, cumple las reglas de esta parte."
   },
   {
     "id": "g-0737",
@@ -1134,7 +1139,7 @@
     "q": "Un aerodeslizador sin desplazamiento exhibe, además de las de motor…",
     "options": ["Una roja centelleante", "Una amarilla centelleante todo horizonte", "Dos rojas", "Una azul"],
     "answer": 1,
-    "explanation": "Pregunta real (julio 2026)."
+    "explanation": "Regla 23 b): el aerodeslizador en modo sin desplazamiento añade una luz amarilla centelleante todo horizonte. La roja centelleante es la de las naves de vuelo rasante."
   },
   {
     "id": "g-0748",
@@ -1316,7 +1321,7 @@
     "q": "Una draga con obstrucción indica la banda por la que puede pasar otro buque con…",
     "options": ["Dos rojas o dos bolas", "Dos verdes o dos biconos", "Una blanca", "Un cilindro"],
     "answer": 1,
-    "explanation": "La banda de la obstrucción: dos rojas o dos bolas."
+    "explanation": "Regla 27 d): la draga con obstrucción muestra dos verdes (o dos biconos) en la banda por la que se puede pasar y dos rojas (o dos bolas) en la banda de la obstrucción."
   },
   {
     "id": "g-0767",
@@ -1331,7 +1336,7 @@
     "topic": "ripa",
     "q": "Una embarcación pequeña dedicada al buceo que no puede llevar todas las luces y marcas muestra…",
     "options": [
-      "Bandera B",
+      "Dos luces verdes en vertical",
       "Roja-blanca-roja y una bandera A rígida de al menos 1 m",
       "Dos rojas",
       "Un cono"
@@ -1355,7 +1360,7 @@
   {
     "id": "g-0770",
     "topic": "ripa",
-    "q": "Los buques de menos de 12 m no están obligados a las luces de la regla 27, salvo…",
+    "q": "Los buques de menos de 12 m no están obligados a las luces y marcas de la regla 27, salvo…",
     "options": [
       "Los sin gobierno",
       "Los dedicados a operaciones de buceo",
@@ -1582,7 +1587,7 @@
     "q": "El último buque remolcado, si va tripulado, emite con niebla…",
     "options": [
       "Una larga y dos cortas",
-      "Una larga y tres cortas, justo después del remolcador",
+      "Una larga y tres cortas, si es posible justo después del remolcador",
       "Cuatro cortas",
       "Repique"
     ],

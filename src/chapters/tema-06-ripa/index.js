@@ -108,9 +108,9 @@ sections:[
 <tr><td class="es">Buque de propulsión mecánica</td><td>Cualquier buque movido por una máquina. Un velero con el motor en marcha <b>lo es</b>, aunque lleve velas izadas.</td></tr>
 <tr><td class="es">Buque de vela</td><td>Navega solo a vela, sin usar el motor.</td></tr>
 <tr><td class="es">Dedicado a la pesca</td><td>Pesca con redes, líneas o arrastre que <b>restringen su maniobrabilidad</b>. La pesca con curricán o caña no cuenta.</td></tr>
-<tr><td class="es">Sin gobierno</td><td>No puede maniobrar por una circunstancia excepcional (avería del timón o del motor).</td></tr>
+<tr><td class="es">Sin gobierno</td><td>Por una circunstancia excepcional (avería del timón o del motor) no puede maniobrar como exige el Reglamento y, por tanto, <b>no puede apartarse</b> de la derrota de otro buque.</td></tr>
 <tr><td class="es">Maniobrabilidad restringida</td><td>Por la naturaleza de su trabajo: colocar o recoger balizas, cables o conductos; dragados, trabajos hidrográficos, oceanográficos o submarinos; transbordar combustible, carga, provisiones o personas navegando; lanzar o recuperar aeronaves; limpieza de minas; remolques que le restrinjan mucho apartarse.</td></tr>
-<tr><td class="es">Restringido por su calado</td><td>Buque de propulsión mecánica que, por su calado respecto a la sonda, no puede apartarse de su derrota.</td></tr>
+<tr><td class="es">Restringido por su calado</td><td>Buque de propulsión mecánica que, por su calado en relación con la profundidad y la anchura del agua navegable, tiene <b>muy restringida</b> su capacidad de apartarse de la derrota que sigue.</td></tr>
 <tr><td class="es">En navegación</td><td>No está fondeado, ni amarrado, ni varado. Puede estar parado: «en navegación sin arrancada».</td></tr>
 <tr><td class="es">Visibilidad reducida</td><td>Por niebla, bruma, nieve, chubascos o arena.</td></tr>
 <tr><td class="es">Buque</td><td>Toda embarcación usada o utilizable para transportarse sobre el agua, <b>incluidas</b> las sin desplazamiento (aerodeslizadores), las naves de vuelo rasante y los hidroaviones.</td></tr>
@@ -123,7 +123,7 @@ sections:[
 ${[["Sin gobierno","2 rojas"],["Maniobra restringida","roja-blanca-roja"],["Restringido por calado","3 rojas · no estorbar"],["Pesca","verde/blanca · roja/blanca"],["Vela","solo costados y alcance"],["Propulsión mecánica","tope, costados, alcance"]].map((x,i)=>`<g><rect x="${60+i*40}" y="${14+i*46}" width="${480-i*80}" height="42" rx="6" fill="${i<3?"var(--accent-soft)":"var(--sea-soft)"}" stroke="var(--line)"/><text x="300" y="${32+i*46}" text-anchor="middle" font-size="14" font-weight="700" fill="var(--ink)">${i+1}. ${x[0]}</text><text x="300" y="${48+i*46}" text-anchor="middle" font-size="11" fill="var(--muted)">${x[1]}</text></g>`).join("")}
 <text x="20" y="40" font-size="11" fill="var(--accent)" transform="rotate(-90 20 40)" text-anchor="end">preferencia</text><path d="M30 280 L30 30" stroke="var(--accent)" stroke-width="2" marker-end="url(#ar6)"/><defs><marker id="ar6" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path d="M0 0 L10 5 L0 10 z" fill="var(--accent)"/></marker></defs>
 </svg><figcaption>Cada buque se aparta de los que están por encima de él. Por debajo de todos, los hidroaviones y naves WIG.</figcaption></figure>
-<div class="note"><b>Por encima de la escala.</b> El <span class="es">buque que alcanza</span> se aparta <i>siempre</i> (regla 13), sea del tipo que sea: un velero que alcanza a una lancha se aparta. En canales angostos y dispositivos de separación de tráfico, los buques de menos de 20 m y los de vela <i>no estorbarán</i> a los que solo pueden navegar dentro (reglas 9 y 10).</div>
+<div class="note"><b>Por encima de la escala.</b> El <span class="es">buque que alcanza</span> se aparta <i>siempre</i> (regla 13), sea del tipo que sea: un velero que alcanza a una lancha se aparta. En un canal angosto, los de menos de 20 m, los de vela y los pesqueros <i>no estorbarán</i> a quien solo puede navegar con seguridad dentro (regla 9). En un dispositivo de separación, los de menos de 20 m y los de vela no estorbarán a los de propulsión mecánica que sigan una vía de circulación, y los pesqueros a ningún buque que la siga (regla 10 i y j).</div>
 <div class="tablewrap"><table>
 <tr><th>Situación</th><th>Regla</th><th>Quién maniobra</th></tr>
 <tr><td><b>Alcance</b>: te acercas desde más de 22,5° a popa del través del otro (de noche solo verías su luz de alcance)</td><td>13</td><td>El que alcanza</td></tr>
@@ -131,7 +131,7 @@ ${[["Sin gobierno","2 rojas"],["Maniobra restringida","roja-blanca-roja"],["Rest
 <tr><td><b>Cruce</b> de dos de motor</td><td>15</td><td>El que tiene al otro por su estribor</td></tr>
 <tr><td>Dos veleros, amuras distintas</td><td>12</td><td>El amurado a babor</td></tr>
 <tr><td>Dos veleros, misma amura</td><td>12</td><td>El de barlovento</td></tr>
-<tr><td>Velero amurado a babor que no sabe por dónde recibe el viento el otro</td><td>12</td><td>Se aparta igualmente</td></tr>
+<tr><td>Velero amurado a babor que ve a otro a barlovento y no sabe por qué banda recibe el viento</td><td>12</td><td>Se aparta igualmente</td></tr>
 </table></div>
 <ul>
 <li><b>Regla 5, vigilancia</b>: mantener siempre vigilancia visual y auditiva, y con todos los medios disponibles.</li>
@@ -139,13 +139,13 @@ ${[["Sin gobierno","2 rojas"],["Maniobra restringida","roja-blanca-roja"],["Rest
 <li><b>Regla 7, riesgo de abordaje</b>: existe si la <b>demora</b> de un buque que se acerca <b>no cambia</b> de forma apreciable. Si hay duda, se considera que existe.</li>
 <li><b>Regla 8, maniobras</b>: con antelación, amplias y claras. Nada de pequeños cambios sucesivos. Reducir velocidad también es una maniobra.</li>
 <li><b>Regla 16</b>: el que cede el paso maniobra pronto y franco. <b>Regla 17</b>: el que sigue a rumbo mantiene rumbo y velocidad; <i>puede</i> maniobrar si el otro no lo hace y <i>debe</i> hacerlo si ya no basta la maniobra del otro. Si es de motor, evita caer a babor ante un buque por su babor.</li>
-<li><b>Regla 19, visibilidad reducida</b> y contacto solo por radar: no caer a babor ante un buque a proa del través (salvo que lo alcances) ni caer hacia un buque por el través o a popa. Si oyes una señal de niebla a proa del través: reducir al mínimo para gobernar y, si hace falta, parar.</li>
+<li><b>Regla 19, visibilidad reducida</b> y contacto solo por radar: no caer a babor ante un buque a proa del través (salvo que lo alcances) ni caer hacia un buque por el través o a popa. Si oyes una señal de niebla a proa del través, salvo que se haya comprobado que no hay riesgo de abordaje: reducir al mínimo para gobernar y, si hace falta, parar.</li>
 </ul>
 <div class="widget"><div class="eyebrow">Interactivo · ¿quién maniobra?</div>
 <div class="grid2" style="align-items:center"><svg viewBox="0 0 300 320" id="encSvg" role="img" aria-label="Situación de encuentro"></svg>
 <div><p id="encT" style="font-weight:600"></p><div class="opts" id="encOpts"></div><p class="small" id="encFb"></p><div class="row"><button class="btn sm" id="encNext">Otra situación</button><span class="small muted" id="encSc"></span></div></div></div></div>`],
 ["generalidades","Reglas 1 a 10 en detalle",`
-<p>El RIPA (COLREG) se firmó en <b>Londres el 20 de octubre de 1972</b> y entró en vigor el <b>15 de julio de 1977</b>. Tiene 37 reglas. Según el manual, es el tema que explica la gran mayoría de suspensos.</p>
+<p>El RIPA (COLREG) se firmó en <b>Londres el 20 de octubre de 1972</b> y entró en vigor el <b>15 de julio de 1977</b>. Tiene <b>41 reglas</b> en seis partes (A a F) y 4 anexos; la parte F (reglas 39–41, verificación del cumplimiento) se añadió en 2016. Según el manual, es el tema que explica la gran mayoría de suspensos.</p>
 <div class="tablewrap"><table>
 <tr><th>Regla</th><th>Lo esencial</th></tr>
 <tr><td>1 · Ámbito</td><td>Todos los buques en alta mar y en las aguas comunicadas con ella navegables por buques de mar (también aguas interiores). Las autoridades pueden dictar reglas especiales para radas, puertos, ríos o lagos, lo más parecidas posible al RIPA; y los Estados, luces o señales extra para buques de guerra, convoyes o pesca en flotilla. La <b>OMI</b> aprueba los dispositivos de separación de tráfico. Buques especiales: lo más parecido posible que su Gobierno decida.</td></tr>
@@ -168,12 +168,12 @@ ${[["Sin gobierno","2 rojas"],["Maniobra restringida","roja-blanca-roja"],["Rest
 <li><b>Regla 18 · categorías</b> (sin perjuicio de las reglas 9, 10 y 13): el de <b>motor</b> se aparta de sin gobierno, maniobra restringida, pesca y vela. El de <b>vela</b>, de sin gobierno, maniobra restringida y pesca. El de <b>pesca</b>, en lo posible, de sin gobierno y maniobra restringida. Todos salvo sin gobierno y maniobra restringida evitan estorbar al <b>restringido por su calado</b> que muestre las señales de la regla 28; éste navega con particular precaución. El <b>hidroavión amarado</b> se aleja de todos y, si hay riesgo, cumple estas reglas. Las <b>naves de vuelo rasante</b> despegando, aterrizando o volando bajo se apartan de todos; navegando en superficie, como un buque de motor.</li>
 <li><b>Regla 19 · visibilidad reducida</b> (buques que no están a la vista): velocidad de seguridad y máquinas listas. Contacto solo por radar: si hay aproximación excesiva, maniobrar con antelación evitando caer a babor por un buque a proa del través (salvo que lo alcances) y caer hacia uno por el través o a popa. Si oyes una señal de niebla a proa del través o no puedes evitar la aproximación: <b>velocidad mínima de gobierno</b> o parar, y extrema precaución.</li>
 </ul>
-<div class="sea"><b>A bordo.</b> Un mercante que se acerca por tu estribor con riesgo aparente puede saber por su radar que te pasará por la proa con margen. Vigila la demora: si cambia de forma clara, no hay riesgo.</div>`],
+<div class="sea"><b>A bordo.</b> Un mercante que se acerca por tu estribor con riesgo aparente puede saber por su radar que te pasará por la proa con margen. Vigila la demora: si no cambia y la distancia disminuye, hay riesgo. Ojo: con un buque muy grande, un remolque o a corta distancia puede haber riesgo <b>aunque la demora cambie</b> (regla 7 d) ii).</div>`],
 ["luces2025","Reglas 20 a 25: definiciones y buques",`
 <ul>
-<li><b>Regla 20</b>: las luces, con cualquier tiempo, de la <b>puesta a la salida del sol</b> (ninguna otra que pueda confundirse o dificultar la vigilancia); también de día con visibilidad reducida, y cuando se considere necesario. Las <b>marcas</b>, de día.</li>
+<li><b>Regla 20</b>: las reglas de luces y marcas se cumplen <b>con cualquier tiempo</b>. Las luces, de la <b>puesta a la salida del sol</b> (ninguna otra que pueda confundirse o dificultar la vigilancia); también de día con visibilidad reducida, y cuando se considere necesario. Las <b>marcas</b>, de día.</li>
 <li><b>Regla 21</b>: tope blanca en crujía, <b>225° (20 cuartas)</b>; costados verde Er y roja Br, <b>112,5° (10 cuartas)</b> cada una, y combinadas en un farol en crujía si &lt;20 m; alcance blanca, <b>135° (12 cuartas)</b>, 67,5° (6 cuartas) a cada banda desde la popa; remolque <b>amarilla</b> como la de alcance; todo horizonte 360°; centelleante, <b>120 o más</b> por minuto.</li>
-<li><b>Regla 22</b> (alcances): el manual la marca como <b>no examinable</b>; la tabla de la sección anterior basta como referencia.</li>
+<li><b>Regla 22</b> (alcances): el manual la marca como <b>no examinable</b>; la tabla de la sección siguiente basta como referencia.</li>
 </ul>
 <div class="tablewrap"><table>
 <tr><th>Buque</th><th>Luces</th></tr>
@@ -183,12 +183,12 @@ ${[["Sin gobierno","2 rojas"],["Maniobra restringida","roja-blanca-roja"],["Rest
 <tr><td>Motor &lt;7 m y ≤7 nudos</td><td>Blanca todo horizonte y, si es posible, costados</td></tr>
 <tr><td>Aerodeslizador sin desplazamiento</td><td>Las de motor + <b>amarilla centelleante</b> todo horizonte</td></tr>
 <tr><td>Nave de vuelo rasante (despegando, aterrizando o en vuelo bajo)</td><td>Las de motor + <b>roja centelleante</b> todo horizonte de gran intensidad</td></tr>
-<tr><td>Remolcando por popa</td><td>2 topes en vertical (<b>3 si el remolque mide más de 200 m</b>, desde la popa del remolcador al extremo del remolcado), costados, alcance y <b>remolque amarilla sobre la de alcance</b>; bicono de día si &gt;200 m. Si ≥50 m, también el tope de popa.</td></tr>
+<tr><td>Remolcando por popa</td><td>2 topes en vertical (<b>3 si el remolque mide más de 200 m</b>, desde la popa del remolcador al extremo del remolcado), costados, alcance y <b>remolque amarilla sobre la de alcance</b>; bicono de día si &gt;200 m (en el examen, si preguntan qué marca lleva un buque que remolca sin dar la longitud, la respuesta es el <b>bicono</b>). Si ≥50 m, también el tope de popa.</td></tr>
 <tr><td>Empujando o remolcando abarloado</td><td>2 topes en vertical, costados y alcance (sin luz amarilla). Unidad rígida empujador-empujado: como un solo buque de motor.</td></tr>
 <tr><td>Remolcado</td><td>Costados y alcance; bicono si &gt;200 m. Empujado: costados a proa. Abarloado: alcance y costados a proa. Varios en grupo: como un solo buque.</td></tr>
 <tr><td>Objeto remolcado poco visible o semisumergido</td><td>Manga &lt;25 m: blanca todo horizonte a proa y a popa (los <b>dragones</b> no llevan la de proa). ≥25 m: otras dos en los extremos de la manga. &gt;100 m de largo: más blancas, a ≤100 m entre sí. Bicono en el extremo de popa y otro a proa si &gt;200 m.</td></tr>
 <tr><td>Remolque de auxilio imprevisto</td><td>Un buque que no remolca normalmente no está obligado a esas luces si remolca a otro en peligro: iluminará el cabo de remolque (regla 36).</td></tr>
-<tr><td>Vela</td><td>Costados y alcance. &lt;20 m: pueden ir en un <b>farol combinado</b> en el tope del palo. Opcional: <b>roja sobre verde</b> todo horizonte en el tope, pero <b>nunca con el farol combinado</b>. &lt;7 m: si no puede, linterna de luz blanca a mano.</td></tr>
+<tr><td>Vela</td><td>Costados y alcance. &lt;20 m: pueden ir en un <b>farol combinado</b> (<span class="es">farol tricolor</span>) en el tope del palo. Opcional: <b>roja sobre verde</b> todo horizonte en el tope, pero <b>nunca con el farol combinado</b>. &lt;7 m: si no puede, linterna de luz blanca a mano.</td></tr>
 <tr><td>Remo</td><td>Las de vela o una linterna de luz blanca a mano</td></tr>
 <tr><td>Vela a motor</td><td>Las de motor; de día <b>cono vértice abajo</b> a proa</td></tr>
 </table></div>`],
@@ -216,13 +216,13 @@ ${[["Sin gobierno","2 rojas"],["Maniobra restringida","roja-blanca-roja"],["Rest
 <tr><td>Maniobra restringida</td><td>Roja, blanca, roja</td><td>Esfera, bicono, esfera</td><td>Mismo dibujo de día y de noche</td></tr>
 <tr><td>Restringido por calado</td><td>Roja, roja, roja</td><td>Cilindro</td><td>Tres rojas: «tres veces cuidado»</td></tr>
 <tr><td>Arrastrero</td><td>Verde sobre blanca</td><td>2 conos vértice con vértice</td><td>«Verde sobre blanco, arrastrero»</td></tr>
-<tr><td>Pesquero (no arrastre)</td><td>Roja sobre blanca</td><td>2 conos vértice con vértice</td><td>«Rojo sobre blanco, pesca al cerco»</td></tr>
+<tr><td>Pesquero (no arrastre)</td><td>Roja sobre blanca</td><td>2 conos vértice con vértice</td><td>«Rojo sobre blanco, pesca sin arrastre» (cerco, palangre, trasmallo…)</td></tr>
 <tr><td>Práctico</td><td>Blanca sobre roja</td><td>—</td><td>«Blanco sobre rojo, práctico a bordo»</td></tr>
 <tr><td>Fondeado</td><td>Blanca a proa (y a popa si ≥50 m)</td><td>1 esfera</td><td></td></tr>
 <tr><td>Varado</td><td>Fondeo + roja, roja</td><td>3 esferas</td><td></td></tr>
 <tr><td>Velero a motor</td><td>Las de motor</td><td>Cono vértice abajo</td><td></td></tr>
 <tr><td>Remolque &gt;200 m</td><td>3 topes en vertical + amarilla</td><td>Bicono</td><td></td></tr>
-<tr><td>Dragaminas</td><td>3 verdes en triángulo</td><td>3 esferas</td><td>Mantente a 1000 m</td></tr>
+<tr><td>Dragaminas</td><td>3 verdes en triángulo</td><td>3 esferas</td><td>No te acerques a menos de 1000 m</td></tr>
 </table></div>
 <div class="widget"><div class="eyebrow">Interactivo · ¿qué buque ves?</div>
 <div class="grid2" style="align-items:center"><div id="vqFig"></div><div><div class="opts" id="vqOpts"></div><p class="small" id="vqFb"></p><div class="row"><button class="btn sm" id="vqNext">Otro</button><span class="small muted" id="vqSc"></span></div></div></div></div>`],
@@ -241,16 +241,16 @@ ${[["Sin gobierno","2 rojas"],["Maniobra restringida","roja-blanca-roja"],["Rest
 <li><b>Sin gobierno</b>: dos rojas todo horizonte en vertical o dos bolas; con arrancada, más costados y alcance (nunca tope).</li>
 <li><b>Maniobra restringida</b> (salvo dragaminas): roja-blanca-roja o bola-bicono-bola; con arrancada, más tope(s), costados y alcance; fondeado, más las de fondeo. Remolque que restringe en extremo: las de remolque (24a) más roja-blanca-roja.</li>
 <li><b>Dragado u operaciones submarinas</b> con obstrucción: además, <b>dos rojas o dos bolas</b> en la banda de la obstrucción y <b>dos verdes o dos biconos</b> en la banda por la que se puede pasar. Fondeados, estas en lugar de las de fondeo.</li>
-<li><b>Buceo</b> en buque pequeño: roja-blanca-roja y una <b>bandera A rígida de al menos 1 m</b> visible en todo el horizonte.</li>
+<li><b>Buceo</b> en buque pequeño: roja-blanca-roja y una <b>bandera A rígida de al menos 1 m</b> visible en todo el horizonte. En el examen GVA también se ha dado por buena la «bandera Bravo modificada»; el RIPA solo menciona la réplica rígida de la Alfa.</li>
 <li><b>Dragaminas</b>: además de las de motor o fondeo, <b>tres verdes o tres bolas</b>, una en el tope del palo de proa y una en cada penol de su verga. Peligroso acercarse a menos de <b>1.000 m</b>.</li>
-<li>Los de <b>menos de 12 m</b> no están obligados a las luces de la regla 27, <b>salvo los de buceo</b>. Estas señales no son de socorro (anexo IV).</li>
+<li>Los de <b>menos de 12 m</b> no están obligados a las luces y marcas de la regla 27, <b>salvo los de buceo</b>. Estas señales no son de socorro (anexo IV).</li>
 </ul>
 <h3>Calado, práctico, fondeados, varados e hidroaviones (28–31)</h3>
 <ul>
 <li><b>Restringido por su calado</b>: luces de motor + <b>tres rojas</b> en vertical o un <b>cilindro</b> (es potestativo: «podrá exhibir»).</li>
 <li><b>Práctico en servicio</b>: blanca sobre roja en el tope; navegando, más costados y alcance; fondeado, más las de fondeo. Fuera de servicio, como cualquier buque de su eslora.</li>
 <li><b>Fondeado</b>: a proa blanca todo horizonte o bola; a popa otra blanca más baja. &lt;50 m: puede llevar solo una blanca. Luces de cubierta: opcionales, <b>obligatorias con ≥100 m</b>. &lt;7 m, fuera de canales, fondeaderos y zonas de tráfico: no está obligado.</li>
-<li><b>Varado</b>: las de fondeo + <b>dos rojas</b> en vertical o <b>tres bolas</b>. &lt;12 m: no obligado a las rojas ni a las bolas.</li>
+<li><b>Varado</b>: las de fondeo + <b>dos rojas</b> en vertical o <b>tres bolas</b>. &lt;12 m: no está obligado a las dos rojas ni a las tres bolas, pero sí a la luz de fondeo (blanca todo horizonte).</li>
 <li><b>Hidroaviones y WIG</b>: si no pueden llevar las luces reglamentarias, las más parecidas posibles.</li>
 </ul>
 <h3>Señales acústicas y luminosas (32–36)</h3>
@@ -264,7 +264,7 @@ ${[["Sin gobierno","2 rojas"],["Maniobra restringida","roja-blanca-roja"],["Rest
 <tr><td>Motor con arrancada</td><td>1 larga cada ≤2 min</td></tr>
 <tr><td>Motor parado, sin arrancada</td><td>2 largas separadas por ≈2 s, cada ≤2 min</td></tr>
 <tr><td>Sin gobierno, maniobra restringida, calado, vela, pesca, remolcando o empujando</td><td>1 larga + 2 cortas cada ≤2 min. Pesqueros y maniobra restringida <b>fondeados</b>, la misma.</td></tr>
-<tr><td>Remolcado tripulado (el último)</td><td>1 larga + 3 cortas cada ≤2 min, justo después de la del remolcador</td></tr>
+<tr><td>Remolcado tripulado (el último)</td><td>1 larga + 3 cortas cada ≤2 min, si es posible justo después de la del remolcador</td></tr>
 <tr><td>Unidad rígida empujador-empujado</td><td>Como un buque de motor</td></tr>
 <tr><td>Fondeado</td><td>Repique de campana ≈5 s cada ≤1 min. ≥100 m: campana a proa y luego gong a popa ≈5 s. Opcional: corta-larga-corta para avisar a quien se acerque.</td></tr>
 <tr><td>Varado</td><td>La de fondeado + 3 golpes de campana claros antes y después del repique; puede añadir una señal de pito.</td></tr>
@@ -277,7 +277,7 @@ ${[["Sin gobierno","2 rojas"],["Maniobra restringida","roja-blanca-roja"],["Rest
 <p>Además de las de la última sección: cohetes o granadas que despiden <b>estrellas rojas</b> uno a uno a cortos intervalos; alerta LSD en el <b>canal 70</b> o en 2187,5, 8414,5, 4207,5, 6312, 12577 o 16804,5 kHz; alerta buque-costera por <b>Inmarsat</b> u otro servicio por satélite; radiobalizas; y respondedores de radar de las embarcaciones de supervivencia. Para identificación desde el aire: <b>lona naranja con un cuadrado y un círculo negros</b>, y colorante en el agua. <b>Prohibido</b> usarlas salvo en peligro, o usar señales que puedan confundirse con ellas.</p>`],
 ["socorro","Señales de socorro (anexo IV)",`
 <div class="grid3">
-${["SOS (··· ——— ···) por cualquier medio","«MAYDAY» por radio","Cohete con paracaídas o bengala de mano roja","Humo naranja","Subir y bajar lentamente los brazos extendidos","Banderas N sobre C","Una bandera cuadra con una esfera encima o debajo","Sonido continuo con la bocina","Cañonazos a intervalos de 1 min","Llamas a bordo (un barril ardiendo)","Radiobaliza o alerta LSD","Colorante en el agua"].map(x=>`<div class="panel small">${x}</div>`).join("")}
+${["SOS (··· ——— ···) por cualquier medio","«MAYDAY» por radio","Cohete con paracaídas o bengala de mano roja","Humo naranja","Subir y bajar lentamente los brazos extendidos","Banderas N sobre C","Una bandera cuadra con una esfera encima o debajo","Sonido continuo con la bocina","Cañonazos a intervalos de 1 min","Llamas a bordo (un barril ardiendo)","Radiobaliza o alerta LSD","Colorante en el agua (para identificación aérea)"].map(x=>`<div class="panel small">${x}</div>`).join("")}
 </div>
 <div class="note"><b>Ojo en el examen.</b> Una luz <b>blanca</b> o una bengala <b>blanca</b> no es señal de socorro: sirve para llamar la atención. La de socorro es <b>roja</b>.</div>`]
 ],
