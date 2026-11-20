@@ -5,6 +5,7 @@
       "**",
       "!src/legacy",
       "!src/chapters/tema-*",
+      "!src/chart/coast.json",
       "!index.html",
       "!dist",
       "!legacy",

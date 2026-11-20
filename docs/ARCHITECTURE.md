@@ -31,6 +31,7 @@ Import order matters, because legacy code reads globals as it loads.
 |---|---|---|
 | Core helpers | `src/core/{dom,store,util,draw,audio,progress,per}.ts` | typed, unit-tested |
 | Exam format | `src/exam/spec.ts` (from `docs/EXAM-SPEC.md`) | typed, unit-tested |
+| Chart (tema 11 trainer) | `src/chart/{geo,strait}.ts`, `coast.json` (from `scripts/build-coast.ts`) | typed, unit-tested, validated against real GVA answers (ADR 0005) |
 | Question bank | `src/content/{schema,validate,load,vite-plugin-bank}.ts` | typed, unit-tested |
 | Chapters | `src/chapters/tema-NN-*/index.js` | legacy, moved verbatim (`@ts-nocheck`, not linted) |
 | App | `src/legacy/{bank,app}.js` | legacy, moved verbatim; rewrite planned for phase 2 |
