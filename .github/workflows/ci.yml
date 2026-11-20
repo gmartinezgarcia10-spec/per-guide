@@ -24,7 +24,15 @@ jobs:
       - run: npm run check
       - run: npm test
       - run: npm run build
-      - run: npx playwright install --with-deps chromium
+      # Browsers are cached per Playwright version. No --with-deps: the GitHub Ubuntu image
+      # already has Chrome's system libraries, and apt-get there took ~9 minutes.
+      - id: pw
+        run: echo "version=$(node -p "require('@playwright/test/package.json').version")" >> "$GITHUB_OUTPUT"
+      - uses: actions/cache@v4
+        with:
+          path: ~/.cache/ms-playwright
+          key: playwright-${{ runner.os }}-${{ steps.pw.outputs.version }}
+      - run: npx playwright install chromium
       - run: npm run e2e
       - uses: actions/upload-artifact@v4
         if: always()
