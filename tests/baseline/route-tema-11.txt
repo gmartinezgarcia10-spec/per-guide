@@ -60,37 +60,80 @@ Corregir siempre la dm al año del examen con la rosa de la carta antes de pasar
 
 11.2
 Carta de práctica interactiva
-INTERACTIVO · TRABAJA SOBRE LA CARTA
+INTERACTIVO · TRABAJA SOBRE LA CARTA DEL ESTRECHO
 Leer coordenadas
 Rumbo y distancia
 Situación por 2 demoras
-10
-24 · 31 A
-48 F
-63
-36°02′
-36°04′
-36°06′
-36°08′
-36°10′
-5°40′W
-5°36′W
-5°32′W
-5°28′W
-5°24′W
-5°20′W
-Faro Pta. Alta
-Fl(2) 10s 15M
-Faro C. Gaviota
-Oc 4s 12M
-Torre del Moro
-(visible)
+ESPAÑA
+MARRUECOS
+Estrecho de Gibraltar
+Océano Atlántico
+000
+090
+180
+270
 N
-dm 2°W (2026)
-Carta de práctica, no para navegar
-Toca cualquier punto de la carta para leer su latitud y longitud.
+Cabo RocheFl(4) 24s 20M
+Cabo TrafalgarFl(2+1) 15s 22M
+Punta de GraciaOc(2) 5s 13M
+Punta Paloma
+Isla de Tarifa
+Punta Carnero
+Punta Europa
+Punta Almina
+Punta Cires
+Punta MalabataFl 5s 22M
+Cabo Espartel
+© colaboradores de OpenStreetMap, ODbL 1.0 · Carta de práctica, no apta para navegar
+35°40′
+35°40′
+35°45′
+35°45′
+35°50′
+35°50′
+35°55′
+35°55′
+36°00′
+36°00′
+36°05′
+36°05′
+36°10′
+36°10′
+36°15′
+36°15′
+6°15′W
+6°15′W
+6°10′W
+6°10′W
+6°05′W
+6°05′W
+6°00′W
+6°00′W
+5°55′W
+5°55′W
+5°50′W
+5°50′W
+5°45′W
+5°45′W
+5°40′W
+5°40′W
+5°35′W
+5°35′W
+5°30′W
+5°30′W
+5°25′W
+5°25′W
+5°20′W
+5°20′W
+5°15′W
+5°15′W
++
+−
+Ver toda
+Toca cualquier punto de la carta para leer su latitud y su longitud.
 
-Esta carta es inventada pero respeta la proyección Mercator: fíjate en que un minuto de latitud (lateral) mide más que uno de longitud (abajo). Por eso las distancias se miden siempre en la escala lateral.
+Carta dibujada para la app con datos abiertos de la misma zona que la carta 25-C del examen: los faros están donde los sitúan las respuestas de los exámenes reales. Como en cualquier carta Mercator, un minuto de latitud (escala lateral) mide más que uno de longitud (escala de arriba y abajo), y por eso las distancias se miden siempre en la escala lateral. Amplía con + o pellizcando para leer las décimas; las escalas te siguen por los bordes. Con teclado: flechas para moverte, + y − para ampliar, Intro para marcar el centro.
+Línea de costa © colaboradores de OpenStreetMap (ODbL). Carta de práctica, no apta para navegar.
 
 11.3
 Trazado paso a paso (ejemplos del manual)

@@ -36,8 +36,8 @@ Interactive chart work on our own Strait chart (the area of carta 25-C), with th
 | Step | What | Status |
 |---|---|---|
 | C0 | Chart data (OSM lights and coastline), `src/chart/geo.ts`, validation against 36 real GVA questions | done |
-| C1 | Chart view replacing the invented chart in 11.2: Mercator, 0,2′ scales, zoom and pan, magnifier | todo |
-| C2 | Instruments: dividers, ruler, then the square protractor (pointed north) | todo |
+| C1 | Chart view replacing the invented chart in 11.2: Mercator, 0,2′ scales, zoom and pan, live ruler, readable text at any zoom | done |
+| C2 | Instruments: dividers, ruler, then the square protractor (pointed north); magnifier while dragging | todo |
 | C3 | Exercises for the commonest types: pass X miles off, 2-bearing fix, transit → Ct | todo |
 | C4 | 11.5 exam mode: 4 chained questions, timed, distractors from typical mistakes | todo |
 | C5+ | Missing marks (Alcázar, Ceuta, Tánger, peaks, depth contours), coordinates, DR, tides, current, GVA replay, paper mode, progress | after the sitting |

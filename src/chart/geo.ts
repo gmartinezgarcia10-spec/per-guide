@@ -26,6 +26,10 @@ const mp = (latMin: number): number =>
   Math.log(Math.tan(Math.PI / 4 + (latMin / 120) * RAD)) * (10800 / Math.PI);
 const latFromMp = (y: number): number =>
   (2 * Math.atan(Math.exp((y * Math.PI) / 10800)) - Math.PI / 2) * (60 / RAD);
+/** Mercator y (meridional parts) of a latitude, both in minutes: what the chart's vertical axis is. */
+export const mercY = mp;
+/** Latitude (minutes) of a Mercator y: the inverse of `mercY`. */
+export const latOfMercY = latFromMp;
 const toPlane = (p: Pos): Pt => ({ x: p.lon, y: mp(p.lat) });
 const fromPlane = (p: Pt): Pos => ({ lat: latFromMp(p.y), lon: p.x });
 /** Plane units per nautical mile at a latitude. */

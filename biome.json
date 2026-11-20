@@ -11,6 +11,7 @@
       "!legacy",
       "!playwright-report",
       "!test-results",
+      "!.playwright-mcp",
       "!**/*.md",
       "!.claude/settings.local.json"
     ]
