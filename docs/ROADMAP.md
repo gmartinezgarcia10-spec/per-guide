@@ -22,8 +22,9 @@ Already in the app (found while splitting it): spaced repetition (1/3/7/14/30-da
 
 | Step | What | Status |
 |---|---|---|
-| P1 | Exam logic as typed, tested modules: scoring (`spec.ts`), mock assembly (`assemble.ts`), spaced repetition (`learn/srs.ts`), exam date; `app.js` calls them | **in progress**, branch `p2-exam-logic` |
-| P2 | Pass forecast (`forecast()` in `app.js`) → typed module with seeded-random tests; use the spec's pass rule | todo |
+| P1 | Exam logic as typed, tested modules: scoring (`spec.ts`), mock assembly (`assemble.ts`), spaced repetition (`learn/srs.ts`), exam date; `app.js` calls them | done (#10) |
+| P2 | Pass forecast (`forecast()` in `app.js`) → typed module with seeded-random tests; use the spec's pass rule | done |
+| P2b | Forecast model: weight recent answers over old ones; count each question once rather than every repeat (both change the numbers students see; decide first) | todo |
 | P3 | PNB result when a mock fails PER: needs the exact rule for how GVA grades PNB from a PER paper (which 27 questions count). Confirm the source first | todo |
 | P4 | Fill the 39 empty explanations (`/content-audit` per topic) | todo |
 | P5 | Rewrite the quiz and exam views and the router from `app.js` as typed modules | todo |
