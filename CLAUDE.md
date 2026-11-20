@@ -1,56 +1,52 @@
-# PER study guide — project notes for Claude Code
+# PER study guide
 
-Spanish PER (Patrón de Embarcaciones de Recreo) study guide, intended to become a paid App Store app. Exam: Generalitat Valenciana, 11–12 Dec 2026 (PER normally Saturday 12 Dec). Official format: `docs/EXAM-SPEC.md`. The content is in Spanish; talk to Gerardo in English.
+A study app for the Spanish PER (Patrón de Embarcaciones de Recreo) theory exam, GVA Valencia. The next sitting is **Saturday 12 Dec 2026**. It will become a paid App Store app. The app content is in Spanish; talk to Gerardo in English.
+
+## Definition of done
+- `npm run verify` passes: check, unit, build, e2e at 390 and 1280 px, and the baseline. Use `/verify`, and report failures with their output.
+- Work on a branch, then open a PR (`/ship`). `main` is protected and CI must be green.
+
+## Hard rules (each one exists for a reason)
+- **Never change, reuse or delete a question id.** Saved progress is keyed by id, and `npm run check:ids` enforces it.
+- **Never copy the printed manual verbatim.** It's a commercial book and the app will be sold. Paraphrase.
+- **The real GVA exams outrank the manual.** Follow them and flag outdated rules.
+- **Never break saved progress** (`per2:*`). Shape changes need a version bump and a migration (`.claude/rules/storage.md`).
+- **Never update `tests/baseline/` to make a test pass.** Update it only for an intended content change, and say why in the PR.
+- Don't edit `dist/` (build output), `legacy/` (historical scripts) or `package-lock.json`. Don't add dependencies without asking.
 
 ## Commands
-- `npm run verify` — check + unit + build + e2e. **A task is done only when this passes**; report failures with output.
-- `npm run check` (typecheck, Biome, content validation) · `npm test` (Vitest) · `npm run build` (→ `dist/index.html`, single file) · `npm run e2e` (Playwright, 390 + 1280 px).
-- Hooks in `.claude/settings.json` block edits to `dist/`, `legacy/`, `tools/patches/`, lockfile, and lint/typecheck every edit (plus validate the bank on `content/questions` edits).
-- `main` is protected: work on a branch, open a PR, CI must be green. `npm run check:ids` fails if a question id on `main` disappears.
+- `npm run dev` (http://localhost:5173) · `npm run build` → `dist/index.html` (single offline file; `index.html` alone doesn't run)
+- `npm run check` = typecheck + Biome + `validate:content` + `check:ids` · `npm test` (Vitest) · `npm run e2e` (Playwright)
 
-## Claude Code setup (`.claude/`)
-- **Rules** (`.claude/rules/`, loaded by path): `content`, `questions`, `ui`, `storage`, `tests`.
-- **Skills:** `/verify` (definition of done), `/add-questions <topic> [n]`, `/content-audit <topic>`, `/ship` (manual only), `/catchup` (after `/clear`), `/adr`.
-- **Agents** (`.claude/agents/`): `content-reviewer` (opus, regulations and exams), `question-auditor`, `code-reviewer`, `ux-reviewer` (Playwright MCP), `test-writer`. Use a reviewer that didn't write the change.
+## Where things are
+| What | Where | Details |
+|---|---|---|
+| Architecture, modules, load order, saved state | `src/` | `docs/ARCHITECTURE.md` |
+| Question bank (2,061: 1,105 guide `g-NNNN`, 956 real `gva-NNNN`) | `content/questions/{guide,gva}/<topic>.json` | `docs/CONTENT-GUIDE.md`, `src/content/schema.ts` |
+| Chapter text and widgets (temas 1–11) | `src/chapters/tema-NN-<name>/index.js` | legacy, moved verbatim |
+| Quiz engine, mock exams, views, router, sync | `src/legacy/app.js` | legacy; rewrite in phase 2 |
+| Exam format (45 q, 90 min, ≥32, minimums) | `src/exam/spec.ts` | `docs/EXAM-SPEC.md` |
+| Tests | `tests/unit`, `tests/e2e`, `tests/baseline` | `.claude/rules/tests.md` |
+| Plan and status | | `docs/ROADMAP.md` · decisions in `docs/decisions/` |
+
+## Claude Code setup
+- **Rules** (`.claude/rules/`, loaded by path): content, questions, ui, storage, tests.
+- **Skills:** `/verify`, `/add-questions <topic> [n]`, `/content-audit <topic>`, `/ship`, `/catchup` (after `/clear`), `/adr`.
+- **Agents:** `content-reviewer`, `question-auditor`, `code-reviewer`, `ux-reviewer` (Playwright MCP), `test-writer`. Review with an agent that didn't write the change.
 - **Hooks:**
-  - guard edits to frozen paths and lint/typecheck/validate after edits;
-  - block pushes and commits on `main`, and ask before `--update-snapshots`;
-  - a Stop gate runs `check` + unit tests on uncommitted changes (`PER_HOOKS=minimal` skips it);
-  - `SessionStart` prints branch, roadmap step and days to the exam.
-- **MCP:** `playwright` (`.mcp.json`, pinned) to look at the built app (`file://…/dist/index.html`).
-- After changing any of this, run the prompts in `docs/CANARIES.md`.
+  - frozen-path guard;
+  - lint, typecheck and bank validation after edits;
+  - no push or commit on `main`;
+  - ask before `--update-snapshots`;
+  - the Stop gate (`PER_HOOKS=minimal` skips it);
+  - session context.
+- After changing CLAUDE.md, rules, skills, agents or hooks, run `docs/CANARIES.md`.
 
-## What's here
-- `index.html` — the HTML shell (views, header, footer); loads `src/main.ts`. **Not runnable on its own**: run `npm run dev` (http://localhost:5173) or `npm run build` and open `dist/index.html`.
-- `src/` — `main.ts` (entry; import order matters), `core/` (typed: dom, store, util, draw, audio, `per.ts` publishes `window.PER`), `exam/spec.ts`, `content/` (bank schema, validator, Vite plugin), `styles/app.css`, `chapters/tema-NN-<name>/index.js` (one module per chapter) and `legacy/` (`bank.js`, `app.js`). Chapter and legacy files were moved verbatim: `@ts-nocheck`, not linted by Biome.
-- `content/questions/{guide,gva}/<topic>.json` — the question bank (source of truth). Schema and rules: `src/content/schema.ts`; validator: `npm run validate:content`.
-- `src/styles/app.css` is kept byte-for-byte (Biome formatter off) so the build's CSS stays identical; restyle it on purpose, not via formatting.
-- `tools/patches/patch1.py … patch14.py` — the history of content merges from Gerardo's printed manual (one per chapter). Kept for reference; don't re-run them on the current file.
-- `tests/e2e/` — Playwright tests against `dist/index.html` at 390 and 1280 px (fixed clock 20 Nov 2026, seeded `Math.random`): key terms per chapter, overflow, question-bank validity, quiz/simulator flows, widgets. `tests/unit/` — Vitest.
-- `tests/baseline/` — snapshot of the app before the split (bank, visible text of every route, TOCs, widget outputs). The refactor must reproduce it exactly; update only on purpose (`npx playwright test --project=baseline --update-snapshots`) and explain why in the PR.
+## Glossary
+PER (the licence), PNB (the lower licence: a PER fail can still be graded *apto* PNB), GVA (Generalitat Valenciana), *convocatoria* (exam sitting), *apto* (pass), RIPA (collision regulations, COLREG), IALA A (buoyage), *carta* 25-C (exam chart), tema (chapter/topic). Topic keys: nom amarre seg leg baliz ripa man emerg meteo teoria carta.
 
-## Code layout
-- **Chapters** (`src/chapters/tema-NN-<name>/index.js`, registered by `src/chapters/index.js`): `CH[n] = {intro, sections: [[id, title, `html`], ...], init(root){...}}`, n = 1..11. Each module destructures what it needs from `PER`; two helpers are shared explicitly (`AR` from tema 7 → 9, `sg` from tema 10 → 11). Sections render as collapsible blocks; the chapter's table of contents is built from the array. Widgets are wired in `init(root)`.
-- **Helpers:** `window.PER` (`src/core/per.ts`): `$`, `$$`, `store`, `T` (= `TOPICS` from `src/exam/spec.ts`), `TBY`, `CH`, `Q`, `COL`, `buoy`, `boatTop`, `r`, `n360`, `deg`, `pm`, `rad`, `esc`, `shuffle`, `horn`. Legacy code destructures from it; new code imports the modules directly.
-- **Question bank `PER.Q`:** built from `content/questions/` by `src/content/vite-plugin-bank.ts`, which injects `window.PER_BANK = {guide, real}` as legacy arrays: `[topic, question, options[4], answer, explanation]`, plus `{i, p: [sittings], d?, img?}` for real questions. `index.html` does `PER.Q.push(...PER_BANK.guide)` and `const R=PER_BANK.real`.
-  - Topic keys: nom, amarre, seg, leg, baliz, ripa, man, emerg, meteo, teoria, carta.
-  - **IDs are permanent:** guide `g-NNNN` (new ones take the next free number, appended at the end), real `gva-NNNN` = original index. Never renumber, reuse or delete-and-recreate an id.
-  - Question text can be edited freely: progress follows the id. (Only progress saved before F6 and never opened since is matched by the old text key.)
-- **App** (`src/legacy/app.js`): progress state, quiz engine, chapter rendering, mock exams, views and the hash router. Routes: `#tema/N`, `#tema/N/preguntas`, `#plan`, `#test`, `#progreso`, `#practicas`.
-- **Sync:** `app.js` also syncs progress to the claude.ai artifact runtime (`window.claude.use("db")`) when present; elsewhere it's local only.
-- **Progress:** localStorage `per2:state` (`v:3`), keyed by permanent question id (`q.id`, attached in `src/legacy/bank.js`). Older states (`v:2`: `topic:<first 70 chars>` / `r:<index>`) are migrated on load and in `merge()` (cloud sync, file import) by `src/core/progress.ts`; unmappable keys are kept. Never break existing keys. The app schedules reviews (1/3/7/14/30 days) and a mistakes queue.
+## Rights
+The manual is Gerardo's own copy of a commercial book (Castells et al., UPC). Clear rights, or replace the derived text, before shipping a paid app.
 
-## Conventions
-- Paraphrase source material; never copy the manual verbatim. Spanish terms in `<span class="es">`, formulas in `<span class="formula">`.
-- When the manual and real exams disagree, follow the real exams and flag outdated rules (RD 339/2021, MARPOL 2013, RD 128/2022).
-- Add or edit questions only in `content/questions/`; the validator (also run by the post-edit hook and the build) rejects schema errors, duplicate ids, two questions sharing an old-style key (needed to migrate pre-v3 progress) and repeated options. 39 guide questions have empty explanations (warnings) — fill them when touching those questions.
-- Run `npm run verify` after every change.
-
-## Rights note
-The manual content is Gerardo's own copy of a commercial book. Owning a copy doesn't confer the right to sell its content, so clear rights before shipping a paid app.
-
-## Status (20 Nov 2026)
-The whole manual is merged (Temas 1–11). 2,061 questions in total: 1,105 guide questions plus 956 real GVA questions.
-
-## Current work
-Phase 1 (foundations) — plan in `docs/FOUNDATIONS.md`, status in `docs/ROADMAP.md`.
+## Now
+Phase 1 (foundations) is complete. Next is phase 2, the learning core: see `docs/ROADMAP.md`.
