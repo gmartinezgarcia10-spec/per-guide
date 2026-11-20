@@ -1,4 +1,4 @@
-// Injects the question bank into index.html as `window.PER_BANK = {guide, real}` (legacy arrays),
+// Injects the question bank into index.html as `window.PER_BANK = {guide, real, ids}` (legacy arrays + ids),
 // in a classic script before the app script. Fails the build on validation errors.
 import type { Plugin } from "vite";
 import { CONTENT_DIR, loadBank, loadImages } from "./load.ts";
@@ -18,7 +18,12 @@ export function questionBank(): Plugin {
       }
       const images = loadImages();
       const { guide, gva } = orderBank(report.questions);
-      const bank = { guide: guide.map((q) => toLegacy(q)), real: gva.map((q) => toLegacy(q, images)) };
+      const bank = {
+        guide: guide.map((q) => toLegacy(q)),
+        real: gva.map((q) => toLegacy(q, images)),
+        // Permanent ids, parallel to the arrays; src/legacy/bank.js attaches them as q.id.
+        ids: { guide: guide.map((q) => q.id), real: gva.map((q) => q.id) },
+      };
       // "</" would end the script element early.
       const json = JSON.stringify(bank).replaceAll("</", "<\\/");
       return [{ tag: "script", children: `window.PER_BANK=${json};`, injectTo: "body-prepend" }];

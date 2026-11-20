@@ -3,6 +3,7 @@
    Moved verbatim from index.html in F4; reads shared helpers from window.PER (src/core/per.ts).
    Sittings (PAPERS) still live here. */
 /* Guide questions: content/questions/guide/*.json, injected at build as PER_BANK (see src/content/vite-plugin-bank.ts). */
+PER_BANK.guide.forEach((q,k)=>{q.id=PER_BANK.ids.guide[k]});PER_BANK.real.forEach((q,k)=>{q.id=PER_BANK.ids.real[k]}); /* F6: permanent ids (progress keys) */
 PER.Q.push(...PER_BANK.guide);
 (function(){
 "use strict";
