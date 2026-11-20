@@ -23,14 +23,27 @@ Already in the app (found while splitting it): spaced repetition (1/3/7/14/30-da
 | Step | What | Status |
 |---|---|---|
 | P1 | Exam logic as typed, tested modules: scoring (`spec.ts`), mock assembly (`assemble.ts`), spaced repetition (`learn/srs.ts`), exam date; `app.js` calls them | done (#10) |
-| P2 | Pass forecast (`forecast()` in `app.js`) → typed module with seeded-random tests; use the spec's pass rule | done |
+| P2 | Pass forecast (`forecast()` in `app.js`) → typed module with seeded-random tests; use the spec's pass rule | done (#11) |
 | P2b | Forecast model: weight recent answers over old ones; count each question once rather than every repeat (both change the numbers students see; decide first) | todo |
 | P3 | PNB result when a mock fails PER: needs the exact rule for how GVA grades PNB from a PER paper (which 27 questions count). Confirm the source first | todo |
 | P4 | Fill the 39 empty explanations (`/content-audit` per topic) | todo |
 | P5 | Rewrite the quiz and exam views and the router from `app.js` as typed modules | todo |
 
+## Chart trainer (tema 11.3–11.5), brought forward from phase 3
+
+Interactive chart work on our own Strait chart (the area of carta 25-C), with the real instruments, validated against the GVA answers. Decision: `docs/decisions/0005-strait-chart-data.md`. Before 12 Dec: C0–C4. The rest comes after the sitting.
+
+| Step | What | Status |
+|---|---|---|
+| C0 | Chart data (OSM lights and coastline), `src/chart/geo.ts`, validation against 36 real GVA questions | done |
+| C1 | Chart view replacing the invented chart in 11.2: Mercator, 0,2′ scales, zoom and pan, magnifier | todo |
+| C2 | Instruments: dividers, ruler, then the square protractor (pointed north) | todo |
+| C3 | Exercises for the commonest types: pass X miles off, 2-bearing fix, transit → Ct | todo |
+| C4 | 11.5 exam mode: 4 chained questions, timed, distractors from typical mistakes | todo |
+| C5+ | Missing marks (Alcázar, Ceuta, Tánger, peaks, depth contours), coordinates, DR, tides, current, GVA replay, paper mode, progress | after the sitting |
+
 ## Phase 3: Interactive training
-Chart-work trainer (course, current, compass correction) · lights, shapes and sound-signal drills (RIPA) · IALA A buoyage drills.
+Lights, shapes and sound-signal drills (RIPA) · IALA A buoyage drills. (The chart trainer moved up, above.)
 
 ## Phase 4: Product
 PWA + offline (fonts are loaded from Google Fonts today: bundle them) · progress sync outside claude.ai (today it uses the claude.ai artifact runtime) · Capacitor iOS build · App Store listing and privacy labels · **rights cleared** (blocks release).
