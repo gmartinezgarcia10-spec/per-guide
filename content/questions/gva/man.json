@@ -1,0 +1,667 @@
+[
+  {
+    "id": "gva-0027",
+    "topic": "man",
+    "q": "Si una embarcación que dispone de una única hélice dextrógira, se encuentra parada sin arrancada, con el timón a la vía y se da maquina atrás; ¿Cómo actuará?:",
+    "options": [
+      "La popa caerá a babor.",
+      "La proa caerá a babor.",
+      "La popa no caerá.",
+      "La popa caerá a estribor."
+    ],
+    "answer": 0,
+    "explanation": "Dextrógira atrás gira a la izquierda: la popa cae a babor.",
+    "gva": {
+      "index": 27,
+      "sittings": ["2019-11"]
+    }
+  },
+  {
+    "id": "gva-0028",
+    "topic": "man",
+    "q": "¿Cuál es la expresión utilizada para aflojar poco a poco un cabo de amarre que está trabajando, para dejarlo ir de manera controlada?:",
+    "options": ["Virar.", "Cobrar.", "Tesar.", "Lascar."],
+    "answer": 3,
+    "explanation": "Lascar: aflojar poco a poco un cabo que trabaja.",
+    "gva": {
+      "index": 28,
+      "sittings": ["2019-11"]
+    }
+  },
+  {
+    "id": "gva-0072",
+    "topic": "man",
+    "q": "Para atracar de costado a un muelle, sin viento ni corriente relevantes, la maniobra de aproximación más apropiada para una embarcación con solo una hélice a popa es:",
+    "options": [
+      "Aproximarnos con poca velocidad abante y con la proa formando un ángulo de unos 30º con el muelle.",
+      "Aproximarnos con poca velocidad abante y con la proa formando un ángulo de 00º con el muelle.",
+      "Aproximarnos con poca velocidad atrás y con la popa formando un ángulo de 45º con el muelle.",
+      "Aproximarnos con poca velocidad atrás y con la popa formando un ángulo de 60º con el muelle."
+    ],
+    "answer": 0,
+    "explanation": "Atraque de costado con una hélice: poca arrancada avante y unos 30º con el muelle.",
+    "gva": {
+      "index": 72,
+      "sittings": ["2021-04"]
+    }
+  },
+  {
+    "id": "gva-0073",
+    "topic": "man",
+    "q": "¿Qué ocurre una vez abarloados a un muelle con largo esprín y través, si lascamos el largo de proa y el esprín de popa?:",
+    "options": [
+      "La proa atraca y el barco va avante.",
+      "El costado del barco se pega más al muelle.",
+      "El barco se mueve hacia popa.",
+      "La popa se pega al muelle y la proa permanece fija."
+    ],
+    "answer": 2,
+    "explanation": "Si sueltas los cabos que impiden ir a popa (largo de proa y esprín de popa), el barco se va hacia popa.",
+    "gva": {
+      "index": 73,
+      "sittings": ["2021-04"]
+    }
+  },
+  {
+    "id": "gva-0117",
+    "topic": "man",
+    "q": "Si queremos abarloarnos a una embarcación a la deriva más pequeña que la nuestra deberemos en la medida de lo posible:",
+    "options": [
+      "Acercarnos por su banda de sotavento.",
+      "Acercarnos por su banda de barlovento.",
+      "Acercarnos por cualquiera de sus dos bandas.",
+      "Acercarnos siempre por su banda de estribor."
+    ],
+    "answer": 1,
+    "explanation": "A una embarcación más pequeña a la deriva, por su barlovento: así no te echa encima el abatimiento.",
+    "gva": {
+      "index": 117,
+      "sittings": ["2021-07"]
+    }
+  },
+  {
+    "id": "gva-0118",
+    "topic": "man",
+    "q": "Si queremos desatracar nuestro barco abriendo la proa, teniendo corriente también de proa, (atracado costado al muelle) ¿Cuál será el último cabo que deberemos largar?:",
+    "options": ["El esprín de proa.", "El esprín de popa.", "El través de proa.", "El largo de proa."],
+    "answer": 1,
+    "explanation": "Para abrir la proa con corriente de proa, se trabaja sobre el esprín de popa y se larga el último.",
+    "gva": {
+      "index": 118,
+      "sittings": ["2021-07"]
+    }
+  },
+  {
+    "id": "gva-0161",
+    "topic": "man",
+    "q": "¿Cómo se llama la acción de poner bajo tensión un cabo o cable para tenerlo listo para empezar a trabajar con él?:",
+    "options": ["Templar.", "Arriar.", "Virar.", "Cobrar."],
+    "answer": 0,
+    "explanation": "Templar: poner en tensión, listo para trabajar.",
+    "gva": {
+      "index": 161,
+      "sittings": ["2021-06"]
+    }
+  },
+  {
+    "id": "gva-0162",
+    "topic": "man",
+    "q": "¿Si nuestro barco se encuentra parado y sin arrancada y sabiendo que la hélice es levógira, al dar máquina atrás con el timón a la vía la proa caerá?:",
+    "options": [
+      "A estribor.",
+      "A babor.",
+      "A ninguna de las dos bandas.",
+      "Primero a babor y después a estribor rápidamente."
+    ],
+    "answer": 1,
+    "explanation": "Levógira atrás gira a la derecha: la popa cae a estribor y la proa a babor.",
+    "gva": {
+      "index": 162,
+      "sittings": ["2021-06"]
+    }
+  },
+  {
+    "id": "gva-0206",
+    "topic": "man",
+    "q": "¿Cuáles son nombradas por orden las fases de la curva de evolución?:",
+    "options": [
+      "Uniforme, variable y de maniobra.",
+      "Variable, uniforme y de maniobra.",
+      "De maniobra, variable y uniforme.",
+      "De maniobra, uniforme y variable."
+    ],
+    "answer": 2,
+    "explanation": "Curva de evolución: periodo de maniobra, variable y uniforme.",
+    "gva": {
+      "index": 206,
+      "sittings": ["2021-11"]
+    }
+  },
+  {
+    "id": "gva-0207",
+    "topic": "man",
+    "q": "¿De qué amarra viraremos para que el barco vaya hacia adelante acercando la popa al muelle?:",
+    "options": ["Largo de popa.", "Largo de proa.", "Spring de popa.", "Spring de proa."],
+    "answer": 2,
+    "explanation": "Virar el spring de popa lleva el barco avante y acerca la popa.",
+    "gva": {
+      "index": 207,
+      "sittings": ["2021-11"]
+    }
+  },
+  {
+    "id": "gva-0251",
+    "topic": "man",
+    "q": "El cabo que al ser virado hace que la embarcación se desplace hacia adelante y casi paralela al muelle se denomina:",
+    "options": ["Largo de proa", "Largo de popa", "Esprín de proa", "Las respuestas a y c son ciertas."],
+    "answer": 0,
+    "explanation": "Virar el largo de proa lleva el barco avante y lo acerca a lo largo del muelle.",
+    "gva": {
+      "index": 251,
+      "sittings": ["2022-12"]
+    }
+  },
+  {
+    "id": "gva-0252",
+    "topic": "man",
+    "q": "La acción de tirar de un cabo, cable o cadena con objeto de recogerlo de forma manual se denomina:",
+    "options": ["Arriar", "Lascar", "Cobrar", "Filar"],
+    "answer": 2,
+    "explanation": "Cobrar: recoger a mano tirando.",
+    "gva": {
+      "index": 252,
+      "sittings": ["2022-12"]
+    }
+  },
+  {
+    "id": "gva-0296",
+    "topic": "man",
+    "q": "¿Cómo se llama a la acción de recoger un cabo de manera manual, tirando de él?:",
+    "options": ["Amollar.", "Lascar.", "Virar.", "Cobrar."],
+    "answer": 3,
+    "explanation": "Cobrar.",
+    "gva": {
+      "index": 296,
+      "sittings": ["2022-02"]
+    }
+  },
+  {
+    "id": "gva-0297",
+    "topic": "man",
+    "q": "Con la embarcación atracada en un muelle, ¿cómo se llama al cabo de amarre que sale de proa en dirección a un noray que se encuentra en el muelle por el través de la embarcación?",
+    "options": ["Largo de proa.", "Esprín de proa.", "Largo de popa.", "Través de popa."],
+    "answer": 1,
+    "explanation": "De proa hacia popa, a un noray por el través: esprín de proa.",
+    "gva": {
+      "index": 297,
+      "sittings": ["2022-02"]
+    }
+  },
+  {
+    "id": "gva-0341",
+    "topic": "man",
+    "q": "¿Cómo se llama la acción de poner la gaza de un cabo en una bita, noray o bolardo?:",
+    "options": ["Falcar", "Arriar.", "Empatar", "Encapillar"],
+    "answer": 3,
+    "explanation": "Encapillar: poner la gaza en el noray.",
+    "gva": {
+      "index": 341,
+      "sittings": ["2022-06"]
+    }
+  },
+  {
+    "id": "gva-0342",
+    "topic": "man",
+    "q": "La virada por avante se caracteriza por:",
+    "options": [
+      "Aumenta el giro evolutivo",
+      "Se pasa la proa por el viento",
+      "No se puede realizar bajo ningún concepto",
+      "Se gana sotavento"
+    ],
+    "answer": 1,
+    "explanation": "Virar por avante: pasar la proa por el viento.",
+    "gva": {
+      "index": 342,
+      "sittings": ["2022-06"]
+    }
+  },
+  {
+    "id": "gva-0386",
+    "topic": "man",
+    "q": "Un buque atracado por el costado al muelle, y amarrado solo con el largo de popa, si se da avante:",
+    "options": [
+      "El barco se pega al muelle y no irá avante.",
+      "El barco se moverá hacia proa.",
+      "El barco separa la proa del muelle.",
+      "Las respuestas b y c son ciertas."
+    ],
+    "answer": 0,
+    "explanation": "Solo con el largo de popa, al dar avante, el cabo frena y acerca la popa: se pega al muelle sin avanzar.",
+    "gva": {
+      "index": 386,
+      "sittings": ["2023-04", "2024-09", "2026-04"]
+    }
+  },
+  {
+    "id": "gva-0387",
+    "topic": "man",
+    "q": "En marcha avante la curva de evolución se compone de tres fases, que son:",
+    "options": [
+      "Uniforme, variable y evolutiva",
+      "Maniobra, uniforme y estática",
+      "Uniforme, maniobra y estable",
+      "Maniobra, variable y uniforme"
+    ],
+    "answer": 3,
+    "explanation": "Maniobra, variable y uniforme.",
+    "gva": {
+      "index": 387,
+      "sittings": ["2023-04", "2024-11"]
+    }
+  },
+  {
+    "id": "gva-0429",
+    "topic": "man",
+    "q": "Un buque atracado por el costado al muelle, y amarrado solo con el esprín de proa, si se vira del cabo:",
+    "options": [
+      "La popa se separa del muelle",
+      "El barco se moverá hacia proa",
+      "El barco separa la proa del muelle",
+      "Las respuestas b y c son ciertas."
+    ],
+    "answer": 0,
+    "explanation": "Virar solo el esprín de proa mete la proa y abre la popa.",
+    "gva": {
+      "index": 429,
+      "sittings": ["2023-02"]
+    }
+  },
+  {
+    "id": "gva-0430",
+    "topic": "man",
+    "q": "Un barco con una hélice dextrógira o paso a la derecha, partiendo del reposo, timón al centro, sin viento ni corriente, al dar atrás:",
+    "options": [
+      "La proa cae a babor",
+      "La popa cae a estribor",
+      "La popa cae a babor",
+      "La proa no cae a ninguna banda"
+    ],
+    "answer": 2,
+    "explanation": "Dextrógira atrás: la popa cae a babor.",
+    "gva": {
+      "index": 430,
+      "sittings": ["2023-02"]
+    }
+  },
+  {
+    "id": "gva-0474",
+    "topic": "man",
+    "q": "Un buque partiendo del reposo, con una hélice dextrógira, el timón a la vía, sin viento ni corriente, al dar avante:",
+    "options": [
+      "La proa cae a babor",
+      "La proa cae a estribor",
+      "La popa cae a estribor",
+      "Las respuestas a y c son ciertas"
+    ],
+    "answer": 1,
+    "explanation": "Dextrógira avante desde parado: la popa cae a babor y la proa a estribor.",
+    "gva": {
+      "index": 474,
+      "sittings": ["2023-07"]
+    }
+  },
+  {
+    "id": "gva-0475",
+    "topic": "man",
+    "q": "Estando atracados de costado al muelle y sólo con el esprín de proa dado, al virar de este cabo:",
+    "options": [
+      "La proa se desatraca del muelle",
+      "La popa se atraca al pantalán",
+      "La popa se separa del muelle",
+      "El barco avanza hacia proa"
+    ],
+    "answer": 2,
+    "explanation": "Esprín de proa solo: la popa se separa.",
+    "gva": {
+      "index": 475,
+      "sittings": ["2023-07"]
+    }
+  },
+  {
+    "id": "gva-0519",
+    "topic": "man",
+    "q": "Un buque con una hélice dextrógira al dar avante, con el timón a la vía, sin viento ni corriente, y sin arrancada por el efecto de la corriente de expulsión:",
+    "options": [
+      "La popa cae a estribor",
+      "La proa cae a babor",
+      "La popa cae a babor",
+      "Las respuestas a y b son ciertas"
+    ],
+    "answer": 2,
+    "explanation": "Dextrógira avante: la corriente de expulsión lleva la popa a babor.",
+    "gva": {
+      "index": 519,
+      "sittings": ["2023-11"]
+    }
+  },
+  {
+    "id": "gva-0520",
+    "topic": "man",
+    "q": "Para atracar en un muelle, se debe de tener en cuenta para realizar la maniobra:",
+    "options": [
+      "El sentido de giro de la hélice",
+      "El espacio disponible para la maniobra, presencia de otros buques, etc",
+      "El viento y corriente",
+      "Todas son correctas"
+    ],
+    "answer": 3,
+    "explanation": "Al atracar cuentan la hélice, el espacio y el viento y la corriente: todas.",
+    "gva": {
+      "index": 520,
+      "sittings": ["2023-11"]
+    }
+  },
+  {
+    "id": "gva-0564",
+    "topic": "man",
+    "q": "Un buque, con una hélice levógira al dar atrás, el timón a la vía, sin viento ni corriente, y sin arrancada:",
+    "options": [
+      "La popa cae a babor",
+      "La proa cae a estribor",
+      "La popa cae a estribor",
+      "Las respuestas a y b son ciertas"
+    ],
+    "answer": 2,
+    "explanation": "Levógira atrás: la popa cae a estribor.",
+    "gva": {
+      "index": 564,
+      "sittings": ["2023-09"]
+    }
+  },
+  {
+    "id": "gva-0565",
+    "topic": "man",
+    "q": "La maniobra de amarre que consiste en pasar el seno de un cabo por un bolardo, noray o argolla y hacer firmes ambos chicotes en la embarcación para facilitarnos el desatraque, se denomina:",
+    "options": ["Amarrar por seno", "Encapillar", "Hacer firme", "Tomar vueltas de maniobra"],
+    "answer": 0,
+    "explanation": "Amarrar por seno: el cabo pasa por el noray y vuelve a bordo, y se larga desde el barco.",
+    "gva": {
+      "index": 565,
+      "sittings": ["2023-09"]
+    }
+  },
+  {
+    "id": "gva-0609",
+    "topic": "man",
+    "q": "Lascar, significa:",
+    "options": [
+      "Soltar un cabo poco a poco",
+      "Soltar totalmente un cabo",
+      "Tirar continuadamente de un cabo",
+      "Poner en tensión un cabo"
+    ],
+    "answer": 0,
+    "explanation": "Lascar: soltar poco a poco.",
+    "gva": {
+      "index": 609,
+      "sittings": ["2024-04"]
+    }
+  },
+  {
+    "id": "gva-0610",
+    "topic": "man",
+    "q": "Atracados al muelle y teniendo únicamente en tensión el esprín de proa y damos un poco avante. ¿Qué efecto producirá en la embarcación?",
+    "options": [
+      "Que la proa se pegue al muelle",
+      "Que la popa se separe del muelle",
+      "Que la popa se pegue al muelle",
+      "Las respuestas a y b son ciertas"
+    ],
+    "answer": 3,
+    "explanation": "Con el esprín de proa y algo de avante, la proa se pega y la popa se abre: «a y b».",
+    "gva": {
+      "index": 610,
+      "sittings": ["2024-04"]
+    }
+  },
+  {
+    "id": "gva-0654",
+    "topic": "man",
+    "q": "Un buque con una hélice levógira al dar avante, con el timón a la vía, sin viento ni corriente, y sin arrancada por el efecto de la corriente de expulsión:",
+    "options": [
+      "La popa cae a babor",
+      "La proa cae a babor",
+      "La popa cae a estribor",
+      "Las respuestas b y c son ciertas"
+    ],
+    "answer": 3,
+    "explanation": "Levógira avante: la popa cae a estribor y la proa a babor.",
+    "gva": {
+      "index": 654,
+      "sittings": ["2024-02"]
+    }
+  },
+  {
+    "id": "gva-0655",
+    "topic": "man",
+    "q": "¿Hacia dónde caerá el buque si sopla viento atracando paralelo al muelle que se encuentra a nuestro sotavento?",
+    "options": ["Hacia proa", "A barlovento", "A sotavento", "Siempre hacia popa"],
+    "answer": 2,
+    "explanation": "Con el muelle a sotavento, el viento te empuja hacia él.",
+    "gva": {
+      "index": 655,
+      "sittings": ["2024-02"]
+    }
+  },
+  {
+    "id": "gva-0699",
+    "topic": "man",
+    "q": "La acción que consiste en hacer pasar el seno de un cabo por un bolardo, noray o argolla, se denomina:",
+    "options": ["Amarrar por seno", "Tomar vueltas de maniobra", "Encapillar", "Hacer firme"],
+    "answer": 0,
+    "explanation": "Amarrar por seno.",
+    "gva": {
+      "index": 699,
+      "sittings": ["2024-06"]
+    }
+  },
+  {
+    "id": "gva-0700",
+    "topic": "man",
+    "q": "¿Cuál es el cabo que al virar de él atraca la proa y le da a la embarcación movimiento avante?",
+    "options": ["Largo de popa", "Largo de proa", "Esprín de proa", "Esprín de popa"],
+    "answer": 1,
+    "explanation": "Largo de proa: atraca la proa y lleva el barco avante.",
+    "gva": {
+      "index": 700,
+      "sittings": ["2024-06"]
+    }
+  },
+  {
+    "id": "gva-0729",
+    "topic": "man",
+    "q": "Si sopla viento y estamos atracando paralelo al muelle que se encuentra a nuestro sotavento ¿Hacia dónde caerá el buque?",
+    "options": ["Hacia proa", "A barlovento", "A sotavento", "Siempre hacia popa"],
+    "answer": 2,
+    "explanation": "Hacia sotavento: hacia el muelle.",
+    "gva": {
+      "index": 729,
+      "sittings": ["2024-09"]
+    }
+  },
+  {
+    "id": "gva-0743",
+    "topic": "man",
+    "q": "El cabo que al ser cobrado hace que la embarcación se desplace hacia adelante y casi paralela al muelle se denomina:",
+    "options": ["Largo de popa", "Largo de proa", "Esprín de proa", "Las respuestas a y c son ciertas."],
+    "answer": 1,
+    "explanation": "Largo de proa.",
+    "gva": {
+      "index": 743,
+      "sittings": ["2024-11"]
+    }
+  },
+  {
+    "id": "gva-0761",
+    "topic": "man",
+    "q": "Al desatracar de costado al muelle con viento por la proa el ultimo cabo que largaremos será el:",
+    "options": ["Esprín de proa", "Largo de popa", "Esprín de popa", "Largo de proa"],
+    "answer": 2,
+    "explanation": "Con viento de proa, el último en largar es el esprín de popa, que impide que el barco se vaya atrás.",
+    "gva": {
+      "index": 761,
+      "sittings": ["2025-04"]
+    }
+  },
+  {
+    "id": "gva-0762",
+    "topic": "man",
+    "q": "¿Cuál es el cabo que al virarlo atraca la proa y le da a la embarcación movimiento hacia delante?",
+    "options": ["Largo de proa", "Largo de popa", "Esprín de proa", "Esprín de popa"],
+    "answer": 0,
+    "explanation": "Largo de proa.",
+    "gva": {
+      "index": 762,
+      "sittings": ["2025-04"]
+    }
+  },
+  {
+    "id": "gva-0781",
+    "topic": "man",
+    "q": "Un buque con dos hélices de giro al exterior, con el timón a la vía, sin viento ni corriente y partiendo del reposo, da avante con la hélice de estribor y atrás con la hélice de babor a las mismas revoluciones. ¿Cómo evolucionará la embarcación?:",
+    "options": [
+      "La popa cae a babor",
+      "La popa cae a estribor",
+      "La proa cae a estribor",
+      "Las respuestas a y c son ciertas"
+    ],
+    "answer": 1,
+    "explanation": "Estribor avante y babor atrás: el barco gira a babor sobre sí mismo y la popa va a estribor.",
+    "gva": {
+      "index": 781,
+      "sittings": ["2025-06"]
+    }
+  },
+  {
+    "id": "gva-0782",
+    "topic": "man",
+    "q": "La maniobra de amarre que consiste en pasar el seno de un cabo por un bolardo, noray o argolla y hacer firmes ambos chicotes en la embarcación para facilitarnos el desatraque, se denomina:",
+    "options": ["Hacer firme", "Encapillar", "Ninguna es correcta", "Tomar vueltas de maniobra"],
+    "answer": 2,
+    "explanation": "Eso es «amarrar por seno», que no aparece entre las opciones: «ninguna».",
+    "gva": {
+      "index": 782,
+      "sittings": ["2025-06"]
+    }
+  },
+  {
+    "id": "gva-0817",
+    "topic": "man",
+    "q": "Largar, significa:",
+    "options": [
+      "Soltar un cabo poco a poco",
+      "Tirar de un cabo",
+      "Soltar totalmente un cabo",
+      "Destensar un cabo"
+    ],
+    "answer": 2,
+    "explanation": "Largar: soltar del todo.",
+    "gva": {
+      "index": 817,
+      "sittings": ["2025-09"]
+    }
+  },
+  {
+    "id": "gva-0818",
+    "topic": "man",
+    "q": "El cabo que, partiendo de la popa o la proa, llama hacia la proa o hacia la popa respectivamente de una manera inclinada, se denomina:",
+    "options": ["Largo", "Través", "Codera", "Spring"],
+    "answer": 3,
+    "explanation": "Spring (esprín): cabo inclinado de proa hacia popa o al revés.",
+    "gva": {
+      "index": 818,
+      "sittings": ["2025-09"]
+    }
+  },
+  {
+    "id": "gva-0853",
+    "topic": "man",
+    "q": "¿Qué cabos hay que reforzar si estamos atracados estribor al muelle y nos informan que habrá viento de proa?",
+    "options": [
+      "Largo de proa y esprín de popa.",
+      "Largo de popa y través de proa.",
+      "Largo de popa y esprín de proa.",
+      "Largo de popa y través de popa."
+    ],
+    "answer": 0,
+    "explanation": "Viento de proa empuja hacia popa: refuerza el largo de proa y el esprín de popa.",
+    "gva": {
+      "index": 853,
+      "sittings": ["2026-04"]
+    }
+  },
+  {
+    "id": "gva-0893",
+    "topic": "man",
+    "q": "¿Cómo se denomina cuando varias embarcaciones están amarradas juntas y de costado?",
+    "options": ["Estancadas.", "Abarloadas.", "Arranchadas.", "Arriadas."],
+    "answer": 1,
+    "explanation": "Abarloadas: de costado unas con otras.",
+    "gva": {
+      "index": 893,
+      "sittings": ["2026-07"]
+    }
+  },
+  {
+    "id": "gva-0894",
+    "topic": "man",
+    "q": "¿Qué efecto produce virar el spring de popa sin tener otros cabos dados?",
+    "options": [
+      "La proa se desatraca y coge arrancada avante.",
+      "Ir atrás. Cogerá arrancada atrás.",
+      "Ir avante y abrir la popa.",
+      "Ir atrás y abrir la popa."
+    ],
+    "answer": 0,
+    "explanation": "Virar el spring de popa solo: la popa se acerca, la proa se abre y el barco coge arrancada avante.",
+    "gva": {
+      "index": 894,
+      "sittings": ["2026-07"]
+    }
+  },
+  {
+    "id": "gva-0938",
+    "topic": "man",
+    "q": "Si nuestro buque se encuentra parado y sabiendo que la hélice es levógira, al dar atrás con el timón a la vía, la proa caerá:",
+    "options": [
+      "A estribor.",
+      "A babor.",
+      "A ninguna de las dos bandas.",
+      "Primero a babor y después a estribor rápidamente."
+    ],
+    "answer": 1,
+    "explanation": "Levógira atrás: la proa cae a babor.",
+    "gva": {
+      "index": 938,
+      "sittings": ["2026-10"]
+    }
+  },
+  {
+    "id": "gva-0939",
+    "topic": "man",
+    "q": "La velocidad mínima necesaria para que la acción del timón sea efectiva se denomina:",
+    "options": [
+      "Velocidad de maniobra.",
+      "Velocidad mínima de seguridad.",
+      "Velocidad de crucero.",
+      "Velocidad mínima de gobierno."
+    ],
+    "answer": 3,
+    "explanation": "Velocidad mínima de gobierno: con menos, el timón no responde.",
+    "gva": {
+      "index": 939,
+      "sittings": ["2026-10"]
+    }
+  }
+]

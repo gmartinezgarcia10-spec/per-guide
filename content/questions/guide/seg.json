@@ -1,0 +1,1508 @@
+[
+  {
+    "id": "g-0017",
+    "topic": "seg",
+    "q": "Para romper el sincronismo de los balances es preciso variar…",
+    "options": ["El rumbo o la velocidad", "El reparto de pesos", "El asiento", "La potencia de la radio"],
+    "answer": 0,
+    "explanation": "Así cambia el período de encuentro con la ola."
+  },
+  {
+    "id": "g-0018",
+    "topic": "seg",
+    "q": "La maniobra de poner popa a la mar hasta que pase el temporal se denomina…",
+    "options": ["Capear", "Correr el temporal", "Pairear", "Sotaventar"],
+    "answer": 1,
+    "explanation": "Capear es proa a la mar."
+  },
+  {
+    "id": "g-0019",
+    "topic": "seg",
+    "q": "Los pesos altos y las superficies libres en los tanques…",
+    "options": [
+      "Aumentan la estabilidad",
+      "Disminuyen la estabilidad",
+      "No afectan",
+      "Solo afectan al asiento"
+    ],
+    "answer": 1,
+    "explanation": "Ambos reducen la altura metacéntrica GM."
+  },
+  {
+    "id": "g-0020",
+    "topic": "seg",
+    "q": "Antes de arrancar un motor intraborda de gasolina se debe…",
+    "options": [
+      "Abrir los imbornales",
+      "Ventilar la cámara de motores unos minutos",
+      "Encender las luces de navegación",
+      "Llenar el depósito"
+    ],
+    "answer": 1,
+    "explanation": "Los vapores de gasolina pesan más que el aire y se acumulan abajo."
+  },
+  {
+    "id": "g-0021",
+    "topic": "seg",
+    "q": "Al caer un tripulante al agua, el timón se mete…",
+    "options": [
+      "Siempre a estribor",
+      "Siempre a babor",
+      "A la banda de caída del náufrago",
+      "A la banda contraria a la caída"
+    ],
+    "answer": 2,
+    "explanation": "Así la popa y la hélice se apartan de él."
+  },
+  {
+    "id": "g-0022",
+    "topic": "seg",
+    "q": "En la maniobra de Boutakow, tras meter el timón a la banda de caída, se cambia a la contraria cuando la proa ha caído unos…",
+    "options": ["30°", "70°", "180°", "270°"],
+    "answer": 1,
+    "explanation": "Unos 70°, y después se sigue hasta el rumbo opuesto."
+  },
+  {
+    "id": "g-0023",
+    "topic": "seg",
+    "q": "Las bengalas de mano deben encenderse…",
+    "options": [
+      "Por barlovento",
+      "Por sotavento, con el brazo extendido",
+      "Dentro de la cabina",
+      "Apuntando al buque que se acerca"
+    ],
+    "answer": 1,
+    "explanation": "Por sotavento, para que el humo y las gotas no vuelvan a bordo."
+  },
+  {
+    "id": "g-0024",
+    "topic": "seg",
+    "q": "La longitud del cabo de remolque debe ser tal que…",
+    "options": [
+      "Sea lo más corta posible",
+      "Ambas embarcaciones estén a la vez en cresta o seno",
+      "No toque nunca el agua",
+      "Iguale la eslora del remolcado"
+    ],
+    "answer": 1,
+    "explanation": "Larga y con catenaria, en fase con la ola."
+  },
+  {
+    "id": "g-0025",
+    "topic": "seg",
+    "q": "El teléfono gratuito de Salvamento Marítimo es…",
+    "options": ["091", "900 202 202", "062", "016"],
+    "answer": 1,
+    "explanation": "También el 112, el VHF 16 y el DSC 70."
+  },
+  {
+    "id": "g-0026",
+    "topic": "seg",
+    "q": "Según el RD 339/2021, la flotabilidad mínima del chaleco en zona 4 es…",
+    "options": ["50 N", "100 N", "150 N", "275 N"],
+    "answer": 2,
+    "explanation": "150 N en zonas 2–4, 275 N en zona 1, 100 N en zonas 5–7."
+  },
+  {
+    "id": "g-0139",
+    "topic": "seg",
+    "q": "Cuando el centro de gravedad G sube, la estabilidad…",
+    "options": ["Aumenta", "Disminuye", "No varía", "Depende del calado"],
+    "answer": 1,
+    "explanation": "Menor GM, menor par adrizante."
+  },
+  {
+    "id": "g-0140",
+    "topic": "seg",
+    "q": "El punto de aplicación del empuje del agua es el…",
+    "options": ["Centro de gravedad", "Centro de carena", "Metacentro", "Centro de flotación"],
+    "answer": 1,
+    "explanation": "Centro de carena C, el del volumen sumergido."
+  },
+  {
+    "id": "g-0141",
+    "topic": "seg",
+    "q": "Un barco es estable siempre que el metacentro esté…",
+    "options": ["Por debajo de G", "Por encima de G", "En la flotación", "En la quilla"],
+    "answer": 1,
+    "explanation": "GM positivo."
+  },
+  {
+    "id": "g-0142",
+    "topic": "seg",
+    "q": "La maniobra de recibir el temporal por la proa con poca máquina se llama…",
+    "options": ["Correr el temporal", "Capear", "Fondear", "Pairear"],
+    "answer": 1,
+    "explanation": "Capear: proa a la mar, 1–2 cuartas abierta."
+  },
+  {
+    "id": "g-0143",
+    "topic": "seg",
+    "q": "Con mal tiempo, la situación más peligrosa para una lancha es recibir la mar…",
+    "options": ["Por la proa", "Por la amura", "De través", "Por la aleta"],
+    "answer": 2,
+    "explanation": "De través: máximo balance y riesgo de vuelco."
+  },
+  {
+    "id": "g-0144",
+    "topic": "seg",
+    "q": "La señal fumígena de humo naranja se usa…",
+    "options": ["Solo de noche", "Solo de día", "De día y de noche", "Solo en puerto"],
+    "answer": 1,
+    "explanation": "De noche no se ve el humo."
+  },
+  {
+    "id": "g-0145",
+    "topic": "seg",
+    "q": "Un cohete con paracaídas, con nubes bajas, se lanza…",
+    "options": ["Vertical", "A unos 45° respecto a la horizontal", "Horizontal", "Hacia el agua"],
+    "answer": 1,
+    "explanation": "Para que se abra por debajo de las nubes."
+  },
+  {
+    "id": "g-0146",
+    "topic": "seg",
+    "q": "El aro salvavidas debe lanzarse…",
+    "options": [
+      "Encima del náufrago",
+      "A barlovento del náufrago",
+      "A sotavento lejos",
+      "Solo si sabe nadar"
+    ],
+    "answer": 1,
+    "explanation": "El viento se lo acerca."
+  },
+  {
+    "id": "g-0147",
+    "topic": "seg",
+    "q": "La maniobra de hombre al agua que permite volver por la propia estela, útil de noche, es la…",
+    "options": ["Anderson", "Boutakow (Williamson)", "Ciaboga", "Capear"],
+    "answer": 1,
+    "explanation": "Se vuelve al rumbo opuesto sobre la estela."
+  },
+  {
+    "id": "g-0148",
+    "topic": "seg",
+    "q": "Al recoger al náufrago con el barco, conviene tenerlo…",
+    "options": [
+      "Por barlovento, con motor avante",
+      "Por sotavento, con el motor en punto muerto",
+      "Por la popa",
+      "Por la proa a toda máquina"
+    ],
+    "answer": 1,
+    "explanation": "Socaire y nada de hélice cerca."
+  },
+  {
+    "id": "g-0149",
+    "topic": "seg",
+    "q": "La radiobaliza de localización de siniestros (RLS) transmite por satélite en…",
+    "options": ["156,8 MHz", "406 MHz", "2182 kHz", "518 kHz"],
+    "answer": 1,
+    "explanation": "406 MHz, sistema Cospas-Sarsat."
+  },
+  {
+    "id": "g-0150",
+    "topic": "seg",
+    "q": "Según la regla de los tercios, del combustible se reserva…",
+    "options": ["Nada", "Un tercio", "La mitad", "Dos tercios"],
+    "answer": 1,
+    "explanation": "⅓ ida, ⅓ vuelta, ⅓ reserva."
+  },
+  {
+    "id": "g-0151",
+    "topic": "seg",
+    "q": "Según el RD 339/2021, el chaleco exigido en zona 1 debe tener una flotabilidad de…",
+    "options": ["100 N", "150 N", "275 N", "50 N"],
+    "answer": 2,
+    "explanation": "275 N en navegación ilimitada."
+  },
+  {
+    "id": "g-0152",
+    "topic": "seg",
+    "q": "Durante una tormenta eléctrica conviene…",
+    "options": [
+      "Usar el VHF continuamente",
+      "Desconectar los aparatos electrónicos y alejarse de partes metálicas",
+      "Subir al palo",
+      "Encender todas las luces"
+    ],
+    "answer": 1,
+    "explanation": "Y después revisar la aguja."
+  },
+  {
+    "id": "g-0300",
+    "topic": "seg",
+    "q": "Las superficies libres (tanques a medias, agua en sentina)…",
+    "options": ["Mejoran la estabilidad", "Empeoran la estabilidad", "No influyen", "Solo afectan al calado"],
+    "answer": 1,
+    "explanation": "El líquido se desplaza a la banda baja."
+  },
+  {
+    "id": "g-0301",
+    "topic": "seg",
+    "q": "Un barco «duro» es el que…",
+    "options": [
+      "Tiene poca altura metacéntrica",
+      "Tiene mucha altura metacéntrica y balances bruscos",
+      "Navega despacio",
+      "Es de madera"
+    ],
+    "answer": 1,
+    "explanation": "GM grande: adriza con fuerza, incómodo."
+  },
+  {
+    "id": "g-0302",
+    "topic": "seg",
+    "q": "La reserva de flotabilidad depende sobre todo del…",
+    "options": ["Calado", "Francobordo (volumen estanco sobre la flotación)", "Color del casco", "Motor"],
+    "answer": 1,
+    "explanation": "Volumen estanco por encima de la flotación."
+  },
+  {
+    "id": "g-0303",
+    "topic": "seg",
+    "q": "El sincronismo aparece cuando…",
+    "options": [
+      "El periodo de las olas coincide con el de balance del barco",
+      "Hay niebla",
+      "El motor se para",
+      "Se navega a vela"
+    ],
+    "answer": 0,
+    "explanation": "Se rompe cambiando rumbo o velocidad."
+  },
+  {
+    "id": "g-0304",
+    "topic": "seg",
+    "q": "Al correr el temporal, el principal riesgo es…",
+    "options": [
+      "Que el barco se atraviese a la mar",
+      "Quedarse sin combustible",
+      "Que se rompa la radio",
+      "Que el ancla garree"
+    ],
+    "answer": 0,
+    "explanation": "Y embarcar olas por la popa."
+  },
+  {
+    "id": "g-0305",
+    "topic": "seg",
+    "q": "Con niebla, una medida obligatoria es…",
+    "options": [
+      "Apagar las luces",
+      "Navegar a velocidad de seguridad y emitir señales acústicas",
+      "Fondear siempre",
+      "Navegar más rápido"
+    ],
+    "answer": 1,
+    "explanation": "Además vigía y escucha."
+  },
+  {
+    "id": "g-0306",
+    "topic": "seg",
+    "q": "En zona 5 (hasta 5 mn de un abrigo), el chaleco exigido es de…",
+    "options": ["50 N", "100 N", "150 N", "275 N"],
+    "answer": 1,
+    "explanation": "100 N en zonas 5–7."
+  },
+  {
+    "id": "g-0307",
+    "topic": "seg",
+    "q": "La balsa salvavidas es obligatoria según el RD 339/2021 en las zonas…",
+    "options": ["1 a 3", "1 a 5", "Todas", "Solo la 1"],
+    "answer": 0,
+    "explanation": "Zonas 1, 2 y 3."
+  },
+  {
+    "id": "g-0308",
+    "topic": "seg",
+    "q": "El número de bengalas de mano exigido en zona 4 es…",
+    "options": ["0", "3", "6", "12"],
+    "answer": 1,
+    "explanation": "3 bengalas y 3 cohetes."
+  },
+  {
+    "id": "g-0309",
+    "topic": "seg",
+    "q": "El cohete con paracaídas se ve de noche aproximadamente a…",
+    "options": ["2 mn", "8 mn", "16 mn", "40 mn"],
+    "answer": 2,
+    "explanation": "Sube unos 300 m."
+  },
+  {
+    "id": "g-0310",
+    "topic": "seg",
+    "q": "La bengala de mano dura aproximadamente…",
+    "options": ["10 s", "1 minuto", "10 minutos", "1 hora"],
+    "answer": 1,
+    "explanation": "Luz roja intensa."
+  },
+  {
+    "id": "g-0311",
+    "topic": "seg",
+    "q": "La primera acción al ver a alguien caer al agua es…",
+    "options": [
+      "Parar el motor y fondear",
+      "Dar la voz de hombre al agua y lanzarle el aro",
+      "Llamar por teléfono",
+      "Virar 180°"
+    ],
+    "answer": 1,
+    "explanation": "Luego vigía, MOB en el GPS y maniobra."
+  },
+  {
+    "id": "g-0312",
+    "topic": "seg",
+    "q": "Si se pierde de vista al náufrago, se inicia una búsqueda…",
+    "options": [
+      "En línea recta",
+      "En espiral cuadrada desde el punto de referencia",
+      "Hacia tierra",
+      "Esperando parados"
+    ],
+    "answer": 1,
+    "explanation": "O por sectores, y aviso a Salvamento."
+  },
+  {
+    "id": "g-0313",
+    "topic": "seg",
+    "q": "Para remolcar, el cabo se hace firme a bordo en…",
+    "options": [
+      "El guardamancebos",
+      "Puntos fuertes: bitas o cornamusas reforzadas",
+      "Un candelero",
+      "El púlpito"
+    ],
+    "answer": 1,
+    "explanation": "Repartiendo la carga si hace falta."
+  },
+  {
+    "id": "g-0314",
+    "topic": "seg",
+    "q": "El remolque abarloado (costado con costado) se usa…",
+    "options": [
+      "En alta mar con temporal",
+      "Solo en aguas tranquilas o dentro de puerto",
+      "Siempre",
+      "Nunca"
+    ],
+    "answer": 1,
+    "explanation": "Con mar, los costados chocan."
+  },
+  {
+    "id": "g-0315",
+    "topic": "seg",
+    "q": "El canal de VHF de socorro, urgencia y seguridad es el…",
+    "options": ["6", "9", "16", "70"],
+    "answer": 2,
+    "explanation": "El 70 es solo para LSD digital."
+  },
+  {
+    "id": "g-0520",
+    "topic": "seg",
+    "q": "La estabilidad es la propiedad del barco de…",
+    "options": [
+      "Navegar sin escorar nunca",
+      "Recuperar su equilibrio inicial cuando lo pierde por causas externas",
+      "Mantener el rumbo",
+      "Flotar con cualquier carga"
+    ],
+    "answer": 1,
+    "explanation": "Viento o mar lo sacan del equilibrio; la estabilidad lo devuelve."
+  },
+  {
+    "id": "g-0521",
+    "topic": "seg",
+    "q": "El periodo de balance es el tiempo que tarda el barco en…",
+    "options": [
+      "Dar una vuelta completa",
+      "Pasar de estar inclinado a una banda a estarlo los mismos grados a la otra",
+      "Recuperar el asiento",
+      "Subir una ola"
+    ],
+    "answer": 1,
+    "explanation": "Definición de periodo de balance."
+  },
+  {
+    "id": "g-0522",
+    "topic": "seg",
+    "q": "Si el periodo de balance del barco coincide con el de la ola se produce…",
+    "options": ["Arrufo", "Sincronismo transversal", "Pantocazo", "Asiento"],
+    "answer": 1,
+    "explanation": "La amplitud del balance crece y puede volcar."
+  },
+  {
+    "id": "g-0523",
+    "topic": "seg",
+    "q": "El golpe violento de la parte delantera de la obra viva contra el agua al cabecear es un…",
+    "options": ["Balance", "Pantocazo", "Garreo", "Sincronismo"],
+    "answer": 1,
+    "explanation": "Pantocazo."
+  },
+  {
+    "id": "g-0524",
+    "topic": "seg",
+    "q": "La pérdida de estabilidad transversal se manifiesta con…",
+    "options": ["Cabeceo", "Balance y escora", "Cambio del asiento", "Arrufo"],
+    "answer": 1,
+    "explanation": "La longitudinal, con cabeceo y cambios de asiento."
+  },
+  {
+    "id": "g-0525",
+    "topic": "seg",
+    "q": "El par de estabilidad lo forman…",
+    "options": [
+      "El viento y la mar",
+      "El peso del barco y el empuje del agua",
+      "La quilla y el timón",
+      "La escora y el asiento"
+    ],
+    "answer": 1,
+    "explanation": "Peso en G hacia abajo, empuje en C hacia arriba."
+  },
+  {
+    "id": "g-0526",
+    "topic": "seg",
+    "q": "La estabilidad estática inicial es la que se estudia para escoras…",
+    "options": ["Menores de 10°", "Entre 10° y 30°", "Mayores de 45°", "De cualquier valor"],
+    "answer": 0,
+    "explanation": "Más de 10°: grandes inclinaciones."
+  },
+  {
+    "id": "g-0527",
+    "topic": "seg",
+    "q": "Un barco duro…",
+    "options": [
+      "Es poco estable y cómodo",
+      "Es muy estable y recupera la escora de forma brusca",
+      "Tiende a volcar con mar fuerte",
+      "No tiene quilla"
+    ],
+    "answer": 1,
+    "explanation": "Barco blando: menos estable, balances lentos, cómodo."
+  },
+  {
+    "id": "g-0528",
+    "topic": "seg",
+    "q": "Para reducir un balance excesivo, lo más eficaz es…",
+    "options": ["Aumentar la velocidad", "Cambiar el rumbo", "Fondear", "Arriar las velas"],
+    "answer": 1,
+    "explanation": "La mar de través es la principal causa del balance."
+  },
+  {
+    "id": "g-0529",
+    "topic": "seg",
+    "q": "Para romper una cabezada excesiva, lo más eficaz es…",
+    "options": [
+      "Cambiar la velocidad",
+      "Meter timón a una banda",
+      "Llenar los tanques",
+      "Abrir los portillos"
+    ],
+    "answer": 0,
+    "explanation": "Cambiando la velocidad cambias el periodo de cabeceo."
+  },
+  {
+    "id": "g-0530",
+    "topic": "seg",
+    "q": "Para hacer una llamada de prueba con el VHF se usa el canal…",
+    "options": ["16", "9 a mínima potencia (1 W)", "70", "72 a máxima potencia"],
+    "answer": 1,
+    "explanation": "Avisando «emisión en pruebas» y pidiendo si se recibe «fuerte y claro»."
+  },
+  {
+    "id": "g-0531",
+    "topic": "seg",
+    "q": "El filtro decantador separa el agua del gasoil…",
+    "options": [
+      "Por centrifugado",
+      "Por gravedad, porque el agua es más densa",
+      "Con un imán",
+      "Calentando el combustible"
+    ],
+    "answer": 1,
+    "explanation": "El agua se va al fondo del vaso."
+  },
+  {
+    "id": "g-0532",
+    "topic": "seg",
+    "q": "Una correa del alternador demasiado floja…",
+    "options": [
+      "Gasta los rodamientos",
+      "Resbala y no carga las baterías",
+      "Sobrecalienta el motor",
+      "No tiene efectos"
+    ],
+    "answer": 1,
+    "explanation": "Demasiado apretada, gasta los rodamientos."
+  },
+  {
+    "id": "g-0533",
+    "topic": "seg",
+    "q": "El nivel de carga de las baterías se controla con el…",
+    "options": ["Amperímetro de la hélice", "Voltímetro", "Barómetro", "Manómetro"],
+    "answer": 1,
+    "explanation": "Voltímetro."
+  },
+  {
+    "id": "g-0534",
+    "topic": "seg",
+    "q": "Las bombonas de butano deben ir…",
+    "options": [
+      "En la cocina, bajo cubierta",
+      "En compartimentos de la bañera aislados",
+      "En la sentina",
+      "En el pañol de proa"
+    ],
+    "answer": 1,
+    "explanation": "El gas pesa más que el aire y se acumula abajo."
+  },
+  {
+    "id": "g-0535",
+    "topic": "seg",
+    "q": "En puerto, achicar agua de sentina con restos de aceite o combustible…",
+    "options": [
+      "Está permitido de noche",
+      "Está totalmente prohibido",
+      "Se permite con bomba manual",
+      "Se permite si es poca cantidad"
+    ],
+    "answer": 1,
+    "explanation": "Hay que secar y limpiar las fugas."
+  },
+  {
+    "id": "g-0536",
+    "topic": "seg",
+    "q": "La cantidad de agua dulce recomendada es…",
+    "options": [
+      "1 litro por persona y día",
+      "3 litros por persona y día de navegación",
+      "5 litros por barco",
+      "10 litros por persona"
+    ],
+    "answer": 1,
+    "explanation": "Una media de 3 L por persona y día previsto."
+  },
+  {
+    "id": "g-0537",
+    "topic": "seg",
+    "q": "Si el parte meteorológico anuncia mal tiempo, la mejor decisión es…",
+    "options": ["Salir con chalecos puestos", "No salir", "Salir solo hasta 2 mn", "Salir de noche"],
+    "answer": 1,
+    "explanation": "La mejor decisión del patrón."
+  },
+  {
+    "id": "g-0538",
+    "topic": "seg",
+    "q": "«Arranchar» significa…",
+    "options": ["Fondear", "Limpiar y ordenar", "Atar", "Achicar"],
+    "answer": 1,
+    "explanation": "Estibar, trincar y arranchar a son de mar."
+  },
+  {
+    "id": "g-0539",
+    "topic": "seg",
+    "q": "Con mal tiempo, la boca de los manguerotes se orienta…",
+    "options": ["A barlovento", "A sotavento o se tapa (censura)", "Hacia proa", "Hacia arriba"],
+    "answer": 1,
+    "explanation": "Así no entra agua."
+  },
+  {
+    "id": "g-0540",
+    "topic": "seg",
+    "q": "Con mal tiempo, los grifos de fondo…",
+    "options": [
+      "Se abren todos",
+      "Se cierran salvo los que trabajan, como la refrigeración del motor",
+      "Se cierran todos, incluida la refrigeración",
+      "No importan"
+    ],
+    "answer": 1,
+    "explanation": "Aseos, fregaderos y achiques, cerrados."
+  },
+  {
+    "id": "g-0541",
+    "topic": "seg",
+    "q": "Capear el temporal a motor consiste en…",
+    "options": [
+      "Ir a toda máquina con la mar de popa",
+      "Aguantar proa a la mar con poca pero suficiente máquina para gobernar",
+      "Parar el motor",
+      "Poner la mar de través"
+    ],
+    "answer": 1,
+    "explanation": "Pantocazos más suaves y menos agua embarcada."
+  },
+  {
+    "id": "g-0542",
+    "topic": "seg",
+    "q": "Un velero capea el temporal con…",
+    "options": [
+      "Spinnaker",
+      "La mayor de capa, amurado y abatiendo sin avanzar",
+      "Todo el trapo",
+      "Solo el motor"
+    ],
+    "answer": 1,
+    "explanation": "Mayor de capa."
+  },
+  {
+    "id": "g-0543",
+    "topic": "seg",
+    "q": "Al correr un temporal hay que evitar sobre todo…",
+    "options": [
+      "Ir despacio",
+      "Dar guiñadas que atraviesen el barco",
+      "Llevar chalecos",
+      "Largar cabos por popa"
+    ],
+    "answer": 1,
+    "explanation": "Largar cabos por popa ayuda a frenar y evita atravesarse."
+  },
+  {
+    "id": "g-0544",
+    "topic": "seg",
+    "q": "El ancla de capa sirve para…",
+    "options": [
+      "Fondear en mucha profundidad",
+      "Frenar el barco y evitar que se atraviese a la mar",
+      "Sustituir al ancla principal",
+      "Medir la corriente"
+    ],
+    "answer": 1,
+    "explanation": "Saco troncocónico de lona con pernadas."
+  },
+  {
+    "id": "g-0545",
+    "topic": "seg",
+    "q": "Si una avería te deja a la deriva hacia una costa a sotavento, puedes…",
+    "options": [
+      "Esperar a que cambie el viento",
+      "Fondear aunque el ancla no toque fondo, para aproarte y abatir menos",
+      "Poner la mar de través",
+      "Apagar las luces"
+    ],
+    "answer": 1,
+    "explanation": "Y pedir auxilio por radio antes de que sea tarde."
+  },
+  {
+    "id": "g-0546",
+    "topic": "seg",
+    "q": "Para proteger un barco de madera de los rayos conviene…",
+    "options": [
+      "Desconectar la batería solo",
+      "Un pararrayos en el tope del palo u obenque unido a masa con un cable al agua",
+      "Bajar el palo",
+      "Navegar más rápido"
+    ],
+    "answer": 1,
+    "explanation": "Tras la tormenta, comprobar la aguja."
+  },
+  {
+    "id": "g-0547",
+    "topic": "seg",
+    "q": "¿Cuál NO se considera causa de visibilidad reducida?",
+    "options": ["Niebla", "Granizo", "La noche", "Tormenta de arena"],
+    "answer": 2,
+    "explanation": "La noche es un agravante, pero no es visibilidad reducida."
+  },
+  {
+    "id": "g-0548",
+    "topic": "seg",
+    "q": "Las nieblas suelen…",
+    "options": [
+      "Formarse lejos de la costa",
+      "Pegarse a la costa y distorsionar luces y sonidos",
+      "Mejorar la propagación del sonido",
+      "Durar menos de 5 minutos"
+    ],
+    "answer": 1,
+    "explanation": "Por eso con niebla conviene alejarse de la costa."
+  },
+  {
+    "id": "g-0549",
+    "topic": "seg",
+    "q": "De noche, la vigilancia de los 360° debe hacerse cada…",
+    "options": ["Hora", "5 minutos aproximadamente", "30 minutos", "Cuarto de guardia"],
+    "answer": 1,
+    "explanation": "15 minutos pueden bastar para un abordaje."
+  },
+  {
+    "id": "g-0550",
+    "topic": "seg",
+    "q": "El reflector de radar clásico está formado por…",
+    "options": [
+      "Una esfera metálica",
+      "Tres láminas perpendiculares que forman ocho triedros",
+      "Un cilindro de plástico",
+      "Una antena"
+    ],
+    "answer": 1,
+    "explanation": "Hoy también los hay cilíndricos."
+  },
+  {
+    "id": "g-0551",
+    "topic": "seg",
+    "q": "Técnicamente, son aguas someras aquellas cuya profundidad es menor que…",
+    "options": ["El calado", "La mitad de la longitud de la ola", "10 m", "El doble de la eslora"],
+    "answer": 1,
+    "explanation": "Definición técnica."
+  },
+  {
+    "id": "g-0552",
+    "topic": "seg",
+    "q": "Al navegar en aguas someras NO es una precaución…",
+    "options": [
+      "Reducir la velocidad",
+      "Fijar un veril de seguridad",
+      "Tener lista la maniobra de fondeo",
+      "Aumentar la velocidad para gobernar mejor"
+    ],
+    "answer": 3,
+    "explanation": "Hay que reducir más cuanto menos fondo."
+  },
+  {
+    "id": "g-0553",
+    "topic": "seg",
+    "q": "El RD 339/2021 se aplica a barcos de bandera extranjera en aguas españolas cuando…",
+    "options": [
+      "Nunca",
+      "Sus propietarios o usuarios residen en España",
+      "Miden más de 24 m",
+      "Navegan de noche"
+    ],
+    "answer": 1,
+    "explanation": "Para evitar abanderamientos de conveniencia."
+  },
+  {
+    "id": "g-0554",
+    "topic": "seg",
+    "q": "La categoría de diseño C corresponde a…",
+    "options": [
+      "Navegación oceánica",
+      "Aguas costeras, hasta fuerza 6 y olas de 2 m",
+      "Aguas protegidas",
+      "Alta mar"
+    ],
+    "answer": 1,
+    "explanation": "A oceánica, B alta mar, C costeras, D protegidas."
+  },
+  {
+    "id": "g-0555",
+    "topic": "seg",
+    "q": "Un barco de categoría de diseño B aguanta como máximo…",
+    "options": ["Fuerza 3 y 0,3 m", "Fuerza 6 y 2 m", "Fuerza 8 y 4 m", "Sin límite"],
+    "answer": 2,
+    "explanation": "La A, por encima."
+  },
+  {
+    "id": "g-0556",
+    "topic": "seg",
+    "q": "En zona 4 (PER), la flotabilidad mínima de los chalecos es…",
+    "options": ["100 N", "150 N", "275 N", "50 N"],
+    "answer": 1,
+    "explanation": "Zona 1: 275 N; zonas 2–4: 150 N; zonas 5–6: 100 N."
+  },
+  {
+    "id": "g-0557",
+    "topic": "seg",
+    "q": "En zona 1 hay que llevar, además de un chaleco por persona…",
+    "options": ["Un chaleco adicional", "Dos aros con luz", "Una segunda balsa", "Nada más"],
+    "answer": 0,
+    "explanation": "Y de 275 N."
+  },
+  {
+    "id": "g-0558",
+    "topic": "seg",
+    "q": "La luz del chaleco puede omitirse en…",
+    "options": ["Zonas 1 a 3", "Zonas 4 a 7 si solo se navega de día", "Cualquier zona de día", "Nunca"],
+    "answer": 1,
+    "explanation": "En zonas 1–3 es siempre obligatoria."
+  },
+  {
+    "id": "g-0559",
+    "topic": "seg",
+    "q": "Un chaleco debe poner boca arriba a una persona inconsciente en…",
+    "options": ["1 minuto", "5–10 segundos", "30 segundos", "2 minutos"],
+    "answer": 1,
+    "explanation": "Y la tripulación debe ponérselo en menos de 1 minuto."
+  },
+  {
+    "id": "g-0560",
+    "topic": "seg",
+    "q": "150 newtons equivalen aproximadamente a…",
+    "options": ["15,3 kgf", "1,5 kgf", "150 kgf", "28 kgf"],
+    "answer": 0,
+    "explanation": "1 N ≈ 0,102 kgf."
+  },
+  {
+    "id": "g-0561",
+    "topic": "seg",
+    "q": "Sobre el arnés de seguridad es cierto que…",
+    "options": [
+      "Es obligatorio en zona 4",
+      "No es obligatorio, pero evita caer al agua o separarse del barco",
+      "Sustituye al chaleco",
+      "Solo se usa en puerto"
+    ],
+    "answer": 1,
+    "explanation": "Se engancha a puntos fuertes o líneas de vida."
+  },
+  {
+    "id": "g-0562",
+    "topic": "seg",
+    "q": "La rabiza del aro salvavidas debe medir al menos…",
+    "options": ["10 m", "30 m", "50 m", "5 m"],
+    "answer": 1,
+    "explanation": "De polipropileno, flotante."
+  },
+  {
+    "id": "g-0563",
+    "topic": "seg",
+    "q": "La rabiza del aro es de polipropileno porque…",
+    "options": ["Es más barata", "Flota y no se enreda en la hélice", "Es elástica", "No se pudre"],
+    "answer": 1,
+    "explanation": "Además sirve de asidero inicial al náufrago."
+  },
+  {
+    "id": "g-0564",
+    "topic": "seg",
+    "q": "En zona 1, los aros salvavidas obligatorios son…",
+    "options": ["Uno con luz y rabiza", "Dos: uno con luz y rabiza y otro sin ellas", "Ninguno", "Tres"],
+    "answer": 1,
+    "explanation": "Zonas 2–4: uno con luz y rabiza; 5–6: ninguno."
+  },
+  {
+    "id": "g-0565",
+    "topic": "seg",
+    "q": "El SART es…",
+    "options": [
+      "Un tipo de bengala",
+      "Un respondedor de radar para localizar balsas y náufragos",
+      "Un chaleco",
+      "Un ancla flotante"
+    ],
+    "answer": 1,
+    "explanation": "Search and Rescue Transponder."
+  },
+  {
+    "id": "g-0566",
+    "topic": "seg",
+    "q": "La balsa salvavidas es obligatoria en…",
+    "options": ["Todas las zonas", "Zonas 1, 2 y 3", "Solo zona 1", "Zonas 4 a 7"],
+    "answer": 1,
+    "explanation": "Para todas las personas autorizadas a bordo."
+  },
+  {
+    "id": "g-0567",
+    "topic": "seg",
+    "q": "En barcos de recreo con fines comerciales (lista 6.ª), la balsa se revisa como máximo cada…",
+    "options": ["12 meses", "24 meses", "36 meses", "5 años"],
+    "answer": 1,
+    "explanation": "Sin fines lucrativos (lista 7.ª), según el fabricante."
+  },
+  {
+    "id": "g-0568",
+    "topic": "seg",
+    "q": "Las bolsas estabilizadoras de la balsa sirven para…",
+    "options": [
+      "Guardar víveres",
+      "Evitar el vuelco con mala mar",
+      "Recoger agua de lluvia",
+      "Hinchar el toldo"
+    ],
+    "answer": 1,
+    "explanation": "Todas las balsas homologadas las llevan."
+  },
+  {
+    "id": "g-0569",
+    "topic": "seg",
+    "q": "Una balsa salvavidas, una vez a flote, resiste a la intemperie…",
+    "options": ["24 horas", "7 días", "30 días", "1 año"],
+    "answer": 2,
+    "explanation": "En cualquier estado de mar."
+  },
+  {
+    "id": "g-0570",
+    "topic": "seg",
+    "q": "Una balsa de más de 8 personas tendrá…",
+    "options": ["Una sola entrada", "Dos entradas diametralmente opuestas", "Motor", "Dos toldos"],
+    "answer": 1,
+    "explanation": "Prestaciones de la balsa."
+  },
+  {
+    "id": "g-0571",
+    "topic": "seg",
+    "q": "El inflado completo de la balsa, a 18–20 °C, tarda como máximo…",
+    "options": ["10 segundos", "1 minuto", "5 minutos", "15 minutos"],
+    "answer": 1,
+    "explanation": "La temperatura de hinchado debe ser compatible con la zona."
+  },
+  {
+    "id": "g-0572",
+    "topic": "seg",
+    "q": "La capacidad mínima de una balsa con homologación SOLAS es de…",
+    "options": ["2 personas", "4 personas", "6 personas", "8 personas"],
+    "answer": 2,
+    "explanation": "Con homologación ISO, 4."
+  },
+  {
+    "id": "g-0573",
+    "topic": "seg",
+    "q": "La boza de la balsa salvavidas debe medir al menos…",
+    "options": [
+      "La eslora del barco",
+      "El doble de la distancia de la estiba a la flotación",
+      "10 m",
+      "La mitad de la eslora"
+    ],
+    "answer": 1,
+    "explanation": "Así se puede lanzar sin que se dispare la apertura."
+  },
+  {
+    "id": "g-0574",
+    "topic": "seg",
+    "q": "La lámpara exterior del toldo de la balsa debe funcionar al menos…",
+    "options": ["1 hora", "6 horas", "12 horas", "24 horas"],
+    "answer": 2,
+    "explanation": "Luz blanca fija o de 50–70 destellos por minuto."
+  },
+  {
+    "id": "g-0575",
+    "topic": "seg",
+    "q": "La zafa hidrostática libera el contenedor de la balsa cuando…",
+    "options": [
+      "Se tira de la boza",
+      "El barco se hunde a unos 4 m de profundidad",
+      "Hay mala mar",
+      "Se inclina más de 45°"
+    ],
+    "answer": 1,
+    "explanation": "La balsa sube sola a la superficie."
+  },
+  {
+    "id": "g-0576",
+    "topic": "seg",
+    "q": "La zafa hidrostática caduca a los…",
+    "options": ["6 meses", "2 años", "5 años", "10 años"],
+    "answer": 1,
+    "explanation": "Hay que renovarla."
+  },
+  {
+    "id": "g-0577",
+    "topic": "seg",
+    "q": "Para hinchar la balsa tras lanzarla al agua hay que…",
+    "options": [
+      "Abrir el contenedor a mano",
+      "Dar un tirón fuerte a la tira de disparo, hecha firme a bordo",
+      "Cortar la boza",
+      "Esperar a que se hinche sola"
+    ],
+    "answer": 1,
+    "explanation": "El tirón abre la válvula de inflado."
+  },
+  {
+    "id": "g-0578",
+    "topic": "seg",
+    "q": "Una vez en la balsa, la tira de unión con el barco se…",
+    "options": [
+      "Deja firme siempre",
+      "Corta con el cuchillo antes de que el barco se hunda",
+      "Suelta del grillete",
+      "Usa de ancla"
+    ],
+    "answer": 1,
+    "explanation": "Para no ser arrastrado."
+  },
+  {
+    "id": "g-0579",
+    "topic": "seg",
+    "q": "Para adrizar una balsa invertida, el tripulante apoya los pies en…",
+    "options": ["El toldo", "La botella de inflado", "La rampa", "El ancla flotante"],
+    "answer": 1,
+    "explanation": "Es el punto más pesado; se sube por sotavento."
+  },
+  {
+    "id": "g-0580",
+    "topic": "seg",
+    "q": "El paquete de emergencia SOLAS B se distingue del SOLAS A en que no lleva…",
+    "options": ["Bengalas", "Agua, comida ni kit de pesca", "Botiquín", "Cuchillo"],
+    "answer": 1,
+    "explanation": "SOLAS B: menos de 60 mn, ayuda en menos de 24 h."
+  },
+  {
+    "id": "g-0581",
+    "topic": "seg",
+    "q": "El paquete SOLAS A es obligatorio en la zona…",
+    "options": ["1", "2", "3", "4"],
+    "answer": 0,
+    "explanation": "Más de 60 mn: socorro en más de 24 h."
+  },
+  {
+    "id": "g-0582",
+    "topic": "seg",
+    "q": "Las señales pirotécnicas se disparan…",
+    "options": [
+      "Hacia barlovento",
+      "Hacia sotavento, con el brazo por fuera del barco",
+      "Hacia arriba dentro de la bañera",
+      "Hacia otro barco"
+    ],
+    "answer": 1,
+    "explanation": "Nunca hacia una persona."
+  },
+  {
+    "id": "g-0583",
+    "topic": "seg",
+    "q": "La homologación de las señales pirotécnicas se rige por el…",
+    "options": ["RD 339/2021", "RD 809/1999", "RD 875/2014", "RD 258/1999"],
+    "answer": 1,
+    "explanation": "Real Decreto 809/1999, de 14 de mayo."
+  },
+  {
+    "id": "g-0584",
+    "topic": "seg",
+    "q": "La bengala de mano dura…",
+    "options": ["10 s", "40 s", "60 s", "3 min"],
+    "answer": 2,
+    "explanation": "El cohete con paracaídas, unos 40 s."
+  },
+  {
+    "id": "g-0585",
+    "topic": "seg",
+    "q": "De noche, un cohete con paracaídas se ve en condiciones normales a…",
+    "options": ["1–2 mn", "8–16 mn", "30 mn", "4 mn"],
+    "answer": 1,
+    "explanation": "Sube unos 300 m."
+  },
+  {
+    "id": "g-0586",
+    "topic": "seg",
+    "q": "La señal fumígena flotante debe emitir humo durante al menos…",
+    "options": ["30 s", "1 min", "3 min", "10 min"],
+    "answer": 2,
+    "explanation": "Sigue humeando tras 10 s sumergida a 10 cm."
+  },
+  {
+    "id": "g-0587",
+    "topic": "seg",
+    "q": "En zona 4, ¿qué pirotecnia es obligatoria?",
+    "options": ["6 bengalas, 6 cohetes y 1 fumígena", "3 bengalas y 3 cohetes", "3 bengalas", "Ninguna"],
+    "answer": 1,
+    "explanation": "Zonas 5–6: 3 bengalas. Zonas 2–3: 6, 6 y 1."
+  },
+  {
+    "id": "g-0588",
+    "topic": "seg",
+    "q": "Navegando solo de día en zona 5, un barco de menos de 7 m puede sustituir las luces de navegación por…",
+    "options": ["Nada", "Una linterna eléctrica de luz blanca", "Una bengala", "Un reflector de radar"],
+    "answer": 1,
+    "explanation": "Con menos de 12 m se admiten luces no homologadas visibles a 1 mn."
+  },
+  {
+    "id": "g-0589",
+    "topic": "seg",
+    "q": "En zonas 1 y 2, la tablilla de desvíos del compás se revisa cada…",
+    "options": ["Año", "2 años", "5 años", "10 años"],
+    "answer": 2,
+    "explanation": "Cada cinco años."
+  },
+  {
+    "id": "g-0590",
+    "topic": "seg",
+    "q": "La bocina de niebla es obligatoria en…",
+    "options": ["Solo zonas 1 y 2", "Todas las zonas, 1 a 7", "Zonas 1 a 4", "Solo de noche"],
+    "answer": 1,
+    "explanation": "Con ≥20 m de eslora, además campana."
+  },
+  {
+    "id": "g-0591",
+    "topic": "seg",
+    "q": "En zona 4, el número de baldes contra incendios es…",
+    "options": ["0", "1", "2", "3"],
+    "answer": 1,
+    "explanation": "Zonas 1–3: 2; zonas 4–6: 1."
+  },
+  {
+    "id": "g-0592",
+    "topic": "seg",
+    "q": "¿Qué material de armamento NO es obligatorio en todas las zonas?",
+    "options": ["Bichero", "Dos estachas de amarre", "Caña de emergencia en un velero", "Sextante"],
+    "answer": 3,
+    "explanation": "El sextante solo en zona 1."
+  },
+  {
+    "id": "g-0593",
+    "topic": "seg",
+    "q": "Las embarcaciones de recreo que naveguen en zonas 1 a 4 llevarán un botiquín del tipo…",
+    "options": ["A", "Balsas de salvamento", "C", "De primeros auxilios básico"],
+    "answer": 1,
+    "explanation": "RD 258/1999, con su Guía sanitaria."
+  },
+  {
+    "id": "g-0594",
+    "topic": "seg",
+    "q": "La gasolina es un combustible del grupo…",
+    "options": ["1", "2", "3", "4"],
+    "answer": 0,
+    "explanation": "Punto de inflamación inferior a 55 °C."
+  },
+  {
+    "id": "g-0595",
+    "topic": "seg",
+    "q": "El gasoil pertenece al grupo…",
+    "options": ["1", "2", "3", "Ninguno"],
+    "answer": 1,
+    "explanation": "Punto de inflamación ≥55 °C; motores de compresión."
+  },
+  {
+    "id": "g-0596",
+    "topic": "seg",
+    "q": "Los extintores de polvo seco sirven para…",
+    "options": [
+      "Solo fuegos eléctricos",
+      "Casi todos los fuegos, salvo los de metales",
+      "Solo combustibles",
+      "Solo gases"
+    ],
+    "answer": 1,
+    "explanation": "Son polivalentes."
+  },
+  {
+    "id": "g-0597",
+    "topic": "seg",
+    "q": "Los extintores portátiles se revisan…",
+    "options": ["Cada mes", "Cada año, por una empresa autorizada", "Cada 5 años", "Nunca"],
+    "answer": 1,
+    "explanation": "Y se retimbran a los 5, 10 y 15 años."
+  },
+  {
+    "id": "g-0598",
+    "topic": "seg",
+    "q": "La vida útil de un extintor termina a los…",
+    "options": ["5 años", "10 años", "15 años", "20 años"],
+    "answer": 3,
+    "explanation": "Desde su fabricación."
+  },
+  {
+    "id": "g-0599",
+    "topic": "seg",
+    "q": "Para usar un extintor, hay que dirigir el chorro…",
+    "options": [
+      "A la parte alta de las llamas",
+      "A la base de las llamas, de abajo arriba",
+      "Al humo",
+      "En círculos sobre el fuego"
+    ],
+    "answer": 1,
+    "explanation": "Extintor vertical, sin acercarse a menos de unos 3 m."
+  },
+  {
+    "id": "g-0600",
+    "topic": "seg",
+    "q": "Un extintor portátil funciona aproximadamente…",
+    "options": ["10 segundos", "1 minuto", "5 minutos", "15 minutos"],
+    "answer": 1,
+    "explanation": "Hay que dosificarlo."
+  },
+  {
+    "id": "g-0601",
+    "topic": "seg",
+    "q": "Un barco de 16 m de eslora necesita, según la eslora…",
+    "options": ["1 extintor 21B", "1 extintor 34B", "2 extintores 34B", "3 extintores 34B"],
+    "answer": 2,
+    "explanation": "15–20 m: 2 de 34B."
+  },
+  {
+    "id": "g-0602",
+    "topic": "seg",
+    "q": "Con un motor fueraborda de 250 kW, la capacidad de extinción requerida es…",
+    "options": ["25B", "34B", "75B", "250B"],
+    "answer": 2,
+    "explanation": "0,3 × 250 = 75B → 3 extintores 34B."
+  },
+  {
+    "id": "g-0603",
+    "topic": "seg",
+    "q": "1 kW equivale a…",
+    "options": ["0,74 CV", "1,36 CV", "10 CV", "1 CV"],
+    "answer": 1,
+    "explanation": "Por eso 20 kW ≈ 27,2 CV."
+  },
+  {
+    "id": "g-0604",
+    "topic": "seg",
+    "q": "Una embarcación sin marcado CE con motor de gasolina debe tener en el compartimento del motor…",
+    "options": ["Un balde", "Un sistema fijo de extinción", "Un detector de humos", "Un extintor de agua"],
+    "answer": 1,
+    "explanation": "Para no tener que abrir el compartimento en caso de incendio."
+  },
+  {
+    "id": "g-0605",
+    "topic": "seg",
+    "q": "Un barco con instalación de gas en el interior del casco debe llevar…",
+    "options": [
+      "Ventilación natural solamente",
+      "Detección de gases con alarma luminosa y sonora",
+      "Un extintor de agua",
+      "Un balde extra"
+    ],
+    "answer": 1,
+    "explanation": "Sistemas de detección de gases."
+  },
+  {
+    "id": "g-0606",
+    "topic": "seg",
+    "q": "La placa junto al arranque de un motor de gasolina recuerda ventilar el compartimento durante…",
+    "options": ["30 segundos", "1 minuto", "4 minutos", "10 minutos"],
+    "answer": 2,
+    "explanation": "Con arranque eléctrico, la ventilación debe ser forzada."
+  },
+  {
+    "id": "g-0607",
+    "topic": "seg",
+    "q": "En zona 4, los medios de achique mínimos son…",
+    "options": [
+      "Bomba del motor, bomba manual y 2 baldes",
+      "Una bomba manual o eléctrica y 1 balde",
+      "Solo un balde",
+      "Nada"
+    ],
+    "answer": 1,
+    "explanation": "Zonas 1–3: bomba del motor + manual/eléctrica + 2 baldes."
+  },
+  {
+    "id": "g-0608",
+    "topic": "seg",
+    "q": "En un velero en zonas 1 a 6, al menos una bomba de achique debe ser…",
+    "options": [
+      "Eléctrica",
+      "Manual y fija, manejable desde la bañera con todo cerrado",
+      "Portátil",
+      "Acoplada al motor"
+    ],
+    "answer": 1,
+    "explanation": "Para achicar sin abrir escotillas."
+  },
+  {
+    "id": "g-0609",
+    "topic": "seg",
+    "q": "La capacidad mínima de la bomba de achique de un barco de 10 m es…",
+    "options": ["10 L/min", "15 L/min", "30 L/min", "45 L/min"],
+    "answer": 1,
+    "explanation": "≤6 m: 10; 6–12 m: 15; ≥12 m: 30 L/min."
+  },
+  {
+    "id": "g-0610",
+    "topic": "seg",
+    "q": "Las sanciones del RD 339/2021 van desde 100 € por cada…",
+    "options": ["Bengala caducada", "Chaleco sin luz", "Extintor sin revisar", "Ancla de menos"],
+    "answer": 1,
+    "explanation": "Hasta 3.000 € por faltar sistemas fijos, detección o ventilación."
+  },
+  {
+    "id": "g-0611",
+    "topic": "seg",
+    "q": "En la prevención de caídas al agua, el número mínimo recomendado de arneses es…",
+    "options": ["Uno por barco", "El 50 % de la tripulación", "Uno por persona", "Dos"],
+    "answer": 1,
+    "explanation": "Y dos líneas de vida, una por banda."
+  },
+  {
+    "id": "g-0612",
+    "topic": "seg",
+    "q": "Si un tripulante cae al agua y no puede recuperarse casi sobre la marcha, se hace una alerta LSD por el canal 70 con el código…",
+    "options": ["16", "110 «Man over board»", "Mayday", "70"],
+    "answer": 1,
+    "explanation": "O una llamada de urgencia PAN PAN."
+  },
+  {
+    "id": "g-0613",
+    "topic": "seg",
+    "q": "Pulsar la tecla MOB del GNSS…",
+    "options": [
+      "Llama a Salvamento",
+      "Memoriza posición, fecha y hora y luego da rumbo y distancia a ese punto",
+      "Activa la radiobaliza",
+      "Para el motor"
+    ],
+    "answer": 1,
+    "explanation": "Muy útil si dejas de verle."
+  },
+  {
+    "id": "g-0614",
+    "topic": "seg",
+    "q": "Al acercarse a un náufrago que se ve, según el manual conviene situarse…",
+    "options": [
+      "A sotavento de él",
+      "A barlovento de él, recibiendo el viento por la amura",
+      "Por la popa",
+      "Con la mar de través"
+    ],
+    "answer": 1,
+    "explanation": "El barco no se aleja y le protege; luego se deja caer hacia él."
+  },
+  {
+    "id": "g-0615",
+    "topic": "seg",
+    "q": "En la maniobra de Boutakow, se mete todo el timón a la banda del náufrago hasta que la proa cae…",
+    "options": ["30°", "70°", "120°", "270°"],
+    "answer": 1,
+    "explanation": "Después todo a la otra banda hasta el rumbo opuesto."
+  },
+  {
+    "id": "g-0616",
+    "topic": "seg",
+    "q": "En la exploración por sectores, los giros son de…",
+    "options": ["90° a babor", "120° a estribor", "30° a estribor", "180°"],
+    "answer": 1,
+    "explanation": "Al terminar, se gira el primer sector 30° a estribor."
+  },
+  {
+    "id": "g-0617",
+    "topic": "seg",
+    "q": "La búsqueda en espiral cuadrada está especialmente indicada para…",
+    "options": ["Áreas grandes", "Áreas de búsqueda reducidas", "Navegar de noche sin GPS", "Remolques"],
+    "answer": 1,
+    "explanation": "Cuadrados concéntricos desde el datum."
+  },
+  {
+    "id": "g-0618",
+    "topic": "seg",
+    "q": "Para izar a un náufrago a bordo de un velero lo mejor es…",
+    "options": [
+      "Tirar de los brazos",
+      "Un aparejo de poleas en una driza",
+      "La escala de baño siempre",
+      "El bichero"
+    ],
+    "answer": 1,
+    "explanation": "Si está inconsciente, otro tripulante bien equipado se tira al agua."
+  },
+  {
+    "id": "g-0619",
+    "topic": "seg",
+    "q": "Con el agua entre 10 y 15 °C, el tiempo de supervivencia es de…",
+    "options": ["Menos de 45 min", "Menos de 3 h", "Menos de 7 h", "Indefinido"],
+    "answer": 2,
+    "explanation": "Moverse en el agua hace perder calor."
+  },
+  {
+    "id": "g-0620",
+    "topic": "seg",
+    "q": "Se considera hipotermia una temperatura corporal por debajo de…",
+    "options": ["37 °C", "35 °C", "31 °C", "28 °C"],
+    "answer": 1,
+    "explanation": "Bajo 31 °C se pierde el conocimiento."
+  },
+  {
+    "id": "g-0621",
+    "topic": "seg",
+    "q": "A un náufrago con hipotermia que respira se le pone…",
+    "options": [
+      "Boca arriba con las piernas en alto",
+      "En posición lateral, con calor en cuello, ingles y axilas",
+      "Bajo una ducha fría",
+      "Sentado y bebiendo alcohol"
+    ],
+    "answer": 1,
+    "explanation": "Abrigado, a resguardo y vigilado."
+  },
+  {
+    "id": "g-0622",
+    "topic": "seg",
+    "q": "La RCP se hace con una secuencia de…",
+    "options": [
+      "15 compresiones y 2 insuflaciones",
+      "30 compresiones y 2 insuflaciones",
+      "5 compresiones y 1 insuflación",
+      "Solo insuflaciones"
+    ],
+    "answer": 1,
+    "explanation": "A un ritmo de 100 compresiones por minuto."
+  },
+  {
+    "id": "g-0623",
+    "topic": "seg",
+    "q": "El teléfono del Servicio Radiomédico Español es el…",
+    "options": ["900 202 202", "913 103 475", "112", "016"],
+    "answer": 1,
+    "explanation": "Salvamento: 900 202 202."
+  },
+  {
+    "id": "g-0624",
+    "topic": "seg",
+    "q": "En un remolque, se pone a barlovento…",
+    "options": [
+      "Siempre el remolcado",
+      "El que da la guía, sea remolcador o remolcado",
+      "Siempre el remolcador",
+      "Ninguno"
+    ],
+    "answer": 1,
+    "explanation": "Así el viento acerca el cabo."
+  },
+  {
+    "id": "g-0625",
+    "topic": "seg",
+    "q": "Los tirones bruscos del cabo de remolque se llaman…",
+    "options": ["Guiñadas", "Estrechonazos", "Pantocazos", "Cabezadas"],
+    "answer": 1,
+    "explanation": "Se amortiguan con elasticidad, cadena, más longitud o un ancla en el centro."
+  },
+  {
+    "id": "g-0626",
+    "topic": "seg",
+    "q": "El cabo de remolque se hace firme en el remolcado…",
+    "options": [
+      "En la popa",
+      "En la proa, guiado para que tire desde la crujía",
+      "En el palo",
+      "En un candelero"
+    ],
+    "answer": 1,
+    "explanation": "El remolcador, en popa."
+  },
+  {
+    "id": "g-0627",
+    "topic": "seg",
+    "q": "La velocidad del remolcador no debe superar…",
+    "options": ["5 nudos", "10 nudos", "15 nudos", "20 nudos"],
+    "answer": 1,
+    "explanation": "Lo más constante posible."
+  },
+  {
+    "id": "g-0628",
+    "topic": "seg",
+    "q": "Los cambios de rumbo del remolcador deben ser de…",
+    "options": ["±10°", "±45°", "±90°", "Sin límite"],
+    "answer": 0,
+    "explanation": "Suaves y de acuerdo con la longitud del remolque."
+  },
+  {
+    "id": "g-0629",
+    "topic": "seg",
+    "q": "Cuando el remolcador cae a una banda, el remolcado mete timón…",
+    "options": ["A la misma banda", "A la banda contraria", "A la vía", "No toca el timón"],
+    "answer": 1,
+    "explanation": "Para seguir sus aguas."
+  },
+  {
+    "id": "g-0630",
+    "topic": "seg",
+    "q": "En el remolque abarloado, la aproximación se hace por…",
+    "options": ["Barlovento", "Sotavento", "La proa", "La popa"],
+    "answer": 1,
+    "explanation": "Con defensas; esprines y traveses son determinantes."
+  },
+  {
+    "id": "g-0631",
+    "topic": "seg",
+    "q": "Salvamento Marítimo fue creado en…",
+    "options": ["1975", "1992", "2001", "2010"],
+    "answer": 1,
+    "explanation": "Por la Ley de Puertos del Estado y de la Marina Mercante."
+  }
+]

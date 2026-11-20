@@ -1,0 +1,1358 @@
+[
+  {
+    "id": "gva-0006",
+    "topic": "seg",
+    "q": "¿Cuál es la propiedad que tiene una embarcación de recuperar su posición inicial cuando por culpa de una ola o del viento ésta se escora?:",
+    "options": ["Estabilidad.", "Estanqueidad.", "Flotabilidad.", "Escorabilidad."],
+    "answer": 0,
+    "explanation": "Estabilidad: la capacidad de volver a adrizarse tras escorar.",
+    "gva": {
+      "index": 6,
+      "sittings": ["2019-11"]
+    }
+  },
+  {
+    "id": "gva-0007",
+    "topic": "seg",
+    "q": "¿A qué elemento puede afectar en mayor medida una tormenta eléctrica?:",
+    "options": ["A una Corredera mecánica.", "Al Anemómetro.", "A la Aguja.", "Al Cabrestante."],
+    "answer": 2,
+    "explanation": "Un rayo o la carga eléctrica puede alterar el magnetismo del barco y desviar la aguja.",
+    "gva": {
+      "index": 7,
+      "sittings": ["2019-11"]
+    }
+  },
+  {
+    "id": "gva-0008",
+    "topic": "seg",
+    "q": "¿Dónde se deben estibar los chalecos salvavidas en una embarcación de recreo?:",
+    "options": [
+      "En cubierta a la intemperie, para tenerlos siempre localizados.",
+      "En un lugar de fácil acceso, de manera que cualquier persona a bordo pueda disponer de ellos cuando sea necesario.",
+      "Se deben llevar siempre puestos, no hace falta estibarlos en navegación.",
+      "En cualquier tambucho, pero siempre cerrado bajo llave."
+    ],
+    "answer": 1,
+    "explanation": "Chalecos en un lugar accesible para todos: nunca bajo llave.",
+    "gva": {
+      "index": 8,
+      "sittings": ["2019-11"]
+    }
+  },
+  {
+    "id": "gva-0009",
+    "topic": "seg",
+    "q": "¿Qué le pasa a una señal fumígena y a una bengala de mano si una vez activada después de 20 segundos son arrojadas al mar?:",
+    "options": [
+      "Que ambas tras sumergirse en el agua flotarán y continuarán activadas al menos 120 segundos.",
+      "Que ambas se apagaran tras caer al agua.",
+      "Que el bote de humo flotará siguiendo activado y la bengala se hundirá.",
+      "Que el bote de humo se apagara en cuanto toque el agua, pero la bengala aun aguantara activa 80 segundos más."
+    ],
+    "answer": 2,
+    "explanation": "La fumígena flota y sigue echando humo; la bengala de mano se apaga o se hunde.",
+    "gva": {
+      "index": 9,
+      "sittings": ["2019-11"]
+    }
+  },
+  {
+    "id": "gva-0051",
+    "topic": "seg",
+    "q": "Se entiende por capear el temporal:",
+    "options": [
+      "Soportar la mar por el través.",
+      "Soportar la mar por las amuras.",
+      "Soportar la mar por las aletas.",
+      "Soportar la mar por la popa."
+    ],
+    "answer": 1,
+    "explanation": "Capear: recibir la mar por la amura, con poca máquina.",
+    "gva": {
+      "index": 51,
+      "sittings": ["2021-04"]
+    }
+  },
+  {
+    "id": "gva-0052",
+    "topic": "seg",
+    "q": "En caso de niebla cerrada una de las primeras precauciones es:",
+    "options": [
+      "Aumentar la velocidad al máximo y volver a puerto.",
+      "Reducir la velocidad para disminuir el riesgo de colisión.",
+      "Disminuir la vigilancia ya que no veremos nada.",
+      "Encender todas las luces y silenciar el VHF."
+    ],
+    "answer": 1,
+    "explanation": "Niebla: velocidad de seguridad (reducir), vigilancia máxima, radar y señales acústicas.",
+    "gva": {
+      "index": 52,
+      "sittings": ["2021-04"]
+    }
+  },
+  {
+    "id": "gva-0053",
+    "topic": "seg",
+    "q": "Los arneses y línea de vida tienen la función de:",
+    "options": [
+      "Mantener a flote a dos o tres personas.",
+      "Evitar que caigamos al agua y nos separemos de la embarcación.",
+      "Sujetar las balsas al barco en caso de naufragio.",
+      "Evitar que nos caigamos al agua y nos hundamos."
+    ],
+    "answer": 1,
+    "explanation": "Arnés + línea de vida: te mantienen unido al barco para no caer al agua o no separarte.",
+    "gva": {
+      "index": 53,
+      "sittings": ["2021-04"]
+    }
+  },
+  {
+    "id": "gva-0054",
+    "topic": "seg",
+    "q": "En caso de tener que dar remolque, la longitud del cabo será:",
+    "options": [
+      "Menor conforme el estado del mar este peor.",
+      "De aproximadamente 5 veces la manga del barco.",
+      "Mayor conforme el estado del mar este peor.",
+      "De aproximadamente 5 veces el puntal del barco."
+    ],
+    "answer": 2,
+    "explanation": "Peor mar, remolque más largo: absorbe los tirones y evita que el cabo falle.",
+    "gva": {
+      "index": 54,
+      "sittings": ["2021-04"]
+    }
+  },
+  {
+    "id": "gva-0096",
+    "topic": "seg",
+    "q": "¿Sobre qué eje rota la embarcación ante un balance?:",
+    "options": [
+      "Sobre el eje longitudinal.",
+      "Sobre el eje transversal.",
+      "Sobre el eje vertical.",
+      "Sobre el eje latitudinal."
+    ],
+    "answer": 0,
+    "explanation": "Balance: giro sobre el eje longitudinal (de banda a banda). Cabezada: sobre el transversal.",
+    "gva": {
+      "index": 96,
+      "sittings": ["2021-07"]
+    }
+  },
+  {
+    "id": "gva-0097",
+    "topic": "seg",
+    "q": "¿Qué precaución NO se debe tener en cuenta al navegar por aguas someras?:",
+    "options": [
+      "Conectar la sonda.",
+      "Situarse en la carta con mayor frecuencia.",
+      "Aumentar la velocidad de la embarcación al máximo.",
+      "Conocer la tendencia de la marea."
+    ],
+    "answer": 2,
+    "explanation": "En aguas someras se va despacio: sonda conectada, situarse a menudo y conocer la marea.",
+    "gva": {
+      "index": 97,
+      "sittings": ["2021-07"]
+    }
+  },
+  {
+    "id": "gva-0098",
+    "topic": "seg",
+    "q": "¿Cuál es el nombre de la maniobra de aproximación cuando se ve un náufrago, que consiste en meter todo el timón a la banda que ha caído el náufrago y cuando haya caído 270º del rumbo inicial poner timón a la vía?:",
+    "options": [
+      "Maniobra de Boutakow.",
+      "Maniobra de exploración en espiral cuadrada.",
+      "Maniobra de Anderson.",
+      "Maniobra de exploración por sectores."
+    ],
+    "answer": 2,
+    "explanation": "Anderson: todo el timón a la banda del náufrago hasta caer unos 270º.",
+    "gva": {
+      "index": 98,
+      "sittings": ["2021-07"]
+    }
+  },
+  {
+    "id": "gva-0099",
+    "topic": "seg",
+    "q": "Antes de una RCP (reanimación cardiopulmonar), ¿qué no se debe hacer?:",
+    "options": [
+      "Abrir las vías respiratorias.",
+      "Perder tiempo desnudando completamente a la víctima.",
+      "Comprobar que la lengua no obstruye las vías respiratorias.",
+      "En caso de un adulto tapar la nariz con los dedos antes de las insuflaciones."
+    ],
+    "answer": 1,
+    "explanation": "Antes de una RCP no se pierde tiempo desnudando a la víctima: se abre la vía aérea y se empieza.",
+    "gva": {
+      "index": 99,
+      "sittings": ["2021-07"]
+    }
+  },
+  {
+    "id": "gva-0141",
+    "topic": "seg",
+    "q": "Capear el temporal:",
+    "options": [
+      "Es recibir las olas por el través de nuestro barco.",
+      "Es aguantar el temporal con el barco parado y a la deriva.",
+      "Es recibir las olas por cualquiera de las amuras de nuestra embarcación.",
+      "Es recibir las olas por cualquiera de las aletas de nuestra embarcación."
+    ],
+    "answer": 2,
+    "explanation": "Capear: olas por las amuras.",
+    "gva": {
+      "index": 141,
+      "sittings": ["2021-06"]
+    }
+  },
+  {
+    "id": "gva-0142",
+    "topic": "seg",
+    "q": "De los siguientes instrumentos náuticos ¿cuál podría verse afectado en caso de una tormenta eléctrica?:",
+    "options": ["El reflector radar.", "La aguja.", "El orinque.", "La rabiza."],
+    "answer": 1,
+    "explanation": "La aguja: la tormenta eléctrica puede desviarla.",
+    "gva": {
+      "index": 142,
+      "sittings": ["2021-06"]
+    }
+  },
+  {
+    "id": "gva-0143",
+    "topic": "seg",
+    "q": "Al arnés se le une un cabo que recibe el nombre de:",
+    "options": ["Sisga.", "Línea de vida.", "Rabiza.", "Chicote"],
+    "answer": 1,
+    "explanation": "Línea de vida: el cabo que une el arnés al barco.",
+    "gva": {
+      "index": 143,
+      "sittings": ["2021-06"]
+    }
+  },
+  {
+    "id": "gva-0144",
+    "topic": "seg",
+    "q": "En el aro salvavidas va pintado:",
+    "options": [
+      "El nombre de la persona que lo lleva para su identificación.",
+      "El nombre del barco y su matrícula.",
+      "El peso que es capaz de soportar sin que se hunda.",
+      "Sólo el nombre del barco."
+    ],
+    "answer": 1,
+    "explanation": "El aro lleva el nombre del barco y su matrícula.",
+    "gva": {
+      "index": 144,
+      "sittings": ["2021-06"]
+    }
+  },
+  {
+    "id": "gva-0185",
+    "topic": "seg",
+    "q": "En el caso de recoger un náufrago consciente con síntomas de hipotermia, debemos:",
+    "options": [
+      "No darle ningún tipo de líquidos.",
+      "Darle bebidas frías.",
+      "Darle pequeños tragos de bebidas con alcohol.",
+      "Darle bebidas calientes azucaradas."
+    ],
+    "answer": 3,
+    "explanation": "Hipotermia consciente: bebidas calientes y azucaradas. Nunca alcohol.",
+    "gva": {
+      "index": 185,
+      "sittings": ["2021-11"]
+    }
+  },
+  {
+    "id": "gva-0186",
+    "topic": "seg",
+    "q": "¿Cuál es principalmente el riesgo de una costa a sotavento?",
+    "options": [
+      "Que si nuestra embarcación se queda a la deriva este protegida por la costa del mal tiempo.",
+      "Que, si nuestra embarcación se queda a la deriva, el viento y la mar nos arrastren hacia alta mar.",
+      "Que, si nuestra embarcación se queda a la deriva, el viento y la mar nos arrastren hacia la costa.",
+      "El hecho de que la costa este a sotavento o barlovento no implica ningún riesgo."
+    ],
+    "answer": 2,
+    "explanation": "Costa a sotavento: si quedas a la deriva, el viento y la mar te llevan contra ella.",
+    "gva": {
+      "index": 186,
+      "sittings": ["2021-11"]
+    }
+  },
+  {
+    "id": "gva-0187",
+    "topic": "seg",
+    "q": "En caso de que el mal tiempo nos sorprenda navegando deberemos:",
+    "options": [
+      "Abrir todos los grifos de fondo.",
+      "Cerrar absolutamente todos los grifos de fondo.",
+      "Cerrar todos los grifos de fondo excepto aquellos que tengamos que utilizar como el de toma de agua del mar para refrigeración del motor.",
+      "Orientar a barlovento la boca de los manguerotes."
+    ],
+    "answer": 2,
+    "explanation": "Mal tiempo: cierra los grifos de fondo salvo los imprescindibles (refrigeración del motor).",
+    "gva": {
+      "index": 187,
+      "sittings": ["2021-11"]
+    }
+  },
+  {
+    "id": "gva-0188",
+    "topic": "seg",
+    "q": "El sistema de búsqueda en espiral cuadrada:",
+    "options": [
+      "Consiste en iniciar la búsqueda en el Datum y ampliar el área explorada virando cada cierto tiempo 90º a estribor.",
+      "Consiste en iniciar la búsqueda a partir del Datum y todos los giros son de 120º a estribor.",
+      "Consiste en una exploración de dos buques navegando al mismo rumbo y paralelamente a una distancia fija entre ambos.",
+      "Es una maniobra concebida para tres o más buques."
+    ],
+    "answer": 0,
+    "explanation": "Espiral cuadrada: desde el Datum, tramos crecientes con giros de 90º.",
+    "gva": {
+      "index": 188,
+      "sittings": ["2021-11"]
+    }
+  },
+  {
+    "id": "gva-0230",
+    "topic": "seg",
+    "q": "La propiedad que tiene un buque de recuperar su estado inicial de equilibrio cuando por una causa externa hace que lo pierda, se denomina:",
+    "options": ["Estabilidad", "Flotabilidad", "Equilibrio Indiferente", "Sincronismo"],
+    "answer": 0,
+    "explanation": "Estabilidad.",
+    "gva": {
+      "index": 230,
+      "sittings": ["2022-12"]
+    }
+  },
+  {
+    "id": "gva-0231",
+    "topic": "seg",
+    "q": "Por seguridad, antes de poner en marcha el motor para salir del puerto. ¿Qué comprobación o comprobaciones se harían?",
+    "options": [
+      "Comprobar el nivel de combustible",
+      "Comprobar el nivel de aceite",
+      "Comprobar las luces de costado",
+      "Las respuestas a y b son ciertas"
+    ],
+    "answer": 3,
+    "explanation": "Antes de arrancar: combustible y aceite. Las luces no son una comprobación del motor.",
+    "gva": {
+      "index": 231,
+      "sittings": ["2022-12", "2024-11"]
+    }
+  },
+  {
+    "id": "gva-0232",
+    "topic": "seg",
+    "q": "La acción de navegar para aguantar un temporal por las amuras, se denomina:",
+    "options": ["Capear el temporal", "Correr el temporal", "Arranchar a son de mar", "Bornear"],
+    "answer": 0,
+    "explanation": "Capear: aguantar con la mar por las amuras.",
+    "gva": {
+      "index": 232,
+      "sittings": ["2022-12"]
+    }
+  },
+  {
+    "id": "gva-0233",
+    "topic": "seg",
+    "q": "El instrumento utilizado para hacer señales durante el día en ausencia de niebla con el fin de que nos localicen, se denomina:",
+    "options": ["Bote de humo", "Bocina", "Sextante", "Heliógrafo"],
+    "answer": 3,
+    "explanation": "Heliógrafo: espejo de señales que refleja el sol.",
+    "gva": {
+      "index": 233,
+      "sittings": ["2022-12", "2024-11"]
+    }
+  },
+  {
+    "id": "gva-0275",
+    "topic": "seg",
+    "q": "En caso de tener que iniciar un masaje cardiaco a bordo a un náufrago, ¿cuándo se debe interrumpir este?:",
+    "options": [
+      "Siempre tras 10 compresiones torácicas.",
+      "Cada minuto para hacer un descanso.",
+      "Cuando la temperatura del paciente es de 35º C.",
+      "Hasta no reanimarlo no se debe interrumpir, por lo que si es necesario nos iremos relevando."
+    ],
+    "answer": 3,
+    "explanation": "Se sigue la RCP sin interrumpir hasta que se recupere o llegue ayuda, relevándose si hace falta.",
+    "gva": {
+      "index": 275,
+      "sittings": ["2022-02"]
+    }
+  },
+  {
+    "id": "gva-0276",
+    "topic": "seg",
+    "q": "Una persona con hipotermia puede presentar entre otras:",
+    "options": [
+      "Piel fría pálida o azulada.",
+      "Temblor y debilidad.",
+      "Respiración y latidos de corazón lentos.",
+      "Todas las respuestas son correctas."
+    ],
+    "answer": 3,
+    "explanation": "Hipotermia: piel fría y pálida o azulada, temblores y debilidad, pulso y respiración lentos.",
+    "gva": {
+      "index": 276,
+      "sittings": ["2022-02"]
+    }
+  },
+  {
+    "id": "gva-0277",
+    "topic": "seg",
+    "q": "En la activación de una bengala de mano, ¿qué haríamos si inmediatamente después de tirar de la anilla la bengala no se activa?:",
+    "options": [
+      "Meter el dedo en el orificio de salida para manipular el percutor con la uña.",
+      "Tener un poco de paciencia y mantener la correcta sujeción por si tiene un retardo en su activación.",
+      "Acercárnosla a la cara para observar que está pasando.",
+      "Metérnosla en un bolsillo, por si más adelante podemos repararla."
+    ],
+    "answer": 1,
+    "explanation": "Si no prende, espera sujetándola apuntando lejos: puede tener retardo. Nunca la mires de cerca.",
+    "gva": {
+      "index": 277,
+      "sittings": ["2022-02"]
+    }
+  },
+  {
+    "id": "gva-0278",
+    "topic": "seg",
+    "q": "Cuando no vemos a un náufrago, una de las formas de búsqueda puede ser:",
+    "options": [
+      "Maniobra de Anderson.",
+      "Maniobra de Boutakow.",
+      "Maniobra de exploración en espiral cuadrada.",
+      "Maniobra de exploración en tirabuzón."
+    ],
+    "answer": 2,
+    "explanation": "Si no lo ves, búsqueda en espiral cuadrada. Anderson y Boutakow son para volver hacia él.",
+    "gva": {
+      "index": 278,
+      "sittings": ["2022-02"]
+    }
+  },
+  {
+    "id": "gva-0320",
+    "topic": "seg",
+    "q": "¿Qué tipo de embarcaciones deben llevar el reflector de radar?",
+    "options": [
+      "Las embarcaciones de casco de madera",
+      "Las embarcaciones de fibra de vidrio",
+      "Las embarcaciones de casco metálico",
+      "Las respuestas a y b son correctas"
+    ],
+    "answer": 3,
+    "explanation": "El reflector radar lo necesitan los cascos poco reflectantes: madera y fibra.",
+    "gva": {
+      "index": 320,
+      "sittings": ["2022-06"]
+    }
+  },
+  {
+    "id": "gva-0321",
+    "topic": "seg",
+    "q": "De las siguientes maniobras. ¿Cuál sería la más adecuada para evitar que la embarcación entre en un sincronismo transversal?",
+    "options": [
+      "Cambiar el rumbo o la velocidad",
+      "Cambiar el rumbo",
+      "Rebajar pesos arrojándolos por la borda",
+      "Aminorar la velocidad de la embarcación"
+    ],
+    "answer": 1,
+    "explanation": "El sincronismo transversal se rompe cambiando de rumbo, que altera el periodo de encuentro con las olas.",
+    "gva": {
+      "index": 321,
+      "sittings": ["2022-06"]
+    }
+  },
+  {
+    "id": "gva-0322",
+    "topic": "seg",
+    "q": "¿Cuál es la respuesta más apropiada en relación con las “aguas someras”?",
+    "options": [
+      "Cuando estemos navegado tendremos un calado pequeño a la sonda del momento",
+      "Entraremos en una zona de bajos sobre la cual podremos divisar el fondo marino",
+      "Aguas cuyo fondo es de fango",
+      "Las respuestas b y c son las más correctas"
+    ],
+    "answer": 1,
+    "explanation": "Aguas someras: poco fondo, se puede ver el fondo y hay riesgo de varar.",
+    "gva": {
+      "index": 322,
+      "sittings": ["2022-06"]
+    }
+  },
+  {
+    "id": "gva-0323",
+    "topic": "seg",
+    "q": "¿Cuál es el número de la Sociedad Estatal de Salvamento Marítimo para las emergencias marítimas?",
+    "options": ["900220022", "906222222", "902200002", "900202202"],
+    "answer": 3,
+    "explanation": "Salvamento Marítimo: 900 202 202.",
+    "gva": {
+      "index": 323,
+      "sittings": ["2022-06"]
+    }
+  },
+  {
+    "id": "gva-0365",
+    "topic": "seg",
+    "q": "¿Cómo se conoce al movimiento longitudinal, que realiza un barco navegando con mal tiempo debido al oleaje?",
+    "options": ["Cabezada", "Balance", "Escora", "Estabilidad"],
+    "answer": 0,
+    "explanation": "Cabezada: movimiento longitudinal (proa arriba y abajo).",
+    "gva": {
+      "index": 365,
+      "sittings": ["2023-04", "2024-11"]
+    }
+  },
+  {
+    "id": "gva-0366",
+    "topic": "seg",
+    "q": "La tendencia que tiene el buque al cambio de asiento, podríamos definirla como la:",
+    "options": [
+      "Estabilidad transversal",
+      "Estabilidad estática",
+      "Estabilidad longitudinal",
+      "Ninguna de las anteriores respuestas es cierta"
+    ],
+    "answer": 2,
+    "explanation": "Estabilidad longitudinal: tiene que ver con el asiento.",
+    "gva": {
+      "index": 366,
+      "sittings": ["2023-04"]
+    }
+  },
+  {
+    "id": "gva-0367",
+    "topic": "seg",
+    "q": "La maniobra de aproximación metiendo todo el timón a la banda de caída del náufrago, y cuando se haya caído 70º del rumbo inicial, se cambia el timón a la banda contraria describiéndose un círculo, y cuando se tenga el rumbo opuesto al que llevábamos antes de caer el hombre al agua, deberá este aparecer por la proa, se denomina:",
+    "options": [
+      "Maniobra de Anderson",
+      "Maniobra de Boutakow",
+      "Maniobra de Heimlich",
+      "Maniobra de Valsalva"
+    ],
+    "answer": 1,
+    "explanation": "Boutakow: 70º a la banda del náufrago y luego todo a la contraria, para volver por la estela.",
+    "gva": {
+      "index": 367,
+      "sittings": ["2023-04"]
+    }
+  },
+  {
+    "id": "gva-0368",
+    "topic": "seg",
+    "q": "De las siguientes acciones. ¿Cuál no es cierta en referencia a antes de poner en marcha el motor?",
+    "options": [
+      "Mirar el nivel de aceite",
+      "Mirar fugas de aceite",
+      "Mirar fugas de combustible",
+      "Mirar el parte meteorológico"
+    ],
+    "answer": 3,
+    "explanation": "El parte meteorológico se mira antes de salir, pero no es una comprobación del motor.",
+    "gva": {
+      "index": 368,
+      "sittings": ["2023-04"]
+    }
+  },
+  {
+    "id": "gva-0410",
+    "topic": "seg",
+    "q": "¿Cómo se conoce al movimiento transversal, que realiza un barco navegando con mal tiempo debido al oleaje?",
+    "options": ["Estabilidad", "Balance", "Escora", "Cabezada"],
+    "answer": 1,
+    "explanation": "Balance: movimiento transversal.",
+    "gva": {
+      "index": 410,
+      "sittings": ["2023-02"]
+    }
+  },
+  {
+    "id": "gva-0411",
+    "topic": "seg",
+    "q": "El elemento que separa el agua del combustible, y que se encuentra en la sala de máquinas de un barco, es el:",
+    "options": [
+      "Filtro decantador del aceite",
+      "Separador de líquidos de la sentina",
+      "Filtro decantador de agua",
+      "Filtro del turbo soplante"
+    ],
+    "answer": 2,
+    "explanation": "Filtro decantador: separa el agua del combustible.",
+    "gva": {
+      "index": 411,
+      "sittings": ["2023-02"]
+    }
+  },
+  {
+    "id": "gva-0412",
+    "topic": "seg",
+    "q": "La acción de navegar para aguantar un temporal por las aletas, se denomina:",
+    "options": ["Arranchar a son de mar", "Capear el temporal", "Correr el temporal", "Garrear"],
+    "answer": 2,
+    "explanation": "Correr el temporal: mar por las aletas o la popa.",
+    "gva": {
+      "index": 412,
+      "sittings": ["2023-02"]
+    }
+  },
+  {
+    "id": "gva-0413",
+    "topic": "seg",
+    "q": "Las aguas someras cercanas al litoral se caracterizan por:",
+    "options": [
+      "Tener mucha profundidad",
+      "Estar compuestas únicamente de fango y limo",
+      "Tener poca profundidad",
+      "Superar los 30 metros de profundidad"
+    ],
+    "answer": 2,
+    "explanation": "Someras = poco profundas.",
+    "gva": {
+      "index": 413,
+      "sittings": ["2023-02"]
+    }
+  },
+  {
+    "id": "gva-0453",
+    "topic": "seg",
+    "q": "Se entiende por aguas someras:",
+    "options": [
+      "A las aguas que tienen mucha profundidad cerca de la costa.",
+      "Las que tienen un alto contenido en sal.",
+      "Las aguas poco profundas en las que podemos varar",
+      "Las que se encuentran en los fondeaderos"
+    ],
+    "answer": 2,
+    "explanation": "Someras: poco fondo, con riesgo de varar.",
+    "gva": {
+      "index": 453,
+      "sittings": ["2023-07"]
+    }
+  },
+  {
+    "id": "gva-0454",
+    "topic": "seg",
+    "q": "Las bengalas de mano que se usan en los barcos de recreo, una vez que se encienden, desprenden una luz de color rojo intenso con una duración mínima de:",
+    "options": ["3 minutos", "40 segundos", "5 minutos", "60 segundos"],
+    "answer": 3,
+    "explanation": "Bengala de mano: luz roja durante al menos 60 segundos.",
+    "gva": {
+      "index": 454,
+      "sittings": ["2023-07"]
+    }
+  },
+  {
+    "id": "gva-0455",
+    "topic": "seg",
+    "q": "Si navegando en altamar a 10 nudos notamos que falta un tripulante y sospechamos que ha caído al mar, y desconocemos donde y cuando ha desaparecido, la maniobra más adecuada para buscarlo es la:",
+    "options": [
+      "Evolución a la vista",
+      "Curva de Boutakow",
+      "Curva o método del minuto",
+      "Maniobra de Anderson"
+    ],
+    "answer": 1,
+    "explanation": "Si no sabes cuándo cayó, Boutakow: te devuelve por tu propia estela.",
+    "gva": {
+      "index": 455,
+      "sittings": ["2023-07"]
+    }
+  },
+  {
+    "id": "gva-0456",
+    "topic": "seg",
+    "q": "Los extintores portátiles de polvo ABC también son conocidos como:",
+    "options": [
+      "Polvo convencional",
+      "Polvos especiales",
+      "Polvo de bicarbonato potásico",
+      "Polvo polivalente"
+    ],
+    "answer": 3,
+    "explanation": "El polvo ABC se llama polvo polivalente.",
+    "gva": {
+      "index": 456,
+      "sittings": ["2023-07"]
+    }
+  },
+  {
+    "id": "gva-0498",
+    "topic": "seg",
+    "q": "Navegando con mal tiempo se debe evitar:",
+    "options": ["Atravesarse a la mar", "Capear el temporal", "Navegar de amura", "Correr el temporal"],
+    "answer": 0,
+    "explanation": "Con mal tiempo, nunca atravesarse a la mar: riesgo de vuelco.",
+    "gva": {
+      "index": 498,
+      "sittings": ["2023-11"]
+    }
+  },
+  {
+    "id": "gva-0499",
+    "topic": "seg",
+    "q": "Las señales fumígenas flotantes de acuerdo con la normativa vigente, emitirán humo de color naranja un tiempo mínimo de:",
+    "options": ["5 minutos", "4 minutos", "2 minutos", "3 minutos"],
+    "answer": 3,
+    "explanation": "Fumígena flotante: humo naranja durante al menos 3 minutos.",
+    "gva": {
+      "index": 499,
+      "sittings": ["2023-11"]
+    }
+  },
+  {
+    "id": "gva-0500",
+    "topic": "seg",
+    "q": "Si una persona que desde tierra ve una embarcación o personas con claros síntomas de estar en dificultades (agitar los brazos, bengalas, humo o fuego, etc.) en el caso de poder contactar por teléfono con SASEMAR, el número es:",
+    "options": ["900 303 303", "901 202 202", "900 302 302", "900 202 202"],
+    "answer": 3,
+    "explanation": "Salvamento Marítimo: 900 202 202 (o 112).",
+    "gva": {
+      "index": 500,
+      "sittings": ["2023-11"]
+    }
+  },
+  {
+    "id": "gva-0501",
+    "topic": "seg",
+    "q": "Si se recoge un náufrago con claros síntomas de hipotermia, ¿Cómo actuaremos?",
+    "options": [
+      "Si está consciente le daremos bebidas calientes azucaradas",
+      "Secando su piel con frotamientos muy enérgicos para que entre en calor",
+      "Dándole bebidas alcohólicas de poca graduación",
+      "Dándole agua incluso si no está consciente"
+    ],
+    "answer": 0,
+    "explanation": "Bebidas calientes y azucaradas, solo si está consciente.",
+    "gva": {
+      "index": 501,
+      "sittings": ["2023-11", "2025-06"]
+    }
+  },
+  {
+    "id": "gva-0543",
+    "topic": "seg",
+    "q": "El movimiento transversal ocasionado en una embarcación de recreo a consecuencia del oleaje, se denomina:",
+    "options": ["Arrufo", "Cabezada", "Cuchareo", "Balance"],
+    "answer": 3,
+    "explanation": "Balance.",
+    "gva": {
+      "index": 543,
+      "sittings": ["2023-09", "2025-06"]
+    }
+  },
+  {
+    "id": "gva-0544",
+    "topic": "seg",
+    "q": "Si nos encontramos navegando en una zona con niebla y reducimos la velocidad, lo más conveniente por seguridad, será:",
+    "options": [
+      "Dar repiques de campana cada 15 minutos",
+      "Contactar con la estación costera y preguntar a que hora desaparecerá la niebla",
+      "Mantenerse apartado de las rutas de navegación más frecuentadas por los grandes buques.",
+      "Todas las respuestas anteriores son ciertas"
+    ],
+    "answer": 2,
+    "explanation": "En niebla, apártate de las rutas de los buques grandes. Las campanas cada 15 min no son ninguna señal reglamentaria.",
+    "gva": {
+      "index": 544,
+      "sittings": ["2023-09"]
+    }
+  },
+  {
+    "id": "gva-0545",
+    "topic": "seg",
+    "q": "La rabiza de un aro salvavidas, cuando sea obligatoria, tendrá una medida mínima de:",
+    "options": ["20 metros", "25 metros", "35 metros", "30 metros"],
+    "answer": 3,
+    "explanation": "La rabiza del aro mide 30 m.",
+    "gva": {
+      "index": 545,
+      "sittings": ["2023-09", "2025-06"]
+    }
+  },
+  {
+    "id": "gva-0546",
+    "topic": "seg",
+    "q": "La maniobra de hombre al agua, que se realiza dando máquina avante con el timón a la banda de caída del náufrago hasta que la proa caiga 270º, se denomina de:",
+    "options": ["Anderson.", "Boutakow.", "Del minuto.", "Espiral."],
+    "answer": 0,
+    "explanation": "Anderson: unos 270º, con el timón a la banda de caída.",
+    "gva": {
+      "index": 546,
+      "sittings": ["2023-09"]
+    }
+  },
+  {
+    "id": "gva-0588",
+    "topic": "seg",
+    "q": "¿Qué finalidad tienen las “líneas de vida”?",
+    "options": [
+      "Para evitar caer al agua por la borda",
+      "Para dar remolque a otra embarcación",
+      "Para poder coger agua de la mar con un balde",
+      "Para poder amarrar una vela y ser izada"
+    ],
+    "answer": 0,
+    "explanation": "Línea de vida: evita caer por la borda.",
+    "gva": {
+      "index": 588,
+      "sittings": ["2024-04"]
+    }
+  },
+  {
+    "id": "gva-0589",
+    "topic": "seg",
+    "q": "Las bengalas de mano de emergencia en los buques deportivos, una vez activadas, desprenden un color:",
+    "options": ["Rojo brillante", "Naranja brillante", "Blanco brillante", "Verde brillante"],
+    "answer": 0,
+    "explanation": "Bengala de mano: rojo brillante.",
+    "gva": {
+      "index": 589,
+      "sittings": ["2024-04"]
+    }
+  },
+  {
+    "id": "gva-0590",
+    "topic": "seg",
+    "q": "¿Cómo se denomina el movimiento que hace la embarcación de aproarse debido a la acción de la mar?",
+    "options": ["Oscilación", "Frecuencia", "Balance", "Cabecear"],
+    "answer": 3,
+    "explanation": "Cabecear: movimiento de proa a popa.",
+    "gva": {
+      "index": 590,
+      "sittings": ["2024-04"]
+    }
+  },
+  {
+    "id": "gva-0591",
+    "topic": "seg",
+    "q": "En caso de temporal, ¿Cuál sería la medida más apropiada para regresar a puerto lo antes posible con seguridad?",
+    "options": [
+      "Poner la velocidad adecuada en función del oleaje",
+      "Correr el temporal",
+      "Capear el temporal",
+      "Todas las respuestas son correctas"
+    ],
+    "answer": 3,
+    "explanation": "Para volver con temporal: velocidad adecuada y capear o correr según convenga. La clave da «todas».",
+    "gva": {
+      "index": 591,
+      "sittings": ["2024-04"]
+    }
+  },
+  {
+    "id": "gva-0633",
+    "topic": "seg",
+    "q": "¿Para qué fines se pueden utilizar los baldes contra incendios?",
+    "options": [
+      "Para extinguir fuegos y transbordar combustible",
+      "Para apagar fuegos y depositar la carnada para pescar",
+      "Para guardar las señales pirotécnicas",
+      "Para apagar fuegos y para achicar agua"
+    ],
+    "answer": 3,
+    "explanation": "Baldes contra incendios: apagar fuegos y achicar.",
+    "gva": {
+      "index": 633,
+      "sittings": ["2024-02"]
+    }
+  },
+  {
+    "id": "gva-0634",
+    "topic": "seg",
+    "q": "La estabilidad estática transversal depende de la posición de:",
+    "options": [
+      "El centro de gravedad y el calado",
+      "El centro de carena y el francobordo",
+      "El centro de carena, el centro de gravedad y el metacentro",
+      "El centro de gravedad y la escora"
+    ],
+    "answer": 2,
+    "explanation": "La estabilidad transversal depende de G (gravedad), C (carena) y M (metacentro): GM.",
+    "gva": {
+      "index": 634,
+      "sittings": ["2024-02"]
+    }
+  },
+  {
+    "id": "gva-0635",
+    "topic": "seg",
+    "q": "¿Cómo se denomina el movimiento que hace la embarcación de inclinarse continuamente hacia los costados debido a la acción de la mar?",
+    "options": ["Oscilación", "Frecuencia", "Balance", "Cabeceada"],
+    "answer": 2,
+    "explanation": "Balance.",
+    "gva": {
+      "index": 635,
+      "sittings": ["2024-02"]
+    }
+  },
+  {
+    "id": "gva-0636",
+    "topic": "seg",
+    "q": "Lo que siempre hemos de evitar en caso de temporal es:",
+    "options": [
+      "Poner la velocidad adecuada",
+      "Atravesarnos a la mar",
+      "Correr el temporal",
+      "Capear el temporal"
+    ],
+    "answer": 1,
+    "explanation": "Nunca atravesarse a la mar.",
+    "gva": {
+      "index": 636,
+      "sittings": ["2024-02"]
+    }
+  },
+  {
+    "id": "gva-0678",
+    "topic": "seg",
+    "q": "La definición correcta de la expresión “Capear el temporal” es:",
+    "options": [
+      "Poner la amura a la mar y con mucha velocidad",
+      "Poner la amura a la mar y con poca velocidad",
+      "Poner la aleta a la mar y poca velocidad",
+      "Ponerse de costado a la mar con máxima velocidad para alejarse"
+    ],
+    "answer": 1,
+    "explanation": "Capear: amura a la mar y poca velocidad.",
+    "gva": {
+      "index": 678,
+      "sittings": ["2024-06", "2025-04"]
+    }
+  },
+  {
+    "id": "gva-0679",
+    "topic": "seg",
+    "q": "¿Cómo se denomina la propiedad que tiene la embarcación de recuperar su posición inicial de equilibrio, cuando se encuentra escorada debido a la acción del viento o la mar?",
+    "options": ["Estabilidad longitudinal", "Apopamiento", "Estabilidad transversal", "Flotabilidad"],
+    "answer": 2,
+    "explanation": "Estabilidad transversal: recuperarse de la escora.",
+    "gva": {
+      "index": 679,
+      "sittings": ["2024-06"]
+    }
+  },
+  {
+    "id": "gva-0680",
+    "topic": "seg",
+    "q": "¿Cómo se denomina el movimiento longitudinal de la embarcación de elevación y descenso de la proa debido a la acción de la mar?",
+    "options": ["Oscilación", "Cabeceo", "Balance", "Escora"],
+    "answer": 1,
+    "explanation": "Cabeceo.",
+    "gva": {
+      "index": 680,
+      "sittings": ["2024-06", "2025-04"]
+    }
+  },
+  {
+    "id": "gva-0681",
+    "topic": "seg",
+    "q": "La maniobra que consiste en variar el rumbo 270º para aproximarnos a un tripulante que ha caído de la embarcación, es conocida como:",
+    "options": ["Anderson", "Boutakow", "Virada en redondo", "Williamson"],
+    "answer": 0,
+    "explanation": "Anderson: caída de unos 270º.",
+    "gva": {
+      "index": 681,
+      "sittings": ["2024-06"]
+    }
+  },
+  {
+    "id": "gva-0718",
+    "topic": "seg",
+    "q": "Los baldes contra incendios, ¿Para qué se pueden utilizar?",
+    "options": [
+      "Para extinguir fuegos y transbordar combustible",
+      "Para apagar fuegos y depositar la carnada para pescar",
+      "Para guardar las señales pirotécnicas",
+      "Para apagar fuegos y para achicar agua"
+    ],
+    "answer": 3,
+    "explanation": "Apagar fuegos y achicar.",
+    "gva": {
+      "index": 718,
+      "sittings": ["2024-09"]
+    }
+  },
+  {
+    "id": "gva-0719",
+    "topic": "seg",
+    "q": "La tendencia que tiene el buque a cambiar de asiento, podríamos definirla como la:",
+    "options": [
+      "Estabilidad transversal",
+      "Estabilidad estática",
+      "Estabilidad longitudinal",
+      "Ninguna de las anteriores respuestas es cierta"
+    ],
+    "answer": 2,
+    "explanation": "Estabilidad longitudinal.",
+    "gva": {
+      "index": 719,
+      "sittings": ["2024-09"]
+    }
+  },
+  {
+    "id": "gva-0720",
+    "topic": "seg",
+    "q": "El movimiento que hace la embarcación de inclinarse continuamente hacia los costados debido a la acción de la mar, se denomina:",
+    "options": ["Oscilación", "Frecuencia", "Balance", "Cabeceo"],
+    "answer": 2,
+    "explanation": "Balance.",
+    "gva": {
+      "index": 720,
+      "sittings": ["2024-09"]
+    }
+  },
+  {
+    "id": "gva-0721",
+    "topic": "seg",
+    "q": "De las siguientes acciones. ¿Cuál no es correcta en referencia a antes de poner en marcha el motor?",
+    "options": [
+      "Mirar el nivel de aceite",
+      "Mirar fugas de aceite del cárter",
+      "Mirar fugas de combustible",
+      "Mirar el parte meteorológico"
+    ],
+    "answer": 3,
+    "explanation": "El parte se mira antes de salir, pero no forma parte de la revisión del motor.",
+    "gva": {
+      "index": 721,
+      "sittings": ["2024-09"]
+    }
+  },
+  {
+    "id": "gva-0738",
+    "topic": "seg",
+    "q": "Se mete todo el timón a la banda de caída del náufrago. Cuando se ha caído 70º del rumbo inicial, se cambia el timón a la banda contraria describiéndose un círculo que nos pone a rumbo opuesto al que llevábamos antes de caer el hombre al agua para verlo aparecer por la proa. ¿Cómo se denomina esta maniobra de aproximación a un náufrago?",
+    "options": [
+      "Maniobra de Boutakow",
+      "Maniobra de Anderson",
+      "Maniobra de Heimlich",
+      "Maniobra de Valsalva"
+    ],
+    "answer": 0,
+    "explanation": "Boutakow: 70º y luego timón a la contraria.",
+    "gva": {
+      "index": 738,
+      "sittings": ["2024-11"]
+    }
+  },
+  {
+    "id": "gva-0751",
+    "topic": "seg",
+    "q": "La señal fumígena flotante es:",
+    "options": [
+      "De color rojo y tiene una duración mínima de 3 minutos",
+      "De color naranja y tiene una duración mínima de 6 minutos",
+      "De color rojo y tiene una duración mínima de 1 minuto",
+      "De color naranja y tiene una duración mínima de 3 minutos"
+    ],
+    "answer": 3,
+    "explanation": "Fumígena: humo naranja, al menos 3 minutos.",
+    "gva": {
+      "index": 751,
+      "sittings": ["2025-04"]
+    }
+  },
+  {
+    "id": "gva-0752",
+    "topic": "seg",
+    "q": "Para establecer una comunicación con Salvamento Marítimo se puede contactar:",
+    "options": [
+      "Con una llamada telefónica al 900 202 202",
+      "Haciendo uso del número de emergencias 112",
+      "Emitiendo un mensaje por el canal 16 de VHF",
+      "Todas son correctas"
+    ],
+    "answer": 3,
+    "explanation": "Salvamento: 900 202 202, 112 o VHF 16. Todas.",
+    "gva": {
+      "index": 752,
+      "sittings": ["2025-04"]
+    }
+  },
+  {
+    "id": "gva-0776",
+    "topic": "seg",
+    "q": "Las señales fumígenas flotantes de acuerdo con la normativa vigente, emitirán humo de color naranja por un tiempo mínimo de:",
+    "options": ["5 minutos", "4 minutos", "2 minutos", "Ninguna respuesta es cierta"],
+    "answer": 3,
+    "explanation": "Son 3 minutos, que no aparece entre las opciones: «ninguna».",
+    "gva": {
+      "index": 776,
+      "sittings": ["2025-06"]
+    }
+  },
+  {
+    "id": "gva-0798",
+    "topic": "seg",
+    "q": "El movimiento longitudinal ocasionado en una embarcación al subir y descender las olas se denomina:",
+    "options": ["Cabezada", "Balance", "Cuchareo", "Arrufo"],
+    "answer": 0,
+    "explanation": "Cabezada.",
+    "gva": {
+      "index": 798,
+      "sittings": ["2025-09"]
+    }
+  },
+  {
+    "id": "gva-0799",
+    "topic": "seg",
+    "q": "La rabiza de un aro salvavidas cuando sea obligatoria tendrá una medida mínima de:",
+    "options": ["25 metros", "20 metros", "35 metros", "Ninguna respuesta anterior es correcta"],
+    "answer": 3,
+    "explanation": "Son 30 m, que no aparece entre las opciones: «ninguna».",
+    "gva": {
+      "index": 799,
+      "sittings": ["2025-09"]
+    }
+  },
+  {
+    "id": "gva-0800",
+    "topic": "seg",
+    "q": "La tendencia que tiene una embarcación al cambio de asiento es conocida como:",
+    "options": [
+      "Estabilidad longitudinal",
+      "Estabilidad transversal",
+      "Estabilidad estática",
+      "Todas las respuestas son ciertas"
+    ],
+    "answer": 0,
+    "explanation": "Estabilidad longitudinal.",
+    "gva": {
+      "index": 800,
+      "sittings": ["2025-09"]
+    }
+  },
+  {
+    "id": "gva-0801",
+    "topic": "seg",
+    "q": "Antes de poner en marcha el motor de la embarcación:",
+    "options": [
+      "Comprobáremos el nivel de aceite",
+      "Comprobaremos el nivel de refrigerante",
+      "Comprobaremos que la radiobaliza esté activada",
+      "Las respuestas A y B son ciertas"
+    ],
+    "answer": 3,
+    "explanation": "Aceite y refrigerante. La radiobaliza no se activa antes de arrancar.",
+    "gva": {
+      "index": 801,
+      "sittings": ["2025-09"]
+    }
+  },
+  {
+    "id": "gva-0839",
+    "topic": "seg",
+    "q": "¿Cuál de las siguientes medidas no es recomendable en el caso de tratar a un afectado por hipotermia?",
+    "options": [
+      "Trasladar al afectado a un lugar cálido.",
+      "Darle bebidas calientes si está consciente.",
+      "Secar y frotar las extremidades del afectado para activar la circulación sanguínea.",
+      "Cubrir al afectado con mantas secas, especialmente el cuello y torso."
+    ],
+    "answer": 2,
+    "explanation": "En una hipotermia no se frota: el frotamiento puede devolver sangre fría al núcleo. Calor pasivo y mantas.",
+    "gva": {
+      "index": 839,
+      "sittings": ["2026-04"]
+    }
+  },
+  {
+    "id": "gva-0840",
+    "topic": "seg",
+    "q": "Cuando todos los equipos eléctricos a bordo tienen una toma de masa, ¿cuál es el principal riesgo para tener en cuenta tras una tormenta eléctrica?",
+    "options": [
+      "La inducción magnética en las zonas húmedas del casco.",
+      "La disminución de la temperatura de ignición del combustible.",
+      "El calentamiento del aceite derramado en la sentina.",
+      "La inducción magnética sobre la aguja náutica."
+    ],
+    "answer": 3,
+    "explanation": "Tras una tormenta eléctrica, el riesgo es la alteración magnética de la aguja.",
+    "gva": {
+      "index": 840,
+      "sittings": ["2026-04"]
+    }
+  },
+  {
+    "id": "gva-0841",
+    "topic": "seg",
+    "q": "Cuando se regresa por la estela al rumbo contrario del inicial, habiendo caído 70° a una de las bandas para que el náufrago aparezca por la proa, se conoce como maniobra de:",
+    "options": [
+      "Maniobra de Anderson.",
+      "Maniobra de Boutakow.",
+      "Maniobra de Heimlich.",
+      "Maniobra de Valsalva."
+    ],
+    "answer": 1,
+    "explanation": "Boutakow: 70º y vuelta por la estela.",
+    "gva": {
+      "index": 841,
+      "sittings": ["2026-04"]
+    }
+  },
+  {
+    "id": "gva-0842",
+    "topic": "seg",
+    "q": "Los incendios de clase F corresponden a.…",
+    "options": [
+      "Incendios de sólidos.",
+      "Incendios de aceites y grasas comestibles.",
+      "Incendios de líquidos.",
+      "Incendios de gases."
+    ],
+    "answer": 1,
+    "explanation": "Clase F: aceites y grasas de cocina.",
+    "gva": {
+      "index": 842,
+      "sittings": ["2026-04"]
+    }
+  },
+  {
+    "id": "gva-0872",
+    "topic": "seg",
+    "q": "¿Cuál de las siguientes señales de socorro es cierta?",
+    "options": [
+      "Llamaradas a bordo.",
+      "Señales fumígenas de color rojo.",
+      "Emisión de la palabra MAYDAY, por radiotelegrafía.",
+      "Cohetes con paracaídas y luz amarilla."
+    ],
+    "answer": 0,
+    "explanation": "Las llamaradas a bordo son señal de socorro (Anexo IV RIPA). El humo es naranja y los cohetes, rojos.",
+    "gva": {
+      "index": 872,
+      "sittings": ["2026-07"]
+    }
+  },
+  {
+    "id": "gva-0873",
+    "topic": "seg",
+    "q": "Si con mal tiempo navegamos recibiendo las olas por cualquiera de las amuras, decimos que:",
+    "options": [
+      "Navegamos en mar gruesa.",
+      "Corremos el temporal.",
+      "Aguantamos el temporal.",
+      "Capeamos el temporal."
+    ],
+    "answer": 3,
+    "explanation": "Capear: olas por las amuras.",
+    "gva": {
+      "index": 873,
+      "sittings": ["2026-07"]
+    }
+  },
+  {
+    "id": "gva-0874",
+    "topic": "seg",
+    "q": "¿En qué consiste arranchar la embarcación a son de mar?",
+    "options": [
+      "Estibar y trincar todos los elementos móviles.",
+      "Ponerse ropa y calzado impermeables.",
+      "Abrir los portillos para ventilar la sala de máquinas.",
+      "Acompasar la embarcación con las olas."
+    ],
+    "answer": 0,
+    "explanation": "Arranchar a son de mar: estibar y trincar todo lo que se pueda mover.",
+    "gva": {
+      "index": 874,
+      "sittings": ["2026-07"]
+    }
+  },
+  {
+    "id": "gva-0875",
+    "topic": "seg",
+    "q": "En caso de encontrarnos en un banco de niebla. ¿Cuál de estas recomendaciones no es cierta?",
+    "options": [
+      "Se navegará a toda máquina para llegar a puerto lo antes posible.",
+      "Se navegará con velocidad de seguridad.",
+      "Se conectará el radar.",
+      "Se extremará la vigilancia."
+    ],
+    "answer": 0,
+    "explanation": "En niebla nunca a toda máquina: velocidad de seguridad.",
+    "gva": {
+      "index": 875,
+      "sittings": ["2026-07"]
+    }
+  },
+  {
+    "id": "gva-0917",
+    "topic": "seg",
+    "q": "Si el par adrizante transversal de la embarcación es muy grande tras una escora de 30º, producida por un golpe de mar …",
+    "options": [
+      "La embarcación recupera su situación adrizada inicial lentamente.",
+      "La embarcación recupera su situación adrizada inicial rápidamente.",
+      "La embarcación no recupera su situación adrizada inicial y se queda en equilibrio.",
+      "La embarcación no recupera su situación adrizada inicial y se queda con la quilla al sol."
+    ],
+    "answer": 1,
+    "explanation": "Un par adrizante grande hace que el barco se adrice rápido (y dé balances bruscos).",
+    "gva": {
+      "index": 917,
+      "sittings": ["2026-10"]
+    }
+  },
+  {
+    "id": "gva-0918",
+    "topic": "seg",
+    "q": "Cuando se tenga que hacer uso de las bengalas de mano, debe tenerse en cuenta que:",
+    "options": [
+      "Tienen que encenderse en un espacio abierto, libre de obstáculos y situándonos a proa.",
+      "Deben encenderse en un espacio abierto, libre de obstáculos y situándolas a barlovento.",
+      "Han de encenderse en un espacio abierto, libre de obstáculos y situándolas a sotavento.",
+      "Únicamente deben encenderse si hemos caído al agua."
+    ],
+    "answer": 2,
+    "explanation": "Bengala a sotavento: el humo y las chispas se alejan del barco.",
+    "gva": {
+      "index": 918,
+      "sittings": ["2026-10"]
+    }
+  },
+  {
+    "id": "gva-0919",
+    "topic": "seg",
+    "q": "Cuando tengamos que rescatar a un náufrago que está en el agua, nos aproximaremos…",
+    "options": [
+      "Por la popa del náufrago.",
+      "Por sotavento del náufrago.",
+      "Por barlovento del náufrago.",
+      "Por estribor del náufrago."
+    ],
+    "answer": 2,
+    "explanation": "En la clave del examen: aproximarse por barlovento del náufrago, dándole abrigo con el casco.",
+    "gva": {
+      "index": 919,
+      "sittings": ["2026-10"]
+    }
+  },
+  {
+    "id": "gva-0920",
+    "topic": "seg",
+    "q": "El sincronismo transversal se produce cuando:",
+    "options": [
+      "El momento de la escora del buque coincide con el seno de las olas.",
+      "El buque se inclina más de 10º a cada banda.",
+      "Cuando el período de balance del barco coincide con el de las olas.",
+      "El centro de gravedad no coincide con el metacentro."
+    ],
+    "answer": 2,
+    "explanation": "Sincronismo: el periodo de balance coincide con el de las olas y los balances se amplifican.",
+    "gva": {
+      "index": 920,
+      "sittings": ["2026-10"]
+    }
+  }
+]

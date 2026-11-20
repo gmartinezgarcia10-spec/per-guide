@@ -1,0 +1,1137 @@
+[
+  {
+    "id": "gva-0000",
+    "topic": "nom",
+    "q": "¿Cómo se llama a la estructura que descansa sobre los baos, cerrando el casco por la parte superior?:",
+    "options": ["Cubierta.", "Plan.", "Sentina.", "Espejo."],
+    "answer": 0,
+    "explanation": "La cubierta cierra el casco por arriba y apoya sobre los baos.",
+    "gva": {
+      "index": 0,
+      "sittings": ["2019-11"]
+    }
+  },
+  {
+    "id": "gva-0001",
+    "topic": "nom",
+    "q": "¿Cómo se llama a la parte sumergida del barco por debajo de la línea de flotación?:",
+    "options": ["Obra muerta.", "Sentina.", "Obra viva", "Línea de crujía."],
+    "answer": 2,
+    "explanation": "Obra viva (o carena): todo lo que queda sumergido.",
+    "gva": {
+      "index": 1,
+      "sittings": ["2019-11"]
+    }
+  },
+  {
+    "id": "gva-0002",
+    "topic": "nom",
+    "q": "¿Cuál de las siguientes definiciones corresponden a “Barbotén”?:",
+    "options": [
+      "Nombre del grillete con el que se une el ancla a la cadena.",
+      "Tipo de fondeo en el que se utilizan las dos anclas.",
+      "Corona del molinete con muescas donde se acoplan los diferentes eslabones de la cadena.",
+      "Orificio por donde pasa la Mecha del timón."
+    ],
+    "answer": 2,
+    "explanation": "Barbotén: corona dentada del molinete donde engranan los eslabones de la cadena.",
+    "gva": {
+      "index": 2,
+      "sittings": ["2019-11"]
+    }
+  },
+  {
+    "id": "gva-0003",
+    "topic": "nom",
+    "q": "En la maniobra de fondeo, cuando estamos levando el ancla, ¿qué expresión usamos para indicar el momento en que el ancla se despega del fondo?:",
+    "options": ["Arriba y clara.", "Zarpó.", "A pique.", "Garrea."],
+    "answer": 1,
+    "explanation": "El ancla «zarpa» cuando se despega del fondo. «A pique» es justo antes: cadena vertical.",
+    "gva": {
+      "index": 3,
+      "sittings": ["2019-11"]
+    }
+  },
+  {
+    "id": "gva-0045",
+    "topic": "nom",
+    "q": "Una embarcación no está adrizada cuando tiene:",
+    "options": ["Escora.", "Obra viva.", "Eslora.", "Calado."],
+    "answer": 0,
+    "explanation": "Adrizado = sin escora. Si está escorado, no está adrizado.",
+    "gva": {
+      "index": 45,
+      "sittings": ["2021-04"]
+    }
+  },
+  {
+    "id": "gva-0046",
+    "topic": "nom",
+    "q": "¿Qué es el plan de una embarcación?:",
+    "options": [
+      "Es la parte plana de la uña del ancla.",
+      "Es la parte superior del costado.",
+      "Es la derrota realizada por la embarcación.",
+      "Es el piso más baja de una embarcación."
+    ],
+    "answer": 3,
+    "explanation": "Plan: el piso más bajo del interior del casco, justo encima de la sentina.",
+    "gva": {
+      "index": 46,
+      "sittings": ["2021-04"]
+    }
+  },
+  {
+    "id": "gva-0047",
+    "topic": "nom",
+    "q": "¿Cómo se dice que está el ancla en la maniobra de fondeo, cuando previamente al fondeo se arria lo suficiente para dejarla colgando?:",
+    "options": ["Clara y libre.", "A pique.", "Zarpar.", "A la pendura."],
+    "answer": 3,
+    "explanation": "A la pendura: el ancla cuelga fuera del escobén, lista para fondear.",
+    "gva": {
+      "index": 47,
+      "sittings": ["2021-04"]
+    }
+  },
+  {
+    "id": "gva-0048",
+    "topic": "nom",
+    "q": "¿Con que nombre se conocen a los refuerzos transversales que soportan la cubierta y suelen tener una curvatura para que el agua no se acumule?:",
+    "options": ["Bordas.", "Imbornales.", "Rodas.", "Baos."],
+    "answer": 3,
+    "explanation": "Baos: vigas transversales que sostienen la cubierta; su curvatura (brusca) escurre el agua.",
+    "gva": {
+      "index": 48,
+      "sittings": ["2021-04"]
+    }
+  },
+  {
+    "id": "gva-0090",
+    "topic": "nom",
+    "q": "¿El plano imaginario que yendo de proa a popa divide el barco en dos mitades normalmente iguales se llama?:",
+    "options": ["Plano de la sección media.", "Plano base.", "Plano de crujía.", "Plano de la maestra"],
+    "answer": 2,
+    "explanation": "Plano de crujía: el longitudinal que divide el barco en babor y estribor.",
+    "gva": {
+      "index": 90,
+      "sittings": ["2021-07"]
+    }
+  },
+  {
+    "id": "gva-0091",
+    "topic": "nom",
+    "q": "El codaste es:",
+    "options": [
+      "La pieza que siendo prolongación de la quilla se une a esta por su parte posterior en dirección vertical para formar la popa.",
+      "El tubo que atravesando el casco sirve para dar salida al eje de cola.",
+      "El tubo que atravesando el casco sirve para dar salida el eje sobre el cual gira el timón.",
+      "La pieza que, siendo prolongación de la quilla, se une a esta por su parte anterior y en dirección vertical o inclinada para formar la proa."
+    ],
+    "answer": 0,
+    "explanation": "Codaste a popa (prolonga la quilla hacia arriba); roda a proa.",
+    "gva": {
+      "index": 91,
+      "sittings": ["2021-07"]
+    }
+  },
+  {
+    "id": "gva-0092",
+    "topic": "nom",
+    "q": "¿Cómo se llaman los agujeros practicados en la borda que, situados a la altura del trancanil, permiten la salida del agua embarcada en cubierta?:",
+    "options": ["Cornamusas.", "Sentinas.", "Imbornales.", "Lumbreras."],
+    "answer": 2,
+    "explanation": "Imbornales: desaguan la cubierta a la altura del trancanil.",
+    "gva": {
+      "index": 92,
+      "sittings": ["2021-07"]
+    }
+  },
+  {
+    "id": "gva-0093",
+    "topic": "nom",
+    "q": "Las anclas pequeñas, sin cepo, que tienen cuatro brazos con uñas se llaman:",
+    "options": ["Bicheros", "Anclas de arado.", "Rezones.", "Anclas Danforth."],
+    "answer": 2,
+    "explanation": "Rezón: ancla pequeña de cuatro brazos y sin cepo.",
+    "gva": {
+      "index": 93,
+      "sittings": ["2021-07"]
+    }
+  },
+  {
+    "id": "gva-0135",
+    "topic": "nom",
+    "q": "En una embarcación ¿cómo se llama el orificio por donde pasa la parte superior del eje de giro de la pala del timón?:",
+    "options": ["Limera.", "Bocina.", "Mecha.", "Arganeo."],
+    "answer": 0,
+    "explanation": "Limera: orificio por donde la mecha del timón atraviesa el casco. La bocina es la del eje de la hélice.",
+    "gva": {
+      "index": 135,
+      "sittings": ["2021-06"]
+    }
+  },
+  {
+    "id": "gva-0136",
+    "topic": "nom",
+    "q": "¿La distancia vertical entre la línea de flotación y la cubierta estanca más alta en una embarcación se llama?:",
+    "options": ["Arqueo.", "Calado.", "Puntal.", "Francobordo."],
+    "answer": 3,
+    "explanation": "Francobordo: de la flotación a la cubierta estanca más alta. El calado va hacia abajo.",
+    "gva": {
+      "index": 136,
+      "sittings": ["2021-06"]
+    }
+  },
+  {
+    "id": "gva-0137",
+    "topic": "nom",
+    "q": "La obra muerta de un barco es:",
+    "options": [
+      "La parte del casco que queda por encima de la quilla.",
+      "La parte del casco que queda por debajo de la línea de flotación.",
+      "La parte del casco que queda por encima de la línea de flotación.",
+      "La parte del casco que queda por encima de la línea de crujía."
+    ],
+    "answer": 2,
+    "explanation": "Obra muerta: lo que queda por encima de la flotación.",
+    "gva": {
+      "index": 137,
+      "sittings": ["2021-06"]
+    }
+  },
+  {
+    "id": "gva-0138",
+    "topic": "nom",
+    "q": "¿Qué es orincar el ancla?:",
+    "options": [
+      "Despegarla del fondo.",
+      "Unirle mediante un cabo un boyarín.",
+      "Bajarla de su lugar de trincado.",
+      "Dejarla colgada, dispuesta para fondear."
+    ],
+    "answer": 1,
+    "explanation": "Orincar: unir al ancla un cabo (orinque) con un boyarín que marca su posición.",
+    "gva": {
+      "index": 138,
+      "sittings": ["2021-06"]
+    }
+  },
+  {
+    "id": "gva-0179",
+    "topic": "nom",
+    "q": "¿Cómo se llaman las partes de costado entre el través y la popa y que convergen en esta última?:",
+    "options": ["Rodas.", "Aletas.", "Amuras.", "Cuadernas."],
+    "answer": 1,
+    "explanation": "Aletas: costados de popa. Amuras: costados de proa.",
+    "gva": {
+      "index": 179,
+      "sittings": ["2021-11"]
+    }
+  },
+  {
+    "id": "gva-0180",
+    "topic": "nom",
+    "q": "¿La línea de crujía?:",
+    "options": [
+      "Divide el barco en dos mitades, la de proa y la de popa.",
+      "Divide el barco en dos mitades, la de babor y la de estribor.",
+      "Está normalmente situada en el canto alto de la quilla.",
+      "Está situada en el canto superior del costado de una embarcación."
+    ],
+    "answer": 1,
+    "explanation": "La crujía divide el barco en babor y estribor, no en proa y popa.",
+    "gva": {
+      "index": 180,
+      "sittings": ["2021-11"]
+    }
+  },
+  {
+    "id": "gva-0181",
+    "topic": "nom",
+    "q": "La parte del casco que queda por debajo de la línea de flotación es:",
+    "options": ["El francobordo.", "La obra muerta.", "La obra viva.", "La regala."],
+    "answer": 2,
+    "explanation": "Obra viva = parte sumergida.",
+    "gva": {
+      "index": 181,
+      "sittings": ["2021-11"]
+    }
+  },
+  {
+    "id": "gva-0182",
+    "topic": "nom",
+    "q": "En este tipo de ancla los brazos son sustituidos por un eje basculante montado sobre la cruz. Las uñas son anchas y planas y se encuentran unidas a dicho eje:",
+    "options": ["Rezón.", "Ancla Danforth.", "Ancla de arado.", "Ancla de cepo."],
+    "answer": 1,
+    "explanation": "Danforth: uñas anchas y planas que basculan sobre un eje en la cruz.",
+    "gva": {
+      "index": 182,
+      "sittings": ["2021-11"]
+    }
+  },
+  {
+    "id": "gva-0224",
+    "topic": "nom",
+    "q": "La carena de un buque es:",
+    "options": [
+      "La obra viva.",
+      "La parte sumergida del casco",
+      "La obra muerta",
+      "Las respuestas a y b son ciertas"
+    ],
+    "answer": 3,
+    "explanation": "Carena, obra viva y parte sumergida son lo mismo: por eso «a y b».",
+    "gva": {
+      "index": 224,
+      "sittings": ["2022-12", "2024-11"]
+    }
+  },
+  {
+    "id": "gva-0225",
+    "topic": "nom",
+    "q": "Las amuras son:",
+    "options": [
+      "La parte del casco por el exterior que convergen formando la proa",
+      "La parte del casco por el exterior que convergen formando la popa",
+      "La parte más baja del casco que va de proa a popa",
+      "Ninguna respuesta es correcta"
+    ],
+    "answer": 0,
+    "explanation": "Amuras: las partes del costado que convergen formando la proa.",
+    "gva": {
+      "index": 225,
+      "sittings": ["2022-12"]
+    }
+  },
+  {
+    "id": "gva-0226",
+    "topic": "nom",
+    "q": "La escotilla es:",
+    "options": [
+      "Una abertura realizada en el costado del casco para la ventilación interior",
+      "Una abertura redonda practicada en los costados para el desagüe del agua embarcada",
+      "Una abertura normalmente cuadrada que se practica en la cubierta del buque",
+      "Las respuestas a y c son correctas"
+    ],
+    "answer": 2,
+    "explanation": "Escotilla: abertura en cubierta, normalmente rectangular.",
+    "gva": {
+      "index": 226,
+      "sittings": ["2022-12", "2024-11"]
+    }
+  },
+  {
+    "id": "gva-0227",
+    "topic": "nom",
+    "q": "La parte superior del costado comprendida entre la cubierta y el comienzo de la regala es:",
+    "options": ["La borda", "La Sentina", "El codaste", "La roda"],
+    "answer": 0,
+    "explanation": "Borda: parte alta del costado, entre la cubierta y la regala.",
+    "gva": {
+      "index": 227,
+      "sittings": ["2022-12"]
+    }
+  },
+  {
+    "id": "gva-0269",
+    "topic": "nom",
+    "q": "¿Cómo son las hélices gemelas de giro al exterior?:",
+    "options": [
+      "La de estribor dextrógira y la de babor levógira.",
+      "Ambas levógiras.",
+      "Ambas dextrógiras.",
+      "La de babor dextrógira y la de estribor levógira."
+    ],
+    "answer": 0,
+    "explanation": "Giro al exterior: estribor dextrógira, babor levógira (las palas «se abren» hacia fuera por arriba).",
+    "gva": {
+      "index": 269,
+      "sittings": ["2022-02"]
+    }
+  },
+  {
+    "id": "gva-0270",
+    "topic": "nom",
+    "q": "¿Cuál de las siguientes palabras no corresponde a la nomenclatura usada para referirse a partes del equipo de fondeo?:",
+    "options": ["Embrague.", "Freno.", "Acelerador.", "Barboten."],
+    "answer": 2,
+    "explanation": "Embrague, freno y barbotén son partes del molinete. El acelerador no.",
+    "gva": {
+      "index": 270,
+      "sittings": ["2022-02"]
+    }
+  },
+  {
+    "id": "gva-0271",
+    "topic": "nom",
+    "q": "La definición adecuada de ESCOTILLA es:",
+    "options": [
+      "Refuerzo longitudinal paralelo a la quilla por su parte superior y que sirve de sujeción a las cuadernas.",
+      "Abertura practicada en cubierta para facilitar el paso de la carga a la bodega.",
+      "Superficies horizontales o pisos que unen los costados y van situadas sobre los Baos.",
+      "Espacios interiores del buque destinados a contener la carga que se transporta."
+    ],
+    "answer": 1,
+    "explanation": "Escotilla: abertura en cubierta para acceder al interior o a la bodega.",
+    "gva": {
+      "index": 271,
+      "sittings": ["2022-02"]
+    }
+  },
+  {
+    "id": "gva-0272",
+    "topic": "nom",
+    "q": "¿Cómo se llama a la parte curva que encaja con la quilla dando forma a la proa de la embarcación?:",
+    "options": ["Codaste.", "Francobordo.", "Roda.", "Baos."],
+    "answer": 2,
+    "explanation": "Roda: pieza curva que continúa la quilla y forma la proa.",
+    "gva": {
+      "index": 272,
+      "sittings": ["2022-02"]
+    }
+  },
+  {
+    "id": "gva-0314",
+    "topic": "nom",
+    "q": "Se dice que un timón es ordinario:",
+    "options": [
+      "Cuando la pala está a popa del eje de giro",
+      "Cuando la pala está a proa del eje de giro",
+      "Cuando el eje de giro divide a la pala",
+      "Cuando la pala es de madera sin pulir"
+    ],
+    "answer": 0,
+    "explanation": "Timón ordinario: toda la pala a popa del eje. Compensado: parte de la pala a proa del eje.",
+    "gva": {
+      "index": 314,
+      "sittings": ["2022-06"]
+    }
+  },
+  {
+    "id": "gva-0315",
+    "topic": "nom",
+    "q": "¿La distancia vertical entre la línea de flotación y el canto bajo de la quilla se llama?:",
+    "options": ["Obra viva.", "Calado.", "Puntal.", "Francobordo."],
+    "answer": 1,
+    "explanation": "Calado: de la flotación al canto bajo de la quilla.",
+    "gva": {
+      "index": 315,
+      "sittings": ["2022-06"]
+    }
+  },
+  {
+    "id": "gva-0316",
+    "topic": "nom",
+    "q": "Cada una de las maderas, refuerzos o viguetas que de trecho en trecho atraviesan la embarcación de babor a estribor se denominan:",
+    "options": ["Forda", "Roda", "Faos", "Baos"],
+    "answer": 3,
+    "explanation": "Baos: vigas transversales de banda a banda.",
+    "gva": {
+      "index": 316,
+      "sittings": ["2022-06"]
+    }
+  },
+  {
+    "id": "gva-0317",
+    "topic": "nom",
+    "q": "Los escotillones sobre la cubierta cubiertos con cristal para dar luz y ventilación a las cámaras interiores se denominan:",
+    "options": ["Drazos", "Pantillones", "Lumbreras", "Arcados"],
+    "answer": 2,
+    "explanation": "Lumbreras: escotillones acristalados para luz y ventilación.",
+    "gva": {
+      "index": 317,
+      "sittings": ["2022-06"]
+    }
+  },
+  {
+    "id": "gva-0359",
+    "topic": "nom",
+    "q": "Las partes curvas del costado que conforman la proa de un buque son las:",
+    "options": ["Aletas", "Cuadernas", "Amuras", "Lumbreras"],
+    "answer": 2,
+    "explanation": "Amuras forman la proa; aletas, la popa.",
+    "gva": {
+      "index": 359,
+      "sittings": ["2023-04", "2024-11"]
+    }
+  },
+  {
+    "id": "gva-0360",
+    "topic": "nom",
+    "q": "El orificio practicado en el casco por el cual atraviesa la mecha del timón se conoce como:",
+    "options": ["Portillos", "Imbornales", "Baos", "Limera"],
+    "answer": 3,
+    "explanation": "Limera: paso de la mecha del timón.",
+    "gva": {
+      "index": 360,
+      "sittings": ["2023-04", "2024-09"]
+    }
+  },
+  {
+    "id": "gva-0361",
+    "topic": "nom",
+    "q": "El momento en que el ancla se despega del fondo marino se denomina:",
+    "options": ["Filar", "Zarpar", "Virar", "Levar"],
+    "answer": 1,
+    "explanation": "Zarpar: el ancla se despega del fondo.",
+    "gva": {
+      "index": 361,
+      "sittings": ["2023-04", "2024-11"]
+    }
+  },
+  {
+    "id": "gva-0362",
+    "topic": "nom",
+    "q": "El sentido de giro de una hélice dextrógira es:",
+    "options": [
+      "En marcha avante es a la derecha",
+      "En marcha atrás es a la izquierda",
+      "Las respuestas a y b son ciertas",
+      "En marcha avante es a la izquierda"
+    ],
+    "answer": 2,
+    "explanation": "Dextrógira: avante gira a la derecha y atrás a la izquierda (vista desde popa).",
+    "gva": {
+      "index": 362,
+      "sittings": ["2023-04", "2024-09"]
+    }
+  },
+  {
+    "id": "gva-0404",
+    "topic": "nom",
+    "q": "Las partes curvas del costado que conforman la popa de un buque son las:",
+    "options": ["Amuras.", "Cuadernas", "Aletas", "Lumbreras"],
+    "answer": 2,
+    "explanation": "Aletas: parte curva del costado en la popa.",
+    "gva": {
+      "index": 404,
+      "sittings": ["2023-02"]
+    }
+  },
+  {
+    "id": "gva-0405",
+    "topic": "nom",
+    "q": "Los orificios practicados en los costados a la altura del trancanil, y por encima de la cubierta, para desalojar el agua embarcada en la cubierta se conocen como:",
+    "options": ["Portillos", "Imbornales", "Baos", "Limeras"],
+    "answer": 1,
+    "explanation": "Imbornales: desagües a la altura del trancanil.",
+    "gva": {
+      "index": 405,
+      "sittings": ["2023-02"]
+    }
+  },
+  {
+    "id": "gva-0406",
+    "topic": "nom",
+    "q": "Los candeleros de los barcos forman parte de la:",
+    "options": ["Iluminación interior de la cabina", "Barandilla", "Roda", "Escotilla"],
+    "answer": 1,
+    "explanation": "Candeleros: los puntales que sostienen barandilla y guardamancebos.",
+    "gva": {
+      "index": 406,
+      "sittings": ["2023-02"]
+    }
+  },
+  {
+    "id": "gva-0407",
+    "topic": "nom",
+    "q": "El espacio situado en la parte interior y más baja del buque, donde se acumulan los derrames o filtraciones como agua, aceite y combustible se conoce como:",
+    "options": ["Acumulador", "Sentina", "Codaste", "Barbotén"],
+    "answer": 1,
+    "explanation": "Sentina: la parte más baja interior, donde se acumulan aguas y aceites.",
+    "gva": {
+      "index": 407,
+      "sittings": ["2023-02"]
+    }
+  },
+  {
+    "id": "gva-0447",
+    "topic": "nom",
+    "q": "El codaste se encuentra situado en la:",
+    "options": ["Proa", "Regala", "Popa", "Amura"],
+    "answer": 2,
+    "explanation": "El codaste está a popa.",
+    "gva": {
+      "index": 447,
+      "sittings": ["2023-07"]
+    }
+  },
+  {
+    "id": "gva-0448",
+    "topic": "nom",
+    "q": "Las partes delanteras de los costados que al converger hacia la roda conforman la proa, se denominan:",
+    "options": ["Amuras", "Aletas", "costados", "Cubiertas"],
+    "answer": 0,
+    "explanation": "Amuras: convergen hacia la roda, formando la proa.",
+    "gva": {
+      "index": 448,
+      "sittings": ["2023-07"]
+    }
+  },
+  {
+    "id": "gva-0449",
+    "topic": "nom",
+    "q": "En un ancla, la parte que va desde el arganeo a la cruz, se denomina:",
+    "options": ["Arpeo", "Caña", "Uña", "Mapa"],
+    "answer": 1,
+    "explanation": "Caña: del arganeo a la cruz.",
+    "gva": {
+      "index": 449,
+      "sittings": ["2023-07"]
+    }
+  },
+  {
+    "id": "gva-0450",
+    "topic": "nom",
+    "q": "Las ventanas de una embarcación se conocen como:",
+    "options": ["Escotillas", "Portillos", "Imbornales", "Vagras"],
+    "answer": 1,
+    "explanation": "Portillos: ventanas en el costado o la superestructura.",
+    "gva": {
+      "index": 450,
+      "sittings": ["2023-07"]
+    }
+  },
+  {
+    "id": "gva-0492",
+    "topic": "nom",
+    "q": "La cubierta de un buque se apoya sobre:",
+    "options": ["Las vagras", "Los baos", "Las varengas", "Los barraganetes"],
+    "answer": 1,
+    "explanation": "La cubierta apoya en los baos.",
+    "gva": {
+      "index": 492,
+      "sittings": ["2023-11"]
+    }
+  },
+  {
+    "id": "gva-0493",
+    "topic": "nom",
+    "q": "La parte sumergida del casco se conoce como:",
+    "options": ["Obra muerta", "Obra viva", "Carena", "Las respuestas b y c son ciertas"],
+    "answer": 3,
+    "explanation": "Obra viva y carena son la parte sumergida: «b y c».",
+    "gva": {
+      "index": 493,
+      "sittings": ["2023-11", "2025-06"]
+    }
+  },
+  {
+    "id": "gva-0494",
+    "topic": "nom",
+    "q": "La hélice que dando atrás gira a babor se dice que es de paso a la:",
+    "options": ["Derecha", "Supra convergente", "Izquierda", "Supra divergente"],
+    "answer": 0,
+    "explanation": "Si atrás gira a babor (izquierda), avante gira a la derecha: paso a la derecha (dextrógira).",
+    "gva": {
+      "index": 494,
+      "sittings": ["2023-11"]
+    }
+  },
+  {
+    "id": "gva-0495",
+    "topic": "nom",
+    "q": "La parte del ancla donde se anuda el cabo de fondeo es el:",
+    "options": ["Cepo", "Brazo", "Arganeo", "Contrete"],
+    "answer": 2,
+    "explanation": "Arganeo: el anillo donde se hace firme el cabo o el grillete.",
+    "gva": {
+      "index": 495,
+      "sittings": ["2023-11"]
+    }
+  },
+  {
+    "id": "gva-0537",
+    "topic": "nom",
+    "q": "Cada una de las partes en que queda dividido el casco por un plano longitudinal- vertical de proa a popa se denomina:",
+    "options": ["Popa", "Aleta", "Bandas", "Amura"],
+    "answer": 2,
+    "explanation": "Bandas: babor y estribor, separadas por el plano de crujía.",
+    "gva": {
+      "index": 537,
+      "sittings": ["2023-09", "2025-06"]
+    }
+  },
+  {
+    "id": "gva-0538",
+    "topic": "nom",
+    "q": "Los pisos o suelos del barco, se denominan:",
+    "options": ["Amuras", "Aletas", "Costados", "Cubiertas"],
+    "answer": 3,
+    "explanation": "Cubiertas: los pisos del barco.",
+    "gva": {
+      "index": 538,
+      "sittings": ["2023-09"]
+    }
+  },
+  {
+    "id": "gva-0539",
+    "topic": "nom",
+    "q": "En un barco de dos hélices con giro al exterior, estas se denominan:",
+    "options": ["Convexas", "Levógiras", "Dextrógiras", "Gemelas"],
+    "answer": 3,
+    "explanation": "En el temario, las hélices de dos ejes con giro al exterior se llaman gemelas.",
+    "gva": {
+      "index": 539,
+      "sittings": ["2023-09", "2025-06"]
+    }
+  },
+  {
+    "id": "gva-0540",
+    "topic": "nom",
+    "q": "El costado opuesto de la embarcación de donde viene el viento, se conoce como:",
+    "options": ["Barlovento", "Sotavento", "Somero", "Ligero"],
+    "answer": 1,
+    "explanation": "Sotavento: el lado opuesto al viento. Barlovento: de donde viene.",
+    "gva": {
+      "index": 540,
+      "sittings": ["2023-09"]
+    }
+  },
+  {
+    "id": "gva-0582",
+    "topic": "nom",
+    "q": "Las partes del casco de una embarcación que convergen formando la proa, se denominan:",
+    "options": ["Amuras", "Regalas", "Aletas", "Codastes"],
+    "answer": 0,
+    "explanation": "Amuras: forman la proa.",
+    "gva": {
+      "index": 582,
+      "sittings": ["2024-04"]
+    }
+  },
+  {
+    "id": "gva-0583",
+    "topic": "nom",
+    "q": "Las embarcaciones tienen unas aberturas en los costados cuya función es permitir el desagüe de las aguas acumuladas en la cubierta por la lluvia o las embarcadas a bordo por efecto del oleaje. ¿Cómo se denominan estas aberturas?",
+    "options": ["Bocinas", "Imbornales", "Prensa estopas", "Manguerotes"],
+    "answer": 1,
+    "explanation": "Imbornales: desagües del agua embarcada en cubierta.",
+    "gva": {
+      "index": 583,
+      "sittings": ["2024-04"]
+    }
+  },
+  {
+    "id": "gva-0584",
+    "topic": "nom",
+    "q": "La pieza longitudinal que va de proa a popa cubriendo los extremos de los barraganetes es la:",
+    "options": ["Regala", "Tapa de regala", "Bao", "Codaste"],
+    "answer": 0,
+    "explanation": "Regala: pieza que remata la borda cubriendo los barraganetes.",
+    "gva": {
+      "index": 584,
+      "sittings": ["2024-04"]
+    }
+  },
+  {
+    "id": "gva-0585",
+    "topic": "nom",
+    "q": "El cable que va de proa a popa por ambos costados de la embarcación y está sostenido por los candeleros para preservar la seguridad de la tripulación se denomina:",
+    "options": ["Ninguna de las respuestas siguientes es valida", "Pasamanos", "Candeleros", "Guardamancebo"],
+    "answer": 3,
+    "explanation": "Guardamancebo: cable de proa a popa sostenido por los candeleros.",
+    "gva": {
+      "index": 585,
+      "sittings": ["2024-04"]
+    }
+  },
+  {
+    "id": "gva-0627",
+    "topic": "nom",
+    "q": "Si nos situamos en la cubierta del barco mirando hacia proa, el costado que queda a nuestra derecha se le llama:",
+    "options": ["Banda de babor", "Borda o regala", "Estribor", "Aleta de babor"],
+    "answer": 2,
+    "explanation": "Mirando a proa: estribor a la derecha, babor a la izquierda.",
+    "gva": {
+      "index": 627,
+      "sittings": ["2024-02", "2024-09"]
+    }
+  },
+  {
+    "id": "gva-0628",
+    "topic": "nom",
+    "q": "Los elementos que sostienen las barandillas del barco son los:",
+    "options": ["Pasamanos", "Candelabros", "Orinques", "Candeleros"],
+    "answer": 3,
+    "explanation": "Candeleros: sostienen la barandilla.",
+    "gva": {
+      "index": 628,
+      "sittings": ["2024-02"]
+    }
+  },
+  {
+    "id": "gva-0629",
+    "topic": "nom",
+    "q": "Los refuerzos transversales que se asientan en las cuadernas y sobre de los cuales se sostiene la cubierta, se denominan:",
+    "options": ["Baos", "Mamparos", "Rodas", "Imbornales"],
+    "answer": 0,
+    "explanation": "Baos: apoyan en las cuadernas y sostienen la cubierta.",
+    "gva": {
+      "index": 629,
+      "sittings": ["2024-02"]
+    }
+  },
+  {
+    "id": "gva-0630",
+    "topic": "nom",
+    "q": "¿Qué función tienen los portillos en un barco?:",
+    "options": [
+      "Evacuar el agua embarcada en la cubierta",
+      "Permitir la entrada de luz al interior del barco",
+      "Dejar pasar el agua para para refrigerar el motor",
+      "Evitar que los alimentos guardados en un pañol se mojen con agua de mar"
+    ],
+    "answer": 1,
+    "explanation": "Portillos: dan luz (y ventilación) al interior.",
+    "gva": {
+      "index": 630,
+      "sittings": ["2024-02"]
+    }
+  },
+  {
+    "id": "gva-0672",
+    "topic": "nom",
+    "q": "La embarcación formada por dos cascos se denomina:",
+    "options": ["Policasco", "Catamarán", "Trimarán", "Monocasco"],
+    "answer": 1,
+    "explanation": "Catamarán: dos cascos. Trimarán: tres.",
+    "gva": {
+      "index": 672,
+      "sittings": ["2024-06", "2025-04"]
+    }
+  },
+  {
+    "id": "gva-0673",
+    "topic": "nom",
+    "q": "El ancla que está formada por cuatro brazos se denomina:",
+    "options": ["Rezón", "De Arado", "Danforth", "Del almirantazgo"],
+    "answer": 0,
+    "explanation": "Rezón: cuatro brazos.",
+    "gva": {
+      "index": 673,
+      "sittings": ["2024-06"]
+    }
+  },
+  {
+    "id": "gva-0674",
+    "topic": "nom",
+    "q": "La pieza de refuerzo longitudinal inferior del barco que va de proa a popa construida de hierro, madera o fibra de vidrio se denomina:",
+    "options": ["Bao", "Regala", "Quilla", "Codaste"],
+    "answer": 2,
+    "explanation": "Quilla: espina dorsal longitudinal del casco.",
+    "gva": {
+      "index": 674,
+      "sittings": ["2024-06"]
+    }
+  },
+  {
+    "id": "gva-0675",
+    "topic": "nom",
+    "q": "¿Qué función tienen los grifos de fondo en un barco?:",
+    "options": [
+      "Evacuar el agua del tanque de aguas grises",
+      "Permitir la entrada de agua para el WC",
+      "Dejar pasar el agua para refrigerar el motor",
+      "Todas las respuestas anteriores son ciertas"
+    ],
+    "answer": 3,
+    "explanation": "Grifos de fondo: tomas a través del casco (refrigeración, WC, desagües). Todas ciertas.",
+    "gva": {
+      "index": 675,
+      "sittings": ["2024-06"]
+    }
+  },
+  {
+    "id": "gva-0717",
+    "topic": "nom",
+    "q": "Los refuerzos transversales que se asientan en las cuadernas y sobre los cuales se sostiene la cubierta, se denominan:",
+    "options": ["Baos", "Mamparos", "Rodas", "Imbornales"],
+    "answer": 0,
+    "explanation": "Baos: sostienen la cubierta.",
+    "gva": {
+      "index": 717,
+      "sittings": ["2024-09"]
+    }
+  },
+  {
+    "id": "gva-0747",
+    "topic": "nom",
+    "q": "La obra muerta de un buque es:",
+    "options": [
+      "La parte del casco por encima de la línea de flotación",
+      "La parte sumergida del casco",
+      "La parte del casco pintada con colores muy vivos",
+      "Ninguna respuesta es cierta"
+    ],
+    "answer": 0,
+    "explanation": "Obra muerta: por encima de la flotación.",
+    "gva": {
+      "index": 747,
+      "sittings": ["2025-04"]
+    }
+  },
+  {
+    "id": "gva-0748",
+    "topic": "nom",
+    "q": "La pieza de refuerzo longitudinal inferior del barco que va de proa a popa construida de metal, madera o poliéster reforzado de fibra de vidrio se denomina:",
+    "options": ["Quilla", "Regala", "Bao", "Codaste"],
+    "answer": 0,
+    "explanation": "Quilla: refuerzo longitudinal inferior.",
+    "gva": {
+      "index": 748,
+      "sittings": ["2025-04"]
+    }
+  },
+  {
+    "id": "gva-0749",
+    "topic": "nom",
+    "q": "Llevar el ancla a la pendura, significa:",
+    "options": [
+      "Cuando la línea de fondeo o cadena está en posición vertical y toca el fondo con la cadena tensa",
+      "Cuando la caña del ancla está totalmente trincada en el escobén",
+      "Cuando el ancla cuelga fuera del escobén o por encima de la borda lista para fondear",
+      "Ninguna respuesta es correcta"
+    ],
+    "answer": 2,
+    "explanation": "A la pendura: el ancla cuelga fuera del escobén, lista para fondear.",
+    "gva": {
+      "index": 749,
+      "sittings": ["2025-04"]
+    }
+  },
+  {
+    "id": "gva-0774",
+    "topic": "nom",
+    "q": "La parte más larga y fina del ancla se denomina:",
+    "options": ["Uña", "Caña", "Arganeo", "Limera"],
+    "answer": 1,
+    "explanation": "Caña: la parte larga y fina del ancla.",
+    "gva": {
+      "index": 774,
+      "sittings": ["2025-06"]
+    }
+  },
+  {
+    "id": "gva-0792",
+    "topic": "nom",
+    "q": "El costado de la embarcación de donde viene el viento se conoce como:",
+    "options": ["Barlovento", "Sotavento", "Somero", "Ligero"],
+    "answer": 0,
+    "explanation": "Barlovento: de donde viene el viento.",
+    "gva": {
+      "index": 792,
+      "sittings": ["2025-09"]
+    }
+  },
+  {
+    "id": "gva-0793",
+    "topic": "nom",
+    "q": "¿Cómo se denomina la hélice de una embarcación que con máquina avante gira a la derecha?",
+    "options": ["Dextrógira", "Levógira", "Gemelas", "Convexa"],
+    "answer": 0,
+    "explanation": "Dextrógira: avante gira a la derecha.",
+    "gva": {
+      "index": 793,
+      "sittings": ["2025-09"]
+    }
+  },
+  {
+    "id": "gva-0794",
+    "topic": "nom",
+    "q": "La superficie, plana o inclinada hacia el exterior del buque que cierra el casco por su parte superior, se denomina:",
+    "options": ["Amura", "Aleta", "Roda", "Cubierta"],
+    "answer": 3,
+    "explanation": "Cubierta: cierra el casco por arriba.",
+    "gva": {
+      "index": 794,
+      "sittings": ["2025-09"]
+    }
+  },
+  {
+    "id": "gva-0795",
+    "topic": "nom",
+    "q": "La parte del casco de la embarcación que se encuentra por encima de la línea de flotación se denomina:",
+    "options": ["Obra viva", "Obra muerta", "Bañera", "Amura"],
+    "answer": 1,
+    "explanation": "Obra muerta: encima de la flotación.",
+    "gva": {
+      "index": 795,
+      "sittings": ["2025-09"]
+    }
+  },
+  {
+    "id": "gva-0834",
+    "topic": "nom",
+    "q": "El ancla de arado es más eficaz para fondear en fondos de:",
+    "options": ["Arena.", "Piedras.", "Algas.", "Arcilla."],
+    "answer": 0,
+    "explanation": "El arado agarra bien en arena y fango. En roca agarra mal cualquier ancla.",
+    "gva": {
+      "index": 834,
+      "sittings": ["2026-04"]
+    }
+  },
+  {
+    "id": "gva-0835",
+    "topic": "nom",
+    "q": "Si queremos llevar un cabo de proa a popa para proporcionar mayor seguridad a la tripulación, ¿qué podremos usar?",
+    "options": [
+      "Un candelero que pase por la base de los guardamancebos.",
+      "Un guardamancebo que pase por la base de los candeleros.",
+      "Un candelero que pase por los extremos de los guardamancebos.",
+      "Un guardamancebo que pase por los extremos de los candeleros."
+    ],
+    "answer": 3,
+    "explanation": "El guardamancebo va de proa a popa por los extremos (cabezas) de los candeleros.",
+    "gva": {
+      "index": 835,
+      "sittings": ["2026-04"]
+    }
+  },
+  {
+    "id": "gva-0836",
+    "topic": "nom",
+    "q": "La cubierta pisable más baja de un buque se denomina:",
+    "options": ["Puntal.", "Plan.", "Mamparo.", "Crujía."],
+    "answer": 1,
+    "explanation": "Plan: la cubierta pisable más baja.",
+    "gva": {
+      "index": 836,
+      "sittings": ["2026-04"]
+    }
+  },
+  {
+    "id": "gva-0837",
+    "topic": "nom",
+    "q": "El desplazamiento máximo corresponde al:",
+    "options": [
+      "Volumen de una embarcación cargada al máximo permitido.",
+      "Volumen de una embarcación sin carga, combustible, lubricantes, lastre ni agua dulce.",
+      "Peso del volumen de agua desplazado por la parte sumergida de una embarcación cargada al máximo permitido.",
+      "Peso del volumen de agua desplazado por la parte sumergida de una embarcación sin carga, combustible, lubricantes, lastre ni agua dulce"
+    ],
+    "answer": 2,
+    "explanation": "Desplazamiento máximo: peso del agua desplazada con el barco a plena carga (Arquímedes).",
+    "gva": {
+      "index": 837,
+      "sittings": ["2026-04"]
+    }
+  },
+  {
+    "id": "gva-0866",
+    "topic": "nom",
+    "q": "La línea imaginaria que divide el casco en dos bandas o mitades se llama:",
+    "options": ["Línea de Medianía.", "Línea de Crujía.", "Línea de Proa.", "Línea Transversal."],
+    "answer": 1,
+    "explanation": "Línea de crujía: divide el casco en dos bandas.",
+    "gva": {
+      "index": 866,
+      "sittings": ["2026-07"]
+    }
+  },
+  {
+    "id": "gva-0867",
+    "topic": "nom",
+    "q": "Los refuerzos transversales que unen los extremos superiores de las cuadernas y sostienen la cubierta se llaman:",
+    "options": ["Pantoques.", "Baos.", "Vagras.", "Bulárcamas."],
+    "answer": 1,
+    "explanation": "Baos: unen las cabezas de las cuadernas y sostienen la cubierta.",
+    "gva": {
+      "index": 867,
+      "sittings": ["2026-07"]
+    }
+  },
+  {
+    "id": "gva-0868",
+    "topic": "nom",
+    "q": "Cuando el calado de popa es mayor que el calado de proa:",
+    "options": [
+      "El buque no puede salir a navegar.",
+      "El buque tiene asiento positivo.",
+      "Se dice que el buque está aproado.",
+      "El buque tiene asiento negativo."
+    ],
+    "answer": 1,
+    "explanation": "Calado de popa mayor que el de proa: asiento positivo (apopado).",
+    "gva": {
+      "index": 868,
+      "sittings": ["2026-07"]
+    }
+  },
+  {
+    "id": "gva-0869",
+    "topic": "nom",
+    "q": "¿Qué es la obra muerta en un buque?",
+    "options": [
+      "Los restos que quedan después de la reparación del buque.",
+      "La parte del buque que emerge del agua.",
+      "La parte del casco que se encuentra sumergida.",
+      "La estructura interna que soporta la quilla y los mamparos."
+    ],
+    "answer": 1,
+    "explanation": "Obra muerta: la parte que emerge.",
+    "gva": {
+      "index": 869,
+      "sittings": ["2026-07"]
+    }
+  },
+  {
+    "id": "gva-0911",
+    "topic": "nom",
+    "q": "En terminología náutica, ¿qué se entiende por lumbreras?",
+    "options": [
+      "Las barras que sirven para sujetar los pasamanos y las barandillas.",
+      "Escotillas de cristal empleadas en dar luz y ventilación a las cámaras.",
+      "Pequeña caseta sobre la cubierta.",
+      "Escotillas ciegas."
+    ],
+    "answer": 1,
+    "explanation": "Lumbreras: escotillas acristaladas para luz y ventilación.",
+    "gva": {
+      "index": 911,
+      "sittings": ["2026-10"]
+    }
+  },
+  {
+    "id": "gva-0912",
+    "topic": "nom",
+    "q": "¿Cómo se llama la parte del ancla que va desde el arganeo a la cruz?",
+    "options": ["Mapa.", "Brazo.", "Uña.", "Caña."],
+    "answer": 3,
+    "explanation": "Caña: del arganeo a la cruz.",
+    "gva": {
+      "index": 912,
+      "sittings": ["2026-10"]
+    }
+  },
+  {
+    "id": "gva-0913",
+    "topic": "nom",
+    "q": "El disco unido al tambor del molinete con muescas especiales para que enganchen en ellas los eslabones de la cadena del ancla recibe el nombre de…",
+    "options": ["Escobén.", "Barbotén.", "Bita.", "Cabirón."],
+    "answer": 1,
+    "explanation": "Barbotén: el disco con muescas del molinete.",
+    "gva": {
+      "index": 913,
+      "sittings": ["2026-10"]
+    }
+  },
+  {
+    "id": "gva-0914",
+    "topic": "nom",
+    "q": "¿Cuándo decimos que un barco se encuentra adrizado?",
+    "options": [
+      "Cuando su calado a proa es igual que su calado a popa.",
+      "Cuando está en su condición de máxima carga.",
+      "Cuando no tiene escora.",
+      "Cuando no tiene asiento."
+    ],
+    "answer": 2,
+    "explanation": "Adrizado = sin escora. Sin asiento sería «en aguas iguales».",
+    "gva": {
+      "index": 914,
+      "sittings": ["2026-10"]
+    }
+  }
+]

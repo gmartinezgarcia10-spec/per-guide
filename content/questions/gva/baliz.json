@@ -1,0 +1,1506 @@
+[
+  {
+    "id": "gva-0012",
+    "topic": "baliz",
+    "q": "En el sistema de balizamiento lateral de la Región A, las marcas de tope de las marcas de babor tienen forma de:",
+    "options": ["Esfera.", "Cono.", "Cilindro.", "Aspa."],
+    "answer": 2,
+    "explanation": "Región A: babor rojo con cilindro; estribor verde con cono.",
+    "gva": {
+      "index": 12,
+      "sittings": ["2019-11"]
+    }
+  },
+  {
+    "id": "gva-0013",
+    "topic": "baliz",
+    "q": "En la Región A, la marca de canal principal a estribor, ¿cómo está pintada?:",
+    "options": [
+      "De color blanco y rojo con bandas verticales.",
+      "De color negra con una o dos bandas rojas horizontales.",
+      "De color verde con una banda horizontal roja.",
+      "De color rojo con una banda horizontal verde."
+    ],
+    "answer": 3,
+    "explanation": "Canal principal a estribor: es una marca de babor modificada, roja con banda verde.",
+    "gva": {
+      "index": 13,
+      "sittings": ["2019-11"]
+    }
+  },
+  {
+    "id": "gva-0014",
+    "topic": "baliz",
+    "q": "Si vemos una marca cardinal que emite grupos de tres destellos de luz blanca nos indica que el peligro está:",
+    "options": [
+      "Al Norte de la marca.",
+      "Al Este de la marca.",
+      "Al Oeste de la marca.",
+      "Al Sur de la marca."
+    ],
+    "answer": 2,
+    "explanation": "Tres destellos = cardinal Este: hay que pasar por el E. El peligro queda al W de la marca.",
+    "gva": {
+      "index": 14,
+      "sittings": ["2019-11"]
+    }
+  },
+  {
+    "id": "gva-0015",
+    "topic": "baliz",
+    "q": "Como se denominan las marcas de color amarillo con una señal de tope en forma de aspa amarilla usadas para indicar configuraciones especiales como separación de tráfico o delimitación de zona de ejercicios militares:",
+    "options": [
+      "Marcas de peligro aislado.",
+      "Marcas especiales.",
+      "Marcas de aguas navegables.",
+      "Marcas cardinales"
+    ],
+    "answer": 1,
+    "explanation": "Especiales: amarillas con aspa amarilla.",
+    "gva": {
+      "index": 15,
+      "sittings": ["2019-11"]
+    }
+  },
+  {
+    "id": "gva-0016",
+    "topic": "baliz",
+    "q": "¿Que marca cardinal tiene como tope dos conos negros superpuestos con sus vértices hacia arriba?:",
+    "options": ["Cardinal Norte.", "Cardinal Sur.", "Cardinal Este.", "Cardinal Oeste."],
+    "answer": 0,
+    "explanation": "Conos hacia arriba = Norte (los vértices «miran» al norte).",
+    "gva": {
+      "index": 16,
+      "sittings": ["2019-11"]
+    }
+  },
+  {
+    "id": "gva-0057",
+    "topic": "baliz",
+    "q": "Las marcas laterales rojas y verdes indican:",
+    "options": [
+      "Los límites exteriores de un área militar y peligrosa no navegable.",
+      "Una zona de vertidos químicos peligrosa para la navegación.",
+      "Los límites de áreas especiales de baño en las playas.",
+      "Los lados de babor y estribor respectivamente de un canal."
+    ],
+    "answer": 3,
+    "explanation": "Laterales: rojo a babor y verde a estribor entrando a puerto (Región A).",
+    "gva": {
+      "index": 57,
+      "sittings": ["2021-04"]
+    }
+  },
+  {
+    "id": "gva-0058",
+    "topic": "baliz",
+    "q": "¿De qué colores son las balizas de la marca cardinal Sur?:",
+    "options": [
+      "De color amarillo sobre rojo.",
+      "De color amarillo sobre negro.",
+      "De color negro sobre amarillo.",
+      "De color negro sobre rojo."
+    ],
+    "answer": 1,
+    "explanation": "Sur: amarillo sobre negro (los conos apuntan abajo, al negro de abajo).",
+    "gva": {
+      "index": 58,
+      "sittings": ["2021-04"]
+    }
+  },
+  {
+    "id": "gva-0059",
+    "topic": "baliz",
+    "q": "¿La marca de aguas navegables puede llevar como luz una letra del código Morse?:",
+    "options": ["No.", "Sí, la “A”.", "Sí, la “O”.", "Sí, la “S”."],
+    "answer": 1,
+    "explanation": "Aguas navegables: isofase, ocultaciones, un destello largo o Morse «A».",
+    "gva": {
+      "index": 59,
+      "sittings": ["2021-04"]
+    }
+  },
+  {
+    "id": "gva-0060",
+    "topic": "baliz",
+    "q": "Saliendo de puerto en la región A de balizamiento, debemos ver por nuestro costado de estribor:",
+    "options": [
+      "Una marca verde de forma cónica, castillete o espeque.",
+      "Una marca verde de forma cilíndrica, castillete o espeque.",
+      "Una marca roja de forma cilíndrica, castillete o espeque.",
+      "Una marca roja de forma cónica, castillete o espeque."
+    ],
+    "answer": 2,
+    "explanation": "Saliendo de puerto se invierte: la roja (cilindro) queda a estribor.",
+    "gva": {
+      "index": 60,
+      "sittings": ["2021-04"]
+    }
+  },
+  {
+    "id": "gva-0061",
+    "topic": "baliz",
+    "q": "El ritmo de una luz de una marca de canal principal a estribor será de:",
+    "options": [
+      "Grupos de 2 más 2 destellos (2+2).",
+      "Grupos de 2 más 1 destellos (2+1).",
+      "Grupos de 3 más 1 destellos (2+2).",
+      "Grupos de 3 más 2 destellos (3+2)."
+    ],
+    "answer": 1,
+    "explanation": "Canal principal (bifurcación): grupo de 2+1.",
+    "gva": {
+      "index": 61,
+      "sittings": ["2021-04"]
+    }
+  },
+  {
+    "id": "gva-0102",
+    "topic": "baliz",
+    "q": "¿Qué marca de tope tienen las boyas de peligro aislado?:",
+    "options": [
+      "Dos esferas negras.",
+      "Dos conos unidos por la base.",
+      "Dos conos unidos por sus vértices.",
+      "Un cilindro negro."
+    ],
+    "answer": 0,
+    "explanation": "Peligro aislado: dos esferas negras.",
+    "gva": {
+      "index": 102,
+      "sittings": ["2021-07"]
+    }
+  },
+  {
+    "id": "gva-0103",
+    "topic": "baliz",
+    "q": "Un espeque rojo con una franja verde en su centro y de tope un cilindro rojo, es una baliza, en la Región “A” de:",
+    "options": [
+      "Peligro aislado.",
+      "Aguas navegables.",
+      "Canal principal a estribor.",
+      "Canal principal a babor."
+    ],
+    "answer": 2,
+    "explanation": "Roja con franja verde y cilindro rojo: canal principal a estribor.",
+    "gva": {
+      "index": 103,
+      "sittings": ["2021-07"]
+    }
+  },
+  {
+    "id": "gva-0104",
+    "topic": "baliz",
+    "q": "¿Cuántos tipos de marcas comprende el sistema de balizamiento IALA?:",
+    "options": ["5.", "4.", "7.", "6."],
+    "answer": 0,
+    "explanation": "IALA: laterales, cardinales, peligro aislado, aguas navegables y especiales. Cinco.",
+    "gva": {
+      "index": 104,
+      "sittings": ["2021-07"]
+    }
+  },
+  {
+    "id": "gva-0105",
+    "topic": "baliz",
+    "q": "Por la noche, en un estuario, ves una luz blanca isofase, ¿qué indica dicha luz?:",
+    "options": ["Peligro aislado.", "Aguas navegables.", "Zona reservada al recreo.", "Zona militar."],
+    "answer": 1,
+    "explanation": "Blanca isofase: aguas navegables.",
+    "gva": {
+      "index": 105,
+      "sittings": ["2021-07"]
+    }
+  },
+  {
+    "id": "gva-0106",
+    "topic": "baliz",
+    "q": "¿De qué color son las boyas que debe dejar por estribor un barco navegando por la Región “A” saliendo de un río?:",
+    "options": ["De color rojo.", "De color verde.", "De color amarillo.", "De rojo con una franja verde."],
+    "answer": 0,
+    "explanation": "Saliendo de un río o puerto: la roja queda por estribor.",
+    "gva": {
+      "index": 106,
+      "sittings": ["2021-07"]
+    }
+  },
+  {
+    "id": "gva-0147",
+    "topic": "baliz",
+    "q": "Una marca cardinal con dos conos superpuestos, con el vértice hacia abajo nos indica que debemos pasar por:",
+    "options": [
+      "El sur de la misma.",
+      "El norte de la misma.",
+      "El oeste de la misma.",
+      "El este de la misma."
+    ],
+    "answer": 0,
+    "explanation": "Conos hacia abajo = Sur: pasa por el sur.",
+    "gva": {
+      "index": 147,
+      "sittings": ["2021-06"]
+    }
+  },
+  {
+    "id": "gva-0148",
+    "topic": "baliz",
+    "q": "Una baliza que emite de noche una luz blanca en grupos de dos destellos se trata de:",
+    "options": [
+      "Una marca de aguas navegables.",
+      "Una marca cardinal norte.",
+      "Una marca de peligro aislado.",
+      "Una marca especial."
+    ],
+    "answer": 2,
+    "explanation": "Blanca de grupo de 2 destellos: peligro aislado (dos esferas, dos destellos).",
+    "gva": {
+      "index": 148,
+      "sittings": ["2021-06"]
+    }
+  },
+  {
+    "id": "gva-0149",
+    "topic": "baliz",
+    "q": "En la región de balizamiento “A” una baliza que emite un grupo de dos más un destello rojo, ¿Se trata de?:",
+    "options": [
+      "Una marca de babor.",
+      "Una marca de aguas navegables.",
+      "Una marca de canal principal a babor.",
+      "Una marca de canal principal a estribor."
+    ],
+    "answer": 3,
+    "explanation": "Roja con 2+1 = canal principal a estribor.",
+    "gva": {
+      "index": 149,
+      "sittings": ["2021-06"]
+    }
+  },
+  {
+    "id": "gva-0150",
+    "topic": "baliz",
+    "q": "¿Las balizas especiales tienen como marca de tope?:",
+    "options": ["Una esfera negra.", "Un aspa amarilla.", "Una esfera roja.", "Un aspa roja."],
+    "answer": 1,
+    "explanation": "Especiales: aspa amarilla.",
+    "gva": {
+      "index": 150,
+      "sittings": ["2021-06"]
+    }
+  },
+  {
+    "id": "gva-0151",
+    "topic": "baliz",
+    "q": "¿Las marcas cardinales Este son de color?:",
+    "options": [
+      "Negras con una ancha franja horizontal amarilla.",
+      "Negro sobre amarillo.",
+      "Amarillo sobre negro.",
+      "Amarillas con una ancha franja horizontal negra."
+    ],
+    "answer": 0,
+    "explanation": "Este: negra con franja amarilla (conos base con base: negro arriba y abajo).",
+    "gva": {
+      "index": 151,
+      "sittings": ["2021-06"]
+    }
+  },
+  {
+    "id": "gva-0191",
+    "topic": "baliz",
+    "q": "Si navegando, vemos una boya con forma de espeque pintada a franjas verticales rojas y blancas. ¿Se trata de?:",
+    "options": [
+      "Una marca especial.",
+      "Una marca de peligro aislado.",
+      "Una marca de aguas navegables.",
+      "Una marca cardinal."
+    ],
+    "answer": 2,
+    "explanation": "Franjas verticales rojas y blancas: aguas navegables.",
+    "gva": {
+      "index": 191,
+      "sittings": ["2021-11"]
+    }
+  },
+  {
+    "id": "gva-0192",
+    "topic": "baliz",
+    "q": "¿Qué marca emite grupos de 2 + 1 destellos rojos (Región A) ?:",
+    "options": [
+      "Bifurcación. Canal principal a babor.",
+      "Bifurcación. Canal principal a estribor.",
+      "Una marca lateral de babor.",
+      "Una marca lateral de estribor."
+    ],
+    "answer": 1,
+    "explanation": "Roja de 2+1: canal principal a estribor.",
+    "gva": {
+      "index": 192,
+      "sittings": ["2021-11"]
+    }
+  },
+  {
+    "id": "gva-0193",
+    "topic": "baliz",
+    "q": "Una marca cardinal con dos conos superpuestos, con el vértice hacia abajo, la dejaremos por:",
+    "options": ["El este.", "El oeste.", "El norte.", "El sur."],
+    "answer": 2,
+    "explanation": "Conos hacia abajo = Sur. Pasas por el sur, así que la marca te queda al norte.",
+    "gva": {
+      "index": 193,
+      "sittings": ["2021-11"]
+    }
+  },
+  {
+    "id": "gva-0194",
+    "topic": "baliz",
+    "q": "¿Las marcas cardinales norte son de color?:",
+    "options": [
+      "Amarillo sobre negro.",
+      "Negras con una ancha franja horizontal amarilla en el centro.",
+      "Negro sobre amarillo.",
+      "Amarillas con una ancha franja horizontal negra en el centro."
+    ],
+    "answer": 2,
+    "explanation": "Norte: negro sobre amarillo.",
+    "gva": {
+      "index": 194,
+      "sittings": ["2021-11"]
+    }
+  },
+  {
+    "id": "gva-0195",
+    "topic": "baliz",
+    "q": "¿Si navegando de noche en la región de balizamiento A vemos una boya que emite una luz amarilla se trata de?:",
+    "options": [
+      "Una marca cardinal.",
+      "Una marca de aguas navegables.",
+      "Una marca especial.",
+      "Una marca peligro aislado."
+    ],
+    "answer": 2,
+    "explanation": "Luz amarilla: marca especial.",
+    "gva": {
+      "index": 195,
+      "sittings": ["2021-11"]
+    }
+  },
+  {
+    "id": "gva-0236",
+    "topic": "baliz",
+    "q": "La forma de la marca de tope de una boya/baliza de color verde con forma de espeque, de un canal navegable será:",
+    "options": ["Un cilindro", "Una esfera", "Un cono", "Dos conos superpuestos por el vértice"],
+    "answer": 2,
+    "explanation": "Verde (estribor) lleva un cono.",
+    "gva": {
+      "index": 236,
+      "sittings": ["2022-12"]
+    }
+  },
+  {
+    "id": "gva-0237",
+    "topic": "baliz",
+    "q": "En la región de balizamiento “A” una marca que emite una luz verde con un ritmo Gp D (2+1), se trata de:",
+    "options": [
+      "Una marca de estribor de un canal",
+      "Una marca de peligro aislado",
+      "Una marca de canal principal a babor",
+      "Una marca de canal principal a estribor"
+    ],
+    "answer": 2,
+    "explanation": "Verde de 2+1: canal principal a babor.",
+    "gva": {
+      "index": 237,
+      "sittings": ["2022-12"]
+    }
+  },
+  {
+    "id": "gva-0238",
+    "topic": "baliz",
+    "q": "Una boya que emite una luz blanca de tres centelleos, corresponde a la marca cardinal:",
+    "options": ["Norte", "Este", "Sur", "Oeste"],
+    "answer": 1,
+    "explanation": "Tres centelleos: Este (las 3 h del reloj).",
+    "gva": {
+      "index": 238,
+      "sittings": ["2022-12"]
+    }
+  },
+  {
+    "id": "gva-0239",
+    "topic": "baliz",
+    "q": "Las marcas tipo castillete de peligro aislado emiten una luz:",
+    "options": [
+      "Amarilla con un ritmo de GpD 2",
+      "Blanca con un ritmo de GpD 2",
+      "Amarillo centelleante",
+      "Ninguna de las respuestas es correcta"
+    ],
+    "answer": 1,
+    "explanation": "Peligro aislado: blanca de grupo de 2 destellos.",
+    "gva": {
+      "index": 239,
+      "sittings": ["2022-12", "2024-11"]
+    }
+  },
+  {
+    "id": "gva-0240",
+    "topic": "baliz",
+    "q": "La marca especial tiene como tope:",
+    "options": ["Una esfera roja", "Un cono verde", "Dos esferas negras", "Un aspa amarilla"],
+    "answer": 3,
+    "explanation": "Especial: aspa amarilla.",
+    "gva": {
+      "index": 240,
+      "sittings": ["2022-12", "2023-02"]
+    }
+  },
+  {
+    "id": "gva-0281",
+    "topic": "baliz",
+    "q": "En la Región A, ¿de qué color es la luz de canal principal a babor?:",
+    "options": ["Verde.", "Amarilla.", "Blanca.", "Roja."],
+    "answer": 0,
+    "explanation": "Canal principal a babor: es una marca de estribor modificada, luz verde.",
+    "gva": {
+      "index": 281,
+      "sittings": ["2022-02"]
+    }
+  },
+  {
+    "id": "gva-0282",
+    "topic": "baliz",
+    "q": "Una marca de peligro aislado tiene como marca de tope:",
+    "options": ["Dos conos negros.", "Dos cilindros rojos.", "Dos bolas negras.", "Dos aspas amarillas."],
+    "answer": 2,
+    "explanation": "Peligro aislado: dos esferas negras.",
+    "gva": {
+      "index": 282,
+      "sittings": ["2022-02"]
+    }
+  },
+  {
+    "id": "gva-0283",
+    "topic": "baliz",
+    "q": "Una marca cardinal Oeste, ¿de qué color es?:",
+    "options": [
+      "Toda amarilla.",
+      "Amarilla con una franja negra.",
+      "Negra sobre amarilla.",
+      "Negra con franja amarilla."
+    ],
+    "answer": 1,
+    "explanation": "Oeste: amarilla con franja negra (conos vértice con vértice).",
+    "gva": {
+      "index": 283,
+      "sittings": ["2022-02"]
+    }
+  },
+  {
+    "id": "gva-0284",
+    "topic": "baliz",
+    "q": "Si veo una marca, que tiene de tope dos conos negros superpuestos con los vértices apuntando para abajo, ¿qué indica?",
+    "options": [
+      "Que al norte de la marca hay un peligro.",
+      "Que voy a entrar en un dispositivo de separación de tráfico por el lado correcto.",
+      "Que termina la zona portuaria y empiezan las aguas por las que puedo navegar de forma segura y sin peligros.",
+      "Que hay un canal para la entrada de embarcaciones en una playa balizada."
+    ],
+    "answer": 0,
+    "explanation": "Conos hacia abajo = Sur: el peligro está al norte de la marca.",
+    "gva": {
+      "index": 284,
+      "sittings": ["2022-02"]
+    }
+  },
+  {
+    "id": "gva-0285",
+    "topic": "baliz",
+    "q": "¿Qué marcas están pintadas únicamente de amarillo?:",
+    "options": ["Las marcas especiales.", "Las de aguas navegables.", "Las de cardinal Este.", "Ninguna."],
+    "answer": 0,
+    "explanation": "Solo las especiales son enteramente amarillas.",
+    "gva": {
+      "index": 285,
+      "sittings": ["2022-02"]
+    }
+  },
+  {
+    "id": "gva-0326",
+    "topic": "baliz",
+    "q": "Una marca cardinal con dos conos superpuestos, con el vértice hacia arriba nos indica que debemos pasar por:",
+    "options": [
+      "El sur de la misma.",
+      "El norte de la misma.",
+      "El oeste de la misma.",
+      "El este de la misma."
+    ],
+    "answer": 1,
+    "explanation": "Conos hacia arriba = Norte: pasa por el norte.",
+    "gva": {
+      "index": 326,
+      "sittings": ["2022-06"]
+    }
+  },
+  {
+    "id": "gva-0327",
+    "topic": "baliz",
+    "q": "En la región de balizamiento “A” una baliza que emite GpD (2+1) verdes, ¿Se trata de?:",
+    "options": [
+      "Una marca de babor.",
+      "Una marca de aguas navegables.",
+      "Una marca de canal principal a babor.",
+      "Una marca de canal principal a estribor."
+    ],
+    "answer": 2,
+    "explanation": "Verde de 2+1: canal principal a babor.",
+    "gva": {
+      "index": 327,
+      "sittings": ["2022-06"]
+    }
+  },
+  {
+    "id": "gva-0328",
+    "topic": "baliz",
+    "q": "Una luz blanca Gpd(2) pertenece a:",
+    "options": [
+      "Marcas de peligro aislado",
+      "Marca lateral de estribor",
+      "Marcas especiales",
+      "Marcas de aguas navegables"
+    ],
+    "answer": 0,
+    "explanation": "GpD(2) blanca: peligro aislado.",
+    "gva": {
+      "index": 328,
+      "sittings": ["2022-06"]
+    }
+  },
+  {
+    "id": "gva-0329",
+    "topic": "baliz",
+    "q": "Las marcas especiales tienen como marca de tope y color:",
+    "options": ["Una esfera amarilla", "Un aspa roja", "Un aspa amarilla", "Una esfera roja"],
+    "answer": 2,
+    "explanation": "Especiales: aspa amarilla.",
+    "gva": {
+      "index": 329,
+      "sittings": ["2022-06"]
+    }
+  },
+  {
+    "id": "gva-0330",
+    "topic": "baliz",
+    "q": "Las marcas cardinales Oeste son de color:",
+    "options": [
+      "Negras con una ancha franja horizontal amarilla",
+      "Negro sobre amarillo",
+      "Amarillo sobre negro",
+      "Amarillas con una ancha franja horizontal negra"
+    ],
+    "answer": 3,
+    "explanation": "Oeste: amarilla con franja negra.",
+    "gva": {
+      "index": 330,
+      "sittings": ["2022-06"]
+    }
+  },
+  {
+    "id": "gva-0371",
+    "topic": "baliz",
+    "q": "Al entrar por la bocana de un puerto, la farola que se encuentra por nuestro costado de estribor será de color:",
+    "options": ["Roja", "Blanca", "Verde", "Amarilla"],
+    "answer": 2,
+    "explanation": "Entrando a puerto, verde a estribor.",
+    "gva": {
+      "index": 371,
+      "sittings": ["2023-04", "2024-11"]
+    }
+  },
+  {
+    "id": "gva-0372",
+    "topic": "baliz",
+    "q": "En la región de balizamiento “A” una marca que emite una luz verde con un ritmo Gp D (2+1), se trata de:",
+    "options": [
+      "La marca de estribor de un canal",
+      "La marca de canal principal a babor",
+      "La marca de peligro aislado",
+      "La marca de canal principal a estribor"
+    ],
+    "answer": 1,
+    "explanation": "Verde de 2+1: canal principal a babor.",
+    "gva": {
+      "index": 372,
+      "sittings": ["2023-04", "2024-09", "2024-11"]
+    }
+  },
+  {
+    "id": "gva-0373",
+    "topic": "baliz",
+    "q": "Una boya que emite una luz blanca de centelleo continuo, corresponde a la marca cardinal:",
+    "options": ["Sur", "Este", "Norte", "Oeste"],
+    "answer": 2,
+    "explanation": "Centelleo continuo: Norte (las 12).",
+    "gva": {
+      "index": 373,
+      "sittings": ["2023-04", "2024-11"]
+    }
+  },
+  {
+    "id": "gva-0374",
+    "topic": "baliz",
+    "q": "Las marcas de color negro con una o varias franjas horizontales de color rojo, y que por la noche emiten una luz de color blanco con un ritmo de GpD 2, son las:",
+    "options": [
+      "Marcas laterales Región B",
+      "Marcas de peligro aislado",
+      "Marcas de aguas navegables",
+      "Marcas especiales"
+    ],
+    "answer": 1,
+    "explanation": "Negra con franjas rojas y GpD(2) blanca: peligro aislado.",
+    "gva": {
+      "index": 374,
+      "sittings": ["2023-02", "2023-04", "2024-09"]
+    }
+  },
+  {
+    "id": "gva-0375",
+    "topic": "baliz",
+    "q": "La marca de peligro aislado tiene como tope:",
+    "options": ["Dos esferas negras", "Un cono verde", "Una esfera roja", "Un aspa amarilla"],
+    "answer": 0,
+    "explanation": "Dos esferas negras.",
+    "gva": {
+      "index": 375,
+      "sittings": ["2023-04", "2024-11"]
+    }
+  },
+  {
+    "id": "gva-0416",
+    "topic": "baliz",
+    "q": "Al salir por la bocana de un puerto, la farola que se encuentra por nuestro costado de estribor será de color:",
+    "options": ["Verde", "Blanca", "Roja", "Amarilla"],
+    "answer": 2,
+    "explanation": "Saliendo, roja a estribor.",
+    "gva": {
+      "index": 416,
+      "sittings": ["2023-02"]
+    }
+  },
+  {
+    "id": "gva-0417",
+    "topic": "baliz",
+    "q": "En la región de balizamiento “A” una marca que emite una luz roja con un ritmo Gp D (2+1), se trata de:",
+    "options": [
+      "Una marca de estribor de un canal",
+      "Una marca de peligro aislado",
+      "Una marca de canal principal a babor",
+      "Una marca de canal principal a estribor"
+    ],
+    "answer": 3,
+    "explanation": "Roja de 2+1: canal principal a estribor.",
+    "gva": {
+      "index": 417,
+      "sittings": ["2023-02"]
+    }
+  },
+  {
+    "id": "gva-0418",
+    "topic": "baliz",
+    "q": "Una boya que emite una luz blanca de nueve centelleos, corresponde a la marca cardinal:",
+    "options": ["Norte", "Este", "Sur", "Oeste"],
+    "answer": 3,
+    "explanation": "Nueve centelleos: Oeste (las 9).",
+    "gva": {
+      "index": 418,
+      "sittings": ["2023-02"]
+    }
+  },
+  {
+    "id": "gva-0459",
+    "topic": "baliz",
+    "q": "Si navegando por la noche vemos una luz blanca emitiendo grupos de 6 centelleos rápidos seguidos de un destello largo blanco cada diez segundos, se trata de una:",
+    "options": ["Marca especial", "Marca cardinal oeste", "Marca cardinal norte", "Marca cardinal sur"],
+    "answer": 3,
+    "explanation": "Seis centelleos + destello largo: Sur (las 6 h; el largo la distingue).",
+    "gva": {
+      "index": 459,
+      "sittings": ["2023-07"]
+    }
+  },
+  {
+    "id": "gva-0460",
+    "topic": "baliz",
+    "q": "Las balizas o marcas especiales tienen como marca de tope:",
+    "options": ["Una esfera negra", "Un aspa amarilla", "Una esfera roja", "Un cilindro rojo"],
+    "answer": 1,
+    "explanation": "Aspa amarilla.",
+    "gva": {
+      "index": 460,
+      "sittings": ["2023-07"]
+    }
+  },
+  {
+    "id": "gva-0461",
+    "topic": "baliz",
+    "q": "Navegando al Rv = 270°, se avista por la proa una boya que tiene como marca de tope dos conos con el vértice hacia arriba:",
+    "options": [
+      "Nos indica que las aguas más profundas y seguras se encuentran al norte de la boya",
+      "Cambiaremos el rumbo a babor para pasar por el sur respecto a la boya",
+      "Nos informa de que hay una reserva marina muy próxima a nosotros",
+      "Nos indica que todas las aguas a su alrededor son navegables"
+    ],
+    "answer": 0,
+    "explanation": "Cardinal Norte: las aguas seguras están al norte.",
+    "gva": {
+      "index": 461,
+      "sittings": ["2023-07"]
+    }
+  },
+  {
+    "id": "gva-0462",
+    "topic": "baliz",
+    "q": "Si navegando de noche por el Mediterráneo cerca de la costa vemos una luz que emite un grupo de dos destellos blancos, se tratará de una:",
+    "options": [
+      "Marca de aguas navegables",
+      "Marca lateral de estribor",
+      "Marca de peligro aislado",
+      "Ninguna respuesta de las anteriores es cierta"
+    ],
+    "answer": 2,
+    "explanation": "Grupo de 2 destellos blancos: peligro aislado.",
+    "gva": {
+      "index": 462,
+      "sittings": ["2023-07", "2025-04"]
+    }
+  },
+  {
+    "id": "gva-0463",
+    "topic": "baliz",
+    "q": "Si observamos una boya en forma de castillete de color rojo con una banda horizontal verde y cuya marca de tope consiste en un cilindro rojo se trata de:",
+    "options": [
+      "Una marca de aguas navegables",
+      "Una bifurcación con canal principal a babor",
+      "Una marca cardinal de Sur",
+      "Bifurcación con canal principal a estribor"
+    ],
+    "answer": 3,
+    "explanation": "Roja con banda verde y cilindro: canal principal a estribor.",
+    "gva": {
+      "index": 463,
+      "sittings": ["2023-07"]
+    }
+  },
+  {
+    "id": "gva-0504",
+    "topic": "baliz",
+    "q": "Si navegando por la noche vemos una luz blanca con un ritmo que consiste en nueve centelleos rápidos, se trata de una marca:",
+    "options": ["Cardinal oeste", "Cardinal sur", "Cardinal norte", "Cardinal este"],
+    "answer": 0,
+    "explanation": "Nueve centelleos: Oeste.",
+    "gva": {
+      "index": 504,
+      "sittings": ["2023-11"]
+    }
+  },
+  {
+    "id": "gva-0505",
+    "topic": "baliz",
+    "q": "Si entrando a un puerto observo una marca de forma cónica de color verde con una franja horizontal en rojo, indica que:",
+    "options": [
+      "El canal no es navegable",
+      "El canal principal se encuentra a babor respecto a la boya",
+      "El canal secundario se encuentra a babor respecto a la boya",
+      "El canal principal se encuentra a estribor respecto a la boya"
+    ],
+    "answer": 1,
+    "explanation": "Verde (cono) con franja roja: canal principal a babor de la boya.",
+    "gva": {
+      "index": 505,
+      "sittings": ["2023-11", "2025-06"]
+    }
+  },
+  {
+    "id": "gva-0506",
+    "topic": "baliz",
+    "q": "Las balizas que delimitan el área de una piscifactoría son de color:",
+    "options": ["Verde", "Amarillo", "Negra y amarilla", "Rojo y blanco"],
+    "answer": 1,
+    "explanation": "Piscifactorías: marcas especiales, amarillas.",
+    "gva": {
+      "index": 506,
+      "sittings": ["2023-11"]
+    }
+  },
+  {
+    "id": "gva-0507",
+    "topic": "baliz",
+    "q": "Si navegando de noche al Rv 000° observamos por la proa una luz blanca con un ritmo de 3 destellos blancos, maniobraremos:",
+    "options": [
+      "Cayendo a estribor",
+      "Reduciendo la velocidad y manteniendo el mismo rumbo",
+      "Aumentando la velocidad y se caerá a babor",
+      "Ninguna de las respuestas anteriores es cierta"
+    ],
+    "answer": 0,
+    "explanation": "Rumbo N y una cardinal E por la proa: pasa por su este, cayendo a estribor.",
+    "gva": {
+      "index": 507,
+      "sittings": ["2023-11", "2025-06"]
+    }
+  },
+  {
+    "id": "gva-0508",
+    "topic": "baliz",
+    "q": "La marca de tope de una baliza de canal principal a estribor será:",
+    "options": ["Una esfera roja", "Un aspa amarilla", "Un cilindro rojo", "Un cono verde"],
+    "answer": 2,
+    "explanation": "Canal principal a estribor: cilindro rojo.",
+    "gva": {
+      "index": 508,
+      "sittings": ["2023-11"]
+    }
+  },
+  {
+    "id": "gva-0549",
+    "topic": "baliz",
+    "q": "Si navegando por la noche vemos una luz blanca centelleante continua, se trata de una:",
+    "options": ["Marca cardinal norte", "Marca cardinal sur", "Marca cardinal este", "Marca cardinal oeste"],
+    "answer": 0,
+    "explanation": "Centelleo continuo: Norte.",
+    "gva": {
+      "index": 549,
+      "sittings": ["2023-09", "2025-06", "2025-09"]
+    }
+  },
+  {
+    "id": "gva-0550",
+    "topic": "baliz",
+    "q": "Las marcas de peligro aislado tienen como marca de tope:",
+    "options": ["Una esfera negra", "Un aspa amarilla", "Dos esferas negras", "Un cilindro negro"],
+    "answer": 2,
+    "explanation": "Dos esferas negras.",
+    "gva": {
+      "index": 550,
+      "sittings": ["2023-09"]
+    }
+  },
+  {
+    "id": "gva-0551",
+    "topic": "baliz",
+    "q": "Una marca con forma de espeque de color rojo y verde en el medio, con un tope amarillo en forma de aspa, nos indica:",
+    "options": [
+      "Canal principal a babor",
+      "No existe dicha marca",
+      "Aguas navegables por el norte",
+      "Canal principal a estribor"
+    ],
+    "answer": 1,
+    "explanation": "Combinación imposible: rojo y verde no llevan aspa amarilla.",
+    "gva": {
+      "index": 551,
+      "sittings": ["2023-09"]
+    }
+  },
+  {
+    "id": "gva-0552",
+    "topic": "baliz",
+    "q": "Si navegando de noche observamos una luz blanca isofase de ocultaciones, se trata de:",
+    "options": [
+      "Marca cardinal norte",
+      "Marca lateral de estribor",
+      "Marca de aguas navegables",
+      "Marca especial"
+    ],
+    "answer": 2,
+    "explanation": "Isofase u ocultaciones: aguas navegables.",
+    "gva": {
+      "index": 552,
+      "sittings": ["2023-09"]
+    }
+  },
+  {
+    "id": "gva-0553",
+    "topic": "baliz",
+    "q": "Entrando en el puerto si observamos una boya en forma de castillete de color verde y cuya marca de tope consiste en un triángulo verde, nos indica que:",
+    "options": [
+      "Debemos dejarla por estribor",
+      "Debemos dejarla por babor",
+      "Es un peligro aislado",
+      "Es una bifurcación con canal principal a estribor"
+    ],
+    "answer": 0,
+    "explanation": "Castillete verde con cono: entrando, déjala por estribor.",
+    "gva": {
+      "index": 553,
+      "sittings": ["2023-09"]
+    }
+  },
+  {
+    "id": "gva-0594",
+    "topic": "baliz",
+    "q": "Entrando en el puerto con nuestra embarcación, ¿Por qué costado debemos dejar una farola que emite una luz de color rojo?",
+    "options": ["Por babor", "Por estribor", "Siempre por sotavento", "Siempre por barlovento"],
+    "answer": 0,
+    "explanation": "Entrando, la roja por babor.",
+    "gva": {
+      "index": 594,
+      "sittings": ["2024-04"]
+    }
+  },
+  {
+    "id": "gva-0595",
+    "topic": "baliz",
+    "q": "Navegando al rumbo 270º divisamos por la proa una boya de color negro y amarillo, con dos conos negros superpuestos con los vértices apuntando hacia abajo, debemos:",
+    "options": [
+      "Pasar por el norte de la boya",
+      "Moderar la velocidad y caer a estribor",
+      "Caer a babor",
+      "Apartarnos de la boya ya que nos indica que hay una zona de baño"
+    ],
+    "answer": 2,
+    "explanation": "Rumbo W y cardinal Sur por la proa: pasa por el sur, que es tu babor.",
+    "gva": {
+      "index": 595,
+      "sittings": ["2024-04"]
+    }
+  },
+  {
+    "id": "gva-0596",
+    "topic": "baliz",
+    "q": "¿Qué forma no pueden tener las boyas de las marcas laterales?",
+    "options": ["Cónica", "De castillete", "Esférica", "Cilíndrica"],
+    "answer": 2,
+    "explanation": "Las laterales no son esféricas: la esfera es propia de las aguas navegables.",
+    "gva": {
+      "index": 596,
+      "sittings": ["2024-04"]
+    }
+  },
+  {
+    "id": "gva-0597",
+    "topic": "baliz",
+    "q": "¿Cuál es la forma y color de las marca de tope de las balizas cardinales?",
+    "options": ["Un aspa de color amarillo", "Una esfera de color roja", "Conos negros", "Un cilindro rojo"],
+    "answer": 2,
+    "explanation": "Cardinales: dos conos negros.",
+    "gva": {
+      "index": 597,
+      "sittings": ["2024-04"]
+    }
+  },
+  {
+    "id": "gva-0598",
+    "topic": "baliz",
+    "q": "¿Cómo son las franjas de colores en una marca de aguas navegables?",
+    "options": ["Horizontales", "Verticales", "En diagonal", "Perpendiculares entre ellas"],
+    "answer": 1,
+    "explanation": "Aguas navegables: franjas verticales.",
+    "gva": {
+      "index": 598,
+      "sittings": ["2024-04", "2024-09"]
+    }
+  },
+  {
+    "id": "gva-0639",
+    "topic": "baliz",
+    "q": "¿Por qué costado debemos dejar una farola que emite una luz de color verde saliendo de un puerto?",
+    "options": ["Siempre por barlovento", "Por estribor", "Siempre por sotavento", "Por babor"],
+    "answer": 3,
+    "explanation": "Saliendo, la verde por babor.",
+    "gva": {
+      "index": 639,
+      "sittings": ["2024-02"]
+    }
+  },
+  {
+    "id": "gva-0640",
+    "topic": "baliz",
+    "q": "Navegando al rumbo 270º divisamos por la proa una boya de color negro y amarillo, con dos conos negros superpuestos con los vértices apuntando hacia arriba, debemos:",
+    "options": [
+      "Caer a estribor",
+      "Moderar la velocidad y caer a babor",
+      "Pasar por el sur de la boya",
+      "Apartarnos de la boya ya que nos indica que hay una zona de baño"
+    ],
+    "answer": 0,
+    "explanation": "Rumbo W y cardinal Norte: pasa por el norte, que es tu estribor.",
+    "gva": {
+      "index": 640,
+      "sittings": ["2024-02"]
+    }
+  },
+  {
+    "id": "gva-0641",
+    "topic": "baliz",
+    "q": "¿Qué forma típica puede tener la boya de peligro aislado?",
+    "options": ["Cónica", "De castillete", "Esférica", "Cilíndrica"],
+    "answer": 1,
+    "explanation": "Peligro aislado: castillete o espeque.",
+    "gva": {
+      "index": 641,
+      "sittings": ["2024-02", "2024-09"]
+    }
+  },
+  {
+    "id": "gva-0642",
+    "topic": "baliz",
+    "q": "¿Cuál es la marca de tope de la baliza del sistema lateral que nos indica canal principal a babor?",
+    "options": ["Un aspa de color amarillo", "Una esfera de color roja", "Un cono verde", "Un cilindro rojo"],
+    "answer": 2,
+    "explanation": "Canal principal a babor: cono verde.",
+    "gva": {
+      "index": 642,
+      "sittings": ["2024-02"]
+    }
+  },
+  {
+    "id": "gva-0643",
+    "topic": "baliz",
+    "q": "¿Cómo son las franjas de colores en una marca de peligro aislado?",
+    "options": ["Horizontales", "Verticales", "En diagonal", "Perpendiculares entre ellas"],
+    "answer": 0,
+    "explanation": "Peligro aislado: franjas horizontales (negro con roja).",
+    "gva": {
+      "index": 643,
+      "sittings": ["2024-02"]
+    }
+  },
+  {
+    "id": "gva-0684",
+    "topic": "baliz",
+    "q": "Viniendo de la mar y entrando en puerto, ¿Por qué costado debemos dejar una marca lateral de color verde?",
+    "options": ["Siempre por sotavento", "Por babor", "Siempre por barlovento", "Por estribor"],
+    "answer": 3,
+    "explanation": "Entrando, verde por estribor.",
+    "gva": {
+      "index": 684,
+      "sittings": ["2024-06", "2025-04"]
+    }
+  },
+  {
+    "id": "gva-0685",
+    "topic": "baliz",
+    "q": "Navegando al rumbo 090º divisamos por la proa una boya de color negro y amarillo, con dos conos negros superpuestos con los vértices apuntando hacia abajo. ¿Cuál de las siguientes respuestas es correcta?",
+    "options": [
+      "Caeremos a estribor",
+      "Moderaremos la velocidad y caeremos a babor",
+      "Pasaremos por el sur de la boya",
+      "Las respuestas a y c son ciertas"
+    ],
+    "answer": 3,
+    "explanation": "Rumbo E y cardinal Sur: caes a estribor y pasas por el sur. «a y c».",
+    "gva": {
+      "index": 685,
+      "sittings": ["2024-06"]
+    }
+  },
+  {
+    "id": "gva-0686",
+    "topic": "baliz",
+    "q": "¿Qué forma típica puede tener la marca de tope de la boya de peligro aislado?",
+    "options": ["Cónica", "De castillete", "Esférica", "Cilíndrica"],
+    "answer": 2,
+    "explanation": "Tope de peligro aislado: esferas.",
+    "gva": {
+      "index": 686,
+      "sittings": ["2024-06"]
+    }
+  },
+  {
+    "id": "gva-0687",
+    "topic": "baliz",
+    "q": "¿Cuál es la marca de tope de la baliza del sistema lateral que nos indica canal principal a estribor?",
+    "options": ["Un cilindro verde", "Una esfera de color roja", "Un cono verde", "Un cilindro rojo"],
+    "answer": 3,
+    "explanation": "Cilindro rojo.",
+    "gva": {
+      "index": 687,
+      "sittings": ["2024-06"]
+    }
+  },
+  {
+    "id": "gva-0688",
+    "topic": "baliz",
+    "q": "¿Cómo son las franjas de colores en una marca de aguas navegables?",
+    "options": [
+      "Horizontales negras y amarillas",
+      "Verticales rojas y negras",
+      "En diagonal rojas y verdes",
+      "Verticales rojas y blancas"
+    ],
+    "answer": 3,
+    "explanation": "Verticales rojas y blancas.",
+    "gva": {
+      "index": 688,
+      "sittings": ["2024-06", "2025-04"]
+    }
+  },
+  {
+    "id": "gva-0723",
+    "topic": "baliz",
+    "q": "Estamos saliendo de un puerto. ¿Por qué costado debemos dejar una farola que emite una luz de color verde?",
+    "options": ["Siempre por barlovento", "Por estribor", "Siempre por sotavento", "Por babor"],
+    "answer": 3,
+    "explanation": "Saliendo, verde por babor.",
+    "gva": {
+      "index": 723,
+      "sittings": ["2024-09"]
+    }
+  },
+  {
+    "id": "gva-0755",
+    "topic": "baliz",
+    "q": "Las balizas o marcas especiales tienen de forma típica como marca de tope:",
+    "options": [
+      "Dos esferas negras superpuestas",
+      "Una esfera roja",
+      "Un aspa amarilla",
+      "Una marca de peligro aislado"
+    ],
+    "answer": 2,
+    "explanation": "Aspa amarilla.",
+    "gva": {
+      "index": 755,
+      "sittings": ["2025-04"]
+    }
+  },
+  {
+    "id": "gva-0756",
+    "topic": "baliz",
+    "q": "¿Qué forma tiene la marca de tope de la boya de peligro aislado?",
+    "options": ["Esférica", "De castillete", "Cónica", "Cilíndrica"],
+    "answer": 0,
+    "explanation": "Esférica (dos esferas negras).",
+    "gva": {
+      "index": 756,
+      "sittings": ["2025-04"]
+    }
+  },
+  {
+    "id": "gva-0778",
+    "topic": "baliz",
+    "q": "Una marca con forma de espeque de color rojo y verde en medio, con un tope amarillo en forma de aspa, nos indica:",
+    "options": [
+      "Canal principal a babor",
+      "Canal principal a estribor",
+      "Aguas navegables por el norte",
+      "No existe dicha marca"
+    ],
+    "answer": 3,
+    "explanation": "No existe.",
+    "gva": {
+      "index": 778,
+      "sittings": ["2025-06"]
+    }
+  },
+  {
+    "id": "gva-0779",
+    "topic": "baliz",
+    "q": "Entrando en el puerto si observamos una boya en forma de castillete de color verde y cuya marca de tope consiste en un cono verde, nos indica que:",
+    "options": [
+      "Debemos dejarla por babor",
+      "Debemos dejarla por estribor",
+      "Es un peligro aislado",
+      "Es una bifurcación con canal principal a estribor"
+    ],
+    "answer": 1,
+    "explanation": "Verde con cono: entrando, por estribor.",
+    "gva": {
+      "index": 779,
+      "sittings": ["2025-06"]
+    }
+  },
+  {
+    "id": "gva-0804",
+    "topic": "baliz",
+    "q": "Si navegando por la noche vemos una luz blanca centelleante en grupos de seis centelleos acompañada de un destello largo, se trata de una:",
+    "options": ["Marca cardinal este", "Marca cardinal oeste", "Marca cardinal norte", "Marca cardinal sur"],
+    "answer": 3,
+    "explanation": "Seis + destello largo: Sur.",
+    "gva": {
+      "index": 804,
+      "sittings": ["2025-09"]
+    }
+  },
+  {
+    "id": "gva-0805",
+    "topic": "baliz",
+    "q": "Una marca de espeque de color verde, con un tope con forma de cono con el vértice hacia abajo, nos indica:",
+    "options": [
+      "No existe dicha marca",
+      "Aguas navegables por el sur",
+      "Canal principal a babor",
+      "Canal principal a estribor"
+    ],
+    "answer": 0,
+    "explanation": "El cono de las marcas verdes apunta hacia arriba. Con el vértice hacia abajo, esa marca no existe.",
+    "gva": {
+      "index": 805,
+      "sittings": ["2025-09"]
+    }
+  },
+  {
+    "id": "gva-0806",
+    "topic": "baliz",
+    "q": "Si navegando de noche observamos una luz blanca con grupos de dos destellos GpD(2), se trata de:",
+    "options": [
+      "Marca especial",
+      "Marca cardinal oeste",
+      "Marca de peligro aislado",
+      "Marca de aguas navegables"
+    ],
+    "answer": 2,
+    "explanation": "GpD(2): peligro aislado.",
+    "gva": {
+      "index": 806,
+      "sittings": ["2025-09"]
+    }
+  },
+  {
+    "id": "gva-0807",
+    "topic": "baliz",
+    "q": "Si por la proa avistamos una marca con forma de espeque y pintada con colores negro arriba, amarillo en el centro y negro abajo, se trata de:",
+    "options": [
+      "Marca cardinal este",
+      "Marca cardinal sur",
+      "Marca de peligro aislado",
+      "Ninguna respuesta es correcta"
+    ],
+    "answer": 0,
+    "explanation": "Negro-amarillo-negro: Este.",
+    "gva": {
+      "index": 807,
+      "sittings": ["2025-09"]
+    }
+  },
+  {
+    "id": "gva-0844",
+    "topic": "baliz",
+    "q": "Al entrar por la bocana de un puerto de la zona A, la farola que se encuentra por nuestro costado de estribor será de color:",
+    "options": ["Verde.", "Blanca.", "Roja.", "Amarilla."],
+    "answer": 0,
+    "explanation": "Entrando en la Región A, verde a estribor.",
+    "gva": {
+      "index": 844,
+      "sittings": ["2026-04"]
+    }
+  },
+  {
+    "id": "gva-0845",
+    "topic": "baliz",
+    "q": "Las marcas especiales que delimitan un área protegida son de color:",
+    "options": ["Rojo.", "Negro.", "Amarillo.", "Blanco."],
+    "answer": 2,
+    "explanation": "Áreas protegidas: especiales, amarillas.",
+    "gva": {
+      "index": 845,
+      "sittings": ["2026-04"]
+    }
+  },
+  {
+    "id": "gva-0846",
+    "topic": "baliz",
+    "q": "La marca de tope de una \"Marca de Peligro Aislado\" es:",
+    "options": [
+      "Dos conos negros superpuestos con los vértices hacia arriba.",
+      "Dos esferas negras superpuestas.",
+      "Una esfera roja.",
+      "Un aspa amarilla en forma de \"X\"."
+    ],
+    "answer": 1,
+    "explanation": "Dos esferas negras.",
+    "gva": {
+      "index": 846,
+      "sittings": ["2026-04"]
+    }
+  },
+  {
+    "id": "gva-0847",
+    "topic": "baliz",
+    "q": "Las “Marcas Cardinales” se usan para indicar:",
+    "options": [
+      "Que las aguas más profundas en esa zona no se encuentran en el cuadrante correspondiente al nombre de la marca.",
+      "El lado por el que no se ha de pasar para salvar un peligro.",
+      "Donde están las aguas profundas y navegables.",
+      "Una configuración a la que se hace referencia en las publicaciones náuticas."
+    ],
+    "answer": 2,
+    "explanation": "Las cardinales indican en qué cuadrante están las aguas navegables.",
+    "gva": {
+      "index": 847,
+      "sittings": ["2026-04"]
+    }
+  },
+  {
+    "id": "gva-0848",
+    "topic": "baliz",
+    "q": "La marca de tope de las Marcas de Aguas Navegables será:",
+    "options": [
+      "Dos esferas negras superpuestas.",
+      "Si tiene, una esfera negra.",
+      "Dos esferas rojas superpuestas.",
+      "Una esfera roja."
+    ],
+    "answer": 3,
+    "explanation": "Aguas navegables: una esfera roja.",
+    "gva": {
+      "index": 848,
+      "sittings": ["2026-04"]
+    }
+  },
+  {
+    "id": "gva-0878",
+    "topic": "baliz",
+    "q": "¿Cuál es la marca de tope en las marcas laterales de estribor en la región A?",
+    "options": [
+      "Un cono verde con el vértice hacia abajo.",
+      "Un cono verde con el vértice hacia arriba.",
+      "Una bola verde.",
+      "Un cono rojo con el vértice hacia abajo."
+    ],
+    "answer": 1,
+    "explanation": "Estribor: cono verde con el vértice hacia arriba.",
+    "gva": {
+      "index": 878,
+      "sittings": ["2026-07"]
+    }
+  },
+  {
+    "id": "gva-0879",
+    "topic": "baliz",
+    "q": "Si navegando de noche avistamos una luz que da grupo de dos destellos blancos, ¿qué nos indica esta luz?",
+    "options": [
+      "Una marca cardinal Este.",
+      "Una marca especial.",
+      "Una marca de peligro aislado.",
+      "Una marca de aguas navegables."
+    ],
+    "answer": 2,
+    "explanation": "GpD(2): peligro aislado.",
+    "gva": {
+      "index": 879,
+      "sittings": ["2026-07"]
+    }
+  },
+  {
+    "id": "gva-0880",
+    "topic": "baliz",
+    "q": "Una marca especial es de color:",
+    "options": ["Rojo y blanco.", "Rojo y negro.", "Amarilla.", "Blanca."],
+    "answer": 2,
+    "explanation": "Especial: amarilla.",
+    "gva": {
+      "index": 880,
+      "sittings": ["2026-07"]
+    }
+  },
+  {
+    "id": "gva-0881",
+    "topic": "baliz",
+    "q": "Las marcas cardinales se utilizan asociadas al compás del buque para:",
+    "options": [
+      "Indicar al navegante donde están las aguas navegables.",
+      "Se utilizan en canales bien definidos.",
+      "Indican las zonas a las que se hace referencia en las cartas náuticas.",
+      "Indican que las aguas son navegables a todo su alrededor."
+    ],
+    "answer": 0,
+    "explanation": "Con la aguja: dicen por qué rumbo están las aguas navegables.",
+    "gva": {
+      "index": 881,
+      "sittings": ["2026-07"]
+    }
+  },
+  {
+    "id": "gva-0882",
+    "topic": "baliz",
+    "q": "Las marcas cardinales que indican el cuadrante sur tienen una luz…",
+    "options": ["Verde.", "Roja.", "Blanca.", "Amarilla."],
+    "answer": 2,
+    "explanation": "Las cardinales siempre llevan luz blanca.",
+    "gva": {
+      "index": 882,
+      "sittings": ["2026-07"]
+    }
+  },
+  {
+    "id": "gva-0923",
+    "topic": "baliz",
+    "q": "Cuando te acercas a un puerto y cruzas la bocana, las marcas laterales rojas se deberán dejar:",
+    "options": [
+      "Indistintamente por una banda u otra.",
+      "Por la banda de babor de nuestra embarcación.",
+      "Por la banda de estribor de nuestra embarcación.",
+      "Por la proa de nuestra embarcación."
+    ],
+    "answer": 1,
+    "explanation": "Entrando, rojas por babor.",
+    "gva": {
+      "index": 923,
+      "sittings": ["2026-10"]
+    }
+  },
+  {
+    "id": "gva-0924",
+    "topic": "baliz",
+    "q": "Una marca cardinal con dos conos superpuestos con el vértice hacia abajo, indica que las aguas menos profundas están situadas:",
+    "options": [
+      "En el cuadrante sur de la marca.",
+      "En el cuadrante norte de la marca.",
+      "En el cuadrante este de la marca.",
+      "En el cuadrante oeste de la marca."
+    ],
+    "answer": 1,
+    "explanation": "Cardinal Sur: el bajo queda al norte de la marca.",
+    "gva": {
+      "index": 924,
+      "sittings": ["2026-10"]
+    }
+  },
+  {
+    "id": "gva-0925",
+    "topic": "baliz",
+    "q": "El cuadrante sur de las marcas cardinales está delimitado por las demoras:",
+    "options": ["SE y SW.", "S y W.", "S y SE.", "S y E."],
+    "answer": 0,
+    "explanation": "El cuadrante sur va de SE a SW.",
+    "gva": {
+      "index": 925,
+      "sittings": ["2026-10"]
+    }
+  },
+  {
+    "id": "gva-0926",
+    "topic": "baliz",
+    "q": "Si navegando durante el día observamos una baliza esférica con franjas verticales rojas y blancas se trata de:",
+    "options": [
+      "Una marca de canal principal a estribor.",
+      "Una marca de peligro aislado.",
+      "Una marca de canal principal a babor.",
+      "Una marca de aguas navegables."
+    ],
+    "answer": 3,
+    "explanation": "Esférica con franjas verticales rojas y blancas: aguas navegables.",
+    "gva": {
+      "index": 926,
+      "sittings": ["2026-10"]
+    }
+  },
+  {
+    "id": "gva-0927",
+    "topic": "baliz",
+    "q": "Si se observa una marca cuya luz es blanca con un ritmo de “grupo de dos destellos”, significa:",
+    "options": [
+      "Canal principal a babor",
+      "Peligro aislado.",
+      "Canal principal a estribor.",
+      "Aguas navegables."
+    ],
+    "answer": 1,
+    "explanation": "GpD(2) blanca: peligro aislado.",
+    "gva": {
+      "index": 927,
+      "sittings": ["2026-10"]
+    }
+  }
+]

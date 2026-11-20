@@ -1,0 +1,1023 @@
+[
+  {
+    "id": "g-0080",
+    "topic": "emerg",
+    "q": "Ante ampollas por una larga exposición solar se debe…",
+    "options": [
+      "Vaciarlas con una aguja",
+      "No vaciarlas y taparlas con un apósito graso",
+      "Dejarlas al sol",
+      "Frotarlas con agua salada"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "g-0081",
+    "topic": "emerg",
+    "q": "En la respiración boca a boca, para que la lengua no obstruya hay que…",
+    "options": [
+      "Ponerle algodón en la boca",
+      "Presionar la frente hacia abajo y elevar el mentón",
+      "Taponarle los oídos",
+      "Ponerlo boca abajo"
+    ],
+    "answer": 1,
+    "explanation": "Maniobra frente-mentón."
+  },
+  {
+    "id": "g-0082",
+    "topic": "emerg",
+    "q": "Tras un abordaje, la medida prioritaria es…",
+    "options": [
+      "Separarse inmediatamente dando atrás",
+      "Enviar un MAYDAY",
+      "Investigar la gravedad de las averías",
+      "Tomar los datos del otro buque"
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "id": "g-0083",
+    "topic": "emerg",
+    "q": "Los fuegos de clase B son los de…",
+    "options": ["Sólidos", "Líquidos inflamables", "Metales", "Aceites de cocina"],
+    "answer": 1,
+    "explanation": "A sólidos, B líquidos, C gases, D metales, F aceites de cocina."
+  },
+  {
+    "id": "g-0084",
+    "topic": "emerg",
+    "q": "El agua no debe usarse para apagar…",
+    "options": [
+      "Fuegos de madera",
+      "Fuegos de combustible líquido o eléctricos",
+      "Fuegos de papel",
+      "Fuegos de tela"
+    ],
+    "answer": 1,
+    "explanation": "Extiende el combustible y conduce la electricidad."
+  },
+  {
+    "id": "g-0085",
+    "topic": "emerg",
+    "q": "Al declararse un incendio a bordo, conviene situar la embarcación de forma que el fuego quede…",
+    "options": ["A barlovento", "A sotavento", "Por la proa siempre", "Indiferente"],
+    "answer": 1,
+    "explanation": "Así el viento aleja las llamas del resto del barco."
+  },
+  {
+    "id": "g-0086",
+    "topic": "emerg",
+    "q": "Tras una varada involuntaria, antes de dar atrás se debe…",
+    "options": [
+      "Arrancar a toda máquina",
+      "Comprobar si hay vías de agua",
+      "Abandonar la embarcación",
+      "Soltar el ancla por la proa"
+    ],
+    "answer": 1,
+    "explanation": "Al zafarse podría abrirse una vía de agua."
+  },
+  {
+    "id": "g-0087",
+    "topic": "emerg",
+    "q": "Los espiches son…",
+    "options": [
+      "Bombas de achique",
+      "Tapones cónicos de madera para taponar vías de agua",
+      "Extintores",
+      "Bengalas"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "g-0217",
+    "topic": "emerg",
+    "q": "Los elementos del triángulo del fuego son…",
+    "options": [
+      "Agua, aire y calor",
+      "Combustible, comburente (oxígeno) y calor",
+      "Humo, llama y calor",
+      "Gasolina, aceite y chispa"
+    ],
+    "answer": 1,
+    "explanation": "Más la reacción en cadena (tetraedro)."
+  },
+  {
+    "id": "g-0218",
+    "topic": "emerg",
+    "q": "El extintor de CO₂ actúa principalmente…",
+    "options": ["Enfriando", "Sofocando (desplaza el oxígeno)", "Separando el combustible", "Mojando"],
+    "answer": 1,
+    "explanation": "Ojo: en espacios cerrados también desplaza el aire respirable."
+  },
+  {
+    "id": "g-0219",
+    "topic": "emerg",
+    "q": "Para atacar un fuego con un extintor, se dirige el chorro…",
+    "options": ["A lo alto de las llamas", "A la base de las llamas", "Al humo", "Al aire alrededor"],
+    "answer": 1,
+    "explanation": "Desde barlovento."
+  },
+  {
+    "id": "g-0220",
+    "topic": "emerg",
+    "q": "Las baterías en carga pueden desprender…",
+    "options": ["Oxígeno", "Hidrógeno, que es explosivo", "CO₂", "Nitrógeno"],
+    "answer": 1,
+    "explanation": "Ventilar el compartimento."
+  },
+  {
+    "id": "g-0221",
+    "topic": "emerg",
+    "q": "El tapón cónico de madera para taponar una vía de agua es el…",
+    "options": ["Pallete", "Espiche", "Bichero", "Estopor"],
+    "answer": 1,
+    "explanation": "Conviene uno junto a cada grifo de fondo."
+  },
+  {
+    "id": "g-0222",
+    "topic": "emerg",
+    "q": "El pallete de colisión es…",
+    "options": [
+      "Una bomba",
+      "Una lona que se coloca por fuera del casco sobre la brecha",
+      "Un extintor",
+      "Una defensa"
+    ],
+    "answer": 1,
+    "explanation": "La presión del agua la aprieta contra el casco."
+  },
+  {
+    "id": "g-0223",
+    "topic": "emerg",
+    "q": "En la RCP de un adulto, la relación entre compresiones e insuflaciones es…",
+    "options": ["15:2", "30:2", "5:1", "10:1"],
+    "answer": 1,
+    "explanation": "A 100–120 compresiones por minuto."
+  },
+  {
+    "id": "g-0224",
+    "topic": "emerg",
+    "q": "A un náufrago con hipotermia hay que…",
+    "options": [
+      "Darle alcohol para que entre en calor",
+      "Quitarle la ropa mojada, abrigarlo y calentar el tronco poco a poco",
+      "Frotarle brazos y piernas",
+      "Darle una ducha muy caliente"
+    ],
+    "answer": 1,
+    "explanation": "Nada de alcohol ni frotar."
+  },
+  {
+    "id": "g-0225",
+    "topic": "emerg",
+    "q": "El abandono del barco debe hacerse…",
+    "options": [
+      "En cuanto haya una vía de agua",
+      "Como último recurso, cuando el barco ya no ofrece seguridad",
+      "Siempre de noche",
+      "Antes de pedir ayuda"
+    ],
+    "answer": 1,
+    "explanation": "El barco es más seguro que la balsa mientras flote."
+  },
+  {
+    "id": "g-0226",
+    "topic": "emerg",
+    "q": "La balsa salvavidas se lanza al agua…",
+    "options": ["Por barlovento", "Por sotavento, sujeta por su boza", "Sin sujetar", "Desde la proa"],
+    "answer": 1,
+    "explanation": "Tirando de la boza se infla."
+  },
+  {
+    "id": "g-0227",
+    "topic": "emerg",
+    "q": "Durante una evacuación en helicóptero, el gancho o el cable…",
+    "options": [
+      "Se hace firme al barco",
+      "No se toca hasta que haya tocado el agua o el barco",
+      "Se coge al vuelo",
+      "Se ata al palo"
+    ],
+    "answer": 1,
+    "explanation": "Descarga electrostática; y nunca se hace firme."
+  },
+  {
+    "id": "g-0228",
+    "topic": "emerg",
+    "q": "El mensaje de urgencia (riesgo no inminente) va precedido de…",
+    "options": ["MAYDAY", "PAN PAN", "SÉCURITÉ", "SOS"],
+    "answer": 1,
+    "explanation": "MAYDAY es socorro; SÉCURITÉ, seguridad."
+  },
+  {
+    "id": "g-0229",
+    "topic": "emerg",
+    "q": "Ante una quemadura, lo primero es…",
+    "options": [
+      "Aplicar hielo",
+      "Enfriar con agua 10–20 minutos",
+      "Reventar las ampollas",
+      "Untar aceite de motor"
+    ],
+    "answer": 1,
+    "explanation": "Después, apósito limpio."
+  },
+  {
+    "id": "g-0382",
+    "topic": "emerg",
+    "q": "Los fuegos de clase A son los de…",
+    "options": ["Líquidos", "Sólidos (madera, tela, papel)", "Gases", "Metales"],
+    "answer": 1,
+    "explanation": "Se pueden apagar con agua."
+  },
+  {
+    "id": "g-0383",
+    "topic": "emerg",
+    "q": "Los fuegos de clase C son los de…",
+    "options": ["Sólidos", "Líquidos", "Gases (butano, propano)", "Aceites de cocina"],
+    "answer": 2,
+    "explanation": "Lo primero, cortar el gas."
+  },
+  {
+    "id": "g-0384",
+    "topic": "emerg",
+    "q": "Los fuegos de aceites de cocina son de clase…",
+    "options": ["A", "B", "D", "F"],
+    "answer": 3,
+    "explanation": "Nunca agua: se tapan."
+  },
+  {
+    "id": "g-0385",
+    "topic": "emerg",
+    "q": "Ante un incendio en la cámara de motores, lo primero es…",
+    "options": [
+      "Abrir la escotilla para ver",
+      "Parar el motor y cortar el combustible",
+      "Echar agua",
+      "Abandonar"
+    ],
+    "answer": 1,
+    "explanation": "Y cerrar para sofocar."
+  },
+  {
+    "id": "g-0386",
+    "topic": "emerg",
+    "q": "El butano, si hay una fuga, se acumula…",
+    "options": [
+      "Arriba",
+      "En la parte baja (sentina), porque pesa más que el aire",
+      "No se acumula",
+      "En la bañera"
+    ],
+    "answer": 1,
+    "explanation": "Peligro de explosión: ventilar."
+  },
+  {
+    "id": "g-0387",
+    "topic": "emerg",
+    "q": "Al repostar combustible hay que…",
+    "options": [
+      "Mantener el motor en marcha",
+      "Parar motores, no fumar, cerrar escotillas y tapar imbornales",
+      "Encender la cocina",
+      "Abrir todas las escotillas"
+    ],
+    "answer": 1,
+    "explanation": "Y ventilar después."
+  },
+  {
+    "id": "g-0388",
+    "topic": "emerg",
+    "q": "Ante una vía de agua, lo primero es…",
+    "options": ["Abandonar", "Localizar la entrada y achicar", "Esperar", "Acelerar"],
+    "answer": 1,
+    "explanation": "Después taponar."
+  },
+  {
+    "id": "g-0389",
+    "topic": "emerg",
+    "q": "Ante una varada involuntaria NO se debe…",
+    "options": [
+      "Comprobar averías",
+      "Dar atrás a toda máquina sin comprobar nada",
+      "Sondar alrededor",
+      "Pedir ayuda"
+    ],
+    "answer": 1,
+    "explanation": "Puedes abrir una vía de agua."
+  },
+  {
+    "id": "g-0390",
+    "topic": "emerg",
+    "q": "Espiarse con el ancla consiste en…",
+    "options": [
+      "Fondear para pescar",
+      "Llevar el ancla lejos con el auxiliar y cobrar de ella para zafarse",
+      "Soltar el ancla en puerto",
+      "Remolcar"
+    ],
+    "answer": 1,
+    "explanation": "Útil tras una varada."
+  },
+  {
+    "id": "g-0391",
+    "topic": "emerg",
+    "q": "Tras un abordaje no conviene separarse enseguida porque…",
+    "options": [
+      "Es ilegal",
+      "La proa del otro puede estar taponando la brecha",
+      "Hay que esperar a la policía",
+      "No hace falta"
+    ],
+    "answer": 1,
+    "explanation": "Valorar primero las averías."
+  },
+  {
+    "id": "g-0392",
+    "topic": "emerg",
+    "q": "Ante una hemorragia en un brazo, lo primero es…",
+    "options": [
+      "Un torniquete",
+      "Presión directa sobre la herida y elevar el brazo",
+      "Agua caliente",
+      "Nada"
+    ],
+    "answer": 1,
+    "explanation": "Torniquete solo como último recurso."
+  },
+  {
+    "id": "g-0393",
+    "topic": "emerg",
+    "q": "Ante un golpe de calor hay que…",
+    "options": [
+      "Dar alcohol",
+      "Poner a la persona a la sombra, enfriarla y darle agua a sorbos",
+      "Abrigarla",
+      "Darle café"
+    ],
+    "answer": 1,
+    "explanation": "Si está consciente."
+  },
+  {
+    "id": "g-0394",
+    "topic": "emerg",
+    "q": "Para evitar el mareo conviene…",
+    "options": [
+      "Bajar a la cabina",
+      "Mirar el horizonte, aire fresco y llevar el timón",
+      "Leer",
+      "Comer mucho"
+    ],
+    "answer": 1,
+    "explanation": "Y situarse en el centro del barco."
+  },
+  {
+    "id": "g-0395",
+    "topic": "emerg",
+    "q": "Ante una fractura hay que…",
+    "options": ["Recolocarla", "Inmovilizarla en la posición en que esté", "Masajearla", "Calentarla"],
+    "answer": 1,
+    "explanation": "Y buscar asistencia."
+  },
+  {
+    "id": "g-0396",
+    "topic": "emerg",
+    "q": "Las consultas médicas desde el barco se hacen con el…",
+    "options": [
+      "112 únicamente",
+      "Centro Radio-Médico Español, a través de Salvamento Marítimo",
+      "Ayuntamiento",
+      "Club náutico"
+    ],
+    "answer": 1,
+    "explanation": "Por radio o teléfono."
+  },
+  {
+    "id": "g-0397",
+    "topic": "emerg",
+    "q": "Durante la evacuación en helicóptero, el barco navegará…",
+    "options": [
+      "Parado",
+      "A rumbo constante con el viento por la amura de babor",
+      "Con viento de popa",
+      "Haciendo círculos"
+    ],
+    "answer": 1,
+    "explanation": "Y con la cubierta despejada."
+  },
+  {
+    "id": "g-0854",
+    "topic": "emerg",
+    "q": "Los accidentes más frecuentes a bordo son…",
+    "options": [
+      "Quemaduras e intoxicaciones",
+      "Contusiones, heridas, fracturas y esguinces",
+      "Insolaciones",
+      "Ahogamientos"
+    ],
+    "answer": 1,
+    "explanation": "Por cubiertas mojadas, movimientos del barco y golpes de mar."
+  },
+  {
+    "id": "g-0855",
+    "topic": "emerg",
+    "q": "Ante un accidentado que parece muerto…",
+    "options": [
+      "Se le da por muerto si no respira",
+      "Nunca se le da por muerto ni se abandona su cuidado",
+      "Se espera a puerto",
+      "Se le deja en cubierta"
+    ],
+    "answer": 1,
+    "explanation": "Y se consulta al servicio radiomédico."
+  },
+  {
+    "id": "g-0856",
+    "topic": "emerg",
+    "q": "Ante una fractura o luxación…",
+    "options": [
+      "Se intenta reducir",
+      "No se intenta reducir: se inmoviliza",
+      "Se masajea",
+      "Se aplica calor"
+    ],
+    "answer": 1,
+    "explanation": "Y se calma el dolor."
+  },
+  {
+    "id": "g-0857",
+    "topic": "emerg",
+    "q": "Una sangre rojo vivo que sale a borbotones indica una hemorragia…",
+    "options": ["Venosa", "Arterial", "Capilar", "Interna"],
+    "answer": 1,
+    "explanation": "Hay que reducirla lo antes posible."
+  },
+  {
+    "id": "g-0858",
+    "topic": "emerg",
+    "q": "Una sangre rojo oscuro que sale de forma continua indica una hemorragia…",
+    "options": ["Arterial", "Venosa", "Capilar", "Nasal"],
+    "answer": 1,
+    "explanation": "Pregunta real (abril 2026)."
+  },
+  {
+    "id": "g-0859",
+    "topic": "emerg",
+    "q": "La primera medida ante una hemorragia externa en un brazo es…",
+    "options": ["Un torniquete", "La compresión directa", "Agua fría", "Elevar las piernas"],
+    "answer": 1,
+    "explanation": "Con gasas o vendajes, unos 15 minutos."
+  },
+  {
+    "id": "g-0860",
+    "topic": "emerg",
+    "q": "El torniquete, como último recurso, se coloca…",
+    "options": [
+      "Por debajo de la herida",
+      "Entre la herida y el corazón, un poco por encima de la herida",
+      "En el cuello",
+      "Sobre la herida"
+    ],
+    "answer": 1,
+    "explanation": "Temporal y vigilado."
+  },
+  {
+    "id": "g-0861",
+    "topic": "emerg",
+    "q": "¿Qué pérdida de sangre se considera mortal según el manual?",
+    "options": ["0,5 L", "1 L", "1,5 L", "3 L"],
+    "answer": 3,
+    "explanation": "Medio litro se tolera; 1,5 L es grave."
+  },
+  {
+    "id": "g-0862",
+    "topic": "emerg",
+    "q": "Ante una hemorragia nasal…",
+    "options": [
+      "Echar la cabeza hacia atrás",
+      "Sentarle y que apriete suavemente las fosas nasales",
+      "Tumbarle boca arriba",
+      "Poner un torniquete"
+    ],
+    "answer": 1,
+    "explanation": "Pregunta real (2019)."
+  },
+  {
+    "id": "g-0863",
+    "topic": "emerg",
+    "q": "Una contusión en el tórax con dolor fuerte al toser puede indicar…",
+    "options": ["Una insolación", "Rotura de costillas", "Mareo", "Una hemorragia nasal"],
+    "answer": 1,
+    "explanation": "Reposo total."
+  },
+  {
+    "id": "g-0864",
+    "topic": "emerg",
+    "q": "La gravedad de una quemadura depende sobre todo de…",
+    "options": ["El color", "La extensión de piel quemada", "La hora", "La temperatura del agua"],
+    "answer": 1,
+    "explanation": "Más del 33 %, grave; menos del 10 %, leve."
+  },
+  {
+    "id": "g-0865",
+    "topic": "emerg",
+    "q": "La palma de la mano representa aproximadamente…",
+    "options": ["El 1 % de la superficie corporal", "El 5 %", "El 9 %", "El 10 %"],
+    "answer": 0,
+    "explanation": "Sirve para estimar la extensión de una quemadura."
+  },
+  {
+    "id": "g-0866",
+    "topic": "emerg",
+    "q": "Las quemaduras de segundo grado se caracterizan por…",
+    "options": [
+      "Solo enrojecimiento",
+      "Ampollas llenas de líquido transparente",
+      "Costras y poco dolor",
+      "No duelen"
+    ],
+    "answer": 1,
+    "explanation": "El dolor es intenso."
+  },
+  {
+    "id": "g-0867",
+    "topic": "emerg",
+    "q": "Las ampollas de una quemadura…",
+    "options": [
+      "Se revientan para que sequen",
+      "No se rompen y se cubren con apósitos grasos",
+      "Se cubren con hielo",
+      "Se frotan con alcohol"
+    ],
+    "answer": 1,
+    "explanation": "En el examen: «apósitos grasos y venda»."
+  },
+  {
+    "id": "g-0868",
+    "topic": "emerg",
+    "q": "¿Qué quemaduras duelen menos aunque son más graves?",
+    "options": ["Primer grado", "Segundo grado", "Tercer grado", "Solares"],
+    "answer": 2,
+    "explanation": "Han destruido las terminaciones nerviosas."
+  },
+  {
+    "id": "g-0869",
+    "topic": "emerg",
+    "q": "El protector solar debe aplicarse unos…",
+    "options": ["5 minutos antes", "30 minutos antes", "2 horas antes", "Después de exponerse"],
+    "answer": 1,
+    "explanation": "Con atención a cara, nariz, orejas y hombros."
+  },
+  {
+    "id": "g-0870",
+    "topic": "emerg",
+    "q": "A un niño con quemaduras solares no se le debe dar nunca…",
+    "options": ["Agua", "Aspirina", "Aloe vera", "Compresas frías"],
+    "answer": 1,
+    "explanation": "Como analgésico, ibuprofeno."
+  },
+  {
+    "id": "g-0871",
+    "topic": "emerg",
+    "q": "A una persona con insolación se la coloca…",
+    "options": [
+      "Al sol para que sude",
+      "A la sombra, en un lugar fresco y ventilado, semisentada",
+      "Tumbada boca abajo",
+      "En la sentina"
+    ],
+    "answer": 1,
+    "explanation": "Con compresas frías en frente y nuca y sorbos de agua."
+  },
+  {
+    "id": "g-0872",
+    "topic": "emerg",
+    "q": "Un tripulante mareado debe…",
+    "options": [
+      "Estar en ayunas",
+      "Comer pequeñas cantidades de alimentos secos",
+      "Bajar a la proa a leer",
+      "Beber alcohol"
+    ],
+    "answer": 1,
+    "explanation": "Galletas, pan o tostadas para asentar el estómago."
+  },
+  {
+    "id": "g-0873",
+    "topic": "emerg",
+    "q": "Para el mareo, la mejor posición a bordo es…",
+    "options": ["La proa", "El centro del barco, a la altura de la flotación", "El tope del palo", "La popa"],
+    "answer": 1,
+    "explanation": "Donde menos se mueve."
+  },
+  {
+    "id": "g-0874",
+    "topic": "emerg",
+    "q": "El Centro Radio-Médico Español depende del…",
+    "options": ["SASEMAR", "Instituto Social de la Marina", "Ministerio de Defensa", "Cruz Roja"],
+    "answer": 1,
+    "explanation": "ISM."
+  },
+  {
+    "id": "g-0875",
+    "topic": "emerg",
+    "q": "El teléfono del Centro Radio-Médico Español es…",
+    "options": ["900 202 202", "913 103 475", "112", "913 083 302"],
+    "answer": 1,
+    "explanation": "Disponible 24 h; el 913 083 302 es el fax."
+  },
+  {
+    "id": "g-0876",
+    "topic": "emerg",
+    "q": "El ISM recomienda hacer las consultas radiomédicas no urgentes…",
+    "options": ["De noche", "Entre las 09:00 y las 15:00", "Solo los festivos", "A cualquier hora"],
+    "answer": 1,
+    "explanation": "Fuera de ese horario solo hay un médico de guardia."
+  },
+  {
+    "id": "g-0877",
+    "topic": "emerg",
+    "q": "La Guía sanitaria a bordo la edita…",
+    "options": ["La DGMM", "El ISM", "La OMI", "El fabricante del botiquín"],
+    "answer": 1,
+    "explanation": "Es gratuita y se puede descargar."
+  },
+  {
+    "id": "g-0878",
+    "topic": "emerg",
+    "q": "En una varada involuntaria en fondo rocoso y sin vías de agua…",
+    "options": [
+      "Se espera a la bajamar",
+      "Se da atrás rápidamente o se desplazan pesos",
+      "Se abren los grifos de fondo",
+      "Se abandona el barco"
+    ],
+    "answer": 1,
+    "explanation": "Pregunta real (2023 y 2025)."
+  },
+  {
+    "id": "g-0879",
+    "topic": "emerg",
+    "q": "En una varada involuntaria, ¿qué medida NO es correcta?",
+    "options": ["Trasladar pesos", "Esperar a la bajamar", "Aligerar carga", "Pedir remolque"],
+    "answer": 1,
+    "explanation": "Hay que esperar a la pleamar."
+  },
+  {
+    "id": "g-0880",
+    "topic": "emerg",
+    "q": "En una varada en fondo fangoso, el principal problema es…",
+    "options": [
+      "Las vías de agua",
+      "El efecto ventosa y que la hélice y las tomas de refrigeración queden atrapadas",
+      "Los incendios",
+      "La corriente"
+    ],
+    "answer": 1,
+    "explanation": "Se rabea el barco para abrir la cama."
+  },
+  {
+    "id": "g-0881",
+    "topic": "emerg",
+    "q": "Para reflotar un velero varado se le provoca…",
+    "options": ["Asiento apopado", "Escora, para que pierda calado", "Que pierda el palo", "Más carga"],
+    "answer": 1,
+    "explanation": "Por ejemplo tirando de una driza desde otra embarcación."
+  },
+  {
+    "id": "g-0882",
+    "topic": "emerg",
+    "q": "Tras un abordaje, separar inmediatamente los barcos…",
+    "options": [
+      "Es lo primero",
+      "No se debe hacer sin evaluar antes la situación",
+      "Es obligatorio",
+      "Lo decide el seguro"
+    ],
+    "answer": 1,
+    "explanation": "La proa empotrada puede estar taponando la vía de agua."
+  },
+  {
+    "id": "g-0883",
+    "topic": "emerg",
+    "q": "Si estás seguro de no ser culpable de un abordaje, conviene formular…",
+    "options": [
+      "Una denuncia en Capitanía",
+      "Una protesta de mar ante el juzgado más próximo",
+      "Un MAYDAY",
+      "Un parte de varada"
+    ],
+    "answer": 1,
+    "explanation": "Muestra fehaciente de los hechos."
+  },
+  {
+    "id": "g-0884",
+    "topic": "emerg",
+    "q": "Tras detectar una vía de agua, lo primero es…",
+    "options": [
+      "Abandonar el barco",
+      "Localizarla y achicar, intentando taponarla",
+      "Avisar al seguro",
+      "Fondear"
+    ],
+    "answer": 1,
+    "explanation": "Pregunta real (2021)."
+  },
+  {
+    "id": "g-0885",
+    "topic": "emerg",
+    "q": "Las colchonetas y los espiches se usan sobre todo para…",
+    "options": ["Incendios", "Taponar y reducir vías de agua", "Varadas", "Abandono"],
+    "answer": 1,
+    "explanation": "Pregunta real (2022)."
+  },
+  {
+    "id": "g-0886",
+    "topic": "emerg",
+    "q": "Las cuñas cónicas de madera para taponar orificios se llaman…",
+    "options": ["Turafallas", "Espiches", "Palletes", "Puntales"],
+    "answer": 1,
+    "explanation": "Envueltas en trapos untados de una sustancia impermeable."
+  },
+  {
+    "id": "g-0887",
+    "topic": "emerg",
+    "q": "El disco de fieltro o goma con un eje roscado y un brazo articulado en forma de «T» es…",
+    "options": ["Un espiche", "Una turafalla", "Un pallete de colisión", "Una encajonada"],
+    "answer": 1,
+    "explanation": "Medida de fortuna para vías de agua."
+  },
+  {
+    "id": "g-0888",
+    "topic": "emerg",
+    "q": "La capacidad de una bomba de achique manual debe ser de al menos…",
+    "options": ["0,1 L por embolada", "0,5 L por embolada", "2 L por embolada", "10 L por embolada"],
+    "answer": 1,
+    "explanation": "Las eléctricas, unos 1.800 L/h."
+  },
+  {
+    "id": "g-0889",
+    "topic": "emerg",
+    "q": "Conviene llevar rotores de repuesto para las bombas eléctricas porque…",
+    "options": [
+      "Se oxidan",
+      "Sus palas se calientan y rompen al trabajar en vacío",
+      "Pesan poco",
+      "Son obligatorios"
+    ],
+    "answer": 1,
+    "explanation": "Ocurre a menudo al achicar sentinas."
+  },
+  {
+    "id": "g-0890",
+    "topic": "emerg",
+    "q": "Los elementos del tetraedro del fuego son…",
+    "options": [
+      "Combustible, oxígeno y calor",
+      "Combustible, comburente, calor y reacción en cadena",
+      "Agua, aire, fuego y tierra",
+      "Llama, humo, calor y brasas"
+    ],
+    "answer": 1,
+    "explanation": "Pregunta real (2019 y 2023)."
+  },
+  {
+    "id": "g-0891",
+    "topic": "emerg",
+    "q": "El agua como agente extintor actúa principalmente por…",
+    "options": ["Sofocación", "Enfriamiento", "Eliminación del combustible", "Inhibición"],
+    "answer": 1,
+    "explanation": "Al evaporarse también desplaza el aire."
+  },
+  {
+    "id": "g-0892",
+    "topic": "emerg",
+    "q": "Al evaporarse, el agua aumenta su volumen unas…",
+    "options": ["17 veces", "170 veces", "1.700 veces", "17.000 veces"],
+    "answer": 2,
+    "explanation": "Por eso también sofoca."
+  },
+  {
+    "id": "g-0893",
+    "topic": "emerg",
+    "q": "El agua es peligrosa como agente extintor en fuegos de clase…",
+    "options": ["A", "B pulverizada", "D y E", "Ninguna"],
+    "answer": 2,
+    "explanation": "Reacciona con metales y conduce la electricidad."
+  },
+  {
+    "id": "g-0894",
+    "topic": "emerg",
+    "q": "Los fuegos de gases a presión son de clase…",
+    "options": ["A", "B", "C", "F"],
+    "answer": 2,
+    "explanation": "Se apagan por sofocación con gas inerte, cortando el gas."
+  },
+  {
+    "id": "g-0895",
+    "topic": "emerg",
+    "q": "Los fuegos de aceites y grasas de cocina son de clase…",
+    "options": ["B", "D", "E", "F"],
+    "answer": 3,
+    "explanation": "Agente químico húmedo."
+  },
+  {
+    "id": "g-0896",
+    "topic": "emerg",
+    "q": "Para un fuego de clase B, el agente más indicado es…",
+    "options": ["Agua a chorro", "Espuma", "Arena seca solamente", "Nada"],
+    "answer": 1,
+    "explanation": "Pregunta real (2021)."
+  },
+  {
+    "id": "g-0897",
+    "topic": "emerg",
+    "q": "Un extintor de CO₂ usado en un equipo electrónico actúa por…",
+    "options": ["Enfriamiento", "Sofocación", "Eliminación del combustible", "Reacción en cadena"],
+    "answer": 1,
+    "explanation": "Pregunta real (2023)."
+  },
+  {
+    "id": "g-0898",
+    "topic": "emerg",
+    "q": "El polvo seco a base de bicarbonato actúa sobre todo…",
+    "options": ["Enfriando", "Suprimiendo la reacción en cadena", "Eliminando el combustible", "Mojando"],
+    "answer": 1,
+    "explanation": "Método de inhibición."
+  },
+  {
+    "id": "g-0899",
+    "topic": "emerg",
+    "q": "¿Qué no debe hacerse al usar un extintor de polvo seco?",
+    "options": ["Apuntar a la base", "Usarlo boca abajo", "Quitar el seguro al llegar", "Dosificarlo"],
+    "answer": 1,
+    "explanation": "Debe estar vertical."
+  },
+  {
+    "id": "g-0900",
+    "topic": "emerg",
+    "q": "Un extintor 34B lleva aproximadamente…",
+    "options": ["2 kg de polvo", "3 kg de polvo o 5 kg de CO₂", "6,5 kg de CO₂", "1 kg de polvo"],
+    "answer": 1,
+    "explanation": "21B: 2 kg de polvo; 55B: 4 kg de polvo."
+  },
+  {
+    "id": "g-0901",
+    "topic": "emerg",
+    "q": "Los tres pasos básicos al declararse un incendio son…",
+    "options": [
+      "Alarma, huida y abandono",
+      "Localización, confinamiento y extinción",
+      "Enfriar, sofocar y apagar",
+      "MAYDAY, chalecos y balsa"
+    ],
+    "answer": 1,
+    "explanation": "Modo de proceder del manual."
+  },
+  {
+    "id": "g-0902",
+    "topic": "emerg",
+    "q": "Al apagar la cocina de gas, conviene cerrar primero…",
+    "options": [
+      "Los fuegos",
+      "La llave de paso, para vaciar los conductos",
+      "La escotilla",
+      "La ventilación"
+    ],
+    "answer": 1,
+    "explanation": "Y dejar la llave de paso cerrada."
+  },
+  {
+    "id": "g-0903",
+    "topic": "emerg",
+    "q": "Un compartimento incendiado no se abre de golpe porque…",
+    "options": [
+      "Se escapa el humo",
+      "El monóxido de carbono puede explotar al contacto con el aire",
+      "Hace frío",
+      "Se pierde el extintor"
+    ],
+    "answer": 1,
+    "explanation": "Y no se entra sin máscara antigás."
+  },
+  {
+    "id": "g-0904",
+    "topic": "emerg",
+    "q": "En caso de incendio, se maniobra para que la parte incendiada quede…",
+    "options": ["A barlovento", "A sotavento", "De través a la mar", "Hacia la costa"],
+    "answer": 1,
+    "explanation": "Pregunta real (octubre 2026)."
+  },
+  {
+    "id": "g-0905",
+    "topic": "emerg",
+    "q": "Si el viento es más flojo que la velocidad del barco, para socairear el fuego se navega…",
+    "options": [
+      "Proa al viento a toda máquina",
+      "Popa al viento igualando velocidades (viento aparente cero)",
+      "De través",
+      "Parado"
+    ],
+    "answer": 1,
+    "explanation": "Así el viento no aviva el fuego."
+  },
+  {
+    "id": "g-0906",
+    "topic": "emerg",
+    "q": "Con viento más fuerte que el barco y fuego a popa, se pone…",
+    "options": [
+      "Popa al viento a toda máquina",
+      "Proa al viento con la mínima máquina para gobernar",
+      "Mar de través",
+      "El barco parado"
+    ],
+    "answer": 1,
+    "explanation": "Con fuego a proa, popa al viento a toda máquina."
+  },
+  {
+    "id": "g-0907",
+    "topic": "emerg",
+    "q": "Si un incendio es imposible de sofocar y hay un fondo aplacerado y poco profundo cerca, se puede…",
+    "options": [
+      "Seguir navegando",
+      "Hundir el barco abriendo los grifos de fondo para reflotarlo después",
+      "Varar en roca",
+      "Dar atrás"
+    ],
+    "answer": 1,
+    "explanation": "Medida extrema del manual."
+  },
+  {
+    "id": "g-0908",
+    "topic": "emerg",
+    "q": "El barco se abandona solo cuando…",
+    "options": [
+      "Hay mala mar",
+      "Hay peligro inminente de hundimiento o incendio con gran riesgo de explosión",
+      "Se va el motor",
+      "Se pierde el GPS"
+    ],
+    "answer": 1,
+    "explanation": "Mientras flote, es más seguro que el agua."
+  },
+  {
+    "id": "g-0909",
+    "topic": "emerg",
+    "q": "Para saltar al agua al abandonar el barco se hace normalmente por…",
+    "options": [
+      "Barlovento",
+      "Sotavento, con el chaleco puesto, de pie y brazos cruzados",
+      "La proa",
+      "Cualquier banda"
+    ],
+    "answer": 1,
+    "explanation": "Por barlovento si hay incendio o combustible a sotavento."
+  },
+  {
+    "id": "g-0910",
+    "topic": "emerg",
+    "q": "Un chaleco hinchable se dispara…",
+    "options": ["Antes de saltar", "Ya en el agua", "En la balsa", "Nunca"],
+    "answer": 1,
+    "explanation": "Al saltar, se sujeta con fuerza."
+  },
+  {
+    "id": "g-0911",
+    "topic": "emerg",
+    "q": "La posición fetal en el agua sirve sobre todo para…",
+    "options": ["Nadar más rápido", "Conservar el calor corporal", "Ser vista", "Evitar la sed"],
+    "answer": 1,
+    "explanation": "Rodillas a la barbilla, brazos cruzados y pies cruzados."
+  },
+  {
+    "id": "g-0912",
+    "topic": "emerg",
+    "q": "Varios náufragos en el agua deben…",
+    "options": [
+      "Separarse",
+      "Formar un círculo cogidos de los brazos",
+      "Nadar hacia la costa",
+      "Quitarse el chaleco"
+    ],
+    "answer": 1,
+    "explanation": "Conservan calor, ayudan a los débiles y se ven mejor."
+  },
+  {
+    "id": "g-0913",
+    "topic": "emerg",
+    "q": "Los peligros más importantes para un náufrago son…",
+    "options": [
+      "El sol y la lluvia",
+      "Asfixia, hipotermia, sed, hambre y estrés por miedo",
+      "Los tiburones",
+      "La corriente"
+    ],
+    "answer": 1,
+    "explanation": "Según el manual."
+  }
+]

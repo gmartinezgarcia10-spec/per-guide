@@ -1,0 +1,1478 @@
+[
+  {
+    "id": "gva-0036",
+    "topic": "teoria",
+    "q": "¿Cómo se denominan en las cartas a las líneas de igual profundidad?:",
+    "options": ["Ecosonda.", "Isosonda.", "Veriles.", "Isobaras."],
+    "answer": 2,
+    "explanation": "Veriles (isobáticas): unen puntos de igual profundidad.",
+    "gva": {
+      "index": 36,
+      "sittings": ["2019-11"]
+    }
+  },
+  {
+    "id": "gva-0037",
+    "topic": "teoria",
+    "q": "Si un círculo máximo de la esfera terrestre, lo dividimos en 360 partes y cada parte la dividimos en otras 60 partes, ¿cuál será el valor en metros de una de éstas partes?:",
+    "options": ["1.760 m.", "1.609 m.", "1.852 m.", "5.280 m."],
+    "answer": 2,
+    "explanation": "1/360 × 1/60 de círculo máximo = 1′ = 1 milla = 1852 m.",
+    "gva": {
+      "index": 37,
+      "sittings": ["2019-11"]
+    }
+  },
+  {
+    "id": "gva-0038",
+    "topic": "teoria",
+    "q": "Si me encuentro con una latitud de 36º 40,5´N, ¿cuáles serán los valores que podrá tomar mi longitud?:",
+    "options": ["De 000º a 360º", "De 000º a 180º", "De 000º a 037º", "De 000º a 090º"],
+    "answer": 1,
+    "explanation": "La longitud va de 000º a 180º E u W.",
+    "gva": {
+      "index": 38,
+      "sittings": ["2019-11"]
+    }
+  },
+  {
+    "id": "gva-0039",
+    "topic": "teoria",
+    "q": "¿Cuál es la unidad de velocidad utilizada en navegación?:",
+    "options": ["El cable.", "La milla.", "El nudo/hora.", "El nudo."],
+    "answer": 3,
+    "explanation": "El nudo (una milla por hora). «Nudo/hora» es un error.",
+    "gva": {
+      "index": 39,
+      "sittings": ["2019-11"]
+    }
+  },
+  {
+    "id": "gva-0040",
+    "topic": "teoria",
+    "q": "Completa la definición: la duración de la marea es el tiempo transcurrido entre….:",
+    "options": [
+      "Dos pleamares.",
+      "Dos bajamares.",
+      "Una pleamar y la siguiente bajamar o viceversa.",
+      "La primera bajamar del día y la última pleamar de ese mismo día."
+    ],
+    "answer": 2,
+    "explanation": "Duración de la marea: de una pleamar a la bajamar siguiente, o al revés.",
+    "gva": {
+      "index": 40,
+      "sittings": ["2019-11"]
+    }
+  },
+  {
+    "id": "gva-0081",
+    "topic": "teoria",
+    "q": "¿Cuál es la definición de milla náutica?:",
+    "options": [
+      "Un grado de longitud en el ecuador.",
+      "Un minuto medido en cualquier paralelo.",
+      "Un minuto de arco de latitud.",
+      "Un grado de arco longitud."
+    ],
+    "answer": 2,
+    "explanation": "Milla: un minuto de arco de latitud (de meridiano).",
+    "gva": {
+      "index": 81,
+      "sittings": ["2021-04"]
+    }
+  },
+  {
+    "id": "gva-0082",
+    "topic": "teoria",
+    "q": "La longitud se mide a partir del:",
+    "options": ["Ecuador.", "Meridiano de 180º.", "Meridiano cero.", "Paralelo cero."],
+    "answer": 2,
+    "explanation": "La longitud se cuenta desde el meridiano cero (Greenwich).",
+    "gva": {
+      "index": 82,
+      "sittings": ["2021-04"]
+    }
+  },
+  {
+    "id": "gva-0083",
+    "topic": "teoria",
+    "q": "¿Dónde podemos encontrar una descripción detallada de la costa con fotos y dibujos incluidos?:",
+    "options": [
+      "En un derrotero.",
+      "En un libro de faros.",
+      "En un parte meteorológico.",
+      "En un anuario de mareas."
+    ],
+    "answer": 0,
+    "explanation": "Derrotero: descripción de la costa con fotos, vientos y corrientes.",
+    "gva": {
+      "index": 83,
+      "sittings": ["2021-04"]
+    }
+  },
+  {
+    "id": "gva-0084",
+    "topic": "teoria",
+    "q": "Dos faros forman una enfilación cuando los vemos:",
+    "options": [
+      "Con una demora de 0º y 180º respectivamente.",
+      "Alineados y uno detrás de otro.",
+      "Alineados y uno a cada extremo del barco.",
+      "Con una demora de 0º y 90º respectivamente."
+    ],
+    "answer": 1,
+    "explanation": "Enfilación: dos marcas alineadas, una detrás de otra.",
+    "gva": {
+      "index": 84,
+      "sittings": ["2021-04"]
+    }
+  },
+  {
+    "id": "gva-0085",
+    "topic": "teoria",
+    "q": "El desvío de la aguja lo obtendremos de:",
+    "options": [
+      "La corredera.",
+      "La declinación magnética de la carta.",
+      "La tablilla de desvíos.",
+      "La variación local del año en curso que aparece en la carta."
+    ],
+    "answer": 2,
+    "explanation": "El desvío sale de la tablilla de desvíos del barco. La declinación viene en la carta.",
+    "gva": {
+      "index": 85,
+      "sittings": ["2021-04"]
+    }
+  },
+  {
+    "id": "gva-0126",
+    "topic": "teoria",
+    "q": "Si nos encontramos en un punto de latitud cero:",
+    "options": [
+      "La declinación magnética será cero.",
+      "Estamos en el meridiano de Greenwich.",
+      "Estamos en el Ecuador.",
+      "Nuestro rumbo es Norte."
+    ],
+    "answer": 2,
+    "explanation": "Latitud 0º: estás en el Ecuador.",
+    "gva": {
+      "index": 126,
+      "sittings": ["2021-07"]
+    }
+  },
+  {
+    "id": "gva-0127",
+    "topic": "teoria",
+    "q": "Los puntos de la Tierra donde se unen todos los meridianos, se conocen por:",
+    "options": ["Ecuador.", "Polos.", "Meridiano Cero.", "Radio."],
+    "answer": 1,
+    "explanation": "Los meridianos se unen en los polos.",
+    "gva": {
+      "index": 127,
+      "sittings": ["2021-07"]
+    }
+  },
+  {
+    "id": "gva-0128",
+    "topic": "teoria",
+    "q": "Si en una carta vemos que la escala de latitudes aumenta hacia arriba, quiere decir:",
+    "options": [
+      "Que es una carta de punto mayor.",
+      "Que es una carta de punto menor.",
+      "Que es una carta de Mercator.",
+      "Que es una carta del hemisferio Norte."
+    ],
+    "answer": 3,
+    "explanation": "Si la latitud crece hacia arriba, la carta es del hemisferio norte.",
+    "gva": {
+      "index": 128,
+      "sittings": ["2021-07"]
+    }
+  },
+  {
+    "id": "gva-0129",
+    "topic": "teoria",
+    "q": "¿Cuál de estas expresiones es cierta con respecto al desvío?:",
+    "options": [
+      "El desvío varía cuando variamos el rumbo.",
+      "El desvío es cero en el Ecuador.",
+      "El desvío nos lo da la carta.",
+      "Todas son ciertas."
+    ],
+    "answer": 0,
+    "explanation": "El desvío cambia con el rumbo, por el magnetismo del propio barco.",
+    "gva": {
+      "index": 129,
+      "sittings": ["2021-07"]
+    }
+  },
+  {
+    "id": "gva-0130",
+    "topic": "teoria",
+    "q": "Si para un Rumbo determinado el Desvío es cero, tendremos que:",
+    "options": [
+      "La declinación magnética es igual a la corrección total.",
+      "El rumbo de aguja es igual al rumbo magnético.",
+      "La demora magnética es igual a la demora de aguja.",
+      "Todas son ciertas."
+    ],
+    "answer": 3,
+    "explanation": "Con Δ = 0: Ra = Rm, Da = Dm y Ct = dm. Todas.",
+    "gva": {
+      "index": 130,
+      "sittings": ["2021-07"]
+    }
+  },
+  {
+    "id": "gva-0170",
+    "topic": "teoria",
+    "q": "¿El ángulo que forman los meridianos magnético y geográfico se llama?:",
+    "options": [
+      "Corrección total.",
+      "Declinación magnética.",
+      "Desvío de aguja.",
+      "Coeficiente de corredera."
+    ],
+    "answer": 1,
+    "explanation": "Declinación magnética: entre el norte verdadero y el magnético.",
+    "gva": {
+      "index": 170,
+      "sittings": ["2021-06"]
+    }
+  },
+  {
+    "id": "gva-0171",
+    "topic": "teoria",
+    "q": "¿Los desvíos los encontramos en?:",
+    "options": [
+      "Los derroteros.",
+      "Las cartas náuticas.",
+      "La tablilla de desvíos.",
+      "En el libro de faros."
+    ],
+    "answer": 2,
+    "explanation": "Tablilla de desvíos.",
+    "gva": {
+      "index": 171,
+      "sittings": ["2021-06"]
+    }
+  },
+  {
+    "id": "gva-0172",
+    "topic": "teoria",
+    "q": "¿En un paralelo cualquiera, un minuto de arco equivale a?:",
+    "options": ["Una milla.", "1952 m.", "60 millas", "Ninguna de las respuestas es correcta"],
+    "answer": 3,
+    "explanation": "Solo en el Ecuador (y en los meridianos) un minuto es una milla. En un paralelo cualquiera, no.",
+    "gva": {
+      "index": 172,
+      "sittings": ["2021-06"]
+    }
+  },
+  {
+    "id": "gva-0173",
+    "topic": "teoria",
+    "q": "Pasar el rumbo N41W a circular.",
+    "options": ["339º", "041º", "319º", "221º"],
+    "answer": 2,
+    "explanation": "N41W: 360 − 41 = 319º.",
+    "gva": {
+      "index": 173,
+      "sittings": ["2021-06"]
+    }
+  },
+  {
+    "id": "gva-0174",
+    "topic": "teoria",
+    "q": "¿El coeficiente de corredera lo podemos calcular?:",
+    "options": [
+      "En las instrucciones del aparato.",
+      "En los derroteros.",
+      "Dividiendo la distancia real que hemos navegado por la que marca el aparato.",
+      "En la carta por donde navegamos."
+    ],
+    "answer": 2,
+    "explanation": "Coeficiente = distancia real ÷ distancia de corredera.",
+    "gva": {
+      "index": 174,
+      "sittings": ["2021-06"]
+    }
+  },
+  {
+    "id": "gva-0215",
+    "topic": "teoria",
+    "q": "La corrección total es:",
+    "options": [
+      "El ángulo entre el norte verdadero y el magnético.",
+      "La diferencia entre la declinación magnética y el desvío.",
+      "La suma algebraica de la declinación magnética y el desvío.",
+      "La suma algebraica del rumbo magnético y el desvío."
+    ],
+    "answer": 2,
+    "explanation": "Ct = dm + Δ (suma algebraica: E +, W −).",
+    "gva": {
+      "index": 215,
+      "sittings": ["2021-11"]
+    }
+  },
+  {
+    "id": "gva-0216",
+    "topic": "teoria",
+    "q": "Pasar el rumbo S41E a circular.",
+    "options": ["139º", "221º", "131º", "229º"],
+    "answer": 0,
+    "explanation": "S41E: 180 − 41 = 139º.",
+    "gva": {
+      "index": 216,
+      "sittings": ["2021-11"]
+    }
+  },
+  {
+    "id": "gva-0217",
+    "topic": "teoria",
+    "q": "¿En las cartas náuticas, las distancias las medimos en?:",
+    "options": [
+      "La escala de longitudes.",
+      "La escala de latitudes.",
+      "En cualquiera de las dos anteriores.",
+      "En la escala especial de todas las cartas referente a distancias."
+    ],
+    "answer": 1,
+    "explanation": "Las distancias se miden en la escala de latitudes, a la altura del tramo.",
+    "gva": {
+      "index": 217,
+      "sittings": ["2021-11"]
+    }
+  },
+  {
+    "id": "gva-0218",
+    "topic": "teoria",
+    "q": "¿El resultado de multiplicar el coeficiente de corredera por la velocidad de corredera nos da?",
+    "options": [
+      "La velocidad máxima de nuestra embarcación.",
+      "La distancia de corredera.",
+      "La velocidad real a la que navegamos.",
+      "La profundidad a la que navegamos."
+    ],
+    "answer": 2,
+    "explanation": "Velocidad real = coeficiente × velocidad de corredera.",
+    "gva": {
+      "index": 218,
+      "sittings": ["2021-11"]
+    }
+  },
+  {
+    "id": "gva-0219",
+    "topic": "teoria",
+    "q": "Los derroteros indican:",
+    "options": [
+      "La profundidad y naturaleza del fondo.",
+      "El perfil de la costa y los faros.",
+      "Los vientos y corrientes en una zona.",
+      "Todas las respuestas son correctas."
+    ],
+    "answer": 3,
+    "explanation": "El derrotero trae fondos, costa, faros, vientos y corrientes: todas.",
+    "gva": {
+      "index": 219,
+      "sittings": ["2021-11"]
+    }
+  },
+  {
+    "id": "gva-0260",
+    "topic": "teoria",
+    "q": "En lo referente a la cartografía. ¿Cómo se denomina la carta necesaria para facilitar a los navegantes la aproximación a los puertos, o a otros accidentes geográficos de importancia?",
+    "options": ["Carta de navegación costera", "Cartucho", "Portulano", "Aproache o recalada"],
+    "answer": 3,
+    "explanation": "Carta de aproche (recalada): para acercarse a puertos y accidentes importantes.",
+    "gva": {
+      "index": 260,
+      "sittings": ["2022-12"]
+    }
+  },
+  {
+    "id": "gva-0261",
+    "topic": "teoria",
+    "q": "La coordenada de la Longitud tiene un valor máximo de:",
+    "options": ["90º", "180º", "360º", "145º"],
+    "answer": 1,
+    "explanation": "Longitud máxima: 180º.",
+    "gva": {
+      "index": 261,
+      "sittings": ["2022-12", "2024-11"]
+    }
+  },
+  {
+    "id": "gva-0262",
+    "topic": "teoria",
+    "q": "El rumbo N15E en cuadrantal, equivale al rumbo circular:",
+    "options": ["015°", "345°", "350°", "335°"],
+    "answer": 0,
+    "explanation": "N15E = 015º.",
+    "gva": {
+      "index": 262,
+      "sittings": ["2022-12"]
+    }
+  },
+  {
+    "id": "gva-0263",
+    "topic": "teoria",
+    "q": "Si dos buques se encuentran sobre el mismo paralelo:",
+    "options": [
+      "Tendrán ambos diferente latitud",
+      "Estarán a diferente distancia del Ecuador",
+      "Tendrán la misma longitud",
+      "Ninguna de las respuestas anteriores es cierta"
+    ],
+    "answer": 3,
+    "explanation": "En el mismo paralelo tienen la misma latitud y la misma distancia al Ecuador. Las tres opciones son falsas.",
+    "gva": {
+      "index": 263,
+      "sittings": ["2022-12"]
+    }
+  },
+  {
+    "id": "gva-0264",
+    "topic": "teoria",
+    "q": "El círculo máximo que divide a la tierra en dos mitades llamadas hemisferios se denomina:",
+    "options": ["Eje", "Meridiano", "Ecuador", "Longitud"],
+    "answer": 2,
+    "explanation": "El Ecuador divide la Tierra en dos hemisferios.",
+    "gva": {
+      "index": 264,
+      "sittings": ["2022-12", "2024-11"]
+    }
+  },
+  {
+    "id": "gva-0305",
+    "topic": "teoria",
+    "q": "¿Qué Influencia tiene para la navegación un Anticiclón?:",
+    "options": [
+      "Una alta presión puede hacer disminuir la sonda.",
+      "Una alta presión puede hacer disminuir el calado.",
+      "Una alta presión puede hacer disminuir la obra viva.",
+      "Una alta presión puede hacer disminuir el cero hidrográfico."
+    ],
+    "answer": 0,
+    "explanation": "Las altas presiones bajan el nivel del mar: menos sonda.",
+    "gva": {
+      "index": 305,
+      "sittings": ["2022-02"]
+    }
+  },
+  {
+    "id": "gva-0306",
+    "topic": "teoria",
+    "q": "¿Qué son los FAROS?:",
+    "options": [
+      "Cualquier marca en tierra que emita una luz continua.",
+      "Torres situadas en el litoral marino con una luz en lo alto con apariencia característica.",
+      "Aparatos de luz usados por los pescadores para balizar las artes que dejan calados.",
+      "Luces blancas que se ponen en los palos o a determinada altura sobre la cubierta para iluminar y ser vista la embarcación en navegación nocturna."
+    ],
+    "answer": 1,
+    "explanation": "Faro: torre en la costa con una luz característica.",
+    "gva": {
+      "index": 306,
+      "sittings": ["2022-02"]
+    }
+  },
+  {
+    "id": "gva-0307",
+    "topic": "teoria",
+    "q": "¿Cómo se denomina a el ángulo que forma el rumbo verdadero con el rumbo de superficie?:",
+    "options": ["Desvío.", "Deriva.", "Abatimiento.", "Corrección total."],
+    "answer": 2,
+    "explanation": "Abatimiento: el efecto del viento, entre el Rv y el rumbo de superficie.",
+    "gva": {
+      "index": 307,
+      "sittings": ["2022-02"]
+    }
+  },
+  {
+    "id": "gva-0308",
+    "topic": "teoria",
+    "q": "¿En qué sentido en una carta aumenta la latitud?:",
+    "options": [
+      "De arriba a abajo.",
+      "De derecha a izquierda.",
+      "De abajo a arriba.",
+      "Dependerá de si representa el Hemisferio Norte o el Sur."
+    ],
+    "answer": 3,
+    "explanation": "Depende del hemisferio: en el norte crece hacia arriba y en el sur hacia abajo.",
+    "gva": {
+      "index": 308,
+      "sittings": ["2022-02"]
+    }
+  },
+  {
+    "id": "gva-0309",
+    "topic": "teoria",
+    "q": "¿El rumbo cuadrantal S50E a que corresponde en circular?:",
+    "options": ["140º.", "130º.", "050º.", "230º."],
+    "answer": 1,
+    "explanation": "S50E = 180 − 50 = 130º.",
+    "gva": {
+      "index": 309,
+      "sittings": ["2022-02"]
+    }
+  },
+  {
+    "id": "gva-0350",
+    "topic": "teoria",
+    "q": "Los círculos o circunferencias máximas que pasan por los polos los denominamos:",
+    "options": ["Paralelos", "Meridianos", "Elipsoides", "Efemérides"],
+    "answer": 1,
+    "explanation": "Meridianos: círculos máximos que pasan por los polos.",
+    "gva": {
+      "index": 350,
+      "sittings": ["2022-06"]
+    }
+  },
+  {
+    "id": "gva-0351",
+    "topic": "teoria",
+    "q": "El viento produce un efecto sobre nuestro rumbo denominado:",
+    "options": ["Abatimiento", "Sincronismo", "Deriva", "Escora"],
+    "answer": 0,
+    "explanation": "Abatimiento: lo produce el viento. Deriva: la corriente.",
+    "gva": {
+      "index": 351,
+      "sittings": ["2022-06"]
+    }
+  },
+  {
+    "id": "gva-0352",
+    "topic": "teoria",
+    "q": "Cuando hablamos de la diferencia de altura entre los niveles de la pleamar y la bajamar, nos referimos a:",
+    "options": ["Cero hidrográfico", "Amplitud de la marea", "Bajamar escorada", "Pleamar"],
+    "answer": 1,
+    "explanation": "Amplitud: la diferencia entre pleamar y bajamar.",
+    "gva": {
+      "index": 352,
+      "sittings": ["2022-06"]
+    }
+  },
+  {
+    "id": "gva-0353",
+    "topic": "teoria",
+    "q": "Pasar el rumbo 325 a cuadrantal.",
+    "options": ["N035W", "N035E", "S024E", "N045W"],
+    "answer": 0,
+    "explanation": "325º = N35W (360 − 325).",
+    "gva": {
+      "index": 353,
+      "sittings": ["2022-06"]
+    }
+  },
+  {
+    "id": "gva-0354",
+    "topic": "teoria",
+    "q": "La declinación magnética la podemos definir como:",
+    "options": [
+      "Todas son ciertas",
+      "El ángulo que forma el Norte verdadero y el Norte aparente",
+      "El ángulo que forma el Norte de aguja y e Norte verdadero",
+      "El ángulo que forma el Norte magnético y el Norte verdadero"
+    ],
+    "answer": 3,
+    "explanation": "Declinación: entre el norte magnético y el verdadero.",
+    "gva": {
+      "index": 354,
+      "sittings": ["2022-06"]
+    }
+  },
+  {
+    "id": "gva-0395",
+    "topic": "teoria",
+    "q": "La marcación se define como:",
+    "options": [
+      "El ángulo que forma la línea de crujía con la visual dirigida a un objeto.",
+      "El ángulo que forma el Nv y la visual dirigida a un objeto.",
+      "El ángulo que forma la estela del buque en referencia a tierra.",
+      "Ninguna de las respuestas anteriores es cierta."
+    ],
+    "answer": 0,
+    "explanation": "Marcación: ángulo desde la proa (crujía) hasta el objeto.",
+    "gva": {
+      "index": 395,
+      "sittings": ["2023-04", "2024-11", "2026-04"]
+    }
+  },
+  {
+    "id": "gva-0396",
+    "topic": "teoria",
+    "q": "La coordenada de la longitud se define como:",
+    "options": [
+      "El arco de meridiano contado desde el Ecuador hasta el paralelo del observador",
+      "El arco de paralelo contado desde el Meridiano de Greenwich al observador",
+      "El arco de Ecuador contado desde el meridiano 0° hasta el meridiano del lugar o del observador",
+      "El arco de meridiano contado desde el Polo Norte hasta el observador"
+    ],
+    "answer": 2,
+    "explanation": "Longitud: arco de Ecuador desde Greenwich hasta tu meridiano.",
+    "gva": {
+      "index": 396,
+      "sittings": ["2023-04", "2024-09"]
+    }
+  },
+  {
+    "id": "gva-0397",
+    "topic": "teoria",
+    "q": "El rumbo S 20° W en cuadrantal, equivale al rumbo circular:",
+    "options": ["160°", "330°", "200º", "020°"],
+    "answer": 2,
+    "explanation": "S20W = 180 + 20 = 200º.",
+    "gva": {
+      "index": 397,
+      "sittings": ["2023-04", "2024-11"]
+    }
+  },
+  {
+    "id": "gva-0398",
+    "topic": "teoria",
+    "q": "Si dos buques se encuentran sobre el mismo paralelo:",
+    "options": [
+      "Ambos tendrán la misma latitud.",
+      "Estarán a diferente distancia del Ecuador.",
+      "Tendrán la misma longitud.",
+      "Ambos estarán a la misma distancia del Meridiano de Greenwich."
+    ],
+    "answer": 0,
+    "explanation": "Mismo paralelo = misma latitud.",
+    "gva": {
+      "index": 398,
+      "sittings": ["2023-04", "2024-09", "2026-04"]
+    }
+  },
+  {
+    "id": "gva-0399",
+    "topic": "teoria",
+    "q": "La unidad de distancia que se utiliza en la mar es:",
+    "options": ["La milla terrestre", "La milla náutica", "El Kilómetro", "El nudo"],
+    "answer": 1,
+    "explanation": "Milla náutica.",
+    "gva": {
+      "index": 399,
+      "sittings": ["2023-04", "2024-11"]
+    }
+  },
+  {
+    "id": "gva-0438",
+    "topic": "teoria",
+    "q": "Las cartas de navegación costera más utilizadas por las embarcaciones de recreo, son las:",
+    "options": [
+      "Cartas de proyección Horizontales",
+      "Cartas de proyección de Mercator (Mercatorianas)",
+      "Cartas de proyección Gnómicas",
+      "Las cartas Generales"
+    ],
+    "answer": 1,
+    "explanation": "Las cartas costeras son de Mercator: los rumbos salen en línea recta.",
+    "gva": {
+      "index": 438,
+      "sittings": ["2023-02"]
+    }
+  },
+  {
+    "id": "gva-0439",
+    "topic": "teoria",
+    "q": "La coordenada de la latitud se define como:",
+    "options": [
+      "El arco de meridiano contado desde el Ecuador hasta el paralelo del observador",
+      "El arco de paralelo contado desde el Meridiano de Greenwich al observador",
+      "El arco de Ecuador contado desde el meridiano 0° hasta el observador",
+      "El arco de meridiano contado desde el Polo Norte hasta el observador"
+    ],
+    "answer": 0,
+    "explanation": "Latitud: arco de meridiano desde el Ecuador.",
+    "gva": {
+      "index": 439,
+      "sittings": ["2023-02"]
+    }
+  },
+  {
+    "id": "gva-0440",
+    "topic": "teoria",
+    "q": "El rumbo N 20 W en cuadrantal, equivale al rumbo circular:",
+    "options": ["020°", "345°", "350°", "340°"],
+    "answer": 3,
+    "explanation": "N20W = 340º.",
+    "gva": {
+      "index": 440,
+      "sittings": ["2023-02"]
+    }
+  },
+  {
+    "id": "gva-0441",
+    "topic": "teoria",
+    "q": "Si dos buques se encuentran sobre el mismo meridiano:",
+    "options": [
+      "Ambos tendrán la misma latitud",
+      "Estarán a la misma distancia del Ecuador",
+      "Tendrán la misma longitud",
+      "Ambos estarán a la misma distancia del Polo Norte"
+    ],
+    "answer": 2,
+    "explanation": "Mismo meridiano = misma longitud.",
+    "gva": {
+      "index": 441,
+      "sittings": ["2023-02"]
+    }
+  },
+  {
+    "id": "gva-0442",
+    "topic": "teoria",
+    "q": "La unidad de velocidad que se utiliza en la mar es:",
+    "options": ["La milla marina", "El nudo por hora", "El Kilómetro por hora", "El nudo"],
+    "answer": 3,
+    "explanation": "El nudo.",
+    "gva": {
+      "index": 442,
+      "sittings": ["2023-02"]
+    }
+  },
+  {
+    "id": "gva-0483",
+    "topic": "teoria",
+    "q": "En una carta náutica. ¿Qué significa la letra “M” junto a una sonda en metros?",
+    "options": [
+      "Que el fondo es de piedra",
+      "Que el fondo es de grava",
+      "Que el fondo es de lodo",
+      "Que hay un bajo"
+    ],
+    "answer": 2,
+    "explanation": "M (mud): fango o lodo.",
+    "gva": {
+      "index": 483,
+      "sittings": ["2023-07"]
+    }
+  },
+  {
+    "id": "gva-0484",
+    "topic": "teoria",
+    "q": "La latitud de un punto en la Tierra es:",
+    "options": [
+      "El arco de paralelo medido desde el Ecuador hasta el meridiano de Greenwich",
+      "El arco de meridiano medido desde el Ecuador hasta el punto donde se encuentra el observador",
+      "El arco de meridiano contado desde el Polo Norte al Polo Sur",
+      "El arco de Ecuador medido desde el meridiano cero al meridiano 180°"
+    ],
+    "answer": 1,
+    "explanation": "Latitud: arco de meridiano desde el Ecuador hasta el observador.",
+    "gva": {
+      "index": 484,
+      "sittings": ["2023-07"]
+    }
+  },
+  {
+    "id": "gva-0485",
+    "topic": "teoria",
+    "q": "La Corrección Total:",
+    "options": [
+      "Es el ángulo entre el Norte verdadero y el Norte de aguja",
+      "Es el ángulo que hay entre el Norte magnético y el Norte verdadero",
+      "Es el ángulo entre el Norte verdadero y el Rumbo de superficie",
+      "Es el ángulo que forma la dirección del Norte aguja y el Norte magnético"
+    ],
+    "answer": 0,
+    "explanation": "Ct: el ángulo entre el norte verdadero y el norte de aguja.",
+    "gva": {
+      "index": 485,
+      "sittings": ["2023-07"]
+    }
+  },
+  {
+    "id": "gva-0486",
+    "topic": "teoria",
+    "q": "La línea que une los puntos del fondo marino que tienen la misma sonda o profundidad se les conoce como:",
+    "options": ["Líneas isobaras", "Líneas isógonas", "Líneas isoclinas", "Líneas isobáticas"],
+    "answer": 3,
+    "explanation": "Isobáticas (veriles).",
+    "gva": {
+      "index": 486,
+      "sittings": ["2023-07"]
+    }
+  },
+  {
+    "id": "gva-0487",
+    "topic": "teoria",
+    "q": "El ángulo que hay entre un faro y la línea proa – popa de un barco es una:",
+    "options": ["Demora verdadera", "Marcación", "Oposición", "Enfilación"],
+    "answer": 1,
+    "explanation": "Marcación: ángulo con la línea proa-popa.",
+    "gva": {
+      "index": 487,
+      "sittings": ["2023-07"]
+    }
+  },
+  {
+    "id": "gva-0528",
+    "topic": "teoria",
+    "q": "Si dos embarcaciones se encuentran sobre el mismo paralelo tendrán la misma…",
+    "options": ["HRB", "Longitud", "Latitud", "Distancia al meridiano de Greenwich"],
+    "answer": 2,
+    "explanation": "Mismo paralelo: misma latitud.",
+    "gva": {
+      "index": 528,
+      "sittings": ["2023-11"]
+    }
+  },
+  {
+    "id": "gva-0529",
+    "topic": "teoria",
+    "q": "La unidad de velocidad que se emplea en náutica es:",
+    "options": [
+      "El nudo por hora",
+      "La milla náutica",
+      "La milla por hora",
+      "Todas las respuestas anteriores son ciertas"
+    ],
+    "answer": 2,
+    "explanation": "Nudo = milla por hora.",
+    "gva": {
+      "index": 529,
+      "sittings": ["2023-11"]
+    }
+  },
+  {
+    "id": "gva-0530",
+    "topic": "teoria",
+    "q": "El ángulo que hay entre el Rm y el Ra es:",
+    "options": ["La declinación magnética", "La Corrección total", "El desvío de la aguja", "La deriva"],
+    "answer": 2,
+    "explanation": "Entre Rm y Ra está el desvío.",
+    "gva": {
+      "index": 530,
+      "sittings": ["2023-11"]
+    }
+  },
+  {
+    "id": "gva-0531",
+    "topic": "teoria",
+    "q": "En una carta mercatoriana:",
+    "options": [
+      "Los rumbos son representados por líneas rectas",
+      "Los paralelos son representados por líneas rectas equidistantes",
+      "Los rumbos representados son siempre magnéticos",
+      "La declinación magnética es la misma todos los años"
+    ],
+    "answer": 0,
+    "explanation": "Mercator: los rumbos son líneas rectas (loxodrómicas).",
+    "gva": {
+      "index": 531,
+      "sittings": ["2023-11", "2025-06"]
+    }
+  },
+  {
+    "id": "gva-0532",
+    "topic": "teoria",
+    "q": "La Marcación es el ángulo formado por:",
+    "options": [
+      "La línea Pr-Pp medida desde el Norte verdadero a un faro",
+      "La línea Pr-Pp medida desde el Norte de aguja a una referencia de tierra",
+      "La línea Pr-Pp y la dirección al objeto marcado, medido desde la proa",
+      "La línea Pr-Pp y el Norte magnético"
+    ],
+    "answer": 2,
+    "explanation": "Marcación: desde la proa hasta el objeto.",
+    "gva": {
+      "index": 532,
+      "sittings": ["2023-11"]
+    }
+  },
+  {
+    "id": "gva-0573",
+    "topic": "teoria",
+    "q": "El arco del meridiano del lugar contado desde el ecuador hasta el paralelo del lugar, lo denominamos:",
+    "options": ["Longitud", "Latitud", "Meridiano", "Almicantarat"],
+    "answer": 1,
+    "explanation": "Latitud.",
+    "gva": {
+      "index": 573,
+      "sittings": ["2023-09", "2025-06"]
+    }
+  },
+  {
+    "id": "gva-0574",
+    "topic": "teoria",
+    "q": "Cuando se inserta dentro de una carta otra a mayor escala de un puerto, ensenada o bahía, se denomina:",
+    "options": ["Costera", "Portulano", "Aproche", "Cartucho"],
+    "answer": 3,
+    "explanation": "Cartucho: una carta de mayor escala metida dentro de otra.",
+    "gva": {
+      "index": 574,
+      "sittings": ["2023-09", "2025-06"]
+    }
+  },
+  {
+    "id": "gva-0575",
+    "topic": "teoria",
+    "q": "Una milla náutica equivale:",
+    "options": ["1.852 metros", "1.285 metros", "1.582 metros", "1.862 metros"],
+    "answer": 0,
+    "explanation": "1852 m.",
+    "gva": {
+      "index": 575,
+      "sittings": ["2023-09", "2025-06"]
+    }
+  },
+  {
+    "id": "gva-0576",
+    "topic": "teoria",
+    "q": "El ángulo que forma el norte magnético y el norte verdadero, se denomina:",
+    "options": ["Declinación magnética", "Rumbo verdadero", "Corrección total", "Rumbo de aguja"],
+    "answer": 0,
+    "explanation": "Declinación magnética.",
+    "gva": {
+      "index": 576,
+      "sittings": ["2023-09"]
+    }
+  },
+  {
+    "id": "gva-0577",
+    "topic": "teoria",
+    "q": "Desde la mar, la línea imaginaria que obtenemos al superponer una referencia que se encuentra tierra a dentro con otra de la costa, se denomina:",
+    "options": ["Demora verdadera", "Declinación magnética", "Oposición", "Enfilación"],
+    "answer": 3,
+    "explanation": "Enfilación.",
+    "gva": {
+      "index": 577,
+      "sittings": ["2023-09"]
+    }
+  },
+  {
+    "id": "gva-0618",
+    "topic": "teoria",
+    "q": "Las circunferencias máximas que pasan por los polos y son por lo tanto perpendiculares al ecuador, se denominan:",
+    "options": ["Meridianos", "Paralelos", "Ejes", "Almicantarats"],
+    "answer": 0,
+    "explanation": "Meridianos.",
+    "gva": {
+      "index": 618,
+      "sittings": ["2024-04"]
+    }
+  },
+  {
+    "id": "gva-0619",
+    "topic": "teoria",
+    "q": "El rumbo cuadrantal N 40 W equivale en rumbo circular a:",
+    "options": ["140º", "220º", "040º", "320º"],
+    "answer": 3,
+    "explanation": "N40W = 320º.",
+    "gva": {
+      "index": 619,
+      "sittings": ["2024-04"]
+    }
+  },
+  {
+    "id": "gva-0620",
+    "topic": "teoria",
+    "q": "Podemos decir que la marcación es:",
+    "options": [
+      "El ángulo formado desde la línea proa-popa con la visual dirigida a un objeto",
+      "El ángulo que forma el Nv con la visual dirigida a un objeto",
+      "El ángulo que forma el Na con la visual dirigida a un objeto",
+      "Ninguna de las respuestas anteriores es cierta"
+    ],
+    "answer": 0,
+    "explanation": "Marcación: desde la línea proa-popa.",
+    "gva": {
+      "index": 620,
+      "sittings": ["2024-04"]
+    }
+  },
+  {
+    "id": "gva-0621",
+    "topic": "teoria",
+    "q": "¿Cuál de las siguientes afirmaciones es correcta?",
+    "options": [
+      "Rumbo verdadero es igual al rumbo de aguja más la corrección total",
+      "Rumbo verdadero es igual al rumbo de aguja más la declinación",
+      "Rumbo de aguja es igual a rumbo verdadero menos la declinación",
+      "Rumbo de aguja es igual al rumbo verdadero menos el desvío"
+    ],
+    "answer": 0,
+    "explanation": "Rv = Ra + Ct.",
+    "gva": {
+      "index": 621,
+      "sittings": ["2024-04"]
+    }
+  },
+  {
+    "id": "gva-0622",
+    "topic": "teoria",
+    "q": "Las líneas que unen los puntos de igual profundidad, se denominan:",
+    "options": ["Veriles", "Isobáticas", "Isobaras", "Las respuestas a y b son ciertas"],
+    "answer": 3,
+    "explanation": "Veriles = isobáticas: «a y b».",
+    "gva": {
+      "index": 622,
+      "sittings": ["2024-04"]
+    }
+  },
+  {
+    "id": "gva-0663",
+    "topic": "teoria",
+    "q": "El rumbo es la dirección en la cual queremos navegar expresada en grados, y se puede decir que:",
+    "options": [
+      "El rumbo es el ángulo que forma la línea proa-popa con el ecuador",
+      "La popa forma un ángulo con el meridiano de Greenwich que se conoce como rumbo de aguja",
+      "El ángulo que forma la línea proa-popa con el meridiano",
+      "Ninguna de las respuestas anteriores es correcta"
+    ],
+    "answer": 2,
+    "explanation": "Rumbo: ángulo entre la línea proa-popa y el meridiano.",
+    "gva": {
+      "index": 663,
+      "sittings": ["2024-02", "2024-09"]
+    }
+  },
+  {
+    "id": "gva-0664",
+    "topic": "teoria",
+    "q": "El rumbo cuadrantal S 10 W equivale en rumbo circular a:",
+    "options": ["170º", "180º", "190º", "160º"],
+    "answer": 2,
+    "explanation": "S10W = 190º.",
+    "gva": {
+      "index": 664,
+      "sittings": ["2024-02"]
+    }
+  },
+  {
+    "id": "gva-0665",
+    "topic": "teoria",
+    "q": "Uno de los siguientes términos es sinónimo de la declinación magnética:",
+    "options": ["Desvío", "Corrección total", "Variación local", "Deriva"],
+    "answer": 2,
+    "explanation": "Declinación = variación local.",
+    "gva": {
+      "index": 665,
+      "sittings": ["2024-02"]
+    }
+  },
+  {
+    "id": "gva-0666",
+    "topic": "teoria",
+    "q": "¿Cuál de los siguientes elementos no forma parte de la aguja náutica?",
+    "options": ["El inclinómetro", "La suspensión cardán", "El mortero", "El estilo"],
+    "answer": 0,
+    "explanation": "La aguja tiene mortero, cardán y estilo. El inclinómetro no forma parte de ella.",
+    "gva": {
+      "index": 666,
+      "sittings": ["2024-02"]
+    }
+  },
+  {
+    "id": "gva-0667",
+    "topic": "teoria",
+    "q": "En una carta mercatoriana costera las distancias a cualquier punto de la carta se medirán:",
+    "options": [
+      "En la escala de las longitudes",
+      "En la escala de las latitudes",
+      "En la escala de las latitudes y de las longitudes indistintamente",
+      "Sobre la escala de cualquier paralelo"
+    ],
+    "answer": 1,
+    "explanation": "Distancias en la escala de latitudes.",
+    "gva": {
+      "index": 667,
+      "sittings": ["2024-02", "2024-09"]
+    }
+  },
+  {
+    "id": "gva-0708",
+    "topic": "teoria",
+    "q": "El arco del meridiano del lugar contado desde el ecuador hasta el paralelo del observador se denomina:",
+    "options": ["Ecuador", "Longitud", "Meridiano", "Latitud"],
+    "answer": 3,
+    "explanation": "Latitud.",
+    "gva": {
+      "index": 708,
+      "sittings": ["2024-06", "2025-04"]
+    }
+  },
+  {
+    "id": "gva-0709",
+    "topic": "teoria",
+    "q": "El rumbo cuadrantal S 45 W equivale en rumbo circular a:",
+    "options": ["045º", "315º", "225º", "135º"],
+    "answer": 2,
+    "explanation": "S45W = 225º.",
+    "gva": {
+      "index": 709,
+      "sittings": ["2024-06"]
+    }
+  },
+  {
+    "id": "gva-0710",
+    "topic": "teoria",
+    "q": "La longitud de un arco cuyo ángulo es un minuto medido en el ecuador, es:",
+    "options": ["La milla", "El nudo", "La braza", "La sonda"],
+    "answer": 0,
+    "explanation": "Un minuto en el Ecuador: una milla.",
+    "gva": {
+      "index": 710,
+      "sittings": ["2024-06"]
+    }
+  },
+  {
+    "id": "gva-0711",
+    "topic": "teoria",
+    "q": "¿Cuál de los siguientes equipos electrónicos es utilizado para medir la profundidad marina?",
+    "options": ["El plotter", "El GPS", "La sonda", "El escandallo"],
+    "answer": 2,
+    "explanation": "La sonda (ecosonda) mide la profundidad.",
+    "gva": {
+      "index": 711,
+      "sittings": ["2024-06"]
+    }
+  },
+  {
+    "id": "gva-0712",
+    "topic": "teoria",
+    "q": "El ángulo que forma el Norte de aguja con el Norte verdadero, se denomina:",
+    "options": ["Demora", "Desvío", "Corrección total", "Declinación magnética"],
+    "answer": 2,
+    "explanation": "Entre el Na y el Nv: corrección total.",
+    "gva": {
+      "index": 712,
+      "sittings": ["2024-06", "2025-04"]
+    }
+  },
+  {
+    "id": "gva-0733",
+    "topic": "teoria",
+    "q": "¿Cuál de los siguientes términos es sinónimo de la declinación magnética?",
+    "options": ["Desvío", "Corrección total", "Variación local", "Deriva"],
+    "answer": 2,
+    "explanation": "Variación local.",
+    "gva": {
+      "index": 733,
+      "sittings": ["2024-09"]
+    }
+  },
+  {
+    "id": "gva-0768",
+    "topic": "teoria",
+    "q": "El rumbo cuadrantal S 45 E equivale en rumbo circular a:",
+    "options": ["045º", "135º", "315º", "225º"],
+    "answer": 1,
+    "explanation": "S45E = 135º.",
+    "gva": {
+      "index": 768,
+      "sittings": ["2025-04"]
+    }
+  },
+  {
+    "id": "gva-0769",
+    "topic": "teoria",
+    "q": "La longitud de arco de un minuto medido en el Ecuador equivale en distancia a:",
+    "options": ["La braza", "El nudo", "La milla", "El pie"],
+    "answer": 2,
+    "explanation": "La milla.",
+    "gva": {
+      "index": 769,
+      "sittings": ["2025-04"]
+    }
+  },
+  {
+    "id": "gva-0770",
+    "topic": "teoria",
+    "q": "En las mareas entendemos por duración de la creciente:",
+    "options": [
+      "El intervalo en tiempo que media entre la bajamar y la pleamar que le sigue",
+      "El intervalo en tiempo que media entre la pleamar y la bajamar que sigue",
+      "La diferencia de sonda entre la bajamar y la pleamar",
+      "La diferencia de sonda entre la sonda carta y la sonda en pleamar"
+    ],
+    "answer": 0,
+    "explanation": "Creciente: de la bajamar a la pleamar siguiente.",
+    "gva": {
+      "index": 770,
+      "sittings": ["2025-04"]
+    }
+  },
+  {
+    "id": "gva-0787",
+    "topic": "teoria",
+    "q": "Desde la mar, la línea imaginaria que obtenemos al superponer una referencia que se encuentra tierra a dentro con otra referencia de la costa, se denomina:",
+    "options": ["Demora verdadera", "Declinación magnética", "Enfilación", "Oposición"],
+    "answer": 2,
+    "explanation": "Enfilación.",
+    "gva": {
+      "index": 787,
+      "sittings": ["2025-06"]
+    }
+  },
+  {
+    "id": "gva-0825",
+    "topic": "teoria",
+    "q": "En una carta náutica. ¿qué significa la letra “St” junto a una sonda en metros?",
+    "options": [
+      "Que el fondo es de piedra",
+      "Que el fondo es de lodo",
+      "Que el fondo es de grava",
+      "Ninguna respuesta es correcta"
+    ],
+    "answer": 0,
+    "explanation": "St (stones): piedra.",
+    "gva": {
+      "index": 825,
+      "sittings": ["2025-09"]
+    }
+  },
+  {
+    "id": "gva-0826",
+    "topic": "teoria",
+    "q": "La declinación magnética, es el ángulo entre:",
+    "options": [
+      "El Norte verdadero y el Norte de aguja",
+      "El Norte verdadero y el rumbo de aguja",
+      "El Norte magnético y el rumbo de superficie",
+      "El Norte magnético y el Norte verdadero"
+    ],
+    "answer": 3,
+    "explanation": "Declinación: entre el norte magnético y el verdadero.",
+    "gva": {
+      "index": 826,
+      "sittings": ["2025-09"]
+    }
+  },
+  {
+    "id": "gva-0827",
+    "topic": "teoria",
+    "q": "¿Cuál de los siguientes elementos no se encontraría en una aguja magnética?",
+    "options": ["Chapitel", "Imanes", "Estilo", "Contrete"],
+    "answer": 3,
+    "explanation": "El contrete es un refuerzo de los eslabones de la cadena, no parte de la aguja.",
+    "gva": {
+      "index": 827,
+      "sittings": ["2025-09"]
+    }
+  },
+  {
+    "id": "gva-0828",
+    "topic": "teoria",
+    "q": "El ángulo que hay entre la línea proa-popa y el norte de aguja, se denomina:",
+    "options": ["Rumbo de superficie", "Rumbo de aguja", "Rumbo magnético", "Rumbo verdadero"],
+    "answer": 1,
+    "explanation": "Rumbo de aguja: desde el norte de aguja hasta la proa.",
+    "gva": {
+      "index": 828,
+      "sittings": ["2025-09"]
+    }
+  },
+  {
+    "id": "gva-0829",
+    "topic": "teoria",
+    "q": "El rumbo 225º, corresponde a un cuadrantal:",
+    "options": ["S45E", "S45W", "N45E", "N45W"],
+    "answer": 1,
+    "explanation": "225º = S45W.",
+    "gva": {
+      "index": 829,
+      "sittings": ["2025-09"]
+    }
+  },
+  {
+    "id": "gva-0859",
+    "topic": "teoria",
+    "q": "Se define la velocidad de gobierno como:",
+    "options": [
+      "La velocidad mínima a la cual la embarcación es capaz de maniobrar adecuadamente.",
+      "La velocidad máxima a la cual la embarcación es capaz de maniobrar adecuadamente.",
+      "La velocidad a la cual la embarcación es capaz de evitar un abordaje.",
+      "La velocidad a la cual el oficial de guardia en el puente puede realizar una vigilancia adecuada."
+    ],
+    "answer": 0,
+    "explanation": "Velocidad de gobierno: la mínima con la que el timón responde.",
+    "gva": {
+      "index": 859,
+      "sittings": ["2026-04"]
+    }
+  },
+  {
+    "id": "gva-0860",
+    "topic": "teoria",
+    "q": "¿Cuál de las siguientes afirmaciones es verdadera en un buque de dos hélices gemelas en la maniobra de ciaboga?:",
+    "options": [
+      "La maniobra consiste en detener un buque con arrancada dando máquina atrás con las dos hélices.",
+      "La maniobra consiste en hacer girar el buque sobre sí mismo dando avante con la hélice de la misma banda a la que se pretenda caer.",
+      "Esta maniobra consiste en detener un buque con arrancada dando máquina avante con una hélice y máquina atrás con otra.",
+      "La maniobra consiste en hacer girar el buque sobre sí mismo dando máquina avante con una hélice y máquina atrás por la banda a la que se pretende girar."
+    ],
+    "answer": 3,
+    "explanation": "Ciaboga: girar sobre sí mismo con una hélice avante y la otra atrás (la de la banda a la que giras).",
+    "gva": {
+      "index": 860,
+      "sittings": ["2026-04"]
+    }
+  },
+  {
+    "id": "gva-0861",
+    "topic": "teoria",
+    "q": "¿Cuándo es fiable una situación por líneas de posición?",
+    "options": [
+      "Cuando se tenga visibilidad reducida.",
+      "Cuando el ángulo de intersección de dos demoras se aproxima a 90º.",
+      "En el caso de enfilar dos marcas de tierra, la más cercana a nosotros sea la más alta.",
+      "Cuando el ángulo de demora sea inferior a 20º."
+    ],
+    "answer": 1,
+    "explanation": "Dos demoras dan una situación fiable cuando se cortan a unos 90º.",
+    "gva": {
+      "index": 861,
+      "sittings": ["2026-04"]
+    }
+  },
+  {
+    "id": "gva-0902",
+    "topic": "teoria",
+    "q": "¿Cómo se llama el ángulo formado por el norte magnético y el norte aguja?",
+    "options": ["Deriva", "Declinación magnética.", "Desvío.", "Corrección total."],
+    "answer": 2,
+    "explanation": "Desvío: entre el norte magnético y el de aguja.",
+    "gva": {
+      "index": 902,
+      "sittings": ["2026-07"]
+    }
+  },
+  {
+    "id": "gva-0903",
+    "topic": "teoria",
+    "q": "¿Qué publicación del Instituto Hidrográfico de la Marina deberíamos consultar si queremos saber los vientos predominantes y corrientes de la zona por donde navegamos?",
+    "options": ["Libro de faros.", "Anuario de mareas.", "Derrotero.", "Almanaque náutico."],
+    "answer": 2,
+    "explanation": "Derrotero: vientos y corrientes de la zona.",
+    "gva": {
+      "index": 903,
+      "sittings": ["2026-07"]
+    }
+  },
+  {
+    "id": "gva-0904",
+    "topic": "teoria",
+    "q": "¿A qué llamamos latitud?",
+    "options": [
+      "Al arco de meridiano comprendido entre el Ecuador y el paralelo del lugar.",
+      "Al arco de Ecuador comprendido entre los meridianos y el lugar.",
+      "Al arco de meridiano comprendido entre el meridiano de Greenwich y el del lugar.",
+      "Al arco de paralelo comprendido entre el meridiano de Greenwich y el del lugar."
+    ],
+    "answer": 0,
+    "explanation": "Latitud: arco de meridiano desde el Ecuador.",
+    "gva": {
+      "index": 904,
+      "sittings": ["2026-07"]
+    }
+  },
+  {
+    "id": "gva-0905",
+    "topic": "teoria",
+    "q": "En una carta náutica llamamos veril a la:",
+    "options": [
+      "Línea que une puntos de igual dm.",
+      "Línea que une puntos de igual desvío.",
+      "Línea que une puntos de igual profundidad.",
+      "Línea que une puntos de igual temperatura."
+    ],
+    "answer": 2,
+    "explanation": "Veril: igual profundidad.",
+    "gva": {
+      "index": 905,
+      "sittings": ["2026-07"]
+    }
+  },
+  {
+    "id": "gva-0906",
+    "topic": "teoria",
+    "q": "¿Quién emite y edita las cartas de navegación españolas?",
+    "options": [
+      "La Organización Marítima Internacional.",
+      "El Instituto Hidrográfico de la Marina.",
+      "La Dirección General de la Marina Mercante.",
+      "El Ministerio de Fomento."
+    ],
+    "answer": 1,
+    "explanation": "Las cartas españolas las edita el Instituto Hidrográfico de la Marina (Cádiz).",
+    "gva": {
+      "index": 906,
+      "sittings": ["2026-07"]
+    }
+  },
+  {
+    "id": "gva-0947",
+    "topic": "teoria",
+    "q": "La deriva es producida por:",
+    "options": ["El oleaje.", "La corriente.", "El viento.", "El magnetismo de la Tierra"],
+    "answer": 1,
+    "explanation": "La deriva la produce la corriente. El viento produce abatimiento.",
+    "gva": {
+      "index": 947,
+      "sittings": ["2026-10"]
+    }
+  },
+  {
+    "id": "gva-0948",
+    "topic": "teoria",
+    "q": "Una cuarta equivale a un arco de horizonte de:",
+    "options": ["11,25º", "11,5º", "12,25º", "22,5º"],
+    "answer": 0,
+    "explanation": "Una cuarta = 360/32 = 11,25º.",
+    "gva": {
+      "index": 948,
+      "sittings": ["2026-10"]
+    }
+  },
+  {
+    "id": "gva-0949",
+    "topic": "teoria",
+    "q": "Un minuto de arco medido en el Ecuador equivale a:",
+    "options": ["1258 m.", "1582 m.", "1825 m.", "Ninguna respuesta es correcta."],
+    "answer": 3,
+    "explanation": "Son 1852 m, que no aparece entre las opciones: «ninguna».",
+    "gva": {
+      "index": 949,
+      "sittings": ["2026-10"]
+    }
+  },
+  {
+    "id": "gva-0950",
+    "topic": "teoria",
+    "q": "En una carta náutica, cuando hablamos de un veril nos referimos a:",
+    "options": [
+      "Una línea que une puntos de igual profundidad.",
+      "Una línea que une puntos de igual declinación magnética.",
+      "Una línea que une puntos de igual desvío.",
+      "Una línea que une puntos de igual presión."
+    ],
+    "answer": 0,
+    "explanation": "Veril: igual profundidad.",
+    "gva": {
+      "index": 950,
+      "sittings": ["2026-10"]
+    }
+  },
+  {
+    "id": "gva-0951",
+    "topic": "teoria",
+    "q": "Si multiplicamos el coeficiente de corredera por la velocidad de corredera…",
+    "options": [
+      "Obtenemos la distancia real de corredera.",
+      "Obtenemos la velocidad real.",
+      "Obtenemos la declinación magnética.",
+      "Obtenemos la profundidad real de corredera."
+    ],
+    "answer": 1,
+    "explanation": "Coeficiente × velocidad de corredera = velocidad real.",
+    "gva": {
+      "index": 951,
+      "sittings": ["2026-10"]
+    }
+  }
+]

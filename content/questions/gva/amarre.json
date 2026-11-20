@@ -1,0 +1,550 @@
+[
+  {
+    "id": "gva-0004",
+    "topic": "amarre",
+    "q": "¿Cuál de los siguientes nudos tiene una gaza no corrediza?:",
+    "options": ["As de guía.", "Llano.", "Vuelta de rezón.", "Ballestrinque."],
+    "answer": 0,
+    "explanation": "As de guía: la gaza fija que no se corre.",
+    "gva": {
+      "index": 4,
+      "sittings": ["2019-11"]
+    }
+  },
+  {
+    "id": "gva-0005",
+    "topic": "amarre",
+    "q": "¿Cómo se denomina a la boya y el cabo usados para señalar la posición del ancla en el fondo?:",
+    "options": ["Capacete.", "Orinque.", "Marcador.", "Filador."],
+    "answer": 1,
+    "explanation": "Orinque: el cabo que une el ancla con un boyarín que marca dónde está.",
+    "gva": {
+      "index": 5,
+      "sittings": ["2019-11"]
+    }
+  },
+  {
+    "id": "gva-0049",
+    "topic": "amarre",
+    "q": "¿Cómo se llama al cabo que une y sujeta una boya a un ancla?:",
+    "options": ["Boza.", "Orinque.", "Rezón.", "Orza."],
+    "answer": 1,
+    "explanation": "Orinque: cabo del ancla a la boya.",
+    "gva": {
+      "index": 49,
+      "sittings": ["2021-04"]
+    }
+  },
+  {
+    "id": "gva-0050",
+    "topic": "amarre",
+    "q": "¿Qué nombre recibe la parte curva que forma un cabo entre sus extremos, cuando se trabaja con él?:",
+    "options": ["Firme.", "Seno.", "Roldana.", "Chicote."],
+    "answer": 1,
+    "explanation": "Seno: la parte curva entre los extremos. Chicote: el extremo. Firme: la parte que trabaja.",
+    "gva": {
+      "index": 50,
+      "sittings": ["2021-04"]
+    }
+  },
+  {
+    "id": "gva-0094",
+    "topic": "amarre",
+    "q": "¿Para qué se emplea el nudo as de guía?:",
+    "options": [
+      "Para obtener una gaza corrediza, con la que encapillar un noray.",
+      "Para obtener una gaza fija, con la que encapillar un noray.",
+      "Para unir dos cabos de igual mena.",
+      "Para unir dos cabos de diferente mena."
+    ],
+    "answer": 1,
+    "explanation": "As de guía: gaza fija, ideal para encapillar en un noray.",
+    "gva": {
+      "index": 94,
+      "sittings": ["2021-07"]
+    }
+  },
+  {
+    "id": "gva-0095",
+    "topic": "amarre",
+    "q": "¿Con qué nombre se conoce al bloque de material pesado, fondeado con una cadena y/o cabo que se coloca en el fondo del mar y que sirve para amarrar un buque, boya, baliza, pantalán, etc.?:",
+    "options": ["Noray.", "Muerto.", "Bolardo.", "Cornamusa."],
+    "answer": 1,
+    "explanation": "Muerto: bloque fondeado para amarrar boyas, balizas o pantalanes.",
+    "gva": {
+      "index": 95,
+      "sittings": ["2021-07"]
+    }
+  },
+  {
+    "id": "gva-0139",
+    "topic": "amarre",
+    "q": "¿Para encapillar un cabo a un noray utilizamos?:",
+    "options": ["Una boza.", "Un chicote.", "Una gaza.", "Un seno."],
+    "answer": 2,
+    "explanation": "Se encapilla con una gaza (por ejemplo, hecha con un as de guía).",
+    "gva": {
+      "index": 139,
+      "sittings": ["2021-06"]
+    }
+  },
+  {
+    "id": "gva-0140",
+    "topic": "amarre",
+    "q": "¿Decimos que un barco fondeado bornea cuándo?:",
+    "options": [
+      "Gira por causa del viento.",
+      "Arrastra la cadena sobre el fondo.",
+      "Se queda enganchada el ancla sobre el fondo.",
+      "El ancla fila por ojo, es decir cuando pierde el ancla quedando el barco a la deriva."
+    ],
+    "answer": 0,
+    "explanation": "Bornear: girar alrededor del ancla por el viento o la corriente. Arrastrarla es garrear.",
+    "gva": {
+      "index": 140,
+      "sittings": ["2021-06"]
+    }
+  },
+  {
+    "id": "gva-0183",
+    "topic": "amarre",
+    "q": "¿Al extremo de un cabo se le llama?:",
+    "options": ["Seno.", "Firme.", "Mena.", "Chicote."],
+    "answer": 3,
+    "explanation": "Chicote: el extremo del cabo.",
+    "gva": {
+      "index": 183,
+      "sittings": ["2021-11"]
+    }
+  },
+  {
+    "id": "gva-0184",
+    "topic": "amarre",
+    "q": "¿El cabo unido a una boya que amarramos al ancla que se va a fondear para que esta no se pierda se llama?:",
+    "options": ["Gaza.", "Chicote.", "Orinque.", "Escandallo."],
+    "answer": 2,
+    "explanation": "Orinque: cabo del ancla a la boya.",
+    "gva": {
+      "index": 184,
+      "sittings": ["2021-11"]
+    }
+  },
+  {
+    "id": "gva-0228",
+    "topic": "amarre",
+    "q": "El nudo utilizado para unir un cabo al arganeo del anclote o rezón es:",
+    "options": ["El nudo llano", "El ballestrinque", "El as de guía", "La vuelta de rezón"],
+    "answer": 3,
+    "explanation": "Vuelta de rezón: el nudo para hacer firme un cabo al arganeo.",
+    "gva": {
+      "index": 228,
+      "sittings": ["2022-12"]
+    }
+  },
+  {
+    "id": "gva-0229",
+    "topic": "amarre",
+    "q": "Cuando el ancla no se agarra en el fondo arrastrándose sobre él, se dice que:",
+    "options": ["Bornea", "Zozobra", "Ninguna respuesta es correcta", "Garrea"],
+    "answer": 3,
+    "explanation": "Garrear: el ancla no agarra y se arrastra.",
+    "gva": {
+      "index": 229,
+      "sittings": ["2022-12", "2024-11"]
+    }
+  },
+  {
+    "id": "gva-0273",
+    "topic": "amarre",
+    "q": "¿Cómo se llama a la pértiga que en su extremo tiene un gancho con el que podemos coger un cabo?:",
+    "options": ["Firme.", "Chicote.", "Bichero.", "Bita."],
+    "answer": 2,
+    "explanation": "Bichero: pértiga con gancho para coger cabos o boyas.",
+    "gva": {
+      "index": 273,
+      "sittings": ["2022-02"]
+    }
+  },
+  {
+    "id": "gva-0274",
+    "topic": "amarre",
+    "q": "Decimos que hay un buen TENEDERO cuando:",
+    "options": [
+      "El lugar es bueno para amarrar.",
+      "El pantalán es apropiado para dar una codera.",
+      "No hay puerto donde amarrar.",
+      "El fondo es bueno para fondear."
+    ],
+    "answer": 3,
+    "explanation": "Tenedero: la calidad del fondo para que agarre el ancla.",
+    "gva": {
+      "index": 274,
+      "sittings": ["2022-02"]
+    }
+  },
+  {
+    "id": "gva-0318",
+    "topic": "amarre",
+    "q": "El término bichero, se refiere a:",
+    "options": [
+      "La pieza terminada en T sobre la que descansa la botavara",
+      "Vara con herraje en un extremo usada para el amarre",
+      "Pieza de madera que se utiliza para amurar el spinnaker",
+      "Pieza de madera o metal que sale del casco horizontalmente"
+    ],
+    "answer": 1,
+    "explanation": "Bichero: vara con herraje para las maniobras de amarre.",
+    "gva": {
+      "index": 318,
+      "sittings": ["2022-06"]
+    }
+  },
+  {
+    "id": "gva-0319",
+    "topic": "amarre",
+    "q": "El cable o cadena que sujeta la boya o baliza al muerto se denomina:",
+    "options": ["Caña", "Orinque", "Uña", "Coz"],
+    "answer": 1,
+    "explanation": "En el examen, el cabo o la cadena entre la boya y el muerto también se llama orinque.",
+    "gva": {
+      "index": 319,
+      "sittings": ["2022-06"]
+    }
+  },
+  {
+    "id": "gva-0363",
+    "topic": "amarre",
+    "q": "El nudo que se utiliza para unir cabos de la misma mena es el:",
+    "options": ["As de guía", "Margarita", "Nudo llano", "Ballestrinque"],
+    "answer": 2,
+    "explanation": "Nudo llano: dos cabos de igual mena. Distinta mena: vuelta de escota.",
+    "gva": {
+      "index": 363,
+      "sittings": ["2023-04", "2024-11"]
+    }
+  },
+  {
+    "id": "gva-0364",
+    "topic": "amarre",
+    "q": "La rueda acanalada de un motón por donde corre un cabo se denomina:",
+    "options": ["Roldana.", "Bita.", "Escobén.", "Guardamancebo."],
+    "answer": 0,
+    "explanation": "Roldana: la rueda acanalada del motón.",
+    "gva": {
+      "index": 364,
+      "sittings": ["2023-04", "2024-09", "2026-04"]
+    }
+  },
+  {
+    "id": "gva-0408",
+    "topic": "amarre",
+    "q": "El nudo que se hace en el chicote de un cabo formando una gaza, para encapillarlo en el noray es el:",
+    "options": ["Nudo llano", "Margarita", "As de guía", "Ballestrinque"],
+    "answer": 2,
+    "explanation": "As de guía: gaza fija para encapillar en el noray.",
+    "gva": {
+      "index": 408,
+      "sittings": ["2023-02"]
+    }
+  },
+  {
+    "id": "gva-0409",
+    "topic": "amarre",
+    "q": "A la acción de subir el ancla a bordo, virando de la cadena, cabo o cable se conoce como:",
+    "options": ["Filar", "Levar", "Arriar", "Lascar"],
+    "answer": 1,
+    "explanation": "Levar: subir el ancla. Filar: dar cadena. Arriar: bajar.",
+    "gva": {
+      "index": 409,
+      "sittings": ["2023-02"]
+    }
+  },
+  {
+    "id": "gva-0451",
+    "topic": "amarre",
+    "q": "Para amarrar una defensa a una barandilla el nudo más indicado es el:",
+    "options": ["Llano", "Margarita", "Ballestrinque", "As de guía"],
+    "answer": 2,
+    "explanation": "Ballestrinque: rápido para defensas en el guardamancebos o la barandilla.",
+    "gva": {
+      "index": 451,
+      "sittings": ["2023-07"]
+    }
+  },
+  {
+    "id": "gva-0452",
+    "topic": "amarre",
+    "q": "La definición de chicote es:",
+    "options": [
+      "Vuelta pequeña que toma un cabo al extenderlo por vicio o torsión",
+      "Cada una de las vueltas circulares que se dan al recoger ordenadamente un cabo sobre la cubierta",
+      "Cabo de mena muy fina",
+      "Cualquiera de los dos extremos de un cabo"
+    ],
+    "answer": 3,
+    "explanation": "Chicote: cualquiera de los dos extremos.",
+    "gva": {
+      "index": 452,
+      "sittings": ["2023-07"]
+    }
+  },
+  {
+    "id": "gva-0496",
+    "topic": "amarre",
+    "q": "El nudo llano se emplea para:",
+    "options": [
+      "Unir dos cabos de menas muy distintas",
+      "Encapillar en el noray",
+      "Unir los chicotes de dos cabos de la misma mena",
+      "Amarrar una defensa a una barandilla"
+    ],
+    "answer": 2,
+    "explanation": "Nudo llano: dos chicotes de la misma mena.",
+    "gva": {
+      "index": 496,
+      "sittings": ["2023-11"]
+    }
+  },
+  {
+    "id": "gva-0497",
+    "topic": "amarre",
+    "q": "Subir el ancla a bordo virando del cabo o cadena se conoce como:",
+    "options": ["Arriar", "Levar", "Filar", "Las respuestas a, b y c son ciertas"],
+    "answer": 1,
+    "explanation": "Levar.",
+    "gva": {
+      "index": 497,
+      "sittings": ["2023-11", "2025-06"]
+    }
+  },
+  {
+    "id": "gva-0541",
+    "topic": "amarre",
+    "q": "Para amarrar el chicote de un cabo al arganeo del ancla, el nudo más indicado es el:",
+    "options": ["Vuelta de rezón", "Margarita", "Ballestrinque", "Nudo llano"],
+    "answer": 0,
+    "explanation": "Vuelta de rezón al arganeo.",
+    "gva": {
+      "index": 541,
+      "sittings": ["2023-09"]
+    }
+  },
+  {
+    "id": "gva-0542",
+    "topic": "amarre",
+    "q": "Para preservar la seguridad en un fondeo ¿Cuál o cuáles de las siguientes medidas son correctas?",
+    "options": ["Tomar marcaciones", "Tomar distancias", "Tomar enfilaciones", "Todas son ciertas"],
+    "answer": 3,
+    "explanation": "Para vigilar el fondeo se toman marcaciones, distancias y enfilaciones: todas.",
+    "gva": {
+      "index": 542,
+      "sittings": ["2023-09"]
+    }
+  },
+  {
+    "id": "gva-0586",
+    "topic": "amarre",
+    "q": "La rueda acanalada de un motón o polea por donde corre un cabo, se denomina:",
+    "options": ["Roldana", "Pasteca", "Guía cabos", "Bita"],
+    "answer": 0,
+    "explanation": "Roldana.",
+    "gva": {
+      "index": 586,
+      "sittings": ["2024-04"]
+    }
+  },
+  {
+    "id": "gva-0587",
+    "topic": "amarre",
+    "q": "La siguiente ilustración es un elemento encontrado a bordo de una embarcación. ¿Qué nombre recibe este elemento?",
+    "options": ["Cornamusa", "Bita", "Noray", "Argolla"],
+    "answer": 0,
+    "explanation": "Cornamusa: pieza con dos cuernos para hacer firme un cabo.",
+    "gva": {
+      "index": 587,
+      "sittings": ["2024-04"],
+      "image": "img/gva-0587.jpg"
+    }
+  },
+  {
+    "id": "gva-0631",
+    "topic": "amarre",
+    "q": "El término bichero se refiere a:",
+    "options": [
+      "La parte del cabo que se utiliza para amarrar",
+      "Una pieza estructural del casco",
+      "Una vara con herraje en el extremo que se usa en las maniobras de amarrar",
+      "Una herramienta manual que se usa para exterminar insectos"
+    ],
+    "answer": 2,
+    "explanation": "Bichero: vara con herraje para amarrar.",
+    "gva": {
+      "index": 631,
+      "sittings": ["2024-02", "2024-09"]
+    }
+  },
+  {
+    "id": "gva-0632",
+    "topic": "amarre",
+    "q": "¿Qué nombre reciben los bloques de hormigón, piedra, etc., afirmados en el fondo marino, donde se sujetan las boyas mediante cabos o cadenas?",
+    "options": ["Pesos", "Lastres", "Muertos", "Marcas"],
+    "answer": 2,
+    "explanation": "Muertos.",
+    "gva": {
+      "index": 632,
+      "sittings": ["2024-02"]
+    }
+  },
+  {
+    "id": "gva-0676",
+    "topic": "amarre",
+    "q": "El nudo que normalmente se usa para unir dos cabos de la misma mena es conocido como:",
+    "options": ["Ballestrinque", "Vuelta de rezón", "Nudo llano", "As de guía"],
+    "answer": 2,
+    "explanation": "Nudo llano.",
+    "gva": {
+      "index": 676,
+      "sittings": ["2024-06", "2025-04"]
+    }
+  },
+  {
+    "id": "gva-0677",
+    "topic": "amarre",
+    "q": "El giro que hace el barco alrededor del ancla una vez fondeados, se denomina:",
+    "options": ["Virar", "Escorar", "Garrear", "Bornear"],
+    "answer": 3,
+    "explanation": "Bornear: el giro alrededor del ancla.",
+    "gva": {
+      "index": 677,
+      "sittings": ["2024-06"]
+    }
+  },
+  {
+    "id": "gva-0750",
+    "topic": "amarre",
+    "q": "El nudo que habitualmente utilizamos para unir la línea de fondeo al arganeo del ancla se conoce como:",
+    "options": ["Vuelta de rezón", "Nudo llano", "Ballestrinque", "As de guía"],
+    "answer": 0,
+    "explanation": "Vuelta de rezón.",
+    "gva": {
+      "index": 750,
+      "sittings": ["2025-04"]
+    }
+  },
+  {
+    "id": "gva-0775",
+    "topic": "amarre",
+    "q": "Para amarrar el chicote de un cabo al arganeo del ancla, el nudo más adecuado es el:",
+    "options": ["Nudo llano", "Margarita", "Ballestrinque", "Vuelta de rezón"],
+    "answer": 3,
+    "explanation": "Vuelta de rezón.",
+    "gva": {
+      "index": 775,
+      "sittings": ["2025-06"]
+    }
+  },
+  {
+    "id": "gva-0796",
+    "topic": "amarre",
+    "q": "La rueda acanalada de una polea por donde corre un cabo se denomina:",
+    "options": ["Pasteca", "Motón", "Roldana", "Simple"],
+    "answer": 2,
+    "explanation": "Roldana. Pasteca y motón son tipos de polea; la roldana es su rueda.",
+    "gva": {
+      "index": 796,
+      "sittings": ["2025-09"]
+    }
+  },
+  {
+    "id": "gva-0797",
+    "topic": "amarre",
+    "q": "¿Qué nudo sería el más adecuado para sustituir a una gaza?",
+    "options": ["Vuelta de rezón", "Llano", "As de guía", "Pescador"],
+    "answer": 2,
+    "explanation": "As de guía: hace una gaza fija sin coser.",
+    "gva": {
+      "index": 797,
+      "sittings": ["2025-09"]
+    }
+  },
+  {
+    "id": "gva-0838",
+    "topic": "amarre",
+    "q": "Al virar un largo de proa se producen los siguientes efectos:",
+    "options": [
+      "Se acerca la proa al muelle, se aleja la popa de éste y se traslada la embarcación hacia proa.",
+      "Se acerca la popa al muelle, se aleja la proa de éste y se traslada la embarcación hacia popa.",
+      "Se acercan la proa y la popa paralelamente al muelle.",
+      "Se acerca la proa al muelle, se aleja la popa de éste y se traslada la embarcación hacia popa."
+    ],
+    "answer": 0,
+    "explanation": "Virar el largo de proa tira de la proa hacia el muelle y hacia proa; la popa se abre.",
+    "gva": {
+      "index": 838,
+      "sittings": ["2026-04"]
+    }
+  },
+  {
+    "id": "gva-0870",
+    "topic": "amarre",
+    "q": "En un buque partiendo del reposo, el efecto de la presión lateral de las palas de una hélice levógira en marcha atrás:",
+    "options": [
+      "Hace que la proa caiga a estribor.",
+      "Hace que la popa caiga a babor.",
+      "Hace que la proa caiga a babor.",
+      "No influye en la maniobra."
+    ],
+    "answer": 2,
+    "explanation": "Levógira atrás gira a la derecha: la popa cae a estribor y la proa a babor.",
+    "gva": {
+      "index": 870,
+      "sittings": ["2026-07"]
+    }
+  },
+  {
+    "id": "gva-0871",
+    "topic": "amarre",
+    "q": "¿Cómo se debe hacer la maniobra de aproximación para amarrar a una boya en una playa?",
+    "options": [
+      "Poniendo proa a la boya y al viento.",
+      "Llevar el viento por la popa y fondear el ancla por babor.",
+      "Rebasar la boya, fondear y dar atrás.",
+      "Llegar con poca arrancada y dar un cabo por la popa."
+    ],
+    "answer": 0,
+    "explanation": "A la boya se llega proa al viento (y a la corriente), con poca arrancada.",
+    "gva": {
+      "index": 871,
+      "sittings": ["2026-07"]
+    }
+  },
+  {
+    "id": "gva-0915",
+    "topic": "amarre",
+    "q": "Normalmente con buen tiempo la longitud de cadena que debe emplearse para fondear será de:",
+    "options": [
+      "Toda la cadena posible.",
+      "De dos a tres veces el calado de la embarcación.",
+      "Tres a cuatro veces la eslora.",
+      "Tres a cuatro veces la profundidad del lugar."
+    ],
+    "answer": 3,
+    "explanation": "Con buen tiempo, 3 a 4 veces la profundidad; con mal tiempo, más (5 o más).",
+    "gva": {
+      "index": 915,
+      "sittings": ["2026-10"]
+    }
+  },
+  {
+    "id": "gva-0916",
+    "topic": "amarre",
+    "q": "Los bloques de piedra, hierro u hormigón que se colocan en el fondo marino y sirven para asegurar el amarre de una embarcación en un puerto o fondeadero, se denominan:",
+    "options": ["Orinques.", "Potalas.", "Candeleros.", "Noráis."],
+    "answer": 1,
+    "explanation": "Potalas (o muertos): bloques pesados en el fondo para amarrar.",
+    "gva": {
+      "index": 916,
+      "sittings": ["2026-10"]
+    }
+  }
+]

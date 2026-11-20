@@ -1,0 +1,753 @@
+[
+  {
+    "id": "g-0034",
+    "topic": "baliz",
+    "q": "En la región A, al entrar en puerto, las marcas rojas se dejan por…",
+    "options": ["Estribor", "Babor", "Cualquier banda", "Popa"],
+    "answer": 1,
+    "explanation": "Entrando: rojo a babor."
+  },
+  {
+    "id": "g-0035",
+    "topic": "baliz",
+    "q": "Al salir del puerto, una boya con luz roja se debe dejar por…",
+    "options": ["Babor", "Estribor", "Cualquier costado", "Babor si somos de vela"],
+    "answer": 1,
+    "explanation": "Saliendo todo se invierte."
+  },
+  {
+    "id": "g-0036",
+    "topic": "baliz",
+    "q": "La marca de tope de una marca lateral de estribor (región A) es…",
+    "options": [
+      "Un cilindro rojo",
+      "Un cono verde con el vértice hacia arriba",
+      "Un cono verde con el vértice hacia abajo",
+      "Dos esferas negras"
+    ],
+    "answer": 1,
+    "explanation": "Cono verde, vértice arriba."
+  },
+  {
+    "id": "g-0037",
+    "topic": "baliz",
+    "q": "La marca de tope de una cardinal Oeste es…",
+    "options": [
+      "Dos conos con los vértices hacia arriba",
+      "Dos conos opuestos por las bases",
+      "Dos conos unidos por los vértices",
+      "Dos conos con los vértices hacia abajo"
+    ],
+    "answer": 2,
+    "explanation": "Unidos por los vértices, en forma de copa."
+  },
+  {
+    "id": "g-0038",
+    "topic": "baliz",
+    "q": "La luz de una marca cardinal Este es…",
+    "options": ["Q(6)+LFl cada 15 s", "Q(3) cada 10 s", "Q(9) cada 15 s", "Q continua"],
+    "answer": 1,
+    "explanation": "E = 3 destellos, como las 3 del reloj."
+  },
+  {
+    "id": "g-0039",
+    "topic": "baliz",
+    "q": "En la mar, una luz blanca de centelleos rápidos continuos indica…",
+    "options": [
+      "El cuadrante norte de un peligro",
+      "Aguas navegables",
+      "Un peligro aislado",
+      "Una marca especial"
+    ],
+    "answer": 0,
+    "explanation": "Q o VQ continua es cardinal Norte."
+  },
+  {
+    "id": "g-0040",
+    "topic": "baliz",
+    "q": "Una boya negra con franjas rojas horizontales y dos esferas negras indica…",
+    "options": ["Peligro nuevo", "Peligro aislado", "Aguas navegables", "Cardinal Este"],
+    "answer": 1,
+    "explanation": "Peligro aislado, con luz blanca Fl(2)."
+  },
+  {
+    "id": "g-0041",
+    "topic": "baliz",
+    "q": "La luz de las marcas de aguas navegables es de color…",
+    "options": ["Blanco", "Verde", "Amarillo", "Rojo"],
+    "answer": 0,
+    "explanation": "Blanca: Iso, Oc, LFl 10 s o Mo(A)."
+  },
+  {
+    "id": "g-0042",
+    "topic": "baliz",
+    "q": "Una marca amarilla con aspa amarilla de tope es una marca…",
+    "options": ["Cardinal", "Especial", "De peligro nuevo", "De aguas navegables"],
+    "answer": 1,
+    "explanation": "Especial, con luz amarilla."
+  },
+  {
+    "id": "g-0043",
+    "topic": "baliz",
+    "q": "La marca de tope de la marca que indica canal principal a estribor (región A) es…",
+    "options": ["Cono verde vértice arriba", "Cilindro verde", "Cilindro rojo", "Cono rojo vértice arriba"],
+    "answer": 2,
+    "explanation": "Es una marca de babor modificada: roja con franja verde y cilindro rojo."
+  },
+  {
+    "id": "g-0044",
+    "topic": "baliz",
+    "q": "El peligro nuevo se balizará con…",
+    "options": [
+      "Franjas verticales azules y amarillas y luz alternativa azul/amarilla",
+      "Una boya roja y blanca",
+      "Una esfera roja",
+      "Luz blanca Fl(2)"
+    ],
+    "answer": 0,
+    "explanation": "Además se duplica una de las marcas."
+  },
+  {
+    "id": "g-0045",
+    "topic": "baliz",
+    "q": "Para librar un peligro balizado con una cardinal Sur se navegará…",
+    "options": ["Por el norte de la marca", "Por el sur de la marca", "Por el este", "Por el oeste"],
+    "answer": 1,
+    "explanation": "La cardinal Sur está al sur del peligro, así que se pasa por el sur."
+  },
+  {
+    "id": "g-0046",
+    "topic": "baliz",
+    "q": "Pertenece a la región B de balizamiento…",
+    "options": ["Europa", "América", "África", "Australia"],
+    "answer": 1,
+    "explanation": "América, Japón, Corea y Filipinas."
+  },
+  {
+    "id": "g-0164",
+    "topic": "baliz",
+    "q": "La luz de una cardinal Sur es…",
+    "options": ["Q(3) 10 s", "Q(6) + LFl 15 s", "Q(9) 15 s", "Q continua"],
+    "answer": 1,
+    "explanation": "Seis centelleos más un destello largo."
+  },
+  {
+    "id": "g-0165",
+    "topic": "baliz",
+    "q": "La luz de una cardinal Oeste es…",
+    "options": ["Q(9) 15 s", "Q(6)+LFl 15 s", "Q(3) 10 s", "Fl(2)"],
+    "answer": 0,
+    "explanation": "Las 9 del reloj."
+  },
+  {
+    "id": "g-0166",
+    "topic": "baliz",
+    "q": "La marca de tope de una cardinal Norte son dos conos…",
+    "options": [
+      "Con los vértices hacia abajo",
+      "Con los vértices hacia arriba",
+      "Unidos por los vértices",
+      "Unidos por las bases"
+    ],
+    "answer": 1,
+    "explanation": "Conos arriba: N."
+  },
+  {
+    "id": "g-0167",
+    "topic": "baliz",
+    "q": "La marca de tope de un peligro aislado es…",
+    "options": ["Una esfera roja", "Dos esferas negras", "Un aspa amarilla", "Dos conos"],
+    "answer": 1,
+    "explanation": "Dos esferas negras superpuestas."
+  },
+  {
+    "id": "g-0168",
+    "topic": "baliz",
+    "q": "La marca de tope de una marca de aguas navegables es…",
+    "options": ["Una esfera roja", "Dos esferas negras", "Un cilindro rojo", "Ninguna"],
+    "answer": 0,
+    "explanation": "Una esfera roja; franjas verticales rojas y blancas."
+  },
+  {
+    "id": "g-0169",
+    "topic": "baliz",
+    "q": "La luz de una marca de peligro aislado es…",
+    "options": ["Blanca Fl(2)", "Roja Fl", "Amarilla", "Verde Q"],
+    "answer": 0,
+    "explanation": "Blanca, grupo de 2 destellos."
+  },
+  {
+    "id": "g-0170",
+    "topic": "baliz",
+    "q": "El color de la luz de una marca especial es…",
+    "options": ["Blanco", "Rojo", "Amarillo", "Azul"],
+    "answer": 2,
+    "explanation": "Amarilla, cualquier ritmo distinto a los de las blancas."
+  },
+  {
+    "id": "g-0171",
+    "topic": "baliz",
+    "q": "Una luz de destellos en la que la duración de la luz es menor que la de la oscuridad es de…",
+    "options": ["Ocultaciones", "Destellos", "Isofase", "Fija"],
+    "answer": 1,
+    "explanation": "Fl. Oc es al revés."
+  },
+  {
+    "id": "g-0172",
+    "topic": "baliz",
+    "q": "Una luz isofase es aquella en la que…",
+    "options": [
+      "La luz es más larga que la oscuridad",
+      "Luz y oscuridad duran lo mismo",
+      "Hay dos colores",
+      "Es fija"
+    ],
+    "answer": 1,
+    "explanation": "Iso."
+  },
+  {
+    "id": "g-0173",
+    "topic": "baliz",
+    "q": "El periodo de una luz es…",
+    "options": ["Su alcance", "El tiempo de un ciclo completo", "El color", "La altura del foco"],
+    "answer": 1,
+    "explanation": "Lo que tarda en repetirse."
+  },
+  {
+    "id": "g-0174",
+    "topic": "baliz",
+    "q": "Una luz centelleante rápida (VQ) emite…",
+    "options": ["50–60 destellos/min", "100–120 destellos/min", "30 destellos/min", "Un destello cada 10 s"],
+    "answer": 1,
+    "explanation": "Q: 50–60; VQ: 100–120."
+  },
+  {
+    "id": "g-0175",
+    "topic": "baliz",
+    "q": "El sentido convencional del balizamiento es el que sigue un barco que…",
+    "options": [
+      "Sale de puerto",
+      "Entra en puerto viniendo de la mar",
+      "Navega hacia el norte",
+      "Navega hacia el este"
+    ],
+    "answer": 1,
+    "explanation": "Entrando desde la mar."
+  },
+  {
+    "id": "g-0176",
+    "topic": "baliz",
+    "q": "Una marca roja con una franja horizontal verde (región A) indica…",
+    "options": ["Canal principal a babor", "Canal principal a estribor", "Peligro aislado", "Peligro nuevo"],
+    "answer": 1,
+    "explanation": "Es una lateral de babor modificada: el canal preferido sigue a estribor."
+  },
+  {
+    "id": "g-0177",
+    "topic": "baliz",
+    "q": "Una marca cardinal Este tiene franjas…",
+    "options": [
+      "Negro sobre amarillo",
+      "Amarillo sobre negro",
+      "Negra con franja amarilla horizontal",
+      "Amarilla con franja negra horizontal"
+    ],
+    "answer": 2,
+    "explanation": "Negro-amarillo-negro (conos base con base)."
+  },
+  {
+    "id": "g-0178",
+    "topic": "baliz",
+    "q": "La luz de una marca de aguas navegables puede ser…",
+    "options": ["Q(3)", "Iso, Oc, LFl 10 s o Mo(A)", "Fl(2) roja", "Q(6)+LFl"],
+    "answer": 1,
+    "explanation": "Siempre blanca, con ritmos «tranquilos»."
+  },
+  {
+    "id": "g-0179",
+    "topic": "baliz",
+    "q": "El racón de una marca de peligro nuevo emite la letra Morse…",
+    "options": ["A", "D", "N", "K"],
+    "answer": 1,
+    "explanation": "D (— · ·)."
+  },
+  {
+    "id": "g-0332",
+    "topic": "baliz",
+    "q": "En la región A, una marca lateral de babor es de color…",
+    "options": ["Verde", "Rojo", "Amarillo", "Negro"],
+    "answer": 1,
+    "explanation": "Babor rojo, estribor verde."
+  },
+  {
+    "id": "g-0333",
+    "topic": "baliz",
+    "q": "La luz de una marca lateral de estribor es…",
+    "options": ["Roja", "Verde", "Blanca", "Amarilla"],
+    "answer": 1,
+    "explanation": "Verde, cualquier ritmo excepto Fl(2+1)."
+  },
+  {
+    "id": "g-0334",
+    "topic": "baliz",
+    "q": "La marca de tope de una marca lateral de babor es…",
+    "options": ["Un cono", "Un cilindro rojo", "Una esfera", "Un aspa"],
+    "answer": 1,
+    "explanation": "Cilindro rojo."
+  },
+  {
+    "id": "g-0335",
+    "topic": "baliz",
+    "q": "En la región B, entrando en puerto, la marca roja se deja por…",
+    "options": ["Babor", "Estribor", "Cualquier banda", "Popa"],
+    "answer": 1,
+    "explanation": "Región B (América): al revés que la A."
+  },
+  {
+    "id": "g-0336",
+    "topic": "baliz",
+    "q": "Una cardinal Norte se pinta…",
+    "options": [
+      "Amarillo sobre negro",
+      "Negro sobre amarillo",
+      "Negro con franja amarilla",
+      "Amarilla con franja negra"
+    ],
+    "answer": 1,
+    "explanation": "Conos arriba, negro arriba."
+  },
+  {
+    "id": "g-0337",
+    "topic": "baliz",
+    "q": "La marca de tope de una cardinal Sur son dos conos…",
+    "options": [
+      "Con los vértices hacia arriba",
+      "Con los vértices hacia abajo",
+      "Unidos por las bases",
+      "Unidos por los vértices"
+    ],
+    "answer": 1,
+    "explanation": "Conos abajo, negro abajo."
+  },
+  {
+    "id": "g-0338",
+    "topic": "baliz",
+    "q": "Una cardinal Oeste se pinta…",
+    "options": [
+      "Negra con franja amarilla",
+      "Amarilla con franja negra horizontal",
+      "Negro sobre amarillo",
+      "Amarillo sobre negro"
+    ],
+    "answer": 1,
+    "explanation": "Amarillo-negro-amarillo."
+  },
+  {
+    "id": "g-0339",
+    "topic": "baliz",
+    "q": "La luz centelleante rápida de una cardinal Este es…",
+    "options": ["VQ(3) 5 s", "VQ(6)+LFl 10 s", "VQ(9) 10 s", "VQ continua"],
+    "answer": 0,
+    "explanation": "Equivale a Q(3) 10 s."
+  },
+  {
+    "id": "g-0340",
+    "topic": "baliz",
+    "q": "Si ves una cardinal Este, debes pasar…",
+    "options": ["Por su oeste", "Por su este", "Por su norte", "Por cualquier lado"],
+    "answer": 1,
+    "explanation": "La cardinal te dice por dónde pasar."
+  },
+  {
+    "id": "g-0341",
+    "topic": "baliz",
+    "q": "Una boya con franjas verticales rojas y blancas indica…",
+    "options": ["Peligro aislado", "Aguas navegables", "Marca especial", "Lateral de babor"],
+    "answer": 1,
+    "explanation": "Recalada o centro de canal."
+  },
+  {
+    "id": "g-0342",
+    "topic": "baliz",
+    "q": "La luz de una marca de peligro aislado es de color…",
+    "options": ["Rojo", "Blanco", "Verde", "Amarillo"],
+    "answer": 1,
+    "explanation": "Fl(2) blanca."
+  },
+  {
+    "id": "g-0343",
+    "topic": "baliz",
+    "q": "Las marcas especiales pueden señalar…",
+    "options": [
+      "Un canal principal",
+      "Zonas de baño, cables, emisarios o ejercicios",
+      "Un pecio nuevo",
+      "El norte de un peligro"
+    ],
+    "answer": 1,
+    "explanation": "Consulta la carta."
+  },
+  {
+    "id": "g-0344",
+    "topic": "baliz",
+    "q": "Una luz de ocultaciones (Oc) es aquella en que…",
+    "options": [
+      "La luz dura menos que la oscuridad",
+      "La luz dura más que la oscuridad",
+      "Ambas duran igual",
+      "Cambia de color"
+    ],
+    "answer": 1,
+    "explanation": "Lo contrario que los destellos."
+  },
+  {
+    "id": "g-0345",
+    "topic": "baliz",
+    "q": "Un destello largo (LFl) dura al menos…",
+    "options": ["0,5 s", "2 s", "5 s", "10 s"],
+    "answer": 1,
+    "explanation": "≥ 2 s."
+  },
+  {
+    "id": "g-0346",
+    "topic": "baliz",
+    "q": "La característica «Fl(3) W 10s» indica…",
+    "options": [
+      "3 destellos blancos cada 10 s",
+      "Luz fija blanca de 10 s",
+      "3 ocultaciones verdes",
+      "10 destellos cada 3 s"
+    ],
+    "answer": 0,
+    "explanation": "Grupo de 3 destellos blancos, periodo 10 s."
+  },
+  {
+    "id": "g-0347",
+    "topic": "baliz",
+    "q": "Una marca de peligro nuevo puede duplicarse y además llevar…",
+    "options": ["Una bandera", "Un racón con la letra D", "Un cilindro rojo", "Una luz fija"],
+    "answer": 1,
+    "explanation": "Racón Morse D."
+  },
+  {
+    "id": "g-0674",
+    "topic": "baliz",
+    "q": "¿Cuántos tipos de marcas establece el sistema IALA/AISM?",
+    "options": ["4", "5", "6", "8"],
+    "answer": 2,
+    "explanation": "Laterales, cardinales, peligro aislado, aguas navegables, especiales y peligro nuevo."
+  },
+  {
+    "id": "g-0675",
+    "topic": "baliz",
+    "q": "¿Cuál de estos NO forma parte del sistema de balizamiento IALA?",
+    "options": ["Una marca cardinal", "Un faro", "Una marca especial", "Una boya de peligro nuevo"],
+    "answer": 1,
+    "explanation": "Quedan fuera faros, luces de sector, enfilaciones, buques faro y grandes boyas."
+  },
+  {
+    "id": "g-0676",
+    "topic": "baliz",
+    "q": "De noche, una marca se identifica por…",
+    "options": ["Su forma", "El color y el ritmo de su luz", "Su tope", "Su número"],
+    "answer": 1,
+    "explanation": "De día, por la forma y el color de la marca y del tope."
+  },
+  {
+    "id": "g-0677",
+    "topic": "baliz",
+    "q": "La forma de una marca lateral de babor, si no es castillete o espeque, es…",
+    "options": ["Cónica", "Cilíndrica", "Esférica", "En aspa"],
+    "answer": 1,
+    "explanation": "La de estribor, cónica."
+  },
+  {
+    "id": "g-0678",
+    "topic": "baliz",
+    "q": "El ritmo que NO puede usar una marca lateral normal es…",
+    "options": ["Fl", "Oc", "Fl(2+1)", "Q"],
+    "answer": 2,
+    "explanation": "El 2+1 está reservado para la bifurcación."
+  },
+  {
+    "id": "g-0679",
+    "topic": "baliz",
+    "q": "Las marcas laterales de un canal se numeran…",
+    "options": [
+      "Desde tierra",
+      "Desde la mar: pares las rojas e impares las verdes",
+      "Pares las verdes e impares las rojas",
+      "Al azar"
+    ],
+    "answer": 1,
+    "explanation": "Siguiendo el sentido convencional del balizamiento."
+  },
+  {
+    "id": "g-0680",
+    "topic": "baliz",
+    "q": "Las luces laterales que destellan todas a la vez son…",
+    "options": ["Secuenciales", "Sincronizadas", "Alternativas", "Isofase"],
+    "answer": 1,
+    "explanation": "Las que destellan una tras otra son secuenciales."
+  },
+  {
+    "id": "g-0681",
+    "topic": "baliz",
+    "q": "Si no hay otra indicación, el sentido convencional del balizamiento sigue las costas…",
+    "options": [
+      "En sentido contrario a las agujas del reloj",
+      "En el sentido de las agujas del reloj",
+      "De norte a sur",
+      "De este a oeste"
+    ],
+    "answer": 1,
+    "explanation": "Y en general, el del barco que viene de alta mar hacia puerto."
+  },
+  {
+    "id": "g-0682",
+    "topic": "baliz",
+    "q": "Una marca roja con una franja verde horizontal indica…",
+    "options": [
+      "Canal principal a babor",
+      "Canal principal a estribor",
+      "Peligro aislado",
+      "Aguas navegables"
+    ],
+    "answer": 1,
+    "explanation": "Se deja por babor (entrando) y su luz es roja Fl(2+1)."
+  },
+  {
+    "id": "g-0683",
+    "topic": "baliz",
+    "q": "Entrando, una marca verde con franja roja y tope cónico verde se deja…",
+    "options": ["Por babor", "Por estribor", "Por cualquier banda", "No se pasa"],
+    "answer": 1,
+    "explanation": "Canal principal a babor; luz verde Fl(2+1)."
+  },
+  {
+    "id": "g-0684",
+    "topic": "baliz",
+    "q": "El color de la franja central de una marca de bifurcación indica…",
+    "options": [
+      "La profundidad",
+      "Por dónde está el canal principal",
+      "La distancia al puerto",
+      "El tipo de fondo"
+    ],
+    "answer": 1,
+    "explanation": "El color dominante y el tope dicen por dónde se deja."
+  },
+  {
+    "id": "g-0685",
+    "topic": "baliz",
+    "q": "Los cuadrantes de las marcas cardinales se limitan por las demoras verdaderas…",
+    "options": ["N, E, S y W", "NW-NE, NE-SE, SE-SW y SW-NW", "NNE, ESE, SSW y WNW", "Las magnéticas"],
+    "answer": 1,
+    "explanation": "Tomadas desde el punto que interesa balizar."
+  },
+  {
+    "id": "g-0686",
+    "topic": "baliz",
+    "q": "La marca cardinal Oeste está en el cuadrante…",
+    "options": ["NE-SE", "SE-SW", "SW-NW", "NW-NE"],
+    "answer": 2,
+    "explanation": "Y se pasa por el oeste."
+  },
+  {
+    "id": "g-0687",
+    "topic": "baliz",
+    "q": "Una marca cardinal Sur se pasa…",
+    "options": ["Por su norte", "Por su sur", "Por su este", "Por cualquier lado"],
+    "answer": 1,
+    "explanation": "Las aguas profundas están en el cuadrante SE-SW."
+  },
+  {
+    "id": "g-0688",
+    "topic": "baliz",
+    "q": "Las marcas cardinales…",
+    "options": [
+      "Solo existen en la región A",
+      "Son iguales en las regiones A y B",
+      "Cambian de color en la región B",
+      "No llevan luz"
+    ],
+    "answer": 1,
+    "explanation": "Solo las laterales cambian entre regiones."
+  },
+  {
+    "id": "g-0689",
+    "topic": "baliz",
+    "q": "Las marcas cardinales están pintadas con…",
+    "options": [
+      "Franjas verticales negras y amarillas",
+      "Bandas horizontales amarillas y negras",
+      "Franjas rojas y blancas",
+      "Amarillo y azul"
+    ],
+    "answer": 1,
+    "explanation": "Y suelen ser de castillete o espeque."
+  },
+  {
+    "id": "g-0690",
+    "topic": "baliz",
+    "q": "La característica diurna más importante de una marca cardinal es…",
+    "options": ["Su color", "Su marca de tope de dos conos", "Su forma", "Su número"],
+    "answer": 1,
+    "explanation": "Lo más grande posible y con los conos bien separados."
+  },
+  {
+    "id": "g-0691",
+    "topic": "baliz",
+    "q": "El periodo de la luz de una cardinal Este es de…",
+    "options": ["5 o 10 s", "10 o 15 s", "15 s siempre", "2 s"],
+    "answer": 0,
+    "explanation": "La Sur y la Oeste, 10 o 15 s."
+  },
+  {
+    "id": "g-0692",
+    "topic": "baliz",
+    "q": "La regla para recordar las luces cardinales se asocia a…",
+    "options": [
+      "Los puntos cardinales al revés",
+      "La esfera de un reloj",
+      "Las letras Morse",
+      "Los días de la semana"
+    ],
+    "answer": 1,
+    "explanation": "N las 12 (continua), E las 3, S las 6, W las 9."
+  },
+  {
+    "id": "g-0693",
+    "topic": "baliz",
+    "q": "Una marca de peligro aislado se pasa preferiblemente…",
+    "options": ["Por barlovento", "Por sotavento, a distancia prudente", "Pegado a ella", "Por el norte"],
+    "answer": 1,
+    "explanation": "Sobre todo con mal tiempo."
+  },
+  {
+    "id": "g-0694",
+    "topic": "baliz",
+    "q": "La marca de aguas navegables tiene…",
+    "options": [
+      "Franjas horizontales negras y rojas",
+      "Franjas verticales rojas y blancas y una esfera roja",
+      "Bandas amarillas y negras",
+      "Una cruz amarilla"
+    ],
+    "answer": 1,
+    "explanation": "Puede ser esférica, castillete o espeque."
+  },
+  {
+    "id": "g-0695",
+    "topic": "baliz",
+    "q": "¿Cuál de estas luces NO corresponde a una marca de aguas navegables?",
+    "options": ["Isofase", "Ocultaciones", "Morse «A»", "Grupos de 2 destellos"],
+    "answer": 3,
+    "explanation": "Los grupos de 2 destellos son de peligro aislado."
+  },
+  {
+    "id": "g-0696",
+    "topic": "baliz",
+    "q": "Una marca de aguas navegables puede indicar…",
+    "options": [
+      "Un peligro aislado",
+      "El mejor paso bajo un puente",
+      "Un naufragio nuevo",
+      "Un cable submarino"
+    ],
+    "answer": 1,
+    "explanation": "También eje de canal o recalada."
+  },
+  {
+    "id": "g-0697",
+    "topic": "baliz",
+    "q": "¿Cuál de estas zonas se señala con marcas especiales?",
+    "options": [
+      "Un bajo aislado",
+      "Una instalación de acuicultura",
+      "El eje de un canal",
+      "Un peligro nuevo"
+    ],
+    "answer": 1,
+    "explanation": "También vertederos, cables, zonas militares, de recreo o renovables."
+  },
+  {
+    "id": "g-0698",
+    "topic": "baliz",
+    "q": "La marca de tope de una marca especial es…",
+    "options": ["Una cruz amarilla", "Un aspa amarilla en forma de X", "Dos esferas", "Un cono"],
+    "answer": 1,
+    "explanation": "La cruz es del peligro nuevo."
+  },
+  {
+    "id": "g-0699",
+    "topic": "baliz",
+    "q": "La luz de una marca de peligro nuevo es…",
+    "options": [
+      "Amarilla fija",
+      "Azul 1 s y amarilla 1 s con 0,5 s de oscuridad entre ambas",
+      "Blanca Q",
+      "Roja 2+1"
+    ],
+    "answer": 1,
+    "explanation": "Alternativa azul y amarilla."
+  },
+  {
+    "id": "g-0700",
+    "topic": "baliz",
+    "q": "El tope de la marca de peligro nuevo es…",
+    "options": ["Un aspa amarilla", "Una cruz amarilla vertical", "Una esfera roja", "Dos conos"],
+    "answer": 1,
+    "explanation": "Franjas verticales azules y amarillas en igual número."
+  },
+  {
+    "id": "g-0701",
+    "topic": "baliz",
+    "q": "Si un peligro nuevo se balizara con una marca lateral luminosa, su luz sería…",
+    "options": ["Fl(2+1)", "Q o VQ", "LFl 10 s", "Iso"],
+    "answer": 1,
+    "explanation": "Centelleante o centelleante rápida."
+  },
+  {
+    "id": "g-0702",
+    "topic": "baliz",
+    "q": "Si el riesgo de un peligro nuevo es especialmente alto, la autoridad…",
+    "options": [
+      "Lo deja sin balizar",
+      "Duplica al menos una de las marcas",
+      "Pone una marca especial",
+      "Apaga las luces"
+    ],
+    "answer": 1,
+    "explanation": "La marca duplicada es idéntica a su pareja."
+  },
+  {
+    "id": "g-0703",
+    "topic": "baliz",
+    "q": "El racón de un peligro nuevo emite la letra Morse…",
+    "options": ["A", "D", "U", "SOS"],
+    "answer": 1,
+    "explanation": "«Manténgase separado de mí»."
+  },
+  {
+    "id": "g-0704",
+    "topic": "baliz",
+    "q": "Un peligro nuevo puede señalizarse…",
+    "options": [
+      "Solo con boyas físicas",
+      "También con ayudas virtuales (AIS), solas o combinadas con boyas",
+      "Solo con racón",
+      "Con banderas"
+    ],
+    "answer": 1,
+    "explanation": "Se retira cuando la información se ha difundido o el peligro ha desaparecido."
+  },
+  {
+    "id": "g-0705",
+    "topic": "baliz",
+    "q": "Saliendo de un estuario, un barco ve una cardinal Sur por la amura de babor. Las aguas profundas están…",
+    "options": ["Al norte de la marca", "Entre el SW y el SE de la marca", "Al este", "Al oeste"],
+    "answer": 1,
+    "explanation": "Cuadrante SE-SW: pasará por el sur de la marca."
+  }
+]

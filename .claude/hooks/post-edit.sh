@@ -1,5 +1,6 @@
 #!/usr/bin/env bash
-# PostToolUse (Edit|Write|MultiEdit): format and lint the edited file, typecheck TS.
+# PostToolUse (Edit|Write|MultiEdit): format and lint the edited file, typecheck TS,
+# validate the question bank when a content/questions file changes.
 # Silent on success; exit 2 with the errors so Claude fixes them straight away.
 set -uo pipefail
 file=$(jq -r '.tool_input.file_path // empty')
@@ -10,6 +11,13 @@ case "$file" in
   *.ts|*.tsx|*.js|*.mjs|*.json|*.css)
     out=$(npx --no-install biome check --write --no-errors-on-unmatched "$file" 2>&1) \
       || { echo "biome: $file" >&2; echo "$out" | tail -40 >&2; exit 2; }
+    ;;
+esac
+
+case "$file" in
+  */content/questions/*.json)
+    out=$(node scripts/validate-content.ts --quiet 2>&1) \
+      || { echo "question bank invalid:" >&2; echo "$out" | head -30 >&2; exit 2; }
     ;;
 esac
 

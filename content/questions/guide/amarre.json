@@ -1,0 +1,724 @@
+[
+  {
+    "id": "g-0010",
+    "topic": "amarre",
+    "q": "La máquina de eje horizontal para virar la cadena del ancla es el…",
+    "options": ["Estopor", "Molinete", "Cabrestante", "Chigre"],
+    "answer": 1,
+    "explanation": "Molinete es horizontal; cabrestante, vertical; el estopor trinca la cadena."
+  },
+  {
+    "id": "g-0011",
+    "topic": "amarre",
+    "q": "Arrastrar el ancla por el fondo sin que haga presa se denomina…",
+    "options": ["Bornear", "Filar", "Garrear", "Levar"],
+    "answer": 2,
+    "explanation": "Garrear. Bornear es girar alrededor del ancla."
+  },
+  {
+    "id": "g-0012",
+    "topic": "amarre",
+    "q": "El nudo que forma una gaza fija que no se corre es el…",
+    "options": ["Ballestrinque", "As de guía", "Nudo llano", "Vuelta de escota"],
+    "answer": 1,
+    "explanation": "As de guía."
+  },
+  {
+    "id": "g-0013",
+    "topic": "amarre",
+    "q": "Para unir dos cabos de distinta mena se usa la…",
+    "options": ["Vuelta de escota", "Nudo llano", "Ballestrinque", "Nudo de ocho"],
+    "answer": 0,
+    "explanation": "El nudo llano es para cabos de igual mena."
+  },
+  {
+    "id": "g-0014",
+    "topic": "amarre",
+    "q": "El cabo que sale de la proa hacia popa por el muelle es el…",
+    "options": ["Largo de proa", "Esprín de proa", "Través de proa", "Esprín de popa"],
+    "answer": 1,
+    "explanation": "El esprín de proa evita que el barco avance."
+  },
+  {
+    "id": "g-0015",
+    "topic": "amarre",
+    "q": "Con cadena y buen tiempo, la longitud mínima a filar es aproximadamente…",
+    "options": ["Igual a la sonda", "3 veces la sonda", "10 veces la sonda", "La mitad de la eslora"],
+    "answer": 1,
+    "explanation": "Unas 3 veces la sonda con cadena, 5 o más con cabo."
+  },
+  {
+    "id": "g-0016",
+    "topic": "amarre",
+    "q": "El cabo con boya que se hace firme a la cruz del ancla para recuperarla si se engancha es el…",
+    "options": ["Orinque", "Calabrote", "Chicote", "Rezón"],
+    "answer": 0,
+    "explanation": "Orinque."
+  },
+  {
+    "id": "g-0127",
+    "topic": "amarre",
+    "q": "El cabo que sale de la popa hacia proa por el muelle es el…",
+    "options": ["Largo de popa", "Esprín de popa", "Través de popa", "Esprín de proa"],
+    "answer": 1,
+    "explanation": "El esprín de popa impide que el barco retroceda."
+  },
+  {
+    "id": "g-0128",
+    "topic": "amarre",
+    "q": "El extremo libre de un cabo se llama…",
+    "options": ["Seno", "Firme", "Chicote", "Gaza"],
+    "answer": 2,
+    "explanation": "Chicote = extremo; seno = parte curva."
+  },
+  {
+    "id": "g-0129",
+    "topic": "amarre",
+    "q": "El grosor de un cabo se denomina…",
+    "options": ["Mena", "Calibre", "Seno", "Cote"],
+    "answer": 0,
+    "explanation": "La mena (diámetro)."
+  },
+  {
+    "id": "g-0130",
+    "topic": "amarre",
+    "q": "La fibra sintética más elástica, adecuada para amarras y fondeo, es la…",
+    "options": ["Poliéster", "Poliamida (nailon)", "Polipropileno", "Kevlar"],
+    "answer": 1,
+    "explanation": "El nailon absorbe tirones. El polipropileno flota; el poliéster casi no estira."
+  },
+  {
+    "id": "g-0131",
+    "topic": "amarre",
+    "q": "La pieza que trinca la cadena del ancla para que no corra es el…",
+    "options": ["Escobén", "Estopor", "Barbotén", "Grillete"],
+    "answer": 1,
+    "explanation": "Estopor."
+  },
+  {
+    "id": "g-0132",
+    "topic": "amarre",
+    "q": "El giro de un barco fondeado alrededor de su ancla al cambiar el viento se llama…",
+    "options": ["Garrear", "Bornear", "Zarpar", "Levar"],
+    "answer": 1,
+    "explanation": "Bornear. Hay que dejar espacio libre."
+  },
+  {
+    "id": "g-0133",
+    "topic": "amarre",
+    "q": "Un ancla Danforth agarra especialmente bien en fondos de…",
+    "options": ["Roca", "Arena y fango", "Algas", "Coral"],
+    "answer": 1,
+    "explanation": "Uñas planas que se clavan en arena y fango."
+  },
+  {
+    "id": "g-0134",
+    "topic": "amarre",
+    "q": "Para comprobar que un barco fondeado no garrea se utilizan…",
+    "options": ["Demoras a astros", "Enfilaciones o la alarma de fondeo del GPS", "La sonda", "La corredera"],
+    "answer": 1,
+    "explanation": "Si la enfilación cambia, garreas."
+  },
+  {
+    "id": "g-0135",
+    "topic": "amarre",
+    "q": "El tipo de fondo con peor tenedero (menos agarre) es…",
+    "options": ["Arena", "Fango", "Roca o algas", "Arena y conchuela"],
+    "answer": 2,
+    "explanation": "Roca y algas agarran mal."
+  },
+  {
+    "id": "g-0136",
+    "topic": "amarre",
+    "q": "Cobrar un cabo significa…",
+    "options": ["Soltarlo poco a poco", "Recogerlo tirando de él", "Hacerlo firme", "Adujarlo"],
+    "answer": 1,
+    "explanation": "Lascar = soltar poco a poco."
+  },
+  {
+    "id": "g-0137",
+    "topic": "amarre",
+    "q": "El nudo para hacer firme rápidamente un cabo a un candelero es el…",
+    "options": ["As de guía", "Ballestrinque", "Nudo llano", "Vuelta de escota"],
+    "answer": 1,
+    "explanation": "Ballestrinque: ideal para las defensas."
+  },
+  {
+    "id": "g-0138",
+    "topic": "amarre",
+    "q": "En el molinete, la corona dentada donde encajan los eslabones de la cadena es el…",
+    "options": ["Estopor", "Barbotén", "Cabirón", "Escobén"],
+    "answer": 1,
+    "explanation": "Barbotén. El cabirón es el tambor para cabos."
+  },
+  {
+    "id": "g-0282",
+    "topic": "amarre",
+    "q": "El cabo que sale de la proa hacia delante, al muelle, es el…",
+    "options": ["Esprín de proa", "Largo de proa", "Través de proa", "Esprín de popa"],
+    "answer": 1,
+    "explanation": "Evita que el barco vaya hacia atrás."
+  },
+  {
+    "id": "g-0283",
+    "topic": "amarre",
+    "q": "El cabo perpendicular al muelle que evita que el barco se separe es el…",
+    "options": ["Largo", "Esprín", "Través", "Codera"],
+    "answer": 2,
+    "explanation": "Través de proa o de popa."
+  },
+  {
+    "id": "g-0284",
+    "topic": "amarre",
+    "q": "El esprín de proa impide principalmente que el barco…",
+    "options": ["Retroceda", "Avance", "Se separe del muelle", "Escore"],
+    "answer": 1,
+    "explanation": "Va desde la proa hacia popa por el muelle."
+  },
+  {
+    "id": "g-0285",
+    "topic": "amarre",
+    "q": "El largo de popa impide principalmente que el barco…",
+    "options": ["Avance", "Retroceda", "Se acerque", "Gire"],
+    "answer": 0,
+    "explanation": "Va desde la popa hacia atrás."
+  },
+  {
+    "id": "g-0286",
+    "topic": "amarre",
+    "q": "La pieza del muelle donde se encapilla una amarra es el…",
+    "options": ["Bita", "Noray", "Cornamusa", "Escobén"],
+    "answer": 1,
+    "explanation": "Noray en el muelle, bita a bordo."
+  },
+  {
+    "id": "g-0287",
+    "topic": "amarre",
+    "q": "La pértiga con un gancho en el extremo usada para coger cabos o boyas es el…",
+    "options": ["Bichero", "Rezón", "Grillete", "Estopor"],
+    "answer": 0,
+    "explanation": "Bichero."
+  },
+  {
+    "id": "g-0288",
+    "topic": "amarre",
+    "q": "Soltar un cabo poco a poco mientras trabaja se dice…",
+    "options": ["Cobrar", "Lascar", "Adujar", "Tesar"],
+    "answer": 1,
+    "explanation": "Lascar o amollar."
+  },
+  {
+    "id": "g-0289",
+    "topic": "amarre",
+    "q": "Recoger un cabo en vueltas ordenadas para que no se enrede es…",
+    "options": ["Adujar", "Lascar", "Largar", "Encapillar"],
+    "answer": 0,
+    "explanation": "Adujar."
+  },
+  {
+    "id": "g-0290",
+    "topic": "amarre",
+    "q": "El nudo de tope que impide que un cabo se escape por una polea es el…",
+    "options": ["As de guía", "Nudo de ocho", "Ballestrinque", "Nudo llano"],
+    "answer": 1,
+    "explanation": "Nudo de ocho."
+  },
+  {
+    "id": "g-0291",
+    "topic": "amarre",
+    "q": "El nudo llano se usa para unir dos cabos…",
+    "options": ["De distinta mena", "De igual mena", "De acero", "Mojados"],
+    "answer": 1,
+    "explanation": "De distinta mena: vuelta de escota."
+  },
+  {
+    "id": "g-0292",
+    "topic": "amarre",
+    "q": "La fibra que flota y se usa para rabizas y cabos de salvamento es el…",
+    "options": ["Nailon", "Poliéster", "Polipropileno", "Acero"],
+    "answer": 2,
+    "explanation": "El polipropileno es más ligero que el agua."
+  },
+  {
+    "id": "g-0293",
+    "topic": "amarre",
+    "q": "La máquina de eje vertical para virar cadena o cabos es el…",
+    "options": ["Molinete", "Cabrestante", "Estopor", "Barbotén"],
+    "answer": 1,
+    "explanation": "El molinete es de eje horizontal."
+  },
+  {
+    "id": "g-0294",
+    "topic": "amarre",
+    "q": "Soltar cadena del ancla se dice…",
+    "options": ["Levar", "Filar", "Garrear", "Bornear"],
+    "answer": 1,
+    "explanation": "Filar."
+  },
+  {
+    "id": "g-0295",
+    "topic": "amarre",
+    "q": "Subir el ancla y desprenderla del fondo se dice…",
+    "options": ["Levar", "Filar", "Fondear", "Garrear"],
+    "answer": 0,
+    "explanation": "Levar."
+  },
+  {
+    "id": "g-0296",
+    "topic": "amarre",
+    "q": "Al fondear, el ancla se larga cuando el barco…",
+    "options": ["Avanza a toda máquina", "Está parado y empieza a ir atrás", "Va de costado", "Planea"],
+    "answer": 1,
+    "explanation": "Así la cadena no cae encima del ancla."
+  },
+  {
+    "id": "g-0297",
+    "topic": "amarre",
+    "q": "Con cabo en lugar de cadena, la longitud a filar debe ser como mínimo de unas…",
+    "options": ["2 veces la sonda", "5 veces la sonda", "10 veces la eslora", "Igual a la sonda"],
+    "answer": 1,
+    "explanation": "El cabo pesa menos y trabaja peor."
+  },
+  {
+    "id": "g-0298",
+    "topic": "amarre",
+    "q": "El ancla adecuada para auxiliares y fondos rocosos es el…",
+    "options": ["Danforth", "Rezón", "Arado", "Almirantazgo"],
+    "answer": 1,
+    "explanation": "Rezón."
+  },
+  {
+    "id": "g-0299",
+    "topic": "amarre",
+    "q": "El peso fijo en el fondo con una boya, para amarrarse, se llama…",
+    "options": ["Muerto", "Orinque", "Grillete", "Rezón"],
+    "answer": 0,
+    "explanation": "Muerto."
+  },
+  {
+    "id": "g-0473",
+    "topic": "amarre",
+    "q": "La longitud mínima de la línea de fondeo es…",
+    "options": ["3 veces la eslora", "5 veces la eslora", "3 veces la sonda", "Igual a la eslora"],
+    "answer": 1,
+    "explanation": "Al menos cinco veces la eslora del barco."
+  },
+  {
+    "id": "g-0474",
+    "topic": "amarre",
+    "q": "El tramo de cadena de la línea de fondeo debe ser, como mínimo…",
+    "options": ["La mitad de la eslora", "Igual a la eslora", "El doble de la eslora", "5 m"],
+    "answer": 1,
+    "explanation": "Salvo en barcos de menos de 6 m, que pueden llevar solo estacha."
+  },
+  {
+    "id": "g-0475",
+    "topic": "amarre",
+    "q": "Un molinete cuyo eje es vertical se llama…",
+    "options": ["Chigre", "Cabrestante", "Cabirón", "Barbotén"],
+    "answer": 1,
+    "explanation": "Molinete (chigre): eje horizontal. Cabrestante: eje vertical."
+  },
+  {
+    "id": "g-0476",
+    "topic": "amarre",
+    "q": "La rueda lisa del molinete para virar un cabo es el…",
+    "options": ["Barbotén", "Cabirón", "Estopor", "Arganeo"],
+    "answer": 1,
+    "explanation": "El barbotén es para la cadena; el cabirón, para cabos."
+  },
+  {
+    "id": "g-0477",
+    "topic": "amarre",
+    "q": "El mecanismo que bloquea el barbotén es el…",
+    "options": ["Embrague", "Freno", "Estopor", "Grillete"],
+    "answer": 1,
+    "explanation": "El embrague lo acopla al motor; el freno lo bloquea."
+  },
+  {
+    "id": "g-0478",
+    "topic": "amarre",
+    "q": "El orificio de cubierta por el que la cadena baja a la caja de cadenas es la…",
+    "options": ["Gatera", "Puntera", "Limera", "Bocina"],
+    "answer": 0,
+    "explanation": "Gatera."
+  },
+  {
+    "id": "g-0479",
+    "topic": "amarre",
+    "q": "La pieza de proa por la que corren la cadena y la caña del ancla es la…",
+    "options": ["Gatera", "Puntera", "Roda", "Bita"],
+    "answer": 1,
+    "explanation": "Puntera."
+  },
+  {
+    "id": "g-0480",
+    "topic": "amarre",
+    "q": "La argolla del extremo superior de la caña del ancla es el…",
+    "options": ["Cepo", "Arganeo", "Mapa", "Grillete"],
+    "answer": 1,
+    "explanation": "En el arganeo se hace firme el cabo o el grillete."
+  },
+  {
+    "id": "g-0481",
+    "topic": "amarre",
+    "q": "El ancla con cuatro brazos que siempre clava dos, sea cual sea su caída, es el…",
+    "options": ["Danforth", "Arado", "Rezón", "Almirantazgo"],
+    "answer": 2,
+    "explanation": "Típica de neumáticas y auxiliares; los hay plegables."
+  },
+  {
+    "id": "g-0482",
+    "topic": "amarre",
+    "q": "El ancla con una barra bajo la cruz y dos uñas planas es la…",
+    "options": ["Arado", "Danforth", "Rezón", "De cepo"],
+    "answer": 1,
+    "explanation": "Danforth: muy usada en recreo por su gran agarre."
+  },
+  {
+    "id": "g-0483",
+    "topic": "amarre",
+    "q": "«Filar» cadena significa…",
+    "options": ["Recogerla", "Largarla o arriarla", "Trincarla", "Limpiarla"],
+    "answer": 1,
+    "explanation": "Virar es cobrar; filar es largar."
+  },
+  {
+    "id": "g-0484",
+    "topic": "amarre",
+    "q": "Al levar, el momento en que el ancla se despega del fondo se llama…",
+    "options": ["A pique", "Zarpar", "A la pendura", "Garrear"],
+    "answer": 1,
+    "explanation": "Primero está a pique (cadena vertical) y después zarpa."
+  },
+  {
+    "id": "g-0485",
+    "topic": "amarre",
+    "q": "El ancla destrincada, colgando y lista para fondear está…",
+    "options": ["A pique", "A la pendura", "Clara", "Al pelo"],
+    "answer": 1,
+    "explanation": "A la pendura."
+  },
+  {
+    "id": "g-0486",
+    "topic": "amarre",
+    "q": "La voz «¡Clara!» indica que el ancla…",
+    "options": ["Ha tocado fondo", "Ha zarpado y viene limpia", "Está garreando", "Está a la pendura"],
+    "answer": 1,
+    "explanation": "Sin fango, algas ni cabos que impidan subirla."
+  },
+  {
+    "id": "g-0487",
+    "topic": "amarre",
+    "q": "La pieza de hierro fundido fijada al muelle para sujetar las amarras es el…",
+    "options": ["Bita", "Noray", "Cornamusa", "Muerto"],
+    "answer": 1,
+    "explanation": "El noray está en tierra; bita y cornamusa, a bordo."
+  },
+  {
+    "id": "g-0488",
+    "topic": "amarre",
+    "q": "El peso sólido depositado en el fondo para sujetar una boya de amarre es el…",
+    "options": ["Rezón", "Muerto", "Orinque", "Lastre de quilla"],
+    "answer": 1,
+    "explanation": "Del muerto salen las cadenas o cabos que sujetan las boyas."
+  },
+  {
+    "id": "g-0489",
+    "topic": "amarre",
+    "q": "La rueda sobre la que gira el cabo dentro de una polea o motón es la…",
+    "options": ["Roldana", "Cabirón", "Barbotén", "Gaza"],
+    "answer": 0,
+    "explanation": "Roldana."
+  },
+  {
+    "id": "g-0490",
+    "topic": "amarre",
+    "q": "El trozo de cabo que sujeta una cadena en tensión para poder manipularla es la…",
+    "options": ["Gaza", "Boza", "Guía", "Rabiza"],
+    "answer": 1,
+    "explanation": "Abozar = sujetar con una boza."
+  },
+  {
+    "id": "g-0491",
+    "topic": "amarre",
+    "q": "Las piezas de inox fijadas en la borda para guiar las amarras al muelle son los…",
+    "options": ["Candeleros", "Guía-cabos", "Pasamanos", "Noráis"],
+    "answer": 1,
+    "explanation": "Guía-cabos."
+  },
+  {
+    "id": "g-0492",
+    "topic": "amarre",
+    "q": "Aflojar un poco un cabo que estaba tenso es…",
+    "options": ["Arriar en banda", "Lascar", "Largar", "Templar"],
+    "answer": 1,
+    "explanation": "Lascar: aflojar un poco."
+  },
+  {
+    "id": "g-0493",
+    "topic": "amarre",
+    "q": "Soltar un cabo de golpe, sin retención alguna, es…",
+    "options": ["Lascar", "Arriar en banda", "Cobrar", "Tesar"],
+    "answer": 1,
+    "explanation": "Arriar en banda."
+  },
+  {
+    "id": "g-0494",
+    "topic": "amarre",
+    "q": "Soltar del todo un cabo y desconectarse de él es…",
+    "options": ["Largar", "Lascar", "Cobrar", "Templar"],
+    "answer": 0,
+    "explanation": "Largar."
+  },
+  {
+    "id": "g-0495",
+    "topic": "amarre",
+    "q": "Para unir por sus chicotes dos cabos de la misma mena se usa el…",
+    "options": ["As de guía", "Nudo llano", "Ballestrinque", "Vueltas de rezón"],
+    "answer": 1,
+    "explanation": "Llano: igual mena."
+  },
+  {
+    "id": "g-0496",
+    "topic": "amarre",
+    "q": "Para afirmar un cabo de fondeo a un ancla pequeña, protegiéndolo del roce con la argolla, se usan…",
+    "options": ["Vueltas de rezón", "Un nudo llano", "Un ballestrinque", "Un as de guía"],
+    "answer": 0,
+    "explanation": "Vueltas de rezón."
+  },
+  {
+    "id": "g-0497",
+    "topic": "amarre",
+    "q": "El cabo de una defensa se afirma al pasamanos con un…",
+    "options": ["Nudo llano", "Ballestrinque con cote de seguridad", "As de guía", "Vuelta de escota"],
+    "answer": 1,
+    "explanation": "Ballestrinque rematado con un cote."
+  },
+  {
+    "id": "g-0498",
+    "topic": "amarre",
+    "q": "El nudo para hacer una gaza no corrediza y encapillar un cabo es el…",
+    "options": ["Ballestrinque", "As de guía", "Nudo llano", "Vuelta de rezón"],
+    "answer": 1,
+    "explanation": "El nudo más usado a bordo."
+  },
+  {
+    "id": "g-0499",
+    "topic": "amarre",
+    "q": "El tenedero es…",
+    "options": [
+      "El lugar donde se estiba el ancla",
+      "La superficie del fondo donde se clava el ancla",
+      "El cabo del orinque",
+      "La zona de borneo"
+    ],
+    "answer": 1,
+    "explanation": "Tenedero."
+  },
+  {
+    "id": "g-0500",
+    "topic": "amarre",
+    "q": "¿Cuál es un mal tenedero?",
+    "options": ["Fango duro", "Arena fangosa", "Arena dura", "Algas"],
+    "answer": 3,
+    "explanation": "Malos: piedra, fondos duros y algas."
+  },
+  {
+    "id": "g-0501",
+    "topic": "amarre",
+    "q": "El mayor riesgo de fondear en roca es que el ancla…",
+    "options": ["Garree", "Se enroque y no pueda levarse", "Zarpe sola", "Se doble"],
+    "answer": 1,
+    "explanation": "Por eso conviene el orinque."
+  },
+  {
+    "id": "g-0502",
+    "topic": "amarre",
+    "q": "Al elegir fondeadero hay que buscar, sobre todo, resguardo…",
+    "options": ["Del sol", "De la mar", "De otros barcos", "De la corriente"],
+    "answer": 1,
+    "explanation": "Del viento y, sobre todo, de la mar."
+  },
+  {
+    "id": "g-0503",
+    "topic": "amarre",
+    "q": "Fondear «a la gira» es fondear con…",
+    "options": [
+      "Dos anclas a barbas de gato",
+      "Una sola ancla por proa",
+      "Un ancla por proa y otra por popa",
+      "Una boya"
+    ],
+    "answer": 1,
+    "explanation": "El ancla es el único elemento de sujeción."
+  },
+  {
+    "id": "g-0504",
+    "topic": "amarre",
+    "q": "En la aproximación para fondear, el ancla debe ir…",
+    "options": ["A pique", "A la pendura", "Estibada", "Clara"],
+    "answer": 1,
+    "explanation": "Colgando, lista para dar fondo; proa al viento y mínima arrancada."
+  },
+  {
+    "id": "g-0505",
+    "topic": "amarre",
+    "q": "En condiciones normales se fila una cadena de…",
+    "options": [
+      "1–2 veces la profundidad",
+      "3–4 veces la profundidad",
+      "5 veces la eslora",
+      "10 veces la profundidad"
+    ],
+    "answer": 1,
+    "explanation": "Con mucho viento, corriente o marea, 5–6 veces."
+  },
+  {
+    "id": "g-0506",
+    "topic": "amarre",
+    "q": "Una vez fondeado, en lugar de dejar trabajar la cadena sobre el molinete conviene…",
+    "options": [
+      "Arriarla en banda",
+      "Abozarla con un cabo a las cornamusas de proa",
+      "Soltar el freno",
+      "Izar el ancla"
+    ],
+    "answer": 1,
+    "explanation": "Los anclajes del molinete pueden ceder."
+  },
+  {
+    "id": "g-0507",
+    "topic": "amarre",
+    "q": "El radio del círculo de borneo NO depende de…",
+    "options": [
+      "La cadena filada",
+      "La fuerza del viento o la corriente",
+      "La obra muerta del barco",
+      "El color del casco"
+    ],
+    "answer": 3,
+    "explanation": "Depende de la cadena, del viento/corriente y de la obra muerta."
+  },
+  {
+    "id": "g-0508",
+    "topic": "amarre",
+    "q": "Al bornear, la proa queda orientada…",
+    "options": [
+      "Siempre al norte",
+      "Al factor dominante entre viento y corriente",
+      "A la costa",
+      "A sotavento"
+    ],
+    "answer": 1,
+    "explanation": "Al que domine de los dos."
+  },
+  {
+    "id": "g-0509",
+    "topic": "amarre",
+    "q": "¿Qué barcos bornean más rápido?",
+    "options": [
+      "Los veleros",
+      "Las lanchas a motor, con más obra muerta y menos obra viva",
+      "Los de quilla larga",
+      "Todos igual"
+    ],
+    "answer": 1,
+    "explanation": "La obra muerta les da más superficie al viento."
+  },
+  {
+    "id": "g-0510",
+    "topic": "amarre",
+    "q": "Un barco que garrea se desplaza hacia…",
+    "options": ["Barlovento", "Sotavento", "Proa", "El ancla"],
+    "answer": 1,
+    "explanation": "El viento lo empuja a sotavento."
+  },
+  {
+    "id": "g-0511",
+    "topic": "amarre",
+    "q": "¿Cuál NO es una causa de garreo?",
+    "options": [
+      "Poca cadena filada",
+      "Fondo duro",
+      "Cadena caída sobre el ancla",
+      "Haber filado 5 veces la sonda"
+    ],
+    "answer": 3,
+    "explanation": "Filar mucha cadena es precisamente un remedio."
+  },
+  {
+    "id": "g-0512",
+    "topic": "amarre",
+    "q": "Para evitar el garreo NO sirve…",
+    "options": [
+      "Filar más cadena",
+      "Fondear una segunda ancla",
+      "Aguantarse con máquina avante",
+      "Virar cadena"
+    ],
+    "answer": 3,
+    "explanation": "Virar acorta la cadena y empeora el agarre."
+  },
+  {
+    "id": "g-0513",
+    "topic": "amarre",
+    "q": "El orinque se anuda…",
+    "options": ["Al arganeo", "A la cruz del ancla y a un boyarín", "Al barbotén", "A la bita de proa"],
+    "answer": 1,
+    "explanation": "Permite recuperar el ancla si se enroca."
+  },
+  {
+    "id": "g-0514",
+    "topic": "amarre",
+    "q": "En el fondeo a barbas de gato, las dos líneas forman un ángulo de…",
+    "options": ["10°–20°", "45°", "90°–120°", "180°"],
+    "answer": 2,
+    "explanation": "Y reducen el espacio de borneo."
+  },
+  {
+    "id": "g-0515",
+    "topic": "amarre",
+    "q": "En el fondeo a barbas de gato, la primera ancla se fondea por…",
+    "options": ["Sotavento", "Barlovento", "La popa", "El través"],
+    "answer": 1,
+    "explanation": "Llegando de través al viento: primera por barlovento, segunda por sotavento."
+  },
+  {
+    "id": "g-0516",
+    "topic": "amarre",
+    "q": "Con dos anclas por proa, las longitudes de las dos líneas deben ser…",
+    "options": ["Lo más distintas posible", "Iguales", "La de barlovento el doble", "Indiferentes"],
+    "answer": 1,
+    "explanation": "Misma longitud para repartir el esfuerzo."
+  },
+  {
+    "id": "g-0517",
+    "topic": "amarre",
+    "q": "Al levar, el tripulante de proa indica con la mano…",
+    "options": ["La sonda", "Hacia dónde llama la cadena", "La velocidad", "El rumbo a seguir"],
+    "answer": 1,
+    "explanation": "Para que el timonel haga llamar la cadena por la proa."
+  },
+  {
+    "id": "g-0518",
+    "topic": "amarre",
+    "q": "Al levar, cuando el ancla está a pique…",
+    "options": [
+      "Se da toda avante",
+      "Se detiene el barco y se sigue virando",
+      "Se fila más cadena",
+      "Se suelta el freno"
+    ],
+    "answer": 1,
+    "explanation": "Después zarpa y sube clara."
+  },
+  {
+    "id": "g-0519",
+    "topic": "amarre",
+    "q": "Tras levar, hay que estibar el ancla rápido para que no…",
+    "options": ["Se oxide", "Golpee la roda o las amuras", "Se enrede el orinque", "Se suelte el barbotén"],
+    "answer": 1,
+    "explanation": "Un ancla colgando golpea el casco."
+  }
+]

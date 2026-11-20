@@ -1,0 +1,1017 @@
+[
+  {
+    "id": "gva-0029",
+    "topic": "emerg",
+    "q": "¿Qué medida tomaremos al encontrarnos a un tripulante con una hemorragia nasal?:",
+    "options": [
+      "Realizaremos un torniquete por encima de la articulación más cercana.",
+      "Le pondremos calor en la zona afectada.",
+      "Le tumbaremos y le cubriremos con una manta térmica correctamente extendida por la zona afectada.",
+      "Le sentaremos e indicaremos que se apriete suavemente sus fosas nasales y mire para abajo."
+    ],
+    "answer": 3,
+    "explanation": "Hemorragia nasal: sentado, cabeza hacia delante y presión en la nariz.",
+    "gva": {
+      "index": 29,
+      "sittings": ["2019-11"]
+    }
+  },
+  {
+    "id": "gva-0030",
+    "topic": "emerg",
+    "q": "¿A qué se le llama “vía de agua” en una embarcación?:",
+    "options": [
+      "Al orificio que hay en cubierta por el que se desaloja el agua de mar que puede embarcar por culpa de las olas.",
+      "A la tubería que expulsa al mar el agua de refrigeración del motor.",
+      "A la entrada de agua por una rotura del casco.",
+      "Al conducto por el que se carga el agua dulce en los tanques."
+    ],
+    "answer": 2,
+    "explanation": "Vía de agua: entrada de agua por una rotura del casco.",
+    "gva": {
+      "index": 30,
+      "sittings": ["2019-11"]
+    }
+  },
+  {
+    "id": "gva-0031",
+    "topic": "emerg",
+    "q": "¿Qué elementos o factores han de concurrir para que se produzca un incendio según la teoría del tetraedro del fuego?:",
+    "options": [
+      "El oxígeno y combustible únicamente.",
+      "La reacción exotérmica, el combustible, los humos y el calor.",
+      "La reacción en cadena, el calor, el combustible y el comburente.",
+      "La reacción endotérmica, la gasolina o madera y la chispa."
+    ],
+    "answer": 2,
+    "explanation": "Tetraedro: combustible, comburente, calor y reacción en cadena.",
+    "gva": {
+      "index": 31,
+      "sittings": ["2019-11"]
+    }
+  },
+  {
+    "id": "gva-0074",
+    "topic": "emerg",
+    "q": "En cuanto se detecte una vía de agua a bordo, lo primero que debemos hacer es:",
+    "options": [
+      "Realizar el abandono de la embarcación.",
+      "Poner rumbo a tierra.",
+      "Eliminar carga de la embarcación.",
+      "Achicar e intentar taponarla."
+    ],
+    "answer": 3,
+    "explanation": "Ante una vía de agua: achicar y taponar.",
+    "gva": {
+      "index": 74,
+      "sittings": ["2021-04"]
+    }
+  },
+  {
+    "id": "gva-0075",
+    "topic": "emerg",
+    "q": "En caso de un incendio tipo «B» el mejor agente extintor es:",
+    "options": ["Agua.", "Espuma.", "CO2.", "Polvo seco."],
+    "answer": 1,
+    "explanation": "Clase B (líquidos): la espuma sofoca la superficie.",
+    "gva": {
+      "index": 75,
+      "sittings": ["2021-04"]
+    }
+  },
+  {
+    "id": "gva-0076",
+    "topic": "emerg",
+    "q": "¿Como se denomina al procedimiento de extinción que elimina el oxígeno para apagar el fuego?:",
+    "options": ["Rotura de la reacción en cadena.", "Dispersión.", "Enfriamiento.", "Sofocación."],
+    "answer": 3,
+    "explanation": "Sofocación: quitar el oxígeno.",
+    "gva": {
+      "index": 76,
+      "sittings": ["2021-04"]
+    }
+  },
+  {
+    "id": "gva-0119",
+    "topic": "emerg",
+    "q": "Los extintores que debemos llevar a bordo, contendrán al menos:",
+    "options": [
+      "2 kilogramos de agente extintor (polvo seco o cantidad equivalente de otro agente extintor).",
+      "3 kilogramos de agente extintor (polvo seco o cantidad equivalente de otro agente extintor).",
+      "4 kilogramos de agente extintor (polvo seco o cantidad equivalente de otro agente extintor).",
+      "5 kilogramos de agente extintor (polvo seco o cantidad equivalente de otro agente extintor)."
+    ],
+    "answer": 0,
+    "explanation": "Según la clave, los extintores de a bordo llevan al menos 2 kg de polvo o equivalente.",
+    "gva": {
+      "index": 119,
+      "sittings": ["2021-07"]
+    }
+  },
+  {
+    "id": "gva-0120",
+    "topic": "emerg",
+    "q": "¿Qué embarcaciones deben de llevar la guía sanitaria a bordo?:",
+    "options": [
+      "Solo las embarcaciones lucrativas.",
+      "Todas las embarcaciones de recreo.",
+      "Las embarcaciones de recreo sin tripulación profesional que naveguen en zonas 1, 2, 3 o 4.",
+      "Las embarcaciones de recreo con tripulación profesional que naveguen en zonas 1, 2, 3 o 4."
+    ],
+    "answer": 1,
+    "explanation": "Según la clave, todas las embarcaciones de recreo llevan la guía sanitaria.",
+    "gva": {
+      "index": 120,
+      "sittings": ["2021-07"]
+    }
+  },
+  {
+    "id": "gva-0121",
+    "topic": "emerg",
+    "q": "¿Qué factores han de concurrir para que se produzca un fuego?:",
+    "options": [
+      "Material combustible, oxígeno e hidrógeno.",
+      "Material combustible, oxígeno y carbono.",
+      "Material combustible, oxígeno y nitrógeno.",
+      "Material combustible, oxígeno y temperatura de ignición."
+    ],
+    "answer": 3,
+    "explanation": "Triángulo del fuego: combustible, oxígeno y temperatura de ignición.",
+    "gva": {
+      "index": 121,
+      "sittings": ["2021-07"]
+    }
+  },
+  {
+    "id": "gva-0163",
+    "topic": "emerg",
+    "q": "Cuando extinguimos un fuego por sofocación actuamos sobre:",
+    "options": ["El combustible.", "La energía de activación.", "La reacción en cadena.", "El comburente."],
+    "answer": 3,
+    "explanation": "Sofocación: actúa sobre el comburente (oxígeno).",
+    "gva": {
+      "index": 163,
+      "sittings": ["2021-06"]
+    }
+  },
+  {
+    "id": "gva-0164",
+    "topic": "emerg",
+    "q": "¿Qué es la hipotermia?:",
+    "options": [
+      "Una subida de la temperatura corporal por estar expuesto durante mucho tiempo al sol.",
+      "Una bajada de la temperatura corporal.",
+      "Una parada respiratoria.",
+      "Una parada cardiaca."
+    ],
+    "answer": 1,
+    "explanation": "Hipotermia: temperatura corporal por debajo de lo normal.",
+    "gva": {
+      "index": 164,
+      "sittings": ["2021-06"]
+    }
+  },
+  {
+    "id": "gva-0165",
+    "topic": "emerg",
+    "q": "Los fuegos producidos por sustancias que arden en estado gaseoso y a presión son según la clasificación UNE:",
+    "options": ["De la clase “D”.", "De la clase “B”.", "De la clase “C”.", "De la clase “F”."],
+    "answer": 2,
+    "explanation": "Clase C: gases.",
+    "gva": {
+      "index": 165,
+      "sittings": ["2021-06"]
+    }
+  },
+  {
+    "id": "gva-0208",
+    "topic": "emerg",
+    "q": "¿Los incendios derivados del uso de aceites en cocinas se clasifican según Une con?:",
+    "options": ["Clase A.", "Clase B.", "Clase E.", "Clase F."],
+    "answer": 3,
+    "explanation": "Clase F: aceites de cocina.",
+    "gva": {
+      "index": 208,
+      "sittings": ["2021-11"]
+    }
+  },
+  {
+    "id": "gva-0209",
+    "topic": "emerg",
+    "q": "El agua como agente extintor actúa principalmente por:",
+    "options": ["Sofocación.", "Enfriamiento.", "Inhibición.", "Desalimentación."],
+    "answer": 1,
+    "explanation": "El agua apaga sobre todo por enfriamiento.",
+    "gva": {
+      "index": 209,
+      "sittings": ["2021-11"]
+    }
+  },
+  {
+    "id": "gva-0210",
+    "topic": "emerg",
+    "q": "Son cuñas cónicas de madera de distintas medidas muy adecuadas para taponar pequeños orificios del casco:",
+    "options": ["Espiches.", "Limeras.", "Bocinas.", "Escotas."],
+    "answer": 0,
+    "explanation": "Espiches: cuñas cónicas para taponar.",
+    "gva": {
+      "index": 210,
+      "sittings": ["2021-11"]
+    }
+  },
+  {
+    "id": "gva-0253",
+    "topic": "emerg",
+    "q": "En el supuesto de producirse una varada involuntaria es aconsejable:",
+    "options": [
+      "Esperar a la bajamar",
+      "Escorar la embarcación trasladando pesos hacia el lugar de mayor profundidad para disminuir el calado",
+      "Rellenar los tanques de lastre con el fin de aumentar los calados",
+      "Ninguna de las respuestas anteriores es cierta"
+    ],
+    "answer": 1,
+    "explanation": "Varado: escorar hacia el lado profundo para reducir el calado.",
+    "gva": {
+      "index": 253,
+      "sittings": ["2022-12", "2024-11"]
+    }
+  },
+  {
+    "id": "gva-0254",
+    "topic": "emerg",
+    "q": "Para contactar con el servicio Radio-Médico Español lo podremos hacer:",
+    "options": [
+      "Al teléfono 931103475 las 24 h los 365 días",
+      "Al teléfono 913103475 las 24 h los 365 días",
+      "Al teléfono 913301475 las 24 h los 365 días",
+      "Al teléfono 913103574 las 24 h los 365 días"
+    ],
+    "answer": 1,
+    "explanation": "Radio-Médico España: 91 310 34 75, las 24 h.",
+    "gva": {
+      "index": 254,
+      "sittings": ["2022-12"]
+    }
+  },
+  {
+    "id": "gva-0255",
+    "topic": "emerg",
+    "q": "De los siguientes procedimientos de extinción. ¿Cuál es el que consiste en retirar o eliminar el elemento combustible?",
+    "options": [
+      "Enfriamiento",
+      "Sofocación o ahogamiento",
+      "Inhibición de la reacción en cadena",
+      "Ninguna de las respuestas anteriores es cierta"
+    ],
+    "answer": 3,
+    "explanation": "Quitar el combustible es desalimentación (dispersión): no aparece entre las opciones.",
+    "gva": {
+      "index": 255,
+      "sittings": ["2022-12", "2024-11"]
+    }
+  },
+  {
+    "id": "gva-0298",
+    "topic": "emerg",
+    "q": "¿Qué acción es la indicada para una hemorragia externa en un brazo?:",
+    "options": [
+      "Poner a la víctima en posición lateral de seguridad.",
+      "Meter el brazo donde está la herida en agua caliente.",
+      "Poner a la víctima en cama tumbado boca abajo, procurando que el miembro con la hemorragia cuelgue.",
+      "Realizar una compresión directa."
+    ],
+    "answer": 3,
+    "explanation": "Hemorragia externa: compresión directa.",
+    "gva": {
+      "index": 298,
+      "sittings": ["2022-02"]
+    }
+  },
+  {
+    "id": "gva-0299",
+    "topic": "emerg",
+    "q": "¿Para qué emergencia son más indicados el uso de las colchonetas y los espiches?:",
+    "options": [
+      "Para apagar incendios.",
+      "Para taponar y reducir las vías de agua.",
+      "Para abandonar la embarcación.",
+      "Para la evacuación en helicóptero."
+    ],
+    "answer": 1,
+    "explanation": "Colchonetas y espiches: taponar vías de agua.",
+    "gva": {
+      "index": 299,
+      "sittings": ["2022-02"]
+    }
+  },
+  {
+    "id": "gva-0300",
+    "topic": "emerg",
+    "q": "¿Cómo clasifica la UNE a los incendios de combustibles sólidos?:",
+    "options": ["Clase B.", "Clase C.", "Clase F.", "Clase A."],
+    "answer": 3,
+    "explanation": "Clase A: sólidos.",
+    "gva": {
+      "index": 300,
+      "sittings": ["2022-02"]
+    }
+  },
+  {
+    "id": "gva-0343",
+    "topic": "emerg",
+    "q": "¿Cómo actuaremos con un tripulante que ha estado demasiado tiempo expuesto al sol y tiene la piel enrojecida desprendiendo mucho calor:",
+    "options": [
+      "Lo protegeremos del sol y le aplicaremos crema hidratante",
+      "Le frotaremos todas las partes irritadas",
+      "Lo ducharemos con agua lo más fría posible",
+      "Lo pondremos a la sombra y cubriremos con una manta térmica"
+    ],
+    "answer": 0,
+    "explanation": "Quemadura solar: sombra y crema hidratante.",
+    "gva": {
+      "index": 343,
+      "sittings": ["2022-06"]
+    }
+  },
+  {
+    "id": "gva-0344",
+    "topic": "emerg",
+    "q": "Como caso excepcional y última medida ante una hemorragia que no podemos contener el sangrado, si nos vemos en la necesidad de aplicar un torniquete, lo aplicaremos en:",
+    "options": [
+      "En la parte más alejada del corazón desde la herida",
+      "En la parte más cercana del corazón desde la herida",
+      "Siempre sobre la herida",
+      "Nunca debemos aplicar un torniquete"
+    ],
+    "answer": 1,
+    "explanation": "El torniquete, solo como último recurso, entre la herida y el corazón.",
+    "gva": {
+      "index": 344,
+      "sittings": ["2022-06"]
+    }
+  },
+  {
+    "id": "gva-0345",
+    "topic": "emerg",
+    "q": "Los fuegos producidos por sustancias que arden en estado sólido son según la clasificación UNE:",
+    "options": ["De la clase “A”.", "De la clase “B”.", "De la clase “C”.", "De la clase “F”."],
+    "answer": 0,
+    "explanation": "Clase A: sólidos.",
+    "gva": {
+      "index": 345,
+      "sittings": ["2022-06"]
+    }
+  },
+  {
+    "id": "gva-0388",
+    "topic": "emerg",
+    "q": "En el supuesto de que a un miembro de la tripulación sufra una insolación, la medida o medidas a tomar serian:",
+    "options": [
+      "Colocar al accidentado en una zona cálida",
+      "Colocar al accidentado en una zona con poca luz",
+      "Administrarle un antihistamínico",
+      "Colocarle compresas de agua caliente en la cabeza"
+    ],
+    "answer": 1,
+    "explanation": "Insolación: a la sombra, en un sitio fresco y con poca luz.",
+    "gva": {
+      "index": 388,
+      "sittings": ["2023-04"]
+    }
+  },
+  {
+    "id": "gva-0389",
+    "topic": "emerg",
+    "q": "En un fuego los elementos del tetraedro son:",
+    "options": [
+      "Combustible, comburente, calor y reacción en cadena.",
+      "Comburente, combustible, frío y reacción en cadena.",
+      "Calor, comburente, combustible y gasolina.",
+      "Combustible, calor, reacción en cadena y aceite."
+    ],
+    "answer": 0,
+    "explanation": "Combustible, comburente, calor y reacción en cadena.",
+    "gva": {
+      "index": 389,
+      "sittings": ["2023-04", "2024-11", "2026-04"]
+    }
+  },
+  {
+    "id": "gva-0390",
+    "topic": "emerg",
+    "q": "En la extinción de un incendio el método de dispersión o desalimentación consiste en:",
+    "options": [
+      "Retirar o eliminar el elemento combustible",
+      "Eliminar el oxígeno",
+      "Impedir la trasmisión de calor de unas partículas a otras del combustible",
+      "Ninguna de las respuestas anteriores es cierta"
+    ],
+    "answer": 0,
+    "explanation": "Dispersión o desalimentación: retirar el combustible.",
+    "gva": {
+      "index": 390,
+      "sittings": ["2023-04"]
+    }
+  },
+  {
+    "id": "gva-0431",
+    "topic": "emerg",
+    "q": "En el supuesto de producirse una varada involuntaria para ponernos en contacto con SASEMAR, lo haremos por el canal del VHF:",
+    "options": ["CH 9", "CH 14", "CH 16", "CH 10"],
+    "answer": 2,
+    "explanation": "Salvamento: canal 16.",
+    "gva": {
+      "index": 431,
+      "sittings": ["2023-02"]
+    }
+  },
+  {
+    "id": "gva-0432",
+    "topic": "emerg",
+    "q": "Si en un incendio en un equipo electrónico del puente de mandos, usamos un extintor de CO₂, el fuego se extinguirá por:",
+    "options": [
+      "Enfriamiento",
+      "Sofocación",
+      "Dispersión del combustible",
+      "Inhibición de la reacción en cadena"
+    ],
+    "answer": 1,
+    "explanation": "El CO₂ desplaza el oxígeno: sofocación.",
+    "gva": {
+      "index": 432,
+      "sittings": ["2023-02"]
+    }
+  },
+  {
+    "id": "gva-0433",
+    "topic": "emerg",
+    "q": "Para detener la hemorragia de una arteria seccionada en una herida profunda producida en un antebrazo, se procederá colocando un torniquete, y para ello:",
+    "options": [
+      "Colocaremos el torniquete entre el vaso sanguíneo lesionado y el corazón",
+      "Si fuera necesario, usaríamos hilo de pescar muy grueso sobre la herida",
+      "Se colocaría sobre la articulación el torniquete",
+      "Ninguna de las respuestas anteriores es cierta"
+    ],
+    "answer": 0,
+    "explanation": "Torniquete entre el vaso lesionado y el corazón.",
+    "gva": {
+      "index": 433,
+      "sittings": ["2023-02"]
+    }
+  },
+  {
+    "id": "gva-0476",
+    "topic": "emerg",
+    "q": "En los espacios donde se encuentran las baterías cargando, existe riesgo de incendio y/o explosión debido a la acumulación de:",
+    "options": ["CO₂ (Dióxido de carbono)", "H (Hidrógeno)", "CO (Monóxido de carbono)", "O₂ (Oxígeno)"],
+    "answer": 1,
+    "explanation": "Las baterías al cargar desprenden hidrógeno, que es explosivo.",
+    "gva": {
+      "index": 476,
+      "sittings": ["2023-07"]
+    }
+  },
+  {
+    "id": "gva-0477",
+    "topic": "emerg",
+    "q": "Si navegando con una brisa ligera se produce un incendio en la cubierta a proa, lo más conveniente es:",
+    "options": [
+      "Navegar proa al viento aumentando la velocidad",
+      "Navegar atravesados al viento",
+      "Parar la embarcación y dejar que se atraviese al viento",
+      "Navegar popa al viento y a la misma velocidad para tener un viento aparente con velocidad cero."
+    ],
+    "answer": 3,
+    "explanation": "Fuego a proa con poco viento: popa al viento a su misma velocidad, para que el viento aparente sea nulo.",
+    "gva": {
+      "index": 477,
+      "sittings": ["2023-07"]
+    }
+  },
+  {
+    "id": "gva-0478",
+    "topic": "emerg",
+    "q": "Si recogemos a un náufrago inconsciente y este presenta síntomas evidentes de hipotermia, para realizar una consulta con el servicio Radio Médico Español enlazaremos con el radioteléfono de VHF contactando con:",
+    "options": [
+      "SASEMAR",
+      "El Centro de Salud del puerto más próximo",
+      "Una Radio Costera",
+      "El hospital a través del servicio de urgencias"
+    ],
+    "answer": 2,
+    "explanation": "Radio-Médico por VHF: a través de una estación radio costera.",
+    "gva": {
+      "index": 478,
+      "sittings": ["2023-07"]
+    }
+  },
+  {
+    "id": "gva-0521",
+    "topic": "emerg",
+    "q": "En un fuego de un material sólido o líquido lo que arde es:",
+    "options": [
+      "El material mismo en combinación con el comburente",
+      "El material mismo en combinación con el aire",
+      "Los gases que desprende el material combustible en combinación con el comburente o aire",
+      "Una combinación entre el calor y el comburente sin tener en cuenta el material"
+    ],
+    "answer": 2,
+    "explanation": "Lo que arde son los gases que desprende el combustible.",
+    "gva": {
+      "index": 521,
+      "sittings": ["2023-11"]
+    }
+  },
+  {
+    "id": "gva-0522",
+    "topic": "emerg",
+    "q": "Los fuegos de clase “F”, son los producidos por:",
+    "options": [
+      "Aceites de grasas vegetales",
+      "Líquidos combustibles como el queroseno",
+      "Combustibles gaseosos",
+      "Combustibles sólidos como el carbón"
+    ],
+    "answer": 0,
+    "explanation": "Clase F: aceites y grasas de cocina.",
+    "gva": {
+      "index": 522,
+      "sittings": ["2023-11"]
+    }
+  },
+  {
+    "id": "gva-0523",
+    "topic": "emerg",
+    "q": "Para que un fuego una vez iniciado pueda continuar es necesario:",
+    "options": [
+      "Que se produzca una reacción en cadena",
+      "Bajar la concentración de gases combustibles por debajo del límite inferior de inflamabilidad",
+      "Procurar que la cantidad de oxígeno en el aire baje de su nivel normal",
+      "Que la temperatura no suba demasiado"
+    ],
+    "answer": 0,
+    "explanation": "Para que el fuego siga, tiene que mantenerse la reacción en cadena.",
+    "gva": {
+      "index": 523,
+      "sittings": ["2023-11"]
+    }
+  },
+  {
+    "id": "gva-0566",
+    "topic": "emerg",
+    "q": "En el supuesto de producirse una varada involuntaria en un fondo rocoso y se detenga la embarcación, ¿Cuál será la medida no aconsejada a tomar en primer lugar?",
+    "options": [
+      "Evaluar los daños",
+      "Esperar a la bajamar",
+      "Aligerar pesos con el fin de reducir calados",
+      "Dar atrás inmediatamente"
+    ],
+    "answer": 3,
+    "explanation": "Varado en roca, no se da atrás de inmediato: primero se evalúan los daños.",
+    "gva": {
+      "index": 566,
+      "sittings": ["2023-09"]
+    }
+  },
+  {
+    "id": "gva-0567",
+    "topic": "emerg",
+    "q": "Los fuegos de clase “A”, son los producidos por:",
+    "options": [
+      "Materias combustibles sólidas",
+      "Líquidos combustibles inflamables",
+      "Combustibles gaseosos",
+      "Aceites de cocina y derivados para cocinar"
+    ],
+    "answer": 0,
+    "explanation": "Clase A: sólidos.",
+    "gva": {
+      "index": 567,
+      "sittings": ["2023-09"]
+    }
+  },
+  {
+    "id": "gva-0568",
+    "topic": "emerg",
+    "q": "El procedimiento de extinción consistente en eliminar calor para reducir la temperatura del combustible, se denomina:",
+    "options": ["Sofocación", "Enfriamiento", "Aislamiento", "Ahogamiento"],
+    "answer": 1,
+    "explanation": "Enfriamiento.",
+    "gva": {
+      "index": 568,
+      "sittings": ["2023-09"]
+    }
+  },
+  {
+    "id": "gva-0611",
+    "topic": "emerg",
+    "q": "En el caso de una varada involuntaria. ¿Cuál de las siguientes medidas no es correcta?",
+    "options": [
+      "Esperar a la pleamar",
+      "Esperar a la bajamar",
+      "Achicar los tanques y aligerar los pesos con el fin de disminuir calados",
+      "Escorar la embarcación hacia el lugar más profundo"
+    ],
+    "answer": 1,
+    "explanation": "Esperar a la bajamar te deja más varado. Se espera a la pleamar.",
+    "gva": {
+      "index": 611,
+      "sittings": ["2024-04"]
+    }
+  },
+  {
+    "id": "gva-0612",
+    "topic": "emerg",
+    "q": "De las siguientes respuestas. ¿Cuál no se corresponde con las bengalas de mano obligatorias para las embarcaciones de recreo?",
+    "options": [
+      "Emitirán una luz brillante de color rojo",
+      "Tendrán una duración aproximada de un minuto",
+      "Será visible de noche con buena visibilidad unas seis millas",
+      "Sera visible de noche con mala visibilidad unas seis millas"
+    ],
+    "answer": 2,
+    "explanation": "La clave considera incorrecta la de «buena visibilidad, 6 mn».",
+    "gva": {
+      "index": 612,
+      "sittings": ["2024-04"]
+    }
+  },
+  {
+    "id": "gva-0613",
+    "topic": "emerg",
+    "q": "Uno de los procedimientos de extinción de un fuego que consiste en eliminar el oxígeno de la combustión, se denomina:",
+    "options": ["Sofocación", "Ahogamiento", "Las respuestas a y b son ciertas", "Enfriamiento"],
+    "answer": 2,
+    "explanation": "Sofocación o ahogamiento: lo mismo.",
+    "gva": {
+      "index": 613,
+      "sittings": ["2024-04"]
+    }
+  },
+  {
+    "id": "gva-0656",
+    "topic": "emerg",
+    "q": "¿Ante qué síntomas realizaremos un torniquete?",
+    "options": [
+      "Si se trata de una herida contusa",
+      "Si el herido presenta una hemorragia arterial con abundante sangrado",
+      "Si es una fractura cerrada en el brazo",
+      "Si el herido presenta una herida incisa en la pierna con muy poco sangrado"
+    ],
+    "answer": 1,
+    "explanation": "Torniquete solo para una hemorragia arterial abundante que no cede.",
+    "gva": {
+      "index": 656,
+      "sittings": ["2024-02"]
+    }
+  },
+  {
+    "id": "gva-0657",
+    "topic": "emerg",
+    "q": "Si hemos de solicitar un servicio radio médico, el horario de consultas será:",
+    "options": [
+      "De la 08 00 a las 20 00 cada día",
+      "De 07 00 a 20 00 de lunes a sábado",
+      "Todos los días durante las 24 horas",
+      "Durante las 24 horas de lunes a viernes"
+    ],
+    "answer": 2,
+    "explanation": "Radio-Médico: las 24 h, todos los días.",
+    "gva": {
+      "index": 657,
+      "sittings": ["2024-02", "2024-09"]
+    }
+  },
+  {
+    "id": "gva-0658",
+    "topic": "emerg",
+    "q": "Las bengalas de mano que son obligatorias llevar en los buques de recreo han de cumplir el requisito de:",
+    "options": [
+      "Mantenerse encendidas durante una hora",
+      "Estar equipadas con un paracaídas",
+      "Emitir una luz de color naranja",
+      "Estar homologadas por la DGMM"
+    ],
+    "answer": 3,
+    "explanation": "Las bengalas tienen que estar homologadas.",
+    "gva": {
+      "index": 658,
+      "sittings": ["2024-02"]
+    }
+  },
+  {
+    "id": "gva-0701",
+    "topic": "emerg",
+    "q": "¿Qué no debemos hacer cuando en un incendio utilicemos un extintor de polvo seco?",
+    "options": [
+      "Agitarlo antes de su uso",
+      "Presurizarlo antes de su utilización",
+      "Utilizarlo boca abajo",
+      "Inclinarlo ligeramente hacia el foco del incendio"
+    ],
+    "answer": 2,
+    "explanation": "El extintor de polvo nunca se usa boca abajo: no sale el agente.",
+    "gva": {
+      "index": 701,
+      "sittings": ["2024-06"]
+    }
+  },
+  {
+    "id": "gva-0702",
+    "topic": "emerg",
+    "q": "Los incendios producidos por material sólido que suelen dejar brasas corresponden a los fuegos de clase:",
+    "options": ["E", "B", "C", "A"],
+    "answer": 3,
+    "explanation": "Clase A: sólidos, que dejan brasas.",
+    "gva": {
+      "index": 702,
+      "sittings": ["2024-06", "2025-04"]
+    }
+  },
+  {
+    "id": "gva-0703",
+    "topic": "emerg",
+    "q": "En caso de navegar con mala mar y se decida abandonar la embarcación lo haremos por:",
+    "options": [
+      "Barlovento o sotavento dependiendo del oleaje y tipo de embarcación",
+      "Por la amura",
+      "Por la aleta",
+      "Todas las respuestas anteriores son ciertas"
+    ],
+    "answer": 3,
+    "explanation": "Para abandonar, el lado depende de la mar y del barco: todas.",
+    "gva": {
+      "index": 703,
+      "sittings": ["2024-06"]
+    }
+  },
+  {
+    "id": "gva-0730",
+    "topic": "emerg",
+    "q": "En el supuesto de que un miembro de la tripulación sufra una insolación, la medida o medidas a tomar serían:",
+    "options": [
+      "Colocar al accidentado en una zona cálida",
+      "Colocar al accidentado en una zona con poca luz",
+      "Administrarle un antihistamínico",
+      "Colocarle compresas de agua caliente en la cabeza"
+    ],
+    "answer": 1,
+    "explanation": "Insolación: sombra y poca luz.",
+    "gva": {
+      "index": 730,
+      "sittings": ["2024-09"]
+    }
+  },
+  {
+    "id": "gva-0731",
+    "topic": "emerg",
+    "q": "En la extinción de un incendio, el método de desalimentación consiste en:",
+    "options": [
+      "Retirar o eliminar el elemento combustible",
+      "Eliminar el oxígeno",
+      "Impedir la trasmisión de calor de unas partículas a otras del combustible",
+      "Ninguna de las respuestas anteriores es cierta"
+    ],
+    "answer": 0,
+    "explanation": "Desalimentación: retirar el combustible.",
+    "gva": {
+      "index": 731,
+      "sittings": ["2024-09"]
+    }
+  },
+  {
+    "id": "gva-0763",
+    "topic": "emerg",
+    "q": "El procedimiento de extinción de un incendio por sofocación consiste en:",
+    "options": [
+      "La rotura de la reacción en cadena",
+      "Evitar que entren en contacto el combustible y el oxígeno del aire",
+      "Bajar de temperatura el fuego",
+      "Eliminar el combustible"
+    ],
+    "answer": 1,
+    "explanation": "Sofocación: separar el combustible del oxígeno.",
+    "gva": {
+      "index": 763,
+      "sittings": ["2025-04"]
+    }
+  },
+  {
+    "id": "gva-0764",
+    "topic": "emerg",
+    "q": "La clasificación UNE de los incendios define la clase F como:",
+    "options": [
+      "Fuegos de combustibles sólidos",
+      "Fuegos que tienen por combustibles aceites y grasas que provienen de vegetales y animales",
+      "Fuegos de combustibles líquidos",
+      "Fuegos de combustibles gaseosos"
+    ],
+    "answer": 1,
+    "explanation": "Clase F: aceites y grasas vegetales o animales.",
+    "gva": {
+      "index": 764,
+      "sittings": ["2025-04"]
+    }
+  },
+  {
+    "id": "gva-0783",
+    "topic": "emerg",
+    "q": "En el supuesto de producirse una varada involuntaria de la embarcación en un fondo rocoso. ¿Cuál será la medida a tomar no aconsejada?",
+    "options": [
+      "Evaluar los daños",
+      "Esperar a la bajamar",
+      "Aligerar pesos con el fin de reducir calados",
+      "Dar atrás inmediatamente"
+    ],
+    "answer": 3,
+    "explanation": "No dar atrás de inmediato.",
+    "gva": {
+      "index": 783,
+      "sittings": ["2025-06"]
+    }
+  },
+  {
+    "id": "gva-0784",
+    "topic": "emerg",
+    "q": "Los fuegos de clase “A”, son los producidos por:",
+    "options": [
+      "Materiales combustibles sólidos",
+      "Líquidos combustibles inflamables",
+      "Combustibles gaseosos",
+      "Aceites de cocina y derivados para cocinar"
+    ],
+    "answer": 0,
+    "explanation": "Clase A: sólidos.",
+    "gva": {
+      "index": 784,
+      "sittings": ["2025-06"]
+    }
+  },
+  {
+    "id": "gva-0785",
+    "topic": "emerg",
+    "q": "Para que el fuego una vez iniciado pueda continuar, es necesario:",
+    "options": [
+      "Que se produzca una reacción en cadena",
+      "Bajar la concentración de gases combustibles por debajo del límite inferior de inflamabilidad",
+      "Procurar que la cantidad de oxígeno en el aire baje de su nivel normal",
+      "Que la temperatura no suba demasiado"
+    ],
+    "answer": 0,
+    "explanation": "Reacción en cadena.",
+    "gva": {
+      "index": 785,
+      "sittings": ["2025-06"]
+    }
+  },
+  {
+    "id": "gva-0819",
+    "topic": "emerg",
+    "q": "Los fuegos de clase “B”, son los producidos por:",
+    "options": [
+      "Líquidos combustibles inflamables",
+      "Combustibles gaseosos",
+      "Materias combustibles sólidas no licuables",
+      "Derivados de aceites para cocinar"
+    ],
+    "answer": 0,
+    "explanation": "Clase B: líquidos inflamables.",
+    "gva": {
+      "index": 819,
+      "sittings": ["2025-09"]
+    }
+  },
+  {
+    "id": "gva-0820",
+    "topic": "emerg",
+    "q": "¿Cómo se denomina al procedimiento de extinción consistente en eliminar calor para reducir la temperatura del combustible?",
+    "options": ["Enfriamiento", "Sofocación", "Ahogamiento", "Ninguna respuesta es cierta"],
+    "answer": 0,
+    "explanation": "Enfriamiento.",
+    "gva": {
+      "index": 820,
+      "sittings": ["2025-09"]
+    }
+  },
+  {
+    "id": "gva-0854",
+    "topic": "emerg",
+    "q": "Cuando en una herida abierta, la sangre es de un rojo oscuro y sale de forma continua, decimos que nos encontramos ante una hemorragia…",
+    "options": ["Capilar.", "Venosa.", "Arterial.", "Femoral."],
+    "answer": 1,
+    "explanation": "Sangre oscura que sale continua: venosa. La arterial es roja viva y sale a borbotones.",
+    "gva": {
+      "index": 854,
+      "sittings": ["2026-04"]
+    }
+  },
+  {
+    "id": "gva-0855",
+    "topic": "emerg",
+    "q": "En caso de “persona al agua”, ¿qué objetos podremos lanzar al náufrago?",
+    "options": [
+      "Ninguno, podríamos dañar al náufrago.",
+      "Únicamente un aro salvavidas.",
+      "Todos los objetos flotantes que encuentre, tales como defensas, chalecos, etc.",
+      "Ninguno, el Convenio MARPOL lo prohíbe."
+    ],
+    "answer": 2,
+    "explanation": "Al náufrago se le lanza cualquier objeto que flote.",
+    "gva": {
+      "index": 855,
+      "sittings": ["2026-04"]
+    }
+  },
+  {
+    "id": "gva-0895",
+    "topic": "emerg",
+    "q": "En la clasificación del fuego según el tipo de combustible que los genera, el fuego clase A es producido por materiales:",
+    "options": ["Eléctricos.", "Gaseosos.", "Sólidos.", "Líquidos."],
+    "answer": 2,
+    "explanation": "Clase A: sólidos.",
+    "gva": {
+      "index": 895,
+      "sittings": ["2026-07"]
+    }
+  },
+  {
+    "id": "gva-0896",
+    "topic": "emerg",
+    "q": "¿Cómo se tratará una quemadura?",
+    "options": [
+      "Sobre la quemadura se aplicarán gasas y sustancias aceitosas.",
+      "Aplicaremos pasta dentífrica.",
+      "Colocaremos hielo sobre la quemadura para que se enfríe.",
+      "Aplicaremos apósitos grasos y venda."
+    ],
+    "answer": 3,
+    "explanation": "La clave dice apósitos grasos y venda. Hoy primero se enfría con agua; nunca hielo ni pasta de dientes.",
+    "gva": {
+      "index": 896,
+      "sittings": ["2026-07"]
+    }
+  },
+  {
+    "id": "gva-0897",
+    "topic": "emerg",
+    "q": "¿Qué es un heliógrafo?",
+    "options": [
+      "Un aparato que sirve para hacer señales aprovechando la luz solar.",
+      "Un aparato que registra las ondas de radio.",
+      "Un aparato que registra los balances del barco.",
+      "Un aparato que registra las emisiones de helio."
+    ],
+    "answer": 0,
+    "explanation": "Heliógrafo: espejo para hacer señales con el sol.",
+    "gva": {
+      "index": 897,
+      "sittings": ["2026-07"]
+    }
+  },
+  {
+    "id": "gva-0940",
+    "topic": "emerg",
+    "q": "En el caso de recoger a un náufrago con síntomas de hipotermia y se encuentra consciente, debemos:",
+    "options": [
+      "Darle pequeños tragos de bebidas alcohólicas.",
+      "Darle bebidas frías por la boca.",
+      "Darle bebidas calientes azucaradas.",
+      "Ninguna de las respuestas anteriores es cierta."
+    ],
+    "answer": 2,
+    "explanation": "Bebidas calientes azucaradas, solo si está consciente.",
+    "gva": {
+      "index": 940,
+      "sittings": ["2026-10"]
+    }
+  },
+  {
+    "id": "gva-0941",
+    "topic": "emerg",
+    "q": "En caso de producirse un incendio a bordo deberemos…",
+    "options": [
+      "Maniobrar para que la parte incendiada quede a sotavento.",
+      "Maniobrar para que la parte incendiada quede a barlovento.",
+      "Parar el motor.",
+      "Cualquiera de las respuestas anteriores es correcta."
+    ],
+    "answer": 0,
+    "explanation": "Incendio: maniobra para dejar el fuego a sotavento.",
+    "gva": {
+      "index": 941,
+      "sittings": ["2026-10"]
+    }
+  },
+  {
+    "id": "gva-0942",
+    "topic": "emerg",
+    "q": "Según la clasificación UNE, los fuegos producidos por sustancias que arden en estado gaseoso y a presión son:",
+    "options": ["De clase “F”.", "De clase “C”.", "De clase “A”.", "De clase “B”."],
+    "answer": 1,
+    "explanation": "Clase C: gases.",
+    "gva": {
+      "index": 942,
+      "sittings": ["2026-10"]
+    }
+  }
+]

@@ -104,22 +104,26 @@ npm run validate:content
 
 ## 3. Content model and stable IDs (ADR-0002)
 
-The positional arrays become objects:
+The positional arrays become objects. **As built in F3** (`src/content/schema.ts`, decision record `docs/decisions/0002-question-ids.md`):
 
 ```jsonc
 {
-  "id": "gva-2019-11-001",          // guide: "g-ripa-0042". Never reused, never renumbered
-  "topic": "nom",                   // one of the 11 keys from EXAM-SPEC
-  "q": "¿Cómo se llama…?",
-  "options": ["…", "…", "…", "…"],
+  "id": "gva-0587",                 // guide: "g-0042". Permanent: never reused or renumbered
+  "topic": "carta",                 // one of the 11 keys from EXAM-SPEC
+  "q": "¿…?",
+  "options": ["…", "…", "…", "…"],  // exactly 4
   "answer": 0,
-  "explanation": "…",
-  "source": { "kind": "gva", "sittings": ["2019-11"], "index": 0 },   // or {kind:"guide", chapter:1, section:"casco"}
-  "refs": ["tema/1#casco"],         // deep link to the related theory (used in phase 2)
-  "law": ["RD 875/2014"],           // optional, for the outdated-rule audit
-  "status": "ok"                    // ok | needs-review | outdated
+  "explanation": "…",               // may be empty (warning)
+  "gva": {                          // real exam questions only
+    "index": 587,                   // original index; progress key r:<index>
+    "sittings": ["2024-04"],
+    "keyRevised": true,             // optional: official key was revised
+    "image": "img/gva-0587.jpg"     // optional: figure, inlined at build
+  }
 }
 ```
+
+The planned `refs` (links to theory), `law` and `status` fields are left out until something uses them (phase 2: theory links; content audits: status).
 
 - **The validator** (`npm run validate:content`) checks:
   - the schema;
@@ -131,6 +135,7 @@ The positional arrays become objects:
   - known outdated terms (an editable list in `content/outdated-terms.json`, e.g. superseded RD numbers).
 
   It exits with a non-zero code on any error, and can report as human-readable text or `--json` for hooks.
+  *As built:* errors for schema, ids (format, uniqueness, order, gva id = index), topic vs. file, folder, repeated options (signs count: "+5°" ≠ "−5°"), shared progress keys, missing images; warnings for empty explanations and repeated question text. The outdated-terms list is deferred to `/content-audit` (F7), since nobody has checked which terms are outdated yet.
 - **Migration:** the IDs are assigned once by `extract-baseline.ts`, in the same order as today's bank. `migrate-progress.ts` maps the existing `per2:` progress to the new IDs the first time the new app loads. An e2e test proves that seeded old progress survives.
 
 ---

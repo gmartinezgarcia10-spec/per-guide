@@ -1,0 +1,3324 @@
+[
+  {
+    "id": "gva-0017",
+    "topic": "ripa",
+    "q": "¿Qué parámetro no se tendrá en cuenta a la hora de determinar la velocidad de seguridad?:",
+    "options": [
+      "El estado de visibilidad.",
+      "La densidad del tráfico.",
+      "La maniobrabilidad del buque.",
+      "La nacionalidad de la embarcación."
+    ],
+    "answer": 3,
+    "explanation": "Regla 6: visibilidad, tráfico, maniobrabilidad, luces de fondo, viento y mar, calado frente a fondo. La bandera no cuenta.",
+    "gva": {
+      "index": 17,
+      "sittings": ["2019-11"]
+    }
+  },
+  {
+    "id": "gva-0018",
+    "topic": "ripa",
+    "q": "Como concluye este párrafo de la Regla 7; “Riesgo de abordaje”: a) Cada buque hará uso de todos los medios de que disponga a bordo y que sean apropiados a las circunstancias y condiciones del momento, para determinar si existe riesgo de abordaje. En caso de abrigarse alguna duda,…:",
+    "options": [
+      "Se maniobrará inmediatamente cayendo de manera significativa a babor.",
+      "Se considerará que el riesgo no existe.",
+      "Se maniobrará inmediatamente cayendo de manera significativa a estribor.",
+      "Se considerará que el riesgo existe."
+    ],
+    "answer": 3,
+    "explanation": "Regla 7: ante la duda, se considera que el riesgo existe.",
+    "gva": {
+      "index": 18,
+      "sittings": ["2019-11"]
+    }
+  },
+  {
+    "id": "gva-0019",
+    "topic": "ripa",
+    "q": "En visibilidad reducida, los buques sin gobierno o con capacidad de maniobra restringida, los buques restringidos por su calado, los buques de vela y los buques dedicados a la pesca, emitirán a intervalos que no excedan de dos minutos:",
+    "options": [
+      "Tres pitadas consecutivas, una larga seguida por dos cortas.",
+      "Una pitada larga.",
+      "Cuatro pitadas consecutivas, dos largas seguidas de dos cortas.",
+      "Dos pitadas cortas."
+    ],
+    "answer": 0,
+    "explanation": "Sin gobierno, maniobra restringida, calado, vela, pesca y remolque en niebla: larga + dos cortas cada 2 min.",
+    "gva": {
+      "index": 19,
+      "sittings": ["2019-11"]
+    }
+  },
+  {
+    "id": "gva-0020",
+    "topic": "ripa",
+    "q": "Como concluye el párrafo de la regla 17; “Maniobra del buque que “sigue a rumbo”” a) I) Cuando uno de los buques deba mantenerse apartado de la derrota del otro, este último….",
+    "options": [
+      "Mantendrá rumbo y velocidad.",
+      "Mantendrá la velocidad y realizará pequeños cambios de rumbo a babor de manera continua.",
+      "Actuará con su propia maniobra.",
+      "Maniobrará con anticipación suficiente."
+    ],
+    "answer": 0,
+    "explanation": "Regla 17: el que sigue a rumbo mantiene rumbo y velocidad.",
+    "gva": {
+      "index": 20,
+      "sittings": ["2019-11"]
+    }
+  },
+  {
+    "id": "gva-0021",
+    "topic": "ripa",
+    "q": "Un buque de propulsión mecánica que se aproxima a otro buque de iguales características con una marcación de 20º a popa del través y por la banda de estribor es un buque que:",
+    "options": ["Cruza.", "Alcanza.", "De vuelta encontrada.", "Sigue a rumbo."],
+    "answer": 0,
+    "explanation": "Alcanza solo quien viene a más de 22,5º a popa del través. A 20º se cruza.",
+    "gva": {
+      "index": 21,
+      "sittings": ["2019-11"]
+    }
+  },
+  {
+    "id": "gva-0022",
+    "topic": "ripa",
+    "q": "¿Cuál es la señal acústica que se usa cuando albergas dudas de las intenciones de otro buque?:",
+    "options": ["Una pitada larga.", "Dos pitadas cortas.", "Dos pitadas largas.", "Cinco pitadas cortas."],
+    "answer": 3,
+    "explanation": "Duda o advertencia: al menos cinco pitadas cortas y rápidas.",
+    "gva": {
+      "index": 22,
+      "sittings": ["2019-11"]
+    }
+  },
+  {
+    "id": "gva-0023",
+    "topic": "ripa",
+    "q": "En la regla 18; “Obligaciones entre categorías de buques”: b) Los buques de vela en navegación, se mantendrán apartados de la derrota de,…¿Cuál de las respuestas NO es correcta?:",
+    "options": [
+      "Un buque sin gobierno.",
+      "Un buque con capacidad de maniobra restringida.",
+      "Un buque dedicado a la pesca.",
+      "Un buque de propulsión mecánica."
+    ],
+    "answer": 3,
+    "explanation": "El velero se aparta del sin gobierno, el de maniobra restringida y el pesquero. Del de propulsión mecánica, no.",
+    "gva": {
+      "index": 23,
+      "sittings": ["2019-11"]
+    }
+  },
+  {
+    "id": "gva-0024",
+    "topic": "ripa",
+    "q": "¿Qué embarcación se identifica con dos luces todo horizonte en línea vertical roja la superior y verde la inferior?:",
+    "options": [
+      "Buque de vela.",
+      "Buque de pesca de arrastre.",
+      "Embarcación de práctico.",
+      "Buque fondeado."
+    ],
+    "answer": 0,
+    "explanation": "Roja sobre verde en el tope: vela (opcional). «Rojo sobre verde, vela se ve».",
+    "gva": {
+      "index": 24,
+      "sittings": ["2019-11"]
+    }
+  },
+  {
+    "id": "gva-0025",
+    "topic": "ripa",
+    "q": "Si escucho únicamente un repique de campanas de una duración de 5 segundos repetido cada minuto, en una situación de visibilidad reducida:",
+    "options": [
+      "Estoy escuchando una señal de peligro.",
+      "Estoy escuchando una boya de entrada a puerto.",
+      "Estoy escuchando a una embarcación navegando que sale de un canal angosto .",
+      "Estoy escuchando a un buque fondeado de menos de 100 metros de eslora."
+    ],
+    "answer": 3,
+    "explanation": "Campana de 5 s cada minuto: fondeado de menos de 100 m. Si es mayor, añade gong a popa.",
+    "gva": {
+      "index": 25,
+      "sittings": ["2019-11"]
+    }
+  },
+  {
+    "id": "gva-0026",
+    "topic": "ripa",
+    "q": "La luz de remolque es una luz amarilla:",
+    "options": [
+      "Todo horizonte.",
+      "Centelleante.",
+      "Sin interrupción en todo un arco de horizonte de 225º.",
+      "Sin interrupción en todo un arco de horizonte 135º."
+    ],
+    "answer": 3,
+    "explanation": "Remolque: amarilla, 135º hacia popa, igual que la de alcance.",
+    "gva": {
+      "index": 26,
+      "sittings": ["2019-11"]
+    }
+  },
+  {
+    "id": "gva-0062",
+    "topic": "ripa",
+    "q": "En las definiciones generales la expresión “buque de vela” significa:",
+    "options": [
+      "Todo buque navegando a vela siempre que su maquinaria propulsora en caso de llevarla, no se esté utilizando.",
+      "Todo buque navegando a vela que también está usando su máquina propulsora.",
+      "Todo buque navegando a vela, se incluyen también los que únicamente usan remos.",
+      "Cualquier buque que tenga velas, aunque no las esté utilizando."
+    ],
+    "answer": 0,
+    "explanation": "Buque de vela: navega a vela sin usar el motor. Con el motor, es de propulsión mecánica.",
+    "gva": {
+      "index": 62,
+      "sittings": ["2021-04"]
+    }
+  },
+  {
+    "id": "gva-0063",
+    "topic": "ripa",
+    "q": "En las definiciones generales, por eslora y manga se entenderá:",
+    "options": [
+      "Eslora entre perpendiculares y manga de flotación.",
+      "Eslora entre perpendiculares y manga máxima.",
+      "Eslora de flotación y manga de flotación.",
+      "Eslora total y la manga máxima del buque."
+    ],
+    "answer": 3,
+    "explanation": "Eslora total y manga máxima.",
+    "gva": {
+      "index": 63,
+      "sittings": ["2021-04"]
+    }
+  },
+  {
+    "id": "gva-0064",
+    "topic": "ripa",
+    "q": "Entrando en puerto durante la noche, vemos salir de él una embarcación con luces de costado y dos luces todo horizonte en línea vertical, blanca la superior y roja la inferior, se trataría de:",
+    "options": [
+      "Una embarcación en servicio de practicaje.",
+      "Un barco de pesca con aparejo de arrastre.",
+      "Un barco de pesca con aparejo de cerco.",
+      "Un remolcador remolcando a otro barco."
+    ],
+    "answer": 0,
+    "explanation": "Blanca sobre roja: práctico en servicio («White hat, red nose»).",
+    "gva": {
+      "index": 64,
+      "sittings": ["2021-04"]
+    }
+  },
+  {
+    "id": "gva-0065",
+    "topic": "ripa",
+    "q": "En presencia de varios barcos a la vista unos de otros, oímos a uno de ellos emitir tres pitadas cortas, quiere esto decir:",
+    "options": [
+      "Que está cayendo a estribor.",
+      "Que está cayendo a babor.",
+      "Que manifiesta la intención de dejarnos por su estribor.",
+      "Que está dando atrás."
+    ],
+    "answer": 3,
+    "explanation": "Tres cortas: estoy dando atrás.",
+    "gva": {
+      "index": 65,
+      "sittings": ["2021-04"]
+    }
+  },
+  {
+    "id": "gva-0066",
+    "topic": "ripa",
+    "q": "Navegando por la noche vemos una luz blanca todo horizonte, debemos saber que se trata de:",
+    "options": [
+      "Un barco varado.",
+      "Una embarcación de vela o de remos de eslora superior a 7 metros y cuya velocidad máxima sea superior a 7 nudos.",
+      "Un barco de propulsión mecánica de eslora inferior a 7 metros y cuya velocidad máxima no sea superior a 7 nudos.",
+      "Un barco de eslora mayor de 12 metros en navegación."
+    ],
+    "answer": 2,
+    "explanation": "Una blanca todo horizonte: p. ej. propulsión mecánica de menos de 7 m y como mucho 7 nudos. (También podría ser un fondeado.)",
+    "gva": {
+      "index": 66,
+      "sittings": ["2021-04"]
+    }
+  },
+  {
+    "id": "gva-0067",
+    "topic": "ripa",
+    "q": "En las definiciones generales la expresión “en navegación” se aplica:",
+    "options": [
+      "A un buque que no esté fondeado ni pescando en arrastre.",
+      "Únicamente a un buque que no esté amarrado a tierra.",
+      "Únicamente a un buque que no esté varado.",
+      "A un buque que no estén ni fondeados, ni amarrado a tierra, ni varado."
+    ],
+    "answer": 3,
+    "explanation": "En navegación: ni fondeado, ni amarrado, ni varado.",
+    "gva": {
+      "index": 67,
+      "sittings": ["2021-04"]
+    }
+  },
+  {
+    "id": "gva-0068",
+    "topic": "ripa",
+    "q": "Un buque se encuentra sin gobierno cuando:",
+    "options": [
+      "Por cualquier circunstancia excepcional es incapaz de maniobrar en la forma exigida por el reglamento y no puede apartarse de la derrota de otro buque.",
+      "No puede maniobrar por encontrarse fondeado.",
+      "Tira de un remolque.",
+      "Esta abanderado en un país no reconocido por la ONU."
+    ],
+    "answer": 0,
+    "explanation": "Sin gobierno: no puede maniobrar por una circunstancia excepcional y no puede apartarse.",
+    "gva": {
+      "index": 68,
+      "sittings": ["2021-04"]
+    }
+  },
+  {
+    "id": "gva-0069",
+    "topic": "ripa",
+    "q": "Cuando un buque alcanza a otro durante la noche verá:",
+    "options": [
+      "Su luz de alcance y la de un costado.",
+      "La luz de alcance y el tope de popa.",
+      "La luz de alcance, la del costado correspondiente y los topes.",
+      "La luz de alcance únicamente."
+    ],
+    "answer": 3,
+    "explanation": "Por la popa solo se ve la luz de alcance.",
+    "gva": {
+      "index": 69,
+      "sittings": ["2021-04"]
+    }
+  },
+  {
+    "id": "gva-0070",
+    "topic": "ripa",
+    "q": "¿Podemos navegar a vela por la zona de navegación costera adyacente a la vía de separación de tráfico?:",
+    "options": [
+      "Sí, si el velero es de eslora inferior a 10 metros.",
+      "Sí, si el velero es de eslora inferior a 20 metros.",
+      "Sí, independientemente de la eslora.",
+      "No, nunca."
+    ],
+    "answer": 2,
+    "explanation": "Las zonas de navegación costera las pueden usar los veleros (de cualquier eslora), los de menos de 20 m y los pesqueros.",
+    "gva": {
+      "index": 70,
+      "sittings": ["2021-04"]
+    }
+  },
+  {
+    "id": "gva-0071",
+    "topic": "ripa",
+    "q": "El arco de visibilidad de la luz verde de estribor es de:",
+    "options": [
+      "100 grados.",
+      "112,5 grados.",
+      "122,5 grados.",
+      "Un arco de horizonte similar a la luz de babor y a la luz de alcance."
+    ],
+    "answer": 1,
+    "explanation": "Costados: 112,5º cada uno.",
+    "gva": {
+      "index": 71,
+      "sittings": ["2021-04"]
+    }
+  },
+  {
+    "id": "gva-0107",
+    "topic": "ripa",
+    "q": "Un buque de vela, navegando a vela y a motor, deberá exhibir a proa:",
+    "options": [
+      "Una esfera negra.",
+      "Una marca bicónica.",
+      "Un cono con el vértice hacia arriba.",
+      "Un cono con el vértice hacia abajo."
+    ],
+    "answer": 3,
+    "explanation": "Vela y motor: cono con el vértice hacia abajo, a proa.",
+    "gva": {
+      "index": 107,
+      "sittings": ["2021-07"]
+    }
+  },
+  {
+    "id": "gva-0108",
+    "topic": "ripa",
+    "q": "Cuando dos embarcaciones de vela se encuentren navegando de vuelta encontrada con riesgo de abordaje, habrá de maniobrar:",
+    "options": [
+      "La embarcación mayor.",
+      "La que vea a la otra por su costado de estribor.",
+      "La que reciba el viento por babor.",
+      "La que reciba el viento por estribor."
+    ],
+    "answer": 2,
+    "explanation": "Entre veleros con distinta amura, se aparta el que recibe el viento por babor.",
+    "gva": {
+      "index": 108,
+      "sittings": ["2021-07"]
+    }
+  },
+  {
+    "id": "gva-0109",
+    "topic": "ripa",
+    "q": "Un barco que exhibe en la proa dos bolas verticales en el lugar más visible, ¿se trata de?:",
+    "options": [
+      "Un barco fondeado.",
+      "Un barco dedicado a la pesca.",
+      "Un barco con su capacidad de maniobra restringida.",
+      "Un barco sin gobierno."
+    ],
+    "answer": 3,
+    "explanation": "Dos bolas: sin gobierno.",
+    "gva": {
+      "index": 109,
+      "sittings": ["2021-07"]
+    }
+  },
+  {
+    "id": "gva-0110",
+    "topic": "ripa",
+    "q": "Si navegando con niebla escuchamos, por nuestra proa, la señal fónica consistente en una pitada larga seguida de dos cortas cada dos minutos, puede tratarse de:",
+    "options": [
+      "Un buque sin gobierno.",
+      "Un buque fondeado.",
+      "Un buque de propulsión mecánica parado.",
+      "Un buque varado."
+    ],
+    "answer": 0,
+    "explanation": "Larga + dos cortas: sin gobierno (o maniobra restringida, calado, vela, pesca, remolque).",
+    "gva": {
+      "index": 110,
+      "sittings": ["2021-07"]
+    }
+  },
+  {
+    "id": "gva-0111",
+    "topic": "ripa",
+    "q": "Un buque de 115 metros de eslora deberá ir dotado con:",
+    "options": ["Una campana.", "Un pito y una campana.", "Un pito, una campana y un gong.", "Un pito."],
+    "answer": 2,
+    "explanation": "100 m o más: pito, campana y gong.",
+    "gva": {
+      "index": 111,
+      "sittings": ["2021-07"]
+    }
+  },
+  {
+    "id": "gva-0112",
+    "topic": "ripa",
+    "q": "Los buques dedicados a la pesca, que no sea de arrastre, exhibirán durante la noche:",
+    "options": [
+      "Dos luces todo horizonte en línea vertical, verde la superior y blanca la inferior.",
+      "Dos luces todo horizonte en línea vertical, roja la superior y blanca la inferior.",
+      "Dos luces todo horizonte en línea vertical, roja la superior y verde la inferior.",
+      "Dos luces rojas todo horizonte en línea vertical."
+    ],
+    "answer": 1,
+    "explanation": "Pesca de no arrastre: roja sobre blanca.",
+    "gva": {
+      "index": 112,
+      "sittings": ["2021-07"]
+    }
+  },
+  {
+    "id": "gva-0113",
+    "topic": "ripa",
+    "q": "Dentro de una zona de visibilidad reducida, un buque de propulsión mecánica en navegación, pero parado y sin arrancada, emitirá a intervalos que no excedan de dos minutos:",
+    "options": [
+      "Una pitada larga.",
+      "Dos pitadas largas consecutivas.",
+      "Cuatro pitadas largas consecutivas.",
+      "Tres pitadas consecutivas, a saber, una larga seguida por dos cortas."
+    ],
+    "answer": 1,
+    "explanation": "Parado y sin arrancada: dos largas cada 2 min.",
+    "gva": {
+      "index": 113,
+      "sittings": ["2021-07"]
+    }
+  },
+  {
+    "id": "gva-0114",
+    "topic": "ripa",
+    "q": "Si buque de propulsión mecánica que está a la vista nos emite dos pitadas cortas, nos indica:",
+    "options": ["Que está dando atrás.", "Que está dando avante.", "Que cae a estribor.", "Que cae a babor."],
+    "answer": 3,
+    "explanation": "Dos cortas: caigo a babor.",
+    "gva": {
+      "index": 114,
+      "sittings": ["2021-07"]
+    }
+  },
+  {
+    "id": "gva-0115",
+    "topic": "ripa",
+    "q": "Todo buque restringido por su calado podrá mostrar en el lugar más visible:",
+    "options": [
+      "Dos luces rojas todo horizonte en línea vertical o un cilindro.",
+      "Tres luces blancas todo horizonte en línea vertical o un cono con el vértice hacia abajo.",
+      "Tres luces rojas todo horizonte en línea vertical o un cono con el vértice hacia abajo.",
+      "Tres luces rojas todo horizonte en línea vertical o un cilindro."
+    ],
+    "answer": 3,
+    "explanation": "Calado: tres rojas en vertical o un cilindro.",
+    "gva": {
+      "index": 115,
+      "sittings": ["2021-07"]
+    }
+  },
+  {
+    "id": "gva-0116",
+    "topic": "ripa",
+    "q": "Los buques de vela en navegación podrán exhibir en el tope del palo o cerca de él, en el lugar más visible:",
+    "options": [
+      "Dos luces todo horizonte en línea vertical, verde la superior y roja la inferior.",
+      "Dos luces todo horizonte en línea vertical, roja la superior y verde la inferior.",
+      "Dos luces todo horizonte en línea vertical, verde la superior y blanca la inferior.",
+      "Dos luces todo horizonte en línea vertical, roja la superior y blanca la inferior."
+    ],
+    "answer": 1,
+    "explanation": "Vela, opcional en el tope: roja sobre verde.",
+    "gva": {
+      "index": 116,
+      "sittings": ["2021-07"]
+    }
+  },
+  {
+    "id": "gva-0152",
+    "topic": "ripa",
+    "q": "Si navegando con niebla cerrada escuchamos dos pitadas largas consecutivas separadas por un intervalo de dos segundos entre ambas, se puede tratar de:",
+    "options": [
+      "Un buque de propulsión mecánica en navegación, pero parado y sin arrancada.",
+      "Un buque sin gobierno.",
+      "Un buque con capacidad de maniobra restringida.",
+      "Un buque de propulsión mecánica con arrancada."
+    ],
+    "answer": 0,
+    "explanation": "Dos largas: propulsión mecánica parado y sin arrancada.",
+    "gva": {
+      "index": 152,
+      "sittings": ["2021-06"]
+    }
+  },
+  {
+    "id": "gva-0153",
+    "topic": "ripa",
+    "q": "Un buque de 15 metros de eslora deberá ir dotado con:",
+    "options": ["Una campana.", "Un pito y una campana.", "Un pito, una campana y un gong.", "Un pito."],
+    "answer": 3,
+    "explanation": "De 12 a 20 m: pito. Desde 20 m: más campana.",
+    "gva": {
+      "index": 153,
+      "sittings": ["2021-06"]
+    }
+  },
+  {
+    "id": "gva-0154",
+    "topic": "ripa",
+    "q": "Un barco en navegación haciendo combustible a efectos del RIPA es un buque:",
+    "options": [
+      "Sin arrancada.",
+      "Sin gobierno.",
+      "Con capacidad de maniobra restringida.",
+      "Restringido por su calado."
+    ],
+    "answer": 2,
+    "explanation": "Repostar navegando restringe la maniobra: maniobra restringida.",
+    "gva": {
+      "index": 154,
+      "sittings": ["2021-06"]
+    }
+  },
+  {
+    "id": "gva-0155",
+    "topic": "ripa",
+    "q": "¿Qué marca deberá exhibir un barco de vela navegando también a motor?:",
+    "options": [
+      "Una bola negra.",
+      "Una marca bicónica.",
+      "Un cono con el vértice hacia arriba.",
+      "Un cono con el vértice hacia abajo."
+    ],
+    "answer": 3,
+    "explanation": "Cono con el vértice abajo.",
+    "gva": {
+      "index": 155,
+      "sittings": ["2021-06"]
+    }
+  },
+  {
+    "id": "gva-0156",
+    "topic": "ripa",
+    "q": "Un barco que muestra de día un cilindro en el lugar más visible; se trata de:",
+    "options": [
+      "Un buque varado.",
+      "Un buque dedicado a la pesca.",
+      "Un buque sin gobierno.",
+      "Un buque de propulsión mecánica restringido por su calado."
+    ],
+    "answer": 3,
+    "explanation": "Cilindro: restringido por su calado.",
+    "gva": {
+      "index": 156,
+      "sittings": ["2021-06"]
+    }
+  },
+  {
+    "id": "gva-0157",
+    "topic": "ripa",
+    "q": "¿Si un buque de propulsión mecánica que está a la vista nos emite una pitada corta nos está indicando?:",
+    "options": ["Que cae a babor.", "Que cae a estribor.", "Que da atrás.", "Que da avante."],
+    "answer": 1,
+    "explanation": "Una corta: caigo a estribor.",
+    "gva": {
+      "index": 157,
+      "sittings": ["2021-06"]
+    }
+  },
+  {
+    "id": "gva-0158",
+    "topic": "ripa",
+    "q": "Si dos veleros que reciben el viento por la misma banda se aproximan con riesgo de abordaje. ¿Quién deberá gobernar?:",
+    "options": [
+      "El que recibe el viento por babor.",
+      "El que recibe el viento por estribor.",
+      "El buque que está a barlovento.",
+      "El buque que está a sotavento."
+    ],
+    "answer": 2,
+    "explanation": "Misma amura: se aparta el de barlovento.",
+    "gva": {
+      "index": 158,
+      "sittings": ["2021-06"]
+    }
+  },
+  {
+    "id": "gva-0159",
+    "topic": "ripa",
+    "q": "Según el RIPA La luz de remolque:",
+    "options": [
+      "Es una luz amarilla colocada sobre el eje longitudinal del buque, que muestra su luz sin interrupción en todo un arco del horizonte de 225 grados.",
+      "Es una luz blanca colocada lo más cerca posible de la popa que muestra su luz sin interrupción en todo un arco del horizonte de 135 grados.",
+      "Es una luz amarilla colocada lo más cerca posible de la popa que muestra su luz sin interrupción en todo un arco del horizonte de 135 grados.",
+      "Es una luz amarilla que es visible sin interrupción en un arco de horizonte de 360 grados."
+    ],
+    "answer": 2,
+    "explanation": "Remolque: amarilla, lo más a popa posible, 135º (como la de alcance pero amarilla).",
+    "gva": {
+      "index": 159,
+      "sittings": ["2021-06"]
+    }
+  },
+  {
+    "id": "gva-0160",
+    "topic": "ripa",
+    "q": "Si navegando por la noche vemos un barco que exhibe dos luces rojas todo horizonte en la misma vertical, se trata de:",
+    "options": [
+      "Un buque restringido por su calado.",
+      "Una embarcación de práctico.",
+      "Un buque de pesca de no arrastre.",
+      "Un buque con capacidad de maniobra restringida."
+    ],
+    "answer": 3,
+    "explanation": "⚠ Clave dudosa. Dos rojas en vertical son un buque sin gobierno, que no aparece entre las opciones. La plantilla marca «maniobra restringida» (roja-blanca-roja).",
+    "gva": {
+      "index": 160,
+      "sittings": ["2021-06"],
+      "keyRevised": true
+    }
+  },
+  {
+    "id": "gva-0196",
+    "topic": "ripa",
+    "q": "Un buque exhibe de día un cilindro; se trata de:",
+    "options": [
+      "Un buque dedicado a la pesca.",
+      "Un buque con capacidad de maniobra restringida.",
+      "Un buque sin gobierno.",
+      "Un buque restringido por su calado."
+    ],
+    "answer": 3,
+    "explanation": "Cilindro: calado.",
+    "gva": {
+      "index": 196,
+      "sittings": ["2021-11"]
+    }
+  },
+  {
+    "id": "gva-0197",
+    "topic": "ripa",
+    "q": "Con niebla cerrada un buque de vela emitirá:",
+    "options": [
+      "Una pitada larga a intervalos que no excedan de dos minutos.",
+      "A intervalos que no excedan a dos minutos, dos pitadas largas consecutivas separadas por un intervalo de dos segundos entre ambas.",
+      "A intervalos que no excedan a dos minutos, tres pitadas consecutivas, a saber, una pitada larga seguida de dos cortas.",
+      "A intervalos que no excedan a dos minutos, cuatro pitadas consecutivas, a saber, una pitada larga seguida de tres cortas."
+    ],
+    "answer": 2,
+    "explanation": "Vela en niebla: larga + dos cortas.",
+    "gva": {
+      "index": 197,
+      "sittings": ["2021-11"]
+    }
+  },
+  {
+    "id": "gva-0198",
+    "topic": "ripa",
+    "q": "Un buque exhibe de día tres bolas en línea vertical; se trata de:",
+    "options": [
+      "Un buque dedicado a la pesca.",
+      "Un buque con capacidad de maniobra restringida.",
+      "Un buque sin gobierno.",
+      "Un buque varado."
+    ],
+    "answer": 3,
+    "explanation": "Tres bolas: varado.",
+    "gva": {
+      "index": 198,
+      "sittings": ["2021-11"]
+    }
+  },
+  {
+    "id": "gva-0199",
+    "topic": "ripa",
+    "q": "Según el RIPA La luz de alcance:",
+    "options": [
+      "Es una luz amarilla colocada sobre el eje longitudinal del buque, que muestra su luz sin interrupción en todo un arco del horizonte de 225 grados.",
+      "Es una luz blanca colocada lo más cerca posible de la popa que muestra su luz sin interrupción en todo un arco del horizonte de 135 grados.",
+      "Es una luz amarilla colocada lo más cerca posible de la popa que muestra su luz sin interrupción en todo un arco del horizonte de 135 grados.",
+      "Es una luz blanca que es visible sin interrupción en un arco de horizonte de 360 grados."
+    ],
+    "answer": 1,
+    "explanation": "Alcance: blanca, a popa, 135º.",
+    "gva": {
+      "index": 199,
+      "sittings": ["2021-11"]
+    }
+  },
+  {
+    "id": "gva-0200",
+    "topic": "ripa",
+    "q": "Un buque de 20 metros de eslora deberá ir dotado con el siguiente equipo de señales acústicas:",
+    "options": ["Un pito.", "Una campana.", "Un pito y una campana.", "Un pito, una campana y un gong."],
+    "answer": 2,
+    "explanation": "20 m: pito y campana.",
+    "gva": {
+      "index": 200,
+      "sittings": ["2021-11"]
+    }
+  },
+  {
+    "id": "gva-0201",
+    "topic": "ripa",
+    "q": "Un barco en navegación dedicado a dragados efectos del RIPA es un buque:",
+    "options": [
+      "De propulsión mecánica.",
+      "Sin gobierno.",
+      "Con capacidad de maniobra restringida.",
+      "Restringido por su calado."
+    ],
+    "answer": 2,
+    "explanation": "Dragado: maniobra restringida.",
+    "gva": {
+      "index": 201,
+      "sittings": ["2021-11"]
+    }
+  },
+  {
+    "id": "gva-0202",
+    "topic": "ripa",
+    "q": "Si navegando oímos la pitada continua de un buque que se encuentra a la vista. ¿Qué nos estará indicando?:",
+    "options": [
+      "Que cae a estribor.",
+      "Que cae a babor.",
+      "Que está en peligro y necesita ayuda.",
+      "Nos avisa que no nos puede gobernar."
+    ],
+    "answer": 2,
+    "explanation": "Pitada continua: socorro.",
+    "gva": {
+      "index": 202,
+      "sittings": ["2021-11"]
+    }
+  },
+  {
+    "id": "gva-0203",
+    "topic": "ripa",
+    "q": "Sin perjuicio de los dispuesto en las reglas 9, 10 y 13 del RIPA, un buque de vela en navegación ¿de qué tipo de buque debe mantenerse apartado?:",
+    "options": [
+      "De un remolcador.",
+      "De un buque dedicado a la pesca.",
+      "De un buque portaviones.",
+      "De un buque de propulsión mecánica."
+    ],
+    "answer": 1,
+    "explanation": "Un velero se aparta de un pesquero (dedicado a la pesca).",
+    "gva": {
+      "index": 203,
+      "sittings": ["2021-11"]
+    }
+  },
+  {
+    "id": "gva-0204",
+    "topic": "ripa",
+    "q": "¿Uno de los factores, entre otros, a tener en cuenta para determinar la velocidad de seguridad es según el RIPA?",
+    "options": [
+      "El calado en relación con la profundidad disponible de agua.",
+      "El francobordo del barco.",
+      "Disponer de estabilizadores.",
+      "El desplazamiento del barco."
+    ],
+    "answer": 0,
+    "explanation": "El calado frente a la profundidad disponible es un factor de la velocidad de seguridad.",
+    "gva": {
+      "index": 204,
+      "sittings": ["2021-11"]
+    }
+  },
+  {
+    "id": "gva-0205",
+    "topic": "ripa",
+    "q": "Los buques que se aproximen a un recodo o zona de un paso o canal angosto en donde, por estar obstaculizada la visión, no puedan verse otros buques, harán sonar:",
+    "options": [
+      "Una pitada larga.",
+      "Dos pitadas largas.",
+      "Dos pitadas cortas y una pitada larga.",
+      "Una pitada corta."
+    ],
+    "answer": 0,
+    "explanation": "Recodo con visibilidad tapada: una larga (y quien la oiga responde con otra larga).",
+    "gva": {
+      "index": 205,
+      "sittings": ["2021-11"]
+    }
+  },
+  {
+    "id": "gva-0241",
+    "topic": "ripa",
+    "q": "La expresión “buque sin gobierno” significa:",
+    "options": [
+      "Cuando por cualquier circunstancia excepcional un buque es incapaz de maniobrar en la forma que el reglamento exige y en consecuencia puede apartarse de la derrota de otro buque",
+      "Cuando por cualquier circunstancia excepcional un buque es incapaz de maniobrar en la forma que el reglamento exige y en consecuencia no puede apartarse de la derrota de otro buque",
+      "Cuando por un fallo en el radar es incapaz de prevenir un abordaje",
+      "Todas las respuestas son ciertas"
+    ],
+    "answer": 1,
+    "explanation": "Sin gobierno: no puede apartarse.",
+    "gva": {
+      "index": 241,
+      "sittings": ["2022-12", "2024-11"]
+    }
+  },
+  {
+    "id": "gva-0242",
+    "topic": "ripa",
+    "q": "En una zona con visibilidad reducida, si oímos tres pitadas largas, se trata de:",
+    "options": [
+      "Un buque de propulsión mecánica que está dando atrás",
+      "Un buque de vela en navegación",
+      "Un buque de propulsión mecánica que pretende adelantar",
+      "Ninguna de las respuestas es cierta"
+    ],
+    "answer": 3,
+    "explanation": "Tres largas no es ninguna señal reglamentaria.",
+    "gva": {
+      "index": 242,
+      "sittings": ["2022-12"]
+    }
+  },
+  {
+    "id": "gva-0243",
+    "topic": "ripa",
+    "q": "Para mantener la velocidad de seguridad teniendo un radar a bordo funcionando correctamente. ¿Cuál de los siguientes factores no se tendrá en cuenta?",
+    "options": [
+      "La densidad del tráfico, incluidas las concentraciones de buques de pesca",
+      "De noche, la existencia de resplandor",
+      "La restricción impuesta por la escala del radar que se esté utilizando",
+      "Si un buque se encuentra navegando a vela y a motor"
+    ],
+    "answer": 3,
+    "explanation": "Con radar se valora la escala, el tráfico y el resplandor. Que el otro vaya a vela o a motor no es un factor.",
+    "gva": {
+      "index": 243,
+      "sittings": ["2022-12"]
+    }
+  },
+  {
+    "id": "gva-0244",
+    "topic": "ripa",
+    "q": "Se considera que existe riesgo de abordaje entre dos buques si:",
+    "options": [
+      "La marcación no varía y la distancia disminuye",
+      "Se tiene al otro barco a proa del través",
+      "La marcación no varía y la distancia aumenta",
+      "La marcación varia y la distancia aumenta"
+    ],
+    "answer": 0,
+    "explanation": "Riesgo: la demora no varía y la distancia disminuye.",
+    "gva": {
+      "index": 244,
+      "sittings": ["2022-12"]
+    }
+  },
+  {
+    "id": "gva-0245",
+    "topic": "ripa",
+    "q": "En los canales angostos:",
+    "options": [
+      "Los buques de vela, y los de menos de 20 m de eslora, no estorbarán el tránsito de un buque que sólo pueda navegar con seguridad dentro de un paso o canal angosto",
+      "Los buques de vela, los de pesca y los de menos de 20 m de eslora, podrán cruzar y estorbar el tránsito de un buque que sólo pueda navegar con seguridad dentro de un paso o canal angosto",
+      "No se podrá cruzar, si se estorba a un buque dedicado a la pesca dentro de un paso o canal angosto",
+      "Los buques menores de 50 m podrán fondear dentro de un canal angosto"
+    ],
+    "answer": 0,
+    "explanation": "En un canal angosto, los veleros y los menores de 20 m no estorban a quien solo puede navegar por él.",
+    "gva": {
+      "index": 245,
+      "sittings": ["2022-12"]
+    }
+  },
+  {
+    "id": "gva-0246",
+    "topic": "ripa",
+    "q": "Se considera situación de vuelta encontrada:",
+    "options": [
+      "Cuando dos buques naveguen a rumbos opuestos o casi opuestos",
+      "Cuando un buque abrigue dudas de si existe tal situación",
+      "Cuando un buque vea por su proa las luces de tope de ambos palos del otro enfiladas o casi enfiladas y/o las luces de costado",
+      "Todas las respuestas son correctas"
+    ],
+    "answer": 3,
+    "explanation": "Vuelta encontrada: rumbos opuestos, topes enfilados y ambos costados, y ante la duda también lo es.",
+    "gva": {
+      "index": 246,
+      "sittings": ["2022-12"]
+    }
+  },
+  {
+    "id": "gva-0247",
+    "topic": "ripa",
+    "q": "En una situación de cruce con riesgo de abordaje, los buques dedicados a la pesca no se mantendrán apartados de la derrota de:",
+    "options": [
+      "Un buque sin gobierno",
+      "Un buque con capacidad de maniobra restringida",
+      "Un buque dragaminas",
+      "Un buque de vela"
+    ],
+    "answer": 3,
+    "explanation": "El pesquero se aparta del sin gobierno y del de maniobra restringida, pero no del velero (es al revés).",
+    "gva": {
+      "index": 247,
+      "sittings": ["2022-12", "2024-11"]
+    }
+  },
+  {
+    "id": "gva-0248",
+    "topic": "ripa",
+    "q": "La luz de costado de color verde tendrá un arco de horizonte visible de:",
+    "options": ["225º", "112,5º", "360º", "135º"],
+    "answer": 1,
+    "explanation": "Verde: 112,5º.",
+    "gva": {
+      "index": 248,
+      "sittings": ["2022-12"]
+    }
+  },
+  {
+    "id": "gva-0249",
+    "topic": "ripa",
+    "q": "Un barco que muestra dos luces todo horizonte en vertical siendo la superior roja y la inferior blanca se trata de:",
+    "options": [
+      "Una embarcación de práctico",
+      "Un buque sin gobierno",
+      "Un buque dedicado a la pesca de no arrastre",
+      "Un buque varado"
+    ],
+    "answer": 2,
+    "explanation": "Roja sobre blanca: pesca de no arrastre.",
+    "gva": {
+      "index": 249,
+      "sittings": ["2022-12", "2024-11"]
+    }
+  },
+  {
+    "id": "gva-0250",
+    "topic": "ripa",
+    "q": "Una marca consistente en tres esferas negras superpuestas en la misma vertical se tratará de:",
+    "options": [
+      "Un buque fondeado",
+      "Un buque de pesca de arrastre",
+      "Un buque sin gobierno",
+      "Un buque varado"
+    ],
+    "answer": 3,
+    "explanation": "Tres esferas: varado.",
+    "gva": {
+      "index": 250,
+      "sittings": ["2022-12"]
+    }
+  },
+  {
+    "id": "gva-0286",
+    "topic": "ripa",
+    "q": "A efectos del Reglamento RIPA, ¿qué significa la expresión “buque de vela” ?:",
+    "options": [
+      "Todo buque que está dotado exclusivamente de aparejo para la navegación a vela.",
+      "Cualquier buque que complemente su propulsión motora con propulsión eólica.",
+      "Cualquier buque navegando o en puerto dotado de un mástil.",
+      "Todo buque navegando a vela siempre que su maquinaria propulsora, caso de llevarla, no la esté utilizando."
+    ],
+    "answer": 3,
+    "explanation": "Vela: navegando a vela sin usar el motor.",
+    "gva": {
+      "index": 286,
+      "sittings": ["2022-02"]
+    }
+  },
+  {
+    "id": "gva-0287",
+    "topic": "ripa",
+    "q": "Las “Luces de costado” deben mostrarse sin interrupción en todo un arco de horizonte de:",
+    "options": ["90º.", "22,5º.", "112,5º.", "225º."],
+    "answer": 2,
+    "explanation": "112,5º.",
+    "gva": {
+      "index": 287,
+      "sittings": ["2022-02"]
+    }
+  },
+  {
+    "id": "gva-0288",
+    "topic": "ripa",
+    "q": "¿Qué duración tiene una pitada larga?:",
+    "options": [
+      "Aproximadamente de 4 a 6 segundos.",
+      "Aproximadamente de 1 a 4 segundos.",
+      "De más de 5 segundos.",
+      "De no más de 5 segundos."
+    ],
+    "answer": 0,
+    "explanation": "Pitada larga: 4 a 6 s. Corta: 1 s.",
+    "gva": {
+      "index": 288,
+      "sittings": ["2022-02"]
+    }
+  },
+  {
+    "id": "gva-0289",
+    "topic": "ripa",
+    "q": "A efectos del Reglamento RIPA, ¿cuándo se entenderá que los buques están a la vista uno de otro?:",
+    "options": [
+      "Cuando están a menos de 10 millas.",
+      "Cuando están a menos de 6 millas.",
+      "Cuando están a menos de 3 millas.",
+      "Únicamente cuando uno pueda ser observado visualmente desde el otro."
+    ],
+    "answer": 3,
+    "explanation": "A la vista: solo cuando uno puede ver al otro con la vista.",
+    "gva": {
+      "index": 289,
+      "sittings": ["2022-02"]
+    }
+  },
+  {
+    "id": "gva-0290",
+    "topic": "ripa",
+    "q": "Cuando varios buques estén a la vista unos de otros, todo buque de propulsión mecánica en navegación, al maniobrar de acuerdo con lo autorizado o exigido por las reglas RIPA, ¿cómo deberá indicar su maniobra de caigo a estribor?:",
+    "options": [
+      "Con dos pitadas cortas.",
+      "Con una pitada larga.",
+      "Con una pitada corta.",
+      "Con una pitada corta y una larga."
+    ],
+    "answer": 2,
+    "explanation": "Una corta: caigo a estribor.",
+    "gva": {
+      "index": 290,
+      "sittings": ["2022-02"]
+    }
+  },
+  {
+    "id": "gva-0291",
+    "topic": "ripa",
+    "q": "¿Qué factores NO considera el Reglamento RIPA para determinar la velocidad de seguridad?:",
+    "options": [
+      "El estado de visibilidad.",
+      "La densidad del tráfico.",
+      "El número de personas a bordo.",
+      "La maniobrabilidad del buque."
+    ],
+    "answer": 2,
+    "explanation": "El número de personas a bordo no cuenta.",
+    "gva": {
+      "index": 291,
+      "sittings": ["2022-02"]
+    }
+  },
+  {
+    "id": "gva-0292",
+    "topic": "ripa",
+    "q": "Los buques de vela, ¿qué deben hacer, cuando se encuentren en un paso o canal angosto con otro buque que solo pueda navegar con seguridad dentro del paso o canal angosto?:",
+    "options": [
+      "No estorbar el tránsito.",
+      "No modificar su rumbo ni velocidad.",
+      "No reducir su velocidad.",
+      "No asustarse por ser el otro un barco mayor y recordar que las embarcaciones deportivas navegando a vela tienen siempre preferencia con respecto a los buques propulsados por hélices."
+    ],
+    "answer": 0,
+    "explanation": "No estorbar el tránsito.",
+    "gva": {
+      "index": 292,
+      "sittings": ["2022-02"]
+    }
+  },
+  {
+    "id": "gva-0293",
+    "topic": "ripa",
+    "q": "¿Cuál es la señal de advertencia que indica en una maniobra dentro de puerto, un buque de propulsión mecánica, que estás dando atrás?:",
+    "options": [
+      "Una señal de tres pitadas cortas emitida con el pito.",
+      "Una señal de cinco pitadas cortas emitida con el pito.",
+      "Una serie de pitidos constante similar a la de algunos camiones o maquinas industriales al dar marcha atrás.",
+      "El encendido a popa de luces intermitentes o giratorias de gran intensidad, como las luces estroboscópicas."
+    ],
+    "answer": 0,
+    "explanation": "Tres cortas: doy atrás.",
+    "gva": {
+      "index": 293,
+      "sittings": ["2022-02"]
+    }
+  },
+  {
+    "id": "gva-0294",
+    "topic": "ripa",
+    "q": "¿Qué indica, en un buque que navega a vela, una marca cónica con el vértice hacia abajo que exhibe a proa en el lugar más visible?:",
+    "options": [
+      "Que es un barco de regatas en competición.",
+      "Que también está propulsado mecánicamente.",
+      "Que está arrastrando un dingui.",
+      "Que está pescando."
+    ],
+    "answer": 1,
+    "explanation": "Cono hacia abajo en un velero: también va a motor.",
+    "gva": {
+      "index": 294,
+      "sittings": ["2022-02"]
+    }
+  },
+  {
+    "id": "gva-0295",
+    "topic": "ripa",
+    "q": "Cuando dos buques de propulsión mecánica navegan de vuelta encontrada a rumbos opuestos o casi opuestos con riesgo de abordaje, ¿cómo maniobraran?:",
+    "options": [
+      "El buque que tenga estribor libre no maniobrara.",
+      "Cada uno de ellos caerá a estribor.",
+      "Maniobrara únicamente el buque que tenga babor libre.",
+      "Siempre de manera que pasen por la banda de estribor del otro."
+    ],
+    "answer": 1,
+    "explanation": "Vuelta encontrada: los dos caen a estribor.",
+    "gva": {
+      "index": 295,
+      "sittings": ["2022-02"]
+    }
+  },
+  {
+    "id": "gva-0331",
+    "topic": "ripa",
+    "q": "La expresión “buque de propulsión mecánica” significa:",
+    "options": [
+      "Todo buque movido por una máquina",
+      "Todo buque navegando a vela",
+      "Todo buque que por cualquier circunstancia no puede maniobrar",
+      "Todo buque propulsado que está en varadero"
+    ],
+    "answer": 0,
+    "explanation": "Propulsión mecánica: movido por una máquina.",
+    "gva": {
+      "index": 331,
+      "sittings": ["2022-06"]
+    }
+  },
+  {
+    "id": "gva-0332",
+    "topic": "ripa",
+    "q": "La pitada larga tendrá una duración de:",
+    "options": ["De 3 segundos", "De 4-6 segundos", "De 8-10 segundos", "De 1 segundo"],
+    "answer": 1,
+    "explanation": "4 a 6 s.",
+    "gva": {
+      "index": 332,
+      "sittings": ["2022-06"]
+    }
+  },
+  {
+    "id": "gva-0333",
+    "topic": "ripa",
+    "q": "Un barco en navegación según el RIPA es un buque:",
+    "options": [
+      "Que no está fondeado",
+      "Que no está amarrado al muelle",
+      "Que no está varado",
+      "Todas son ciertas"
+    ],
+    "answer": 3,
+    "explanation": "En navegación: ni fondeado, ni amarrado, ni varado.",
+    "gva": {
+      "index": 333,
+      "sittings": ["2022-06"]
+    }
+  },
+  {
+    "id": "gva-0334",
+    "topic": "ripa",
+    "q": "Según el RIPA, ¿cuál de las siguientes afirmaciones es la correcta en relación a los canales angostos?:",
+    "options": [
+      "Los buques de eslora inferior a 20 metros, o los buques de vela, no estorbarán el tránsito de un buque que sólo pueda navegar con seguridad dentro de un paso o canal angosto",
+      "Los buques que sólo puedan navegar con seguridad dentro de un paso o canal angosto no tienen ninguna prioridad frente a los buques de eslora inferior a 20 metros o los buques de vela",
+      "Los buques de eslora superior a 20 metros o los buques de vela incluso navegando a motor, no estorbarán el tránsito de un buque que sólo pueda navegar con seguridad dentro de un paso o canal angosto",
+      "Los buques de eslora inferior a 50 metros o los buques de vela evitarán el paso por canales angostos por los que naveguen otros buques"
+    ],
+    "answer": 0,
+    "explanation": "Los menores de 20 m y los veleros no estorbarán.",
+    "gva": {
+      "index": 334,
+      "sittings": ["2022-06"]
+    }
+  },
+  {
+    "id": "gva-0335",
+    "topic": "ripa",
+    "q": "Un barco que muestra una marca consistente en dos conos unidos por los vértices en el lugar más visible; se trata de:",
+    "options": [
+      "Un buque varado",
+      "Un buque dedicado a la pesca de arrastre",
+      "Un buque sin gobierno",
+      "Un buque de propulsión mecánica restringido por su calado"
+    ],
+    "answer": 1,
+    "explanation": "Dos conos unidos por los vértices: pesca (con la red de arrastre o cualquier otro arte que restrinja la maniobra).",
+    "gva": {
+      "index": 335,
+      "sittings": ["2022-06"]
+    }
+  },
+  {
+    "id": "gva-0336",
+    "topic": "ripa",
+    "q": "Si un buque de propulsión mecánica que está a la vista nos emite dos pitadas cortas, ¿Qué nos está indicando?:",
+    "options": ["Que cae a babor", "Que cae a estribor", "Que da atrás", "Que da avante"],
+    "answer": 0,
+    "explanation": "Dos cortas: caigo a babor.",
+    "gva": {
+      "index": 336,
+      "sittings": ["2022-06"]
+    }
+  },
+  {
+    "id": "gva-0337",
+    "topic": "ripa",
+    "q": "Según el RIPA, ¿cuál de las siguientes afirmaciones es la correcta en referencia a la luz de alcance?:",
+    "options": [
+      "Es una luz amarilla que es visible sin interrupción en un arco de horizonte de 360 grados",
+      "Es una luz blanca colocada lo más cerca posible de la popa que muestra su luz sin interrupción en todo un arco del horizonte de 135 grados",
+      "Es una luz amarilla colocada lo más cerca posible de la popa que muestra su luz sin interrupción en todo un arco del horizonte de 135 grados",
+      "Es una luz blanca colocada sobre el eje longitudinal del buque que muestra su luz sin interrupción en todo un arco del horizonte de 225 grados"
+    ],
+    "answer": 1,
+    "explanation": "Alcance: blanca, a popa, 135º.",
+    "gva": {
+      "index": 337,
+      "sittings": ["2022-06"]
+    }
+  },
+  {
+    "id": "gva-0338",
+    "topic": "ripa",
+    "q": "Siendo por la noche y arrumbando hacia el puerto de Valencia, observamos una embarcación con dos luces blancas todo horizonte una de ellas más elevada que la otra, se tratara de:",
+    "options": [
+      "Un buque varado mayor de 50 m",
+      "Un buque varado menor de 50 m",
+      "Un buque fondeado menor de 50 m",
+      "Un buque fondeado mayor de 50 m"
+    ],
+    "answer": 3,
+    "explanation": "Dos blancas a distinta altura: fondeado de 50 m o más (la de proa más alta).",
+    "gva": {
+      "index": 338,
+      "sittings": ["2022-06"]
+    }
+  },
+  {
+    "id": "gva-0339",
+    "topic": "ripa",
+    "q": "Si vemos en una embarcación un cono negro con el vértice apuntando hacia abajo ¿qué tipo de embarcación es?:",
+    "options": [
+      "Una embarcación de pesca",
+      "Un remolcador",
+      "Un dragaminas",
+      "Una embarcación de vela navegando a motor conjuntamente"
+    ],
+    "answer": 3,
+    "explanation": "Cono hacia abajo: vela y motor.",
+    "gva": {
+      "index": 339,
+      "sittings": ["2022-06"]
+    }
+  },
+  {
+    "id": "gva-0340",
+    "topic": "ripa",
+    "q": "Si navegando por la noche vemos un barco que exhibe dos luces todo horizonte en la misma vertical, la de arriba verde y la más baja blanca, se trata de:",
+    "options": [
+      "Un buque restringido por su calado",
+      "Una embarcación de práctico",
+      "Un buque de pesca de arrastre",
+      "Un buque con capacidad de maniobra restringida"
+    ],
+    "answer": 2,
+    "explanation": "Verde sobre blanca: arrastre («Green over white, trawling tonight»).",
+    "gva": {
+      "index": 340,
+      "sittings": ["2022-06"]
+    }
+  },
+  {
+    "id": "gva-0376",
+    "topic": "ripa",
+    "q": "Si por el día avistamos una bandera cuadra que tenga encima o debajo de ella una bola u objeto análogo, se trata de:",
+    "options": [
+      "Una señal de peligro",
+      "Un buque que necesita ayuda",
+      "Un hidroavión amarando",
+      "Las respuestas a y b son ciertas"
+    ],
+    "answer": 3,
+    "explanation": "Bandera cuadra con una bola (encima o debajo): peligro y necesito ayuda. «a y b».",
+    "gva": {
+      "index": 376,
+      "sittings": ["2023-04", "2024-09"]
+    }
+  },
+  {
+    "id": "gva-0377",
+    "topic": "ripa",
+    "q": "Si navegando en una zona con buena visibilidad, escuchamos tres pitadas cortas, se trata de:",
+    "options": [
+      "Un buque de propulsión mecánica que pretende caer a babor.",
+      "Un buque de propulsión mecánica sin arrancada.",
+      "Un buque de propulsión mecánica que está dando atrás.",
+      "Un buque de propulsión mecánica con arrancada."
+    ],
+    "answer": 2,
+    "explanation": "Tres cortas: doy atrás.",
+    "gva": {
+      "index": 377,
+      "sittings": ["2023-04", "2024-11", "2026-04"]
+    }
+  },
+  {
+    "id": "gva-0378",
+    "topic": "ripa",
+    "q": "La luz que se muestra sin interrupción en todo un arco del horizonte de 225º es la luz de:",
+    "options": ["Tope", "Alcance", "Costado", "Remolque"],
+    "answer": 0,
+    "explanation": "Tope: 225º.",
+    "gva": {
+      "index": 378,
+      "sittings": ["2023-04", "2024-09"]
+    }
+  },
+  {
+    "id": "gva-0379",
+    "topic": "ripa",
+    "q": "Los buques de vela en navegación, se mantendrán apartados de la derrota de:",
+    "options": [
+      "Un buque sin gobierno",
+      "Un buque con capacidad de maniobra restringida",
+      "Un buque navegando a motor pescando al curricán",
+      "Las respuestas a y b son ciertas"
+    ],
+    "answer": 3,
+    "explanation": "El velero se aparta del sin gobierno y del de maniobra restringida. Al curricán no está «dedicado a la pesca».",
+    "gva": {
+      "index": 379,
+      "sittings": ["2023-04", "2024-11"]
+    }
+  },
+  {
+    "id": "gva-0380",
+    "topic": "ripa",
+    "q": "Si observamos dos luces en la misma vertical, roja la de arriba y blanca la inferior se trata de un:",
+    "options": [
+      "Buque dedicado a la pesca de no arrastre faenando.",
+      "Buque de vela.",
+      "Buque con capacidad de maniobra restringida.",
+      "Buque de pesca de arrastre."
+    ],
+    "answer": 0,
+    "explanation": "Roja sobre blanca: pesca de no arrastre.",
+    "gva": {
+      "index": 380,
+      "sittings": ["2023-04", "2024-09", "2026-04"]
+    }
+  },
+  {
+    "id": "gva-0381",
+    "topic": "ripa",
+    "q": "La marca que caracteriza a un buque fondeado consiste en:",
+    "options": ["Dos esferas negras.", "Una marca bicónica.", "Una esfera negra.", "Un cilindro."],
+    "answer": 2,
+    "explanation": "Fondeado: una esfera.",
+    "gva": {
+      "index": 381,
+      "sittings": ["2023-04", "2024-11", "2026-04"]
+    }
+  },
+  {
+    "id": "gva-0382",
+    "topic": "ripa",
+    "q": "La marca que exhibirá un buque navegando a vela y ayudado del motor, consistirá en:",
+    "options": ["Una esfera negra.", "Un cilindro.", "Un cono con el vértice hacia abajo.", "Un bicono."],
+    "answer": 2,
+    "explanation": "Cono hacia abajo.",
+    "gva": {
+      "index": 382,
+      "sittings": ["2023-04", "2026-04"]
+    }
+  },
+  {
+    "id": "gva-0383",
+    "topic": "ripa",
+    "q": "Si observamos dos luces en la misma horizontal siendo roja la de la derecha y verde la de la izquierda, se tratará de:",
+    "options": [
+      "Un buque de vela.",
+      "Un buque de propulsión mecánica parado.",
+      "Un buque sin gobierno sin arrancada.",
+      "Un buque varado."
+    ],
+    "answer": 0,
+    "explanation": "Roja a la derecha y verde a la izquierda, sin tope: lo ves de proa y es un velero.",
+    "gva": {
+      "index": 383,
+      "sittings": ["2023-04", "2026-04"]
+    }
+  },
+  {
+    "id": "gva-0384",
+    "topic": "ripa",
+    "q": "Si observamos tres esferas negras en la misma vertical, se tratará de:",
+    "options": [
+      "Un buque dedicado a la pesca.",
+      "Un buque de vela mayor de 20 metros de eslora.",
+      "Un buque sin gobierno.",
+      "Un buque varado."
+    ],
+    "answer": 3,
+    "explanation": "Tres esferas: varado.",
+    "gva": {
+      "index": 384,
+      "sittings": ["2023-04", "2024-09", "2026-04"]
+    }
+  },
+  {
+    "id": "gva-0385",
+    "topic": "ripa",
+    "q": "En visibilidad reducida si escuchamos una pitada larga a intervalos de dos minutos, se trata de:",
+    "options": [
+      "Un buque fondeado mayor de 100 metros",
+      "Un buque de pesca de arrastre con la red enganchada en una obstrucción",
+      "Un buque de propulsión mecánica con arrancada",
+      "Un buque sin gobierno"
+    ],
+    "answer": 2,
+    "explanation": "Una larga cada 2 min: propulsión mecánica con arrancada.",
+    "gva": {
+      "index": 385,
+      "sittings": ["2023-04", "2024-11"]
+    }
+  },
+  {
+    "id": "gva-0419",
+    "topic": "ripa",
+    "q": "Si por la noche avistamos dos luces rojas en la misma vertical y más abajo una luz de color blanco, se trata de un:",
+    "options": [
+      "Buque con capacidad de maniobra restringida con arrancada",
+      "Buque sin gobierno sin arrancada visto por la popa",
+      "Un hidroavión amarando",
+      "Un buque sin gobierno con arrancada"
+    ],
+    "answer": 3,
+    "explanation": "Dos rojas + blanca debajo: sin gobierno con arrancada (la blanca sería la de alcance si lo ves por la popa).",
+    "gva": {
+      "index": 419,
+      "sittings": ["2023-02"]
+    }
+  },
+  {
+    "id": "gva-0420",
+    "topic": "ripa",
+    "q": "Navegando en una zona con visibilidad reducida, si oímos dos pitadas largas, se trata de:",
+    "options": [
+      "Un buque de propulsión mecánica que pretende caer a babor",
+      "Un buque de propulsión mecánica sin arrancada",
+      "Un buque de propulsión mecánica que está dando atrás",
+      "Un buque de propulsión mecánica con arrancada"
+    ],
+    "answer": 1,
+    "explanation": "Dos largas: propulsión mecánica sin arrancada.",
+    "gva": {
+      "index": 420,
+      "sittings": ["2023-02"]
+    }
+  },
+  {
+    "id": "gva-0421",
+    "topic": "ripa",
+    "q": "De acuerdo con el RIPA, en algunos casos, puede existir riesgo de abordaje aún cuando sea evidente una variación apreciable de la demora, y en particular si:",
+    "options": [
+      "Se tiene un buque por la proa",
+      "Se tiene un buque por el través",
+      "Nos aproximamos a un buque de gran tamaño",
+      "Si se tiene un buque de vela a proa del través"
+    ],
+    "answer": 2,
+    "explanation": "Con buques muy grandes puede haber riesgo aunque la demora varíe.",
+    "gva": {
+      "index": 421,
+      "sittings": ["2023-02"]
+    }
+  },
+  {
+    "id": "gva-0422",
+    "topic": "ripa",
+    "q": "En un dispositivo de separación de tráfico, los buques que no estén cruzando una vía de circulación, no entrarán normalmente en una zona de separación excepto:",
+    "options": [
+      "Si es un buque mercante de gran tamaño",
+      "Si se trata de un velero de 15 metros de eslora",
+      "Los buques dedicados a la pesca",
+      "Las respuestas a y b son ciertas"
+    ],
+    "answer": 2,
+    "explanation": "En la zona de separación solo entran normalmente los pesqueros faenando (o en emergencia).",
+    "gva": {
+      "index": 422,
+      "sittings": ["2023-02"]
+    }
+  },
+  {
+    "id": "gva-0423",
+    "topic": "ripa",
+    "q": "Dos buques de vela que se aproximan uno al otro, con riesgo de abordaje, recibiendo el viento por bandas contrarias, maniobrará:",
+    "options": [
+      "El buque que reciba el viento por la banda de babor",
+      "El velero que reciba el viento por el través de estribor",
+      "El buque que reciba el viento por la amura de estribor",
+      "El buque de vela que reciba el viento por la aleta de estribor"
+    ],
+    "answer": 0,
+    "explanation": "Se aparta el que recibe el viento por babor.",
+    "gva": {
+      "index": 423,
+      "sittings": ["2023-02"]
+    }
+  },
+  {
+    "id": "gva-0424",
+    "topic": "ripa",
+    "q": "Si un buque dedicado a la pesca, en situación de cruce, avista por la banda de babor a un velero con riesgo de abordaje, se apartará:",
+    "options": [
+      "El buque dedicado a la pesca al estar obligado por el RIPA",
+      "Ambos buques caerán a estribor",
+      "El buque de vela",
+      "El buque dedicado a la pesca cayendo a estribor y el de vela a babor"
+    ],
+    "answer": 2,
+    "explanation": "El pesquero tiene preferencia: se aparta el velero.",
+    "gva": {
+      "index": 424,
+      "sittings": ["2023-02"]
+    }
+  },
+  {
+    "id": "gva-0425",
+    "topic": "ripa",
+    "q": "La marca que exhibirá un buque de propulsión mecánica cuando remolque a otro, consistirá en:",
+    "options": ["Una esfera negra", "Un cilindro", "Un cono con el vértice hacia abajo", "Un bicono"],
+    "answer": 3,
+    "explanation": "Bicono: remolque de más de 200 m.",
+    "gva": {
+      "index": 425,
+      "sittings": ["2023-02"]
+    }
+  },
+  {
+    "id": "gva-0426",
+    "topic": "ripa",
+    "q": "La luz de remolque de un buque tendrá un arco de horizonte visible de:",
+    "options": ["225º", "112,5º", "360º", "135º"],
+    "answer": 3,
+    "explanation": "Remolque: 135º.",
+    "gva": {
+      "index": 426,
+      "sittings": ["2023-02"]
+    }
+  },
+  {
+    "id": "gva-0427",
+    "topic": "ripa",
+    "q": "Un barco navegando de noche muestra un farol tricolor se trata de:",
+    "options": [
+      "Un buque dedicado a la pesca de no arrastre",
+      "Un buque de vela mayor de 20 metros de eslora",
+      "Un buque sin gobierno",
+      "Un velero menor de 20 metros"
+    ],
+    "answer": 3,
+    "explanation": "Farol tricolor en el tope: velero de menos de 20 m.",
+    "gva": {
+      "index": 427,
+      "sittings": ["2023-02"]
+    }
+  },
+  {
+    "id": "gva-0428",
+    "topic": "ripa",
+    "q": "Si oímos una señal detonante, repetida a intervalos de un minuto aproximadamente, se trata de:",
+    "options": [
+      "Un buque fondeado mayor de 100 metros",
+      "Un buque de pesca de arrastre con la red enganchada en una obstrucción",
+      "Un buque sin gobierno",
+      "Un buque que está en peligro y necesita ayuda"
+    ],
+    "answer": 3,
+    "explanation": "Detonación cada minuto: socorro.",
+    "gva": {
+      "index": 428,
+      "sittings": ["2023-02"]
+    }
+  },
+  {
+    "id": "gva-0464",
+    "topic": "ripa",
+    "q": "La maniobra que efectúe un buque para evitar un abordaje será tal que:",
+    "options": [
+      "Pase siempre por la popa de la otra embarcación",
+      "Le cruce la proa muy cerca al otro buque para que vea que está maniobrando",
+      "El buque pase a una distancia segura del otro",
+      "Los cambios de rumbo que realice sean pequeños"
+    ],
+    "answer": 2,
+    "explanation": "La maniobra debe hacer que se pase a una distancia segura (cambios amplios y a tiempo).",
+    "gva": {
+      "index": 464,
+      "sittings": ["2023-07"]
+    }
+  },
+  {
+    "id": "gva-0465",
+    "topic": "ripa",
+    "q": "A los fines del RIPA, dos buques de vela que se aproximen uno al otro con riesgo de abordaje, y recibiendo el viento por bandas contrarias:",
+    "options": [
+      "Se apartará el velero que tenga al otro por la banda de estribor",
+      "Maniobrará el velero que reciba el viento por la banda de babor",
+      "Cada uno de ellos caerá a su estribor",
+      "Maniobrará el velero que esté a sotavento apartándose del velero que esté a barlovento"
+    ],
+    "answer": 1,
+    "explanation": "Se aparta el que recibe el viento por babor.",
+    "gva": {
+      "index": 465,
+      "sittings": ["2023-07"]
+    }
+  },
+  {
+    "id": "gva-0466",
+    "topic": "ripa",
+    "q": "Un buque varado menor de 12 metros de eslora exhibirá:",
+    "options": [
+      "Una luz amarilla sobre una blanca",
+      "Tres luces rojas en vertical todo horizonte y una blanca a proa",
+      "Una luz blanca todo horizonte",
+      "Solo dos luces rojas todo horizonte en vertical"
+    ],
+    "answer": 2,
+    "explanation": "Un varado de menos de 12 m no necesita las dos rojas: muestra la blanca de fondeo.",
+    "gva": {
+      "index": 466,
+      "sittings": ["2023-07"]
+    }
+  },
+  {
+    "id": "gva-0467",
+    "topic": "ripa",
+    "q": "Los buques de propulsión mecánica en navegación con eslora menor de 12 metros, podrán exhibir:",
+    "options": [
+      "Una luz blanca todo horizonte a proa, luces de costado y una luz de alcance",
+      "Luces de costado y alcance en popa",
+      "Una luz blanca todo horizonte, tope de proa y costados",
+      "Una luz blanca todo horizonte y luces de costados"
+    ],
+    "answer": 3,
+    "explanation": "Menos de 12 m: blanca todo horizonte + costados.",
+    "gva": {
+      "index": 467,
+      "sittings": ["2023-07"]
+    }
+  },
+  {
+    "id": "gva-0468",
+    "topic": "ripa",
+    "q": "Los buques de vela en navegación de eslora mayor de 20 metros exhibirán:",
+    "options": [
+      "Las Luces de costado y una luz de alcance amarilla",
+      "Luz de tope a proa, luces de costados y luz de alcance",
+      "Luces de costado y una luz de alcance",
+      "Dos luces todo horizonte en vertical roja la de abajo y verde la de arriba"
+    ],
+    "answer": 2,
+    "explanation": "Vela de 20 m o más: costados + alcance (sin farol tricolor).",
+    "gva": {
+      "index": 468,
+      "sittings": ["2023-07"]
+    }
+  },
+  {
+    "id": "gva-0469",
+    "topic": "ripa",
+    "q": "Si navegando en niebla cerrada oímos una señal sonora que consiste en cinco repiques de campana que se repiten a intervalos que no excedan de un minuto, se trata de un buque:",
+    "options": ["Varado", "Un buque dedicado a la pesca", "Un buque de vela", "Un buque fondeado"],
+    "answer": 3,
+    "explanation": "Campana de unos 5 s cada minuto: fondeado.",
+    "gva": {
+      "index": 469,
+      "sittings": ["2023-07"]
+    }
+  },
+  {
+    "id": "gva-0470",
+    "topic": "ripa",
+    "q": "Según el RIPA, si observamos una marca de color negro que consiste en dos conos unidos por sus vértices, se tratará de:",
+    "options": [
+      "Un buque de pesca de arrastre",
+      "Un buque pescando al curricán",
+      "Un remolcador con una longitud de remolque mayor de 200 metros",
+      "Un velero navegando a vela y a motor"
+    ],
+    "answer": 0,
+    "explanation": "Dos conos unidos por los vértices: pesca de arrastre (pesca en general).",
+    "gva": {
+      "index": 470,
+      "sittings": ["2023-07"]
+    }
+  },
+  {
+    "id": "gva-0471",
+    "topic": "ripa",
+    "q": "La pitada larga tendrá una duración aproximada de:",
+    "options": ["4 a 6 segundos", "1 segundo", "2 segundos", "15 segundos como mínimo"],
+    "answer": 0,
+    "explanation": "4 a 6 s.",
+    "gva": {
+      "index": 471,
+      "sittings": ["2023-07"]
+    }
+  },
+  {
+    "id": "gva-0472",
+    "topic": "ripa",
+    "q": "Si navegando cerca de la costa vemos una embarcación que tiene izada la bandera Alfa del CIS, se trata de:",
+    "options": [
+      "Un buque dedicado a operaciones de limpieza de minas",
+      "Un buque dedicado a la pesca de cerco",
+      "Un buque sin gobierno",
+      "Un buque dedicado a operaciones de buceo"
+    ],
+    "answer": 3,
+    "explanation": "Alfa: buzo sumergido.",
+    "gva": {
+      "index": 472,
+      "sittings": ["2023-07"]
+    }
+  },
+  {
+    "id": "gva-0473",
+    "topic": "ripa",
+    "q": "Según el anexo IV del RIPA si observamos un buque con las banderas November y Charlie izadas en vertical significa que:",
+    "options": [
+      "Transporta mercancías peligrosas y es conveniente mantenerse alejado de él",
+      "Tiene el práctico a bordo",
+      "Se encuentra en peligro",
+      "No tiene gobierno"
+    ],
+    "answer": 2,
+    "explanation": "N sobre C: socorro.",
+    "gva": {
+      "index": 473,
+      "sittings": ["2023-07"]
+    }
+  },
+  {
+    "id": "gva-0509",
+    "topic": "ripa",
+    "q": "¿Qué nos indica un buque de propulsión mecánica que está a la vista cuando emite dos pitadas cortas?",
+    "options": ["Que está dando atrás.", "Que da avante.", "Que cae a estribor.", "Que cae a babor."],
+    "answer": 3,
+    "explanation": "Dos cortas: caigo a babor.",
+    "gva": {
+      "index": 509,
+      "sittings": ["2023-11", "2025-06"]
+    }
+  },
+  {
+    "id": "gva-0510",
+    "topic": "ripa",
+    "q": "Cuando una embarcación está fondeada, ¿Qué marca izará de día un barco de 45 m. de eslora?",
+    "options": ["Una bola negra", "Un cilindro negro", "Una luz blanca todo horizonte", "Dos bolas negras"],
+    "answer": 0,
+    "explanation": "Fondeado de día: una bola negra (a cualquier eslora).",
+    "gva": {
+      "index": 510,
+      "sittings": ["2023-11"]
+    }
+  },
+  {
+    "id": "gva-0511",
+    "topic": "ripa",
+    "q": "Si observamos de noche que un buque exhibe dos luces rojas en línea vertical, y más abajo una luz blanca, se trata de:",
+    "options": [
+      "Un buque sin gobierno con arrancada.",
+      "Un buque con capacidad de maniobra restringida con arrancada.",
+      "Un buque restringido por su calado.",
+      "Un buque de guerra fondeado."
+    ],
+    "answer": 0,
+    "explanation": "Sin gobierno con arrancada.",
+    "gva": {
+      "index": 511,
+      "sittings": ["2023-11", "2025-06"]
+    }
+  },
+  {
+    "id": "gva-0512",
+    "topic": "ripa",
+    "q": "Avistamos un buque que muestra una señal consistente en una bandera cuadra y por debajo de ella en la misma driza una bola u objeto análogo. Significa:",
+    "options": [
+      "Que está varado",
+      "Que tiene buzo sumergido",
+      "Que está restringido por su calado",
+      "Está en peligro y necesita ayuda"
+    ],
+    "answer": 3,
+    "explanation": "Bandera cuadra + bola: socorro.",
+    "gva": {
+      "index": 512,
+      "sittings": ["2023-11"]
+    }
+  },
+  {
+    "id": "gva-0513",
+    "topic": "ripa",
+    "q": "Un buque deberá mostrar tres esferas negras dispuestas en línea vertical:",
+    "options": [
+      "En caso de estar varado",
+      "Cuando tenga su capacidad de maniobra restringida",
+      "Siempre que se encuentre en navegación",
+      "Cuando esté sin gobierno"
+    ],
+    "answer": 0,
+    "explanation": "Tres esferas: varado.",
+    "gva": {
+      "index": 513,
+      "sittings": ["2023-11", "2025-06"]
+    }
+  },
+  {
+    "id": "gva-0514",
+    "topic": "ripa",
+    "q": "Al entrar en una vía de circulación de un dispositivo de separación de tráfico por un límite lateral lo haremos:",
+    "options": [
+      "A toda máquina",
+      "Con un ángulo de 45º en relación con la dirección general del tráfico",
+      "Con el mayor ángulo posible en relación con la dirección general del tráfico",
+      "Con el menor ángulo posible en relación con la dirección general del tráfico"
+    ],
+    "answer": 3,
+    "explanation": "Para entrar por un costado de la vía, el menor ángulo posible respecto al tráfico.",
+    "gva": {
+      "index": 514,
+      "sittings": ["2023-11"]
+    }
+  },
+  {
+    "id": "gva-0515",
+    "topic": "ripa",
+    "q": "En un canal angosto un pesquero está faenando y atravesando el canal. Un mercante de 60 m de eslora que sólo puede navegar con seguridad por el centro del canal va a rumbo de colisión. ¿Quién debe tomar la iniciativa y maniobrar?",
+    "options": [
+      "El mercante debe dejar paso al pesquero, según la regla de categorías de buques",
+      "El pesquero no debe estorbar el tránsito seguro del mercante",
+      "Está prohibido pescar en un canal angosto, luego el pesquero ni tan si quiera puede entrar allí faenando",
+      "Los dos están obligados a maniobrar simultáneamente cayendo a su costado de estribor"
+    ],
+    "answer": 1,
+    "explanation": "El pesquero no debe estorbar a quien solo puede navegar por el canal.",
+    "gva": {
+      "index": 515,
+      "sittings": ["2023-11"]
+    }
+  },
+  {
+    "id": "gva-0516",
+    "topic": "ripa",
+    "q": "¿Qué deberá hacer un buque que tiene preferencia en una situación de cruce?",
+    "options": [
+      "Variar el rumbo dos cuartas a popa del otro buque",
+      "Cambiar el rumbo hacia la banda contraria de la que esté el otro buque",
+      "Disminuir la velocidad hasta que pase el otro buque y esté en franquía",
+      "Mantener el rumbo y la velocidad"
+    ],
+    "answer": 3,
+    "explanation": "El que tiene preferencia mantiene rumbo y velocidad.",
+    "gva": {
+      "index": 516,
+      "sittings": ["2023-11"]
+    }
+  },
+  {
+    "id": "gva-0517",
+    "topic": "ripa",
+    "q": "En la medida de lo posible, los buques dedicados a la pesca, en navegación, se mantendrán apartados de la derrota de:",
+    "options": [
+      "Un buque sin gobierno, un buque con capacidad de maniobra restringida",
+      "Un buque sin gobierno, un buque con capacidad de maniobra restringida, un buque de propulsión mecánica",
+      "Un buque sin gobierno, un buque con capacidad de maniobra restringida, un buque de vela",
+      "Un buque sin gobierno, un buque con capacidad de maniobra restringida, un buque de vela, un buque dedicado a operaciones de remolque"
+    ],
+    "answer": 0,
+    "explanation": "El pesquero se aparta del sin gobierno y del de maniobra restringida.",
+    "gva": {
+      "index": 517,
+      "sittings": ["2023-11", "2025-06"]
+    }
+  },
+  {
+    "id": "gva-0518",
+    "topic": "ripa",
+    "q": "La marca o señal que mostrará un buque dedicado a operaciones de buceo, restringido por su actividad, será:",
+    "options": [
+      "La bandera bravo",
+      "Un cilindro negro",
+      "Dos esferas negras y entre ellas un bicono negro",
+      "Ninguna de las respuestas anteriores son ciertas"
+    ],
+    "answer": 2,
+    "explanation": "⚠ La plantilla marcaba «bandera Bravo», que no es lo que dice el RIPA. Regla 27: bola-bicono-bola (maniobra restringida) y, si es pequeño, réplica rígida de la Alfa. Corregido a esa opción.",
+    "gva": {
+      "index": 518,
+      "sittings": ["2023-11"],
+      "keyRevised": true
+    }
+  },
+  {
+    "id": "gva-0554",
+    "topic": "ripa",
+    "q": "La expresión “buque de pesca” se refiere a:",
+    "options": [
+      "Buque que está pescando al curricán",
+      "Buque que está pescando al arrastre",
+      "Las respuestas b y d son ciertas",
+      "Buque que está pescando al cerco"
+    ],
+    "answer": 2,
+    "explanation": "Buque de pesca: arrastre y cerco (artes que restringen la maniobra). El curricán no cuenta.",
+    "gva": {
+      "index": 554,
+      "sittings": ["2023-09"]
+    }
+  },
+  {
+    "id": "gva-0555",
+    "topic": "ripa",
+    "q": "En los canales angostos, los buques que naveguen en él:",
+    "options": [
+      "Se mantendrán lo más cerca posible del límite exterior que quede por su costado de estribor",
+      "Se mantendrán lo más cerca posible del límite interior que quede por su costado de estribor",
+      "Se mantendrán lo más cerca posible del límite interior que quede por su costado de babor",
+      "Se mantendrán lo más cerca posible del límite exterior que quede por su costado de babor"
+    ],
+    "answer": 0,
+    "explanation": "En un canal angosto, cerca del límite que queda por estribor.",
+    "gva": {
+      "index": 555,
+      "sittings": ["2023-09", "2025-06"]
+    }
+  },
+  {
+    "id": "gva-0556",
+    "topic": "ripa",
+    "q": "Un buque fondeado, mayor de 50 metros de eslora exhibirá:",
+    "options": ["Dos esferas negras", "Una esfera negra", "Un cilindro negro", "Una marca bicónica negra"],
+    "answer": 1,
+    "explanation": "Fondeado: una esfera.",
+    "gva": {
+      "index": 556,
+      "sittings": ["2023-09"]
+    }
+  },
+  {
+    "id": "gva-0557",
+    "topic": "ripa",
+    "q": "Se considera que dos buques están de vuelta encontrada cuando:",
+    "options": [
+      "Un buque vea al otro por su proa o casi por su proa, de forma que, de noche vería las luces de tope de ambos palos del otro enfiladas o casi enfiladas y las dos luces de costado",
+      "Un buque vea al otro por su popa o casi por su popa, de forma que, de noche vería las luces de tope de ambos palos del otro enfiladas o casi enfiladas y las dos luces de costado",
+      "Un buque vea al otro por su través, con los topes enfilados o casi y las dos luces de costado",
+      "Ninguna de las respuestas anteriores es cierta"
+    ],
+    "answer": 0,
+    "explanation": "Vuelta encontrada: de proa, con los topes enfilados y los dos costados.",
+    "gva": {
+      "index": 557,
+      "sittings": ["2023-09", "2025-06"]
+    }
+  },
+  {
+    "id": "gva-0558",
+    "topic": "ripa",
+    "q": "Los buques en navegación que de día exhiben dos esferas negras, una encima de la otra, nos indican que:",
+    "options": [
+      "Están sin gobierno",
+      "Se dedican a la pesca de arrastre",
+      "Se dedican a operaciones de dragado",
+      "Están solicitando ayuda"
+    ],
+    "answer": 0,
+    "explanation": "Dos esferas: sin gobierno.",
+    "gva": {
+      "index": 558,
+      "sittings": ["2023-09"]
+    }
+  },
+  {
+    "id": "gva-0559",
+    "topic": "ripa",
+    "q": "Si navegando hay varios buques a la vista unos de otros y oímos una señal sonora que consiste en tres pitadas cortas, se trata de un buque que…",
+    "options": ["Está varado", "Está cayendo a babor", "Está dando atrás", "Está cayendo a estribor"],
+    "answer": 2,
+    "explanation": "Tres cortas: atrás.",
+    "gva": {
+      "index": 559,
+      "sittings": ["2023-09", "2025-06"]
+    }
+  },
+  {
+    "id": "gva-0560",
+    "topic": "ripa",
+    "q": "Según el RIPA, si observamos una marca bicónica de color negra, se tratará de:",
+    "options": [
+      "Un buque de pesca de arrastre",
+      "Un buque pescando al curricán",
+      "Un remolcador con una longitud de remolque mayor de 200 metros",
+      "Un velero navegando a vela y a motor"
+    ],
+    "answer": 2,
+    "explanation": "Bicono: remolque de más de 200 m.",
+    "gva": {
+      "index": 560,
+      "sittings": ["2023-09"]
+    }
+  },
+  {
+    "id": "gva-0561",
+    "topic": "ripa",
+    "q": "En condiciones de visibilidad reducida, si escuchamos cada minuto una pitada corta seguida de una larga y una corta, se trata de:",
+    "options": [
+      "Un buque de práctico",
+      "Un buque de vela indicando su posición y riesgo de abordaje",
+      "Un buque que remolca o empuja por el costado",
+      "Un buque fondeado"
+    ],
+    "answer": 3,
+    "explanation": "Corta-larga-corta: aviso opcional de un fondeado.",
+    "gva": {
+      "index": 561,
+      "sittings": ["2023-09", "2025-06"]
+    }
+  },
+  {
+    "id": "gva-0562",
+    "topic": "ripa",
+    "q": "De las siguientes respuestas, ¿Cuál es correcta para señalar peligro?:",
+    "options": [
+      "Una bandera cuadra que tenga encima o debajo una bola u objeto análogo",
+      "Un sonido contínuo producido por cualquier aparato",
+      "Un disparo de cañón u otra señal detonante a cada minuto",
+      "Todas las respuestas anteriores son ciertas"
+    ],
+    "answer": 3,
+    "explanation": "Todas son señales de socorro (Anexo IV).",
+    "gva": {
+      "index": 562,
+      "sittings": ["2023-09"]
+    }
+  },
+  {
+    "id": "gva-0563",
+    "topic": "ripa",
+    "q": "Las luces que caracterizan a un buque de pesca de arrastre son:",
+    "options": [
+      "Dos luces todo horizonte superpuestas blanca la superior y verde la inferior",
+      "Dos luces todo horizonte superpuestas blanca la superior y roja la inferior",
+      "Dos luces todo horizonte superpuestas roja la superior y blanca la inferior",
+      "Dos luces todo horizonte superpuestas verde la superior y blanca la inferior"
+    ],
+    "answer": 3,
+    "explanation": "Arrastre: verde sobre blanca.",
+    "gva": {
+      "index": 563,
+      "sittings": ["2023-09", "2025-06", "2025-09"]
+    }
+  },
+  {
+    "id": "gva-0599",
+    "topic": "ripa",
+    "q": "Encontrándose dos buques de propulsión mecánica en situación de vuelta encontrada con riesgo de abordaje, deberán maniobrar:",
+    "options": [
+      "Metiendo ambos el timón a estribor",
+      "Metiendo ambos el timón a babor",
+      "El buque pequeño reducirá la máquina",
+      "El que se encuentre a sotavento caerá a babor"
+    ],
+    "answer": 0,
+    "explanation": "Vuelta encontrada: los dos a estribor.",
+    "gva": {
+      "index": 599,
+      "sittings": ["2024-04"]
+    }
+  },
+  {
+    "id": "gva-0600",
+    "topic": "ripa",
+    "q": "¿Qué marca identifica a un buque dedicado a la pesca con arrancada?",
+    "options": [
+      "Dos conos negros unidos por sus vértices",
+      "Una esfera negra",
+      "Dos esferas negras superpuestas",
+      "Ninguna de las respuestas anteriores es cierta"
+    ],
+    "answer": 0,
+    "explanation": "Pesca: dos conos unidos por los vértices.",
+    "gva": {
+      "index": 600,
+      "sittings": ["2024-04"]
+    }
+  },
+  {
+    "id": "gva-0601",
+    "topic": "ripa",
+    "q": "¿Qué marca o bandera identifica a una embarcación con buzos sumergidos?",
+    "options": [
+      "La bandera Bravo modificada",
+      "La bandera Alfa",
+      "Una esfera negra",
+      "Las respuestas a y b son ciertas"
+    ],
+    "answer": 3,
+    "explanation": "Buzos: Alfa o Bravo modificada.",
+    "gva": {
+      "index": 601,
+      "sittings": ["2024-04"]
+    }
+  },
+  {
+    "id": "gva-0602",
+    "topic": "ripa",
+    "q": "Cuando en las inmediaciones del puerto nada más salir observamos por la noche dos luces en la misma vertical siendo ambas de color rojo, se trata de:",
+    "options": [
+      "Un buque sin gobierno",
+      "Un buque dedicado a la pesca",
+      "Un buque que está restringido por su calado",
+      "Un buque fondeado"
+    ],
+    "answer": 0,
+    "explanation": "Dos rojas: sin gobierno.",
+    "gva": {
+      "index": 602,
+      "sittings": ["2024-04"]
+    }
+  },
+  {
+    "id": "gva-0603",
+    "topic": "ripa",
+    "q": "Navegando al rumbo norte observamos por nuestro costado de babor una embarcación a lo lejos. ¿Cómo podremos determinar observándola si existe riesgo de abordaje?",
+    "options": [
+      "Si la marcación no varía y la distancia disminuye",
+      "Si la marcación varía y la distancia disminuye",
+      "Si la marcación varía y la distancia aumenta",
+      "Si la marcación no varía y la distancia aumenta"
+    ],
+    "answer": 0,
+    "explanation": "Riesgo: la marcación no varía y la distancia disminuye.",
+    "gva": {
+      "index": 603,
+      "sittings": ["2024-04"]
+    }
+  },
+  {
+    "id": "gva-0604",
+    "topic": "ripa",
+    "q": "Cuando en plena noche observamos en el horizonte una luz amarilla y más abajo una luz blanca, se trata de:",
+    "options": [
+      "Un velero navegando a vela",
+      "Un buque de pesca remolcando sus redes",
+      "Un buque remolcador remolcando a otra embarcación",
+      "Un buque varado"
+    ],
+    "answer": 2,
+    "explanation": "Amarilla sobre blanca (de alcance): remolque.",
+    "gva": {
+      "index": 604,
+      "sittings": ["2024-04"]
+    }
+  },
+  {
+    "id": "gva-0605",
+    "topic": "ripa",
+    "q": "Si escuchamos dentro del puerto una señal acústica consistente en tres pitadas cortas, se trata de:",
+    "options": [
+      "Un buque dando atrás",
+      "Un buque que cae a babor",
+      "Un buque que cae a estribor",
+      "Un buque que está conforme a que lo adelanten"
+    ],
+    "answer": 0,
+    "explanation": "Tres cortas: atrás.",
+    "gva": {
+      "index": 605,
+      "sittings": ["2024-04"]
+    }
+  },
+  {
+    "id": "gva-0606",
+    "topic": "ripa",
+    "q": "Según el RIPA. ¿Qué duración tendrá una pitada corta?",
+    "options": [
+      "Aproximadamente medio segundo",
+      "Aproximadamente tres segundos",
+      "Aproximadamente dos segundos",
+      "Aproximadamente un segundo"
+    ],
+    "answer": 3,
+    "explanation": "Corta: 1 s.",
+    "gva": {
+      "index": 606,
+      "sittings": ["2024-04"]
+    }
+  },
+  {
+    "id": "gva-0607",
+    "topic": "ripa",
+    "q": "A efectos del RIPA, un buque de vela con las velas izadas y navegando con la ayuda del motor, se considerará:",
+    "options": [
+      "Un buque de propulsión mecánica",
+      "Un buque de vela",
+      "Un buque de capacidad de maniobra restringida",
+      "Un buque con capacidad de maniobra restringida por la vela"
+    ],
+    "answer": 0,
+    "explanation": "Vela + motor = propulsión mecánica.",
+    "gva": {
+      "index": 607,
+      "sittings": ["2024-04"]
+    }
+  },
+  {
+    "id": "gva-0608",
+    "topic": "ripa",
+    "q": "Sin navegando de día observamos una embarcación que tiene izadas dos banderas, siendo la superior a cuadros blancos y azules y la inferior franjas azules y blancas con una roja en el medio, se trata de:",
+    "options": [
+      "Un buque en peligro",
+      "Un buque con buzos sumergidos",
+      "Un buque pescando al arrastre",
+      "Todas las respuestas anteriores son incorrectas"
+    ],
+    "answer": 0,
+    "explanation": "N sobre C: socorro.",
+    "gva": {
+      "index": 608,
+      "sittings": ["2024-04"]
+    }
+  },
+  {
+    "id": "gva-0644",
+    "topic": "ripa",
+    "q": "Tal como lo estipula el RIPA, ¿Cómo se denominan todos los buques que por causas excepcionales no tienen la maniobrabilidad adecuada y no pueden apartarse de la derrota de otros buques?",
+    "options": [
+      "Buques restringidos por su calado",
+      "Buques sin gobierno",
+      "Buques de vela",
+      "Buques dedicados a la pesca"
+    ],
+    "answer": 1,
+    "explanation": "Sin gobierno.",
+    "gva": {
+      "index": 644,
+      "sittings": ["2024-02"]
+    }
+  },
+  {
+    "id": "gva-0645",
+    "topic": "ripa",
+    "q": "¿Qué maniobra realizará el buque que está siendo alcanzado?",
+    "options": [
+      "Cambiará el rumbo a babor",
+      "Cambiará la velocidad",
+      "Si fuera necesario suprimirá la arrancada",
+      "Ninguna"
+    ],
+    "answer": 3,
+    "explanation": "El alcanzado mantiene rumbo y velocidad.",
+    "gva": {
+      "index": 645,
+      "sittings": ["2024-02", "2024-09"]
+    }
+  },
+  {
+    "id": "gva-0646",
+    "topic": "ripa",
+    "q": "En caso de visibilidad reducida, ¿Qué velocidad pondremos en navegación con arrancada?:",
+    "options": [
+      "La velocidad de consumo mínimo",
+      "La velocidad de crucero",
+      "La velocidad de seguridad",
+      "La velocidad mínima de gobierno"
+    ],
+    "answer": 2,
+    "explanation": "Velocidad de seguridad.",
+    "gva": {
+      "index": 646,
+      "sittings": ["2024-02"]
+    }
+  },
+  {
+    "id": "gva-0647",
+    "topic": "ripa",
+    "q": "Si por la proa avisto un buque que lleva colgando una marca que consiste en dos conos opuestos por los vértices, se trata de:",
+    "options": [
+      "Un buque varado",
+      "Un buque dedicado a la pesca",
+      "Un buque que está restringido por su calado",
+      "Un buque fondeado mayor de 100 metros de eslora"
+    ],
+    "answer": 1,
+    "explanation": "Pesca.",
+    "gva": {
+      "index": 647,
+      "sittings": ["2024-02"]
+    }
+  },
+  {
+    "id": "gva-0648",
+    "topic": "ripa",
+    "q": "Un buque navegando a vela y a motor al mismo tiempo según el RIPA se considera para maniobrar con otro buque con riesgo de abordaje, que es un:",
+    "options": [
+      "Buque de navegación mixta",
+      "Buque de propulsión mecánica",
+      "Buque de vela",
+      "Buque de maniobra restringida"
+    ],
+    "answer": 1,
+    "explanation": "Propulsión mecánica.",
+    "gva": {
+      "index": 648,
+      "sittings": ["2024-02"]
+    }
+  },
+  {
+    "id": "gva-0649",
+    "topic": "ripa",
+    "q": "La vigilancia que mantendremos en todo momento durante la navegación:",
+    "options": [
+      "Será visual de día y auditiva de noche",
+      "Deberá ser visual y auditiva, excepto en niebla muy densa que será solo auditiva",
+      "Dependerá del estado de la mar y de la visibilidad",
+      "Será visual y auditiva"
+    ],
+    "answer": 3,
+    "explanation": "Vigilancia visual y auditiva, siempre.",
+    "gva": {
+      "index": 649,
+      "sittings": ["2024-02"]
+    }
+  },
+  {
+    "id": "gva-0650",
+    "topic": "ripa",
+    "q": "Un buque de propulsión mecánica de 9 metros de eslora en navegación mostrará de noche:",
+    "options": [
+      "Una luz de tope a proa, una luz de tope a popa, luces de costado y alcance",
+      "Únicamente una luz blanca todo horizonte",
+      "Las luces de costado y una luz blanca todo horizonte",
+      "Una luz de tope, una luz blanca todo horizonte y luces de costado"
+    ],
+    "answer": 2,
+    "explanation": "Menos de 12 m: costados + blanca todo horizonte.",
+    "gva": {
+      "index": 650,
+      "sittings": ["2024-02"]
+    }
+  },
+  {
+    "id": "gva-0651",
+    "topic": "ripa",
+    "q": "¿Qué tipo de buques exhibirán de noche una luz roja sobre una verde ambas todo horizonte, y un poco más abajo una luz de color verde en el costado?",
+    "options": [
+      "Los buques sin gobierno con arrancada",
+      "Los buques navegando a vela y a motor mayor de 20 metros de eslora",
+      "Los buques de pesca de no arrastre",
+      "Los buques de vela"
+    ],
+    "answer": 3,
+    "explanation": "Roja sobre verde + costado: velero.",
+    "gva": {
+      "index": 651,
+      "sittings": ["2024-02"]
+    }
+  },
+  {
+    "id": "gva-0652",
+    "topic": "ripa",
+    "q": "Las reglas relativas a las marcas deberán cumplirse:",
+    "options": [
+      "Si tenemos un buque por la proa navegando cerca de la costa",
+      "Si un buque nos alcanza por la aleta de estribor",
+      "En todas las condiciones meteorológicas",
+      "Únicamente por los buques mayores de 50 metros de eslora"
+    ],
+    "answer": 2,
+    "explanation": "Las marcas se cumplen con cualquier tiempo.",
+    "gva": {
+      "index": 652,
+      "sittings": ["2024-02"]
+    }
+  },
+  {
+    "id": "gva-0653",
+    "topic": "ripa",
+    "q": "Sin navegando de noche vemos una luz blanca en el horizonte, puede tratarse de:",
+    "options": ["Un buque fondeado", "Un buque de vela", "Un bote de remos", "Cualquiera de los anteriores"],
+    "answer": 3,
+    "explanation": "Una sola blanca puede ser un fondeado, un velero visto de popa o un bote de remos.",
+    "gva": {
+      "index": 653,
+      "sittings": ["2024-02"]
+    }
+  },
+  {
+    "id": "gva-0689",
+    "topic": "ripa",
+    "q": "Según el RIPA la expresión “en navegación” se aplica a un buque que no está:",
+    "options": ["Amarrado a tierra", "Varado", "Fondeado", "Todas las respuestas anteriores son ciertas"],
+    "answer": 3,
+    "explanation": "Ni amarrado, ni varado, ni fondeado.",
+    "gva": {
+      "index": 689,
+      "sittings": ["2024-06"]
+    }
+  },
+  {
+    "id": "gva-0690",
+    "topic": "ripa",
+    "q": "La luz roja de costado de un buque muestra un arco de horizonte visto desde la proa de:",
+    "options": ["225º", "135º", "360º", "112,5º"],
+    "answer": 3,
+    "explanation": "112,5º.",
+    "gva": {
+      "index": 690,
+      "sittings": ["2024-06", "2025-04"]
+    }
+  },
+  {
+    "id": "gva-0691",
+    "topic": "ripa",
+    "q": "¿De qué color es la luz de remolque?:",
+    "options": ["Blanca", "Roja", "Verde", "Amarilla"],
+    "answer": 3,
+    "explanation": "Amarilla.",
+    "gva": {
+      "index": 691,
+      "sittings": ["2024-06", "2025-04"]
+    }
+  },
+  {
+    "id": "gva-0692",
+    "topic": "ripa",
+    "q": "Si por la proa avistamos un velero que lleva colgando una marca que consiste en un cono con el vértice apuntado hacia abajo, se trata de:",
+    "options": [
+      "Un velero varado",
+      "Un velero con obstrucción",
+      "Un velero navegando con ayuda del motor",
+      "Un velero navegando únicamente a vela"
+    ],
+    "answer": 2,
+    "explanation": "Cono hacia abajo: velero a motor.",
+    "gva": {
+      "index": 692,
+      "sittings": ["2024-06", "2025-04"]
+    }
+  },
+  {
+    "id": "gva-0693",
+    "topic": "ripa",
+    "q": "Una marca consistente en dos conos negros unidos por sus bases, es de un:",
+    "options": [
+      "Buque de vela",
+      "Buque de propulsión mecánica",
+      "Buque remolcador",
+      "Buque de maniobra restringida"
+    ],
+    "answer": 2,
+    "explanation": "Bicono (conos unidos por las bases): remolcador con un remolque de más de 200 m.",
+    "gva": {
+      "index": 693,
+      "sittings": ["2024-06"]
+    }
+  },
+  {
+    "id": "gva-0694",
+    "topic": "ripa",
+    "q": "Las luces características de un buque dedicado a la pesca de arrastre son:",
+    "options": [
+      "Dos luces todo horizonte, roja la superior y blanca la inferior",
+      "Dos luces rojas todo horizonte en vertical",
+      "Dos luces blancas todo horizonte en vertical",
+      "Dos luces todo horizonte, verde la superior y blanca la inferior"
+    ],
+    "answer": 3,
+    "explanation": "Verde sobre blanca: arrastre.",
+    "gva": {
+      "index": 694,
+      "sittings": ["2024-06", "2025-04"]
+    }
+  },
+  {
+    "id": "gva-0695",
+    "topic": "ripa",
+    "q": "La marca con forma de cilindro de color negro es característica de un buque:",
+    "options": [
+      "De propulsión mecánica restringido por su calado",
+      "Varado",
+      "De pesca de trasmallo",
+      "Velero"
+    ],
+    "answer": 0,
+    "explanation": "Cilindro: calado.",
+    "gva": {
+      "index": 695,
+      "sittings": ["2024-06"]
+    }
+  },
+  {
+    "id": "gva-0696",
+    "topic": "ripa",
+    "q": "¿Qué buque navegando en niebla emitirá una pitada larga a intervalos que no excedan de dos minutos?",
+    "options": [
+      "Un buque que está cayendo a babor",
+      "Un buque de propulsión mecánica con arrancada",
+      "Un remolcador",
+      "Un buque que está cayendo a estribor"
+    ],
+    "answer": 1,
+    "explanation": "Una larga cada 2 min: propulsión mecánica con arrancada.",
+    "gva": {
+      "index": 696,
+      "sittings": ["2024-06", "2025-04"]
+    }
+  },
+  {
+    "id": "gva-0697",
+    "topic": "ripa",
+    "q": "Navegando de noche observamos por la proa dos luces blancas en la vertical y más abajo una luz verde a babor y una roja a estribor, puede tratarse de:",
+    "options": [
+      "Un dragaminas",
+      "Un buque con capacidad de maniobra restringida",
+      "Un buque pesquero",
+      "Un buque de propulsión mecánica mayor de 50 metros de eslora"
+    ],
+    "answer": 3,
+    "explanation": "Dos topes y los dos costados: propulsión mecánica de 50 m o más, visto de proa.",
+    "gva": {
+      "index": 697,
+      "sittings": ["2024-06"]
+    }
+  },
+  {
+    "id": "gva-0698",
+    "topic": "ripa",
+    "q": "Si navegando de noche vemos dos luces blancas en el horizonte, puede ser:",
+    "options": [
+      "Un pesquero de cerco",
+      "Un buque varado mayor de 50 metros",
+      "Un buque fondeado mayor de 50 metros",
+      "Cualquiera de las anteriores"
+    ],
+    "answer": 2,
+    "explanation": "Dos blancas (a distinta altura): fondeado de 50 m o más.",
+    "gva": {
+      "index": 698,
+      "sittings": ["2024-06", "2025-04"]
+    }
+  },
+  {
+    "id": "gva-0724",
+    "topic": "ripa",
+    "q": "Un buque que lleva colgando una marca que consiste en dos conos unidos por sus vértices en línea vertical uno sobre otro, se trata de:",
+    "options": [
+      "Un buque varado",
+      "Un buque dedicado a la pesca",
+      "Un buque que está restringido por su calado",
+      "Un buque fondeado mayor de 100 metros de eslora"
+    ],
+    "answer": 1,
+    "explanation": "Pesca.",
+    "gva": {
+      "index": 724,
+      "sittings": ["2024-09"]
+    }
+  },
+  {
+    "id": "gva-0725",
+    "topic": "ripa",
+    "q": "La vigilancia que mantendremos en todo momento durante la navegación:",
+    "options": [
+      "Será visual de día y auditiva de noche",
+      "Si hay niebla muy densa solo será auditiva",
+      "Dependerá del estado de la mar y de la visibilidad",
+      "Será visual y auditiva en todo momento"
+    ],
+    "answer": 3,
+    "explanation": "Visual y auditiva, siempre.",
+    "gva": {
+      "index": 725,
+      "sittings": ["2024-09"]
+    }
+  },
+  {
+    "id": "gva-0726",
+    "topic": "ripa",
+    "q": "Un buque navegando a vela y ayudado del motor, deberá exhibir a proa, en el lugar más visible:",
+    "options": ["Una esfera negra", "Un cilindro", "Un cono con el vértice hacia abajo", "Un bicono"],
+    "answer": 2,
+    "explanation": "Cono hacia abajo.",
+    "gva": {
+      "index": 726,
+      "sittings": ["2024-09"]
+    }
+  },
+  {
+    "id": "gva-0727",
+    "topic": "ripa",
+    "q": "¿Qué tipo de buques exhibirán de noche una luz roja sobre una verde ambas todo horizonte, y un poco más abajo una luz de costado de color verde?",
+    "options": [
+      "Los buques sin gobierno con arrancada",
+      "Los buques navegando a vela y a motor mayor de 20 metros de eslora",
+      "Los buques de pesca de no arrastre",
+      "Los buques de vela"
+    ],
+    "answer": 3,
+    "explanation": "Velero.",
+    "gva": {
+      "index": 727,
+      "sittings": ["2024-09"]
+    }
+  },
+  {
+    "id": "gva-0728",
+    "topic": "ripa",
+    "q": "Si navegando de noche vemos una luz blanca en el horizonte, puede tratarse de:",
+    "options": ["Un buque fondeado", "Un buque de vela", "Un bote de remos", "Cualquiera de los anteriores"],
+    "answer": 3,
+    "explanation": "Cualquiera de ellos.",
+    "gva": {
+      "index": 728,
+      "sittings": ["2024-09"]
+    }
+  },
+  {
+    "id": "gva-0740",
+    "topic": "ripa",
+    "q": "Para mantener la velocidad de seguridad teniendo un radar a bordo funcionando correctamente. ¿Cuál de los siguientes factores no se tendrá en cuenta?",
+    "options": [
+      "La densidad del tráfico, incluidas las concentraciones de buques de pesca",
+      "Si un buque se encuentra navegando a vela o a motor",
+      "La restricción impuesta por la escala del radar que se esté utilizando",
+      "De noche, la existencia de resplandor"
+    ],
+    "answer": 1,
+    "explanation": "Que el otro vaya a vela o a motor no influye en la velocidad de seguridad.",
+    "gva": {
+      "index": 740,
+      "sittings": ["2024-11"]
+    }
+  },
+  {
+    "id": "gva-0741",
+    "topic": "ripa",
+    "q": "En los canales angostos, señala la correcta:",
+    "options": [
+      "Los buques menores de 50 m podrán fondear dentro de un canal angosto",
+      "Los buques de vela, los de pesca y los de menos de 20 m de eslora, podrán cruzar y estorbar el tránsito de un buque que sólo pueda navegar con seguridad dentro de un paso o canal angosto",
+      "No se podrá cruzar, si se estorba a un buque dedicado a la pesca dentro de un paso o canal angosto",
+      "Los buques de vela, y los de menos de 20 m de eslora, no estorbarán el tránsito de un buque que sólo pueda navegar con seguridad dentro de un paso o canal angosto"
+    ],
+    "answer": 3,
+    "explanation": "Veleros y menores de 20 m no estorban.",
+    "gva": {
+      "index": 741,
+      "sittings": ["2024-11"]
+    }
+  },
+  {
+    "id": "gva-0742",
+    "topic": "ripa",
+    "q": "Si observamos sólo dos luces en la misma horizontal siendo roja la de la derecha y verde la de la izquierda, se tratará de:",
+    "options": [
+      "Un buque de varado",
+      "Un buque de propulsión mecánica parado",
+      "Un buque sin gobierno",
+      "Un buque de vela"
+    ],
+    "answer": 3,
+    "explanation": "Velero visto de proa.",
+    "gva": {
+      "index": 742,
+      "sittings": ["2024-11"]
+    }
+  },
+  {
+    "id": "gva-0757",
+    "topic": "ripa",
+    "q": "La expresión “buque dedicado a la pesca”, significa:",
+    "options": [
+      "Todo buque que esté pescando con cualquier tipo de arte, independientemente de si restringe o no su maniobrabilidad",
+      "Todo buque que esté pescando con redes, líneas, aparejos de arrastre u otros artes de pesca que restrinjan su maniobrabilidad",
+      "Todo buque que esté pescando únicamente con redes de arrastre",
+      "Todo buque que, debido a la naturaleza de su trabajo, tiene reducida su capacidad para maniobrar en la forma exigida por el RIPA, y por consiguiente, no puede apartarse de la derrota de otro buque."
+    ],
+    "answer": 1,
+    "explanation": "Dedicado a la pesca: con artes que restringen su maniobra.",
+    "gva": {
+      "index": 757,
+      "sittings": ["2025-04"]
+    }
+  },
+  {
+    "id": "gva-0758",
+    "topic": "ripa",
+    "q": "Los buques de vela en navegación de eslora inferior a 20 metros exhibirán:",
+    "options": [
+      "Luces de costado y luz de alcance amarilla",
+      "Luces de costados, luz de alcance y dos topes",
+      "Las repuestas a y b son ciertas",
+      "Luces de costado y luz de alcance"
+    ],
+    "answer": 3,
+    "explanation": "Menos de 20 m: costados + alcance (o el farol tricolor).",
+    "gva": {
+      "index": 758,
+      "sittings": ["2025-04"]
+    }
+  },
+  {
+    "id": "gva-0759",
+    "topic": "ripa",
+    "q": "Según el RIPA, si observamos una marca de color negro consistente en dos conos unidos por sus vértices, se tratará de:",
+    "options": [
+      "Un velero",
+      "Un buque con capacidad de maniobra restringida",
+      "Un remolcador",
+      "Un buque dedicado a la pesca"
+    ],
+    "answer": 3,
+    "explanation": "Pesca.",
+    "gva": {
+      "index": 759,
+      "sittings": ["2025-04"]
+    }
+  },
+  {
+    "id": "gva-0760",
+    "topic": "ripa",
+    "q": "Si un buque de vela se encuentra en situación de vuelta encontrada con riesgo de abordaje con un buque de propulsión mecánica, maniobrará:",
+    "options": [
+      "Ambos buques cayendo a babor",
+      "Cayendo ambos buques a estribor",
+      "El buque de vela se apartará de la derrota del buque de propulsión mecánica",
+      "El buque de propulsión mecánica podrá caer a babor apartándose de la derrota del velero"
+    ],
+    "answer": 3,
+    "explanation": "El de propulsión mecánica se aparta del velero. (La clave usa una formulación rara, pero es esa.)",
+    "gva": {
+      "index": 760,
+      "sittings": ["2025-04"]
+    }
+  },
+  {
+    "id": "gva-0780",
+    "topic": "ripa",
+    "q": "Un pesquero está faenando y atraviesa un canal angosto. Se cruza con un buque mercante de 60 m de eslora que sólo puede navegar con seguridad por el centro del canal y ambos buques van a rumbo de colisión. ¿Quién debe tomar la iniciativa y maniobrar?",
+    "options": [
+      "El mercante debe dejar paso al pesquero, según la regla de categorías de buques",
+      "El pesquero no debe estorbar el tránsito seguro del buque mercante",
+      "Está prohibido pescar en un canal angosto, luego el pesquero ni tan si quiera puede entrar allí faenando",
+      "Los dos están obligados a maniobrar simultáneamente cayendo a su costado de estribor"
+    ],
+    "answer": 1,
+    "explanation": "El pesquero no debe estorbar.",
+    "gva": {
+      "index": 780,
+      "sittings": ["2025-06"]
+    }
+  },
+  {
+    "id": "gva-0808",
+    "topic": "ripa",
+    "q": "La expresión “buque de pesca” se refiere a:",
+    "options": [
+      "Buque que está pescando al arrastre",
+      "Buque que está largando la red de cerco",
+      "Buque que está virando el trasmallo",
+      "Todas las respuestas anteriores son correctas"
+    ],
+    "answer": 3,
+    "explanation": "Arrastre, cerco y trasmallo restringen la maniobra: todas.",
+    "gva": {
+      "index": 808,
+      "sittings": ["2025-09"]
+    }
+  },
+  {
+    "id": "gva-0809",
+    "topic": "ripa",
+    "q": "Una embarcación de vela fondeada en las inmediaciones de un puerto exhibirá:",
+    "options": [
+      "Una esfera negra",
+      "Dos esferas negras",
+      "Un cilindro negro",
+      "Un cono negro con el vértice hacia arriba"
+    ],
+    "answer": 0,
+    "explanation": "Fondeado: una esfera.",
+    "gva": {
+      "index": 809,
+      "sittings": ["2025-09"]
+    }
+  },
+  {
+    "id": "gva-0810",
+    "topic": "ripa",
+    "q": "Los buques en navegación con arrancada que de día exhiben dos esferas negras una encima de la otra, nos indican que:",
+    "options": [
+      "Están varadas",
+      "Se dedican a operaciones de dragado",
+      "Están sin gobierno",
+      "Ninguna respuesta es cierta"
+    ],
+    "answer": 2,
+    "explanation": "Sin gobierno.",
+    "gva": {
+      "index": 810,
+      "sittings": ["2025-09"]
+    }
+  },
+  {
+    "id": "gva-0811",
+    "topic": "ripa",
+    "q": "Si navegando hay varios buques a la vista unos de otros y escuchamos una señal sonora que consiste en dos pitadas cortas, se trata de un buque que:",
+    "options": ["Está cayendo a babor", "Está cayendo a estribor", "Está dando atrás", "Está fondeado"],
+    "answer": 0,
+    "explanation": "Dos cortas: caigo a babor.",
+    "gva": {
+      "index": 811,
+      "sittings": ["2025-09"]
+    }
+  },
+  {
+    "id": "gva-0812",
+    "topic": "ripa",
+    "q": "Según el RIPA, si observamos en un buque una marca de día de color negro consistente en tres esferas superpuestas una sobre otra, se tratará de:",
+    "options": ["Un buque varado", "Un buque fondeado", "Un buque de pesca", "Un remolcador"],
+    "answer": 0,
+    "explanation": "Varado.",
+    "gva": {
+      "index": 812,
+      "sittings": ["2025-09"]
+    }
+  },
+  {
+    "id": "gva-0813",
+    "topic": "ripa",
+    "q": "De las siguientes respuestas, ¿Cuál es correcta para señalar peligro?",
+    "options": [
+      "Un disparo de cañón u otra señal detonante cada minuto",
+      "Una marca bicónica negra unida por las bases",
+      "La bandera Bravo Modificada",
+      "Todas las respuestas anteriores son ciertas"
+    ],
+    "answer": 0,
+    "explanation": "Una detonación cada minuto es señal de socorro.",
+    "gva": {
+      "index": 813,
+      "sittings": ["2025-09"]
+    }
+  },
+  {
+    "id": "gva-0814",
+    "topic": "ripa",
+    "q": "Si observamos por la noche en el horizonte una luz amarilla sobre una luz blanca, se tratará de:",
+    "options": [
+      "Un velero navegando a vela",
+      "Un buque de pesca de trasmallo",
+      "Un buque varado",
+      "Un remolcador remolcando a otra embarcación"
+    ],
+    "answer": 3,
+    "explanation": "Amarilla sobre blanca: remolque.",
+    "gva": {
+      "index": 814,
+      "sittings": ["2025-09"]
+    }
+  },
+  {
+    "id": "gva-0815",
+    "topic": "ripa",
+    "q": "Nos encontramos dentro del puerto y escuchamos una señal acústica consistente en una pitada corta, se tratará de:",
+    "options": [
+      "Un buque que cae a estribor",
+      "Un buque dando atrás",
+      "Un buque que cae a babor",
+      "Ninguna respuesta es cierta"
+    ],
+    "answer": 0,
+    "explanation": "Una corta: caigo a estribor.",
+    "gva": {
+      "index": 815,
+      "sittings": ["2025-09"]
+    }
+  },
+  {
+    "id": "gva-0816",
+    "topic": "ripa",
+    "q": "Según el RIPA. ¿Qué duración tendrá una pitada larga?",
+    "options": [
+      "Aproximadamente de 4 a 6 segundos",
+      "Aproximadamente un segundo",
+      "Aproximadamente tres segundos",
+      "Aproximadamente dos segundos"
+    ],
+    "answer": 0,
+    "explanation": "4 a 6 s.",
+    "gva": {
+      "index": 816,
+      "sittings": ["2025-09"]
+    }
+  },
+  {
+    "id": "gva-0849",
+    "topic": "ripa",
+    "q": "De acuerdo con la Regla 21.b del RIPA, en Definiciones, “las luces de costado” muestran su luz sin interrupción en todo un arco del horizonte de:",
+    "options": [
+      "225 grados hacia popa.",
+      "112,5 grados a cada una de las bandas desde proa.",
+      "135 grados desde la proa.",
+      "360 grados."
+    ],
+    "answer": 1,
+    "explanation": "112,5º a cada banda desde la proa.",
+    "gva": {
+      "index": 849,
+      "sittings": ["2026-04"]
+    }
+  },
+  {
+    "id": "gva-0850",
+    "topic": "ripa",
+    "q": "Se considera que existe situación de vuelta encontrada cuando un buque vea a otro por:",
+    "options": [
+      "Su proa viendo la luz de tope blanca y las luces de costado.",
+      "Su proa viendo la luz de alcance.",
+      "Su popa viendo la luz de alcance.",
+      "Su proa viendo la luz de tope y únicamente una de las luces de costado."
+    ],
+    "answer": 0,
+    "explanation": "Vuelta encontrada: tope y los dos costados.",
+    "gva": {
+      "index": 850,
+      "sittings": ["2026-04"]
+    }
+  },
+  {
+    "id": "gva-0851",
+    "topic": "ripa",
+    "q": "Los buques de vela en navegación se mantendrán apartados de la derrota de:",
+    "options": [
+      "Un buque pescando al arrastre.",
+      "Un buque con capacidad de maniobra restringida.",
+      "Un buque sin gobierno.",
+      "Las respuestas anteriores son ciertas."
+    ],
+    "answer": 3,
+    "explanation": "El velero se aparta de arrastre, maniobra restringida y sin gobierno.",
+    "gva": {
+      "index": 851,
+      "sittings": ["2026-04"]
+    }
+  },
+  {
+    "id": "gva-0852",
+    "topic": "ripa",
+    "q": "Cuando dos buques de propulsión mecánica se crucen con riesgo de abordaje, el buque que tenga al otro por su costado de estribor:",
+    "options": [
+      "Evitará cortarle la popa.",
+      "Actuará como buque que alcanza.",
+      "Se mantendrá apartado de la derrota de este otro.",
+      "Evitará ejecutar la maniobra de caer a estribor."
+    ],
+    "answer": 2,
+    "explanation": "Quien tiene al otro por estribor se aparta.",
+    "gva": {
+      "index": 852,
+      "sittings": ["2026-04"]
+    }
+  },
+  {
+    "id": "gva-0883",
+    "topic": "ripa",
+    "q": "Si observamos un barco que lleva izadas en un lugar visible tres bolas negras, sabremos que se trata de:",
+    "options": ["Un buque sin gobierno.", "Un buque remolcado.", "Un buque remolcando.", "Un buque varado."],
+    "answer": 3,
+    "explanation": "Tres bolas: varado.",
+    "gva": {
+      "index": 883,
+      "sittings": ["2026-07"]
+    }
+  },
+  {
+    "id": "gva-0884",
+    "topic": "ripa",
+    "q": "¿Qué sector de visibilidad tiene una luz de remolque?",
+    "options": ["Todo horizonte.", "135º", "225º.", "112,5º"],
+    "answer": 1,
+    "explanation": "135º.",
+    "gva": {
+      "index": 884,
+      "sittings": ["2026-07"]
+    }
+  },
+  {
+    "id": "gva-0885",
+    "topic": "ripa",
+    "q": "Navegando a vela ¿cuándo podemos considerar a otro buque a la vista?",
+    "options": [
+      "Cuando puede ser observado visualmente.",
+      "Cuando vemos el eco en el radar.",
+      "Sólo cuando hay riesgo de abordaje.",
+      "Sólo cuando el otro buque está a barlovento."
+    ],
+    "answer": 0,
+    "explanation": "A la vista: cuando se ve con los ojos (no por radar).",
+    "gva": {
+      "index": 885,
+      "sittings": ["2026-07"]
+    }
+  },
+  {
+    "id": "gva-0886",
+    "topic": "ripa",
+    "q": "Navegando de noche observamos luces de tope, la verde de costado y una luz amarilla centelleante. ¿Qué tipo de buque estamos viendo?",
+    "options": ["Un buque varado.", "Un remolcador.", "Un aerodeslizador.", "Un portaviones."],
+    "answer": 2,
+    "explanation": "Luz amarilla centelleante: aerodeslizador sin desplazamiento.",
+    "gva": {
+      "index": 886,
+      "sittings": ["2026-07"]
+    }
+  },
+  {
+    "id": "gva-0887",
+    "topic": "ripa",
+    "q": "¿Qué barco repica la campana durante cinco segundos a intervalos que no excedan de un minuto en un banco de niebla?",
+    "options": [
+      "Un buque varado.",
+      "Un buque fondeado.",
+      "Un buque dedicado a la pesca de no arrastre.",
+      "Un buque restringido por su calado."
+    ],
+    "answer": 1,
+    "explanation": "Campana de 5 s cada minuto: fondeado.",
+    "gva": {
+      "index": 887,
+      "sittings": ["2026-07"]
+    }
+  },
+  {
+    "id": "gva-0888",
+    "topic": "ripa",
+    "q": "Un buque remolcando de día puede llevar en un lugar visible:",
+    "options": [
+      "Dos esferas negras.",
+      "Un cilindro negro.",
+      "Dos marcas cónicas unidas por el vértice.",
+      "Un bicono de color negro."
+    ],
+    "answer": 3,
+    "explanation": "Bicono (remolque de más de 200 m).",
+    "gva": {
+      "index": 888,
+      "sittings": ["2026-07"]
+    }
+  },
+  {
+    "id": "gva-0889",
+    "topic": "ripa",
+    "q": "¿Qué luces exhibirá un buque sin gobierno?",
+    "options": [
+      "Dos luces rojas y una blanca en el centro en vertical.",
+      "Luces intermitentes.",
+      "Tres luces blancas en vertical.",
+      "Dos luces rojas en vertical"
+    ],
+    "answer": 3,
+    "explanation": "Sin gobierno: dos rojas.",
+    "gva": {
+      "index": 889,
+      "sittings": ["2026-07"]
+    }
+  },
+  {
+    "id": "gva-0890",
+    "topic": "ripa",
+    "q": "Tenemos dos buques de vela navegando y recibiendo el viento por distintas bandas con riesgo de abordaje. ¿Qué buque debe de apartarse del otro?",
+    "options": [
+      "El que recibe el viento por la banda de babor.",
+      "El que está más a barlovento.",
+      "El que recibe el viento por la banda de estribor.",
+      "El que ve al otro por la banda de babor."
+    ],
+    "answer": 0,
+    "explanation": "El que recibe el viento por babor.",
+    "gva": {
+      "index": 890,
+      "sittings": ["2026-07"]
+    }
+  },
+  {
+    "id": "gva-0891",
+    "topic": "ripa",
+    "q": "En una situación de cruce con riesgo de abordaje, ¿qué tipo de buque de los nombrados en la pregunta tiene preferencia sobre todos los demás?",
+    "options": [
+      "Un velero.",
+      "Un buque restringido por su calado.",
+      "Un buque con capacidad de maniobra restringida.",
+      "Un buque dedicado a la pesca de arrastre."
+    ],
+    "answer": 2,
+    "explanation": "Maniobra restringida: solo cede ante el sin gobierno.",
+    "gva": {
+      "index": 891,
+      "sittings": ["2026-07"]
+    }
+  },
+  {
+    "id": "gva-0892",
+    "topic": "ripa",
+    "q": "¿Cuándo se considera que un buque está alcanzando a otro?",
+    "options": [
+      "Cuando el buque que alcanza se encuentra a más de dos cuartas a proa del través del buque alcanzado.",
+      "Si es de noche sólo vemos la luz de alcance y ninguna de costado.",
+      "Cuando ambos buques se acercan a gran velocidad.",
+      "Cuando navega por la popa."
+    ],
+    "answer": 1,
+    "explanation": "Alcanzas si solo ves su luz de alcance.",
+    "gva": {
+      "index": 892,
+      "sittings": ["2026-07"]
+    }
+  },
+  {
+    "id": "gva-0928",
+    "topic": "ripa",
+    "q": "A efectos del RIPA, un buque de vela es:",
+    "options": [
+      "Un velero con la vela desplegada y navegando auxiliado por el motor propulsor.",
+      "Un velero navegando a con un motor fueraborda.",
+      "Un velero que navega a vela, sin utilizar su máquina propulsora.",
+      "Cualquiera de los anteriores."
+    ],
+    "answer": 2,
+    "explanation": "Buque de vela: a vela, sin el motor.",
+    "gva": {
+      "index": 928,
+      "sittings": ["2026-10"]
+    }
+  },
+  {
+    "id": "gva-0929",
+    "topic": "ripa",
+    "q": "Las \"reglas de rumbo y gobierno\" se aplican:",
+    "options": [
+      "En cualquier condición de visibilidad.",
+      "Solamente en condiciones de visibilidad reducida.",
+      "Solamente de día.",
+      "Solamente de noche."
+    ],
+    "answer": 0,
+    "explanation": "Las reglas de rumbo y gobierno se aplican con cualquier visibilidad.",
+    "gva": {
+      "index": 929,
+      "sittings": ["2026-10"]
+    }
+  },
+  {
+    "id": "gva-0930",
+    "topic": "ripa",
+    "q": "Si en un canal angosto, veo a otro barco por mi popa que emite dos pitadas largas seguidas de dos cortas, me está indicando que:",
+    "options": [
+      "Pretende alcanzarme por mi banda de babor.",
+      "Está en peligro y necesita ayuda.",
+      "Está dando atrás.",
+      "Pretende alcanzarme por mi banda de estribor."
+    ],
+    "answer": 0,
+    "explanation": "Dos largas + dos cortas: quiero alcanzarte por tu babor.",
+    "gva": {
+      "index": 930,
+      "sittings": ["2026-10"]
+    }
+  },
+  {
+    "id": "gva-0931",
+    "topic": "ripa",
+    "q": "Si nos encontramos navegando cerrados en niebla y escuchamos por la proa dos pitadas largas consecutivas, separadas por un intervalo de dos segundos entre ambas, se trata de:",
+    "options": [
+      "Un buque de pesca fondeado.",
+      "Un buque sin gobierno con arrancada.",
+      "Un buque de propulsión mecánica en navegación, pero parado y sin arrancada.",
+      "Un buque de propulsión mecánica con arrancada."
+    ],
+    "answer": 2,
+    "explanation": "Dos largas: parado sin arrancada.",
+    "gva": {
+      "index": 931,
+      "sittings": ["2026-10"]
+    }
+  },
+  {
+    "id": "gva-0932",
+    "topic": "ripa",
+    "q": "Si una embarcación de vela está alcanzando a un buque de propulsión mecánica con riesgo de abordaje:",
+    "options": [
+      "El barco de vela deberá mantenerse apartado de la derrota de la embarcación de propulsión mecánica.",
+      "Los dos barcos deberán caer a estribor.",
+      "El barco de propulsión mecánica caerá a estribor.",
+      "El barco de vela mantendrá rumbo y velocidad."
+    ],
+    "answer": 0,
+    "explanation": "El que alcanza se aparta siempre, sea velero o no.",
+    "gva": {
+      "index": 932,
+      "sittings": ["2026-10"]
+    }
+  },
+  {
+    "id": "gva-0933",
+    "topic": "ripa",
+    "q": "En un dispositivo de separación de tráfico, los buques que crucen una vía de circulación lo harán:",
+    "options": [
+      "A la máxima velocidad para salir de él en el menor tiempo posible.",
+      "Con el mínimo ángulo con la dirección general de la corriente del tráfico.",
+      "A velocidad moderada.",
+      "Lo más perpendicular posible a la dirección general de la corriente del tráfico."
+    ],
+    "answer": 3,
+    "explanation": "Para cruzar una vía, lo más perpendicular posible.",
+    "gva": {
+      "index": 933,
+      "sittings": ["2026-10"]
+    }
+  },
+  {
+    "id": "gva-0934",
+    "topic": "ripa",
+    "q": "Según el reglamento, un buque de propulsión mecánica parado y sin arrancada se trata de:",
+    "options": [
+      "Un buque sin gobierno.",
+      "Un buque en navegación.",
+      "Un buque con capacidad de maniobra restringida.",
+      "Un buque sin maniobra."
+    ],
+    "answer": 1,
+    "explanation": "Parado pero sin fondear, amarrar ni varar: sigue «en navegación».",
+    "gva": {
+      "index": 934,
+      "sittings": ["2026-10"]
+    }
+  },
+  {
+    "id": "gva-0935",
+    "topic": "ripa",
+    "q": "Si navegando vemos una embarcación que exhibe una marca que consiste en dos conos unidos por su base se trata de:",
+    "options": [
+      "Un remolcador.",
+      "Un pesquero.",
+      "Un buque con capacidad de maniobra restringida.",
+      "Un velero."
+    ],
+    "answer": 0,
+    "explanation": "Conos unidos por la base: remolque de más de 200 m.",
+    "gva": {
+      "index": 935,
+      "sittings": ["2026-10"]
+    }
+  },
+  {
+    "id": "gva-0936",
+    "topic": "ripa",
+    "q": "¿Cómo se comportarán los buques de eslora inferior a 20 metros y/o los buques de vela, en un dispositivo de separación de tráfico?",
+    "options": [
+      "En ninguna circunstancia podrán utilizar las zonas de navegación costera.",
+      "No estorbarán el tránsito seguro de los buques de propulsión mecánica que naveguen en una vía de circulación.",
+      "Pueden navegar en la zona de separación de tráfico.",
+      "Como si fuera un buque con capacidad de maniobra restringida."
+    ],
+    "answer": 1,
+    "explanation": "Los menores de 20 m y los veleros no estorbarán a los que van por la vía.",
+    "gva": {
+      "index": 936,
+      "sittings": ["2026-10"]
+    }
+  },
+  {
+    "id": "gva-0937",
+    "topic": "ripa",
+    "q": "Un buque que navegue a vela cuando además sea propulsado mecánicamente, está obligado a exhibir:",
+    "options": [
+      "Una marca cónica con el vértice hacia arriba, situada a popa en lugar visible.",
+      "Una marca bicónica.",
+      "Una marca cónica con el vértice hacia abajo, situada a proa en el lugar más visible.",
+      "Dos bolas negras."
+    ],
+    "answer": 2,
+    "explanation": "Cono con el vértice abajo, a proa.",
+    "gva": {
+      "index": 937,
+      "sittings": ["2026-10"]
+    }
+  }
+]
