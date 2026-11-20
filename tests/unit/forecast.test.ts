@@ -63,14 +63,25 @@ describe("simulate", () => {
       () => number
     >;
     expect(simulate(P, 50, seeded())).toMatchObject({ p: 1, exp: 32 });
+    // 31 (emerg's 3 instead of seg's 4) must fail.
+    const right31 = new Set(["baliz", "ripa", "carta", "teoria", "nom", "emerg"]); // 5+10+4+5+4+3 = 31
+    const P31 = Object.fromEntries(TOPICS.map((t) => [t.id, () => (right31.has(t.id) ? 1 : 0)])) as Record<
+      TopicId,
+      () => number
+    >;
+    expect(simulate(P31, 50, seeded())).toMatchObject({ p: 0, exp: 31 });
   });
 
-  it("fails on a minimum even with a high total", () => {
-    const P = { ...constant(1), ripa: () => 0 };
+  it.each([
+    ["ripa", 35],
+    ["baliz", 40],
+    ["carta", 41],
+  ] as const)("fails on the %s minimum even with %i correct", (topic, exp) => {
+    const P = { ...constant(1), [topic]: () => 0 };
     const r = simulate(P, 200, seeded());
-    expect(r.exp).toBe(35);
+    expect(r.exp).toBe(exp);
     expect(r.p).toBe(0);
-    expect(r.mins.ripa).toBe(0);
+    expect(r.mins[topic]).toBe(0);
   });
 
   it("at 70 % everywhere the expected score is about 31.5/45 and passing is a coin toss", () => {
@@ -135,4 +146,96 @@ describe("topicAccuracy", () => {
     expect(A.ripa).toEqual([0, 1]);
     expect(A.carta).toEqual([0, 0]);
   });
+});
+
+// Golden values: computed by the pre-P2 inline code (app.js on main, run in Node with this seed).
+// Any change to the model or to the order of random draws changes them. Update only on purpose.
+const GOLDEN = {
+  typical: {
+    A: {
+      nom: [18, 20],
+      amarre: [9, 10],
+      seg: [15, 20],
+      leg: [7, 10],
+      baliz: [20, 25],
+      ripa: [30, 50],
+      man: [8, 10],
+      emerg: [10, 12],
+      meteo: [12, 20],
+      teoria: [14, 25],
+      carta: [5, 16],
+    },
+    base: {
+      p: 0.15975,
+      exp: 29.4815,
+      mins: {
+        baliz: 0.906,
+        ripa: 0.812,
+        carta: 0.49375,
+      },
+    },
+    lev: [
+      ["ripa", 0.07291666666666666],
+      ["carta", 0.060916666666666675],
+      ["baliz", 0.058249999999999996],
+      ["nom", 0.04091666666666666],
+      ["seg", 0.04025000000000001],
+      ["meteo", 0.029583333333333323],
+      ["teoria", 0.023583333333333317],
+      ["man", 0.02291666666666667],
+      ["leg", 0.013583333333333336],
+      ["emerg", 0.010250000000000009],
+      ["amarre", 0.0035833333333333273],
+    ],
+    answered: 218,
+  },
+  sparse: {
+    A: {
+      nom: [1, 1],
+      amarre: [0, 0],
+      seg: [0, 2],
+      leg: [0, 0],
+      baliz: [2, 3],
+      ripa: [1, 4],
+      man: [0, 0],
+      emerg: [0, 0],
+      meteo: [0, 1],
+      teoria: [0, 0],
+      carta: [0, 1],
+    },
+    base: {
+      p: 0.0255,
+      exp: 24.2875,
+      mins: {
+        baliz: 0.6895,
+        ripa: 0.47975,
+        carta: 0.64725,
+      },
+    },
+    lev: [
+      ["ripa", 0.025166666666666667],
+      ["emerg", 0.010499999999999999],
+      ["baliz", 0.009833333333333336],
+      ["carta", 0.009833333333333336],
+      ["leg", 0.009166666666666667],
+      ["nom", 0.005833333333333333],
+      ["amarre", 0.005833333333333333],
+      ["seg", 0.005833333333333333],
+      ["teoria", 0.005833333333333333],
+      ["meteo", 0.005166666666666667],
+      ["man", 0.00116666666666667],
+    ],
+    answered: 12,
+  },
+} as const;
+
+describe("forecast golden values (identical to the pre-P2 app)", () => {
+  for (const [name, g] of Object.entries(GOLDEN)) {
+    it(`${name} profile`, () => {
+      const f = forecast(g.A as unknown as Record<TopicId, [number, number]>, { rng: seeded(12345) });
+      expect(f.base).toEqual(g.base);
+      expect(f.lev.map((x) => [x.t.id, x.gain])).toEqual(g.lev);
+      expect(f.answered).toBe(g.answered);
+    });
+  }
 });

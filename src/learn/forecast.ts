@@ -52,7 +52,8 @@ export function topicAccuracy<Q>(
   const A = Object.fromEntries(TOPICS.map((t) => [t.id, [0, 0]])) as TopicAccuracy;
   for (const q of bank) {
     const s = stats[key(q)];
-    const acc = A[topic(q) as TopicId];
+    const id = topic(q);
+    const acc = Object.hasOwn(A, id) ? A[id as TopicId] : undefined;
     if (s && acc) {
       acc[0] += s[1];
       acc[1] += s[0];
