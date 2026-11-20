@@ -12,6 +12,6 @@ paths:
   - use distractors that are plausible mistakes (sign errors, adjacent rules, swapped sides), never jokes;
   - avoid "all/none of the above";
   - have an explanation that says why the answer is right, and why the tempting wrong one is wrong.
-- Fill an empty `explanation` whenever you touch that question (39 guide questions have none).
+- Every question has an `explanation` (the validator warns on empty ones); keep it that way.
 - Before adding questions, search for near-duplicates (`rg -i "<key phrase>" content/questions`). The validator also warns on repeated text.
 - After editing, `npm run validate:content` must show 0 errors (the post-edit hook runs it).

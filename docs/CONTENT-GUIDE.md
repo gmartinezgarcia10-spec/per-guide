@@ -54,7 +54,7 @@ Schema: `src/content/schema.ts`. One file per topic: `guide/` holds our own ques
 - Never change an `id`, reuse one, or delete a question. To retire a question, ask first; a `retired` status is planned.
 - Real (`gva/`) questions are transcriptions: only fix obvious transcription typos, and improve `explanation`. If an official key is disputed, keep the official answer, set `keyRevised: true` if the template was revised, and explain it.
 
-**Known gaps:** 39 guide questions have empty explanations (validator warnings). Fill them in whenever you touch one.
+**Explanations:** every question has one (since P4). The validator warns if an empty one appears.
 
 ## Checking content
 

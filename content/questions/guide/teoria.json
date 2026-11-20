@@ -5,7 +5,7 @@
     "q": "El meridiano origen de las longitudes se denomina…",
     "options": ["De lugar", "De París", "Cero (Greenwich)", "Ciento ochenta"],
     "answer": 2,
-    "explanation": ""
+    "explanation": "El meridiano cero, el de Greenwich, es el origen de las longitudes: desde él se cuentan de 0° a 180° hacia el E y hacia el W. El de 180° es su antimeridiano, no el origen."
   },
   {
     "id": "g-0098",
@@ -37,7 +37,7 @@
     "q": "La corrección total (Ct) es igual a…",
     "options": ["dm − Δ", "dm + Δ", "Rv + Ra", "Dv − Rv"],
     "answer": 1,
-    "explanation": ""
+    "explanation": "La corrección total suma los dos errores de la aguja: Ct = dm + Δ (declinación magnética + desvío), cada uno con su signo (+ si es E, − si es W). Luego Rv = Ra + Ct."
   },
   {
     "id": "g-0102",
@@ -53,7 +53,7 @@
     "q": "Los diversos aspectos que toma una luz durante un período son…",
     "options": ["Alcances", "Sectores", "Fases", "Frecuencias"],
     "answer": 2,
-    "explanation": ""
+    "explanation": "Las fases son los aspectos que va tomando la luz durante su período: destellos o luz (fases de luz) y eclipses u ocultaciones (fases de oscuridad). El sector es la parte del horizonte donde se ve la luz, y el alcance, la distancia a la que se ve."
   },
   {
     "id": "g-0104",
@@ -82,7 +82,7 @@
       "El aviso a los navegantes"
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "El Libro de Faros y Señales de Niebla recoge cada faro con su número, situación, característica (fases, color, período), altura y alcance. El derrotero describe la costa y los puertos, no las luces una a una."
   },
   {
     "id": "g-0243",
@@ -980,13 +980,13 @@
     "topic": "teoria",
     "q": "Una enfilación es más fiable si…",
     "options": [
-      "Estamos muy cerca de las marcas",
-      "Estamos alejados y las marcas están algo separadas entre sí",
-      "Las marcas están juntas",
+      "Las marcas están muy juntas entre sí",
+      "Las marcas están bien separadas entre sí en relación con nuestra distancia a la más próxima",
+      "Estamos muy lejos de las dos marcas",
       "Es de noche"
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "El error de una enfilación es menor cuanto más separadas están las dos marcas entre sí, en relación con nuestra distancia a la más cercana. Si están muy juntas, o si estamos muy lejos, un pequeño desplazamiento nuestro apenas se nota y la línea es imprecisa."
   },
   {
     "id": "g-1040",
@@ -1020,23 +1020,23 @@
       "El agua cambia de color",
       "Los fondos se mueven o la carta no está actualizada",
       "El compás se desvía",
-      "La marea no existe"
+      "Las sondas de la carta están referidas a la pleamar"
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "La sonda solo sirve como línea de posición si el fondo de la carta coincide con el real. En fondos de arena o fango que se mueven, o con una carta poco actualizada, la profundidad medida puede no corresponder a la impresa."
   },
   {
     "id": "g-1044",
     "topic": "teoria",
     "q": "Situándonos por dos distancias, si los dos cortes de los arcos caen en el mar elegimos…",
     "options": [
-      "El más al norte",
+      "El más cercano a la costa",
       "El más cercano a la situación de estima",
       "El más alejado de la costa",
-      "Cualquiera"
+      "El de menor profundidad"
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "Dos círculos de distancia se cortan en dos puntos. Si los dos caen en el mar, se elige el más próximo a la situación de estima, que es donde razonablemente debemos estar."
   },
   {
     "id": "g-1045",
@@ -1070,7 +1070,7 @@
       "El meridiano y la proa"
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "La marcación se mide desde la proa (la línea de crujía) hasta la visual al objeto. Si se mide desde el norte verdadero, el ángulo se llama demora: Dv = Rv + marcación."
   },
   {
     "id": "g-1048",
@@ -1088,10 +1088,10 @@
       "De 0° a 180° por cada banda",
       "De 0° a 360° en sentido horario, siempre positiva",
       "Desde el norte",
-      "Desde la popa"
+      "Desde el través de babor"
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "La marcación circular va de 0° a 360° contados desde la proa en el sentido de las agujas del reloj, por eso siempre es positiva. La semicircular va de 0° a 180° por cada banda: + por estribor y − por babor."
   },
   {
     "id": "g-1050",
@@ -1112,10 +1112,10 @@
   {
     "id": "g-1052",
     "topic": "teoria",
-    "q": "La situación de estima se representa en la carta con…",
+    "q": "En los ejercicios de carta, la situación de estima se suele representar con…",
     "options": ["Un círculo", "Un triángulo con un punto en el centro", "Una cruz", "Un cuadrado"],
     "answer": 1,
-    "explanation": ""
+    "explanation": "Es la convención habitual en los ejercicios de carta (tomada de la notación británica): triángulo con un punto para la estima y círculo con un punto para la situación observada. El examen de la GVA no pregunta símbolos, solo coordenadas, pero usarlos te evita confundir posiciones en la carta."
   },
   {
     "id": "g-1053",
@@ -1136,7 +1136,7 @@
       "El número de destellos"
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "El período es el tiempo que tarda la luz en completar su ciclo de fases y empezar a repetirlo igual; en la característica aparece en segundos (por ejemplo, GpD(3) 10s). El número de destellos y el color son otras partes de la característica."
   },
   {
     "id": "g-1055",
@@ -1165,12 +1165,12 @@
     "q": "El alcance luminoso de una luz depende de…",
     "options": [
       "Solo de su altura",
-      "Su potencia, la visibilidad meteorológica y la duración de los destellos",
+      "Su intensidad luminosa y la visibilidad meteorológica",
       "La curvatura terrestre",
-      "La altura del observador"
+      "Su altura y la del observador"
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "El alcance luminoso es la distancia máxima a la que se ve la luz según su intensidad y la visibilidad meteorológica del momento, sin tener en cuenta la curvatura terrestre. La altura de la luz y la del observador determinan el alcance geográfico; de los dos alcances, el que vale es el menor."
   },
   {
     "id": "g-1058",
@@ -1217,15 +1217,20 @@
       "Luces de los barcos"
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "Las balizas son señales fijas, pilares o estacas clavados en el fondo, que marcan canales, bajos o el borde de un veril donde hay poca agua. Si flota y está fondeada, es una boya."
   },
   {
     "id": "g-1062",
     "topic": "teoria",
     "q": "Las farolas están normalmente en…",
-    "options": ["Lo alto de los acantilados", "Los extremos de los muelles", "Mar abierto", "Los buques"],
+    "options": [
+      "Lo alto de los acantilados",
+      "Los extremos de los muelles",
+      "Mar abierto",
+      "Las boyas de recalada"
+    ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "Las farolas son luces pequeñas de poco alcance colocadas en los extremos de muelles, espigones y diques para señalar la entrada de los puertos. Los faros, de gran alcance, están en puntos altos de la costa."
   },
   {
     "id": "g-1063",
@@ -1279,11 +1284,11 @@
     "options": [
       "La pleamar",
       "El nivel medio",
-      "El cero hidrográfico (bajamar escorada)",
+      "El cero hidrográfico (bajamar astronómica más baja)",
       "La superficie del agua en el momento"
     ],
     "answer": 2,
-    "explanation": ""
+    "explanation": "Las sondas y las alturas de marea de las cartas españolas se cuentan desde el cero hidrográfico, un nivel muy bajo al que rara vez baja el mar; así la profundidad real casi siempre es igual o mayor que la impresa (sonda real = sonda de la carta + altura de la marea). Hoy el Instituto Hidrográfico lo fija en la bajamar astronómica más baja (LAT); en textos antiguos aparece como «bajamar escorada» o BMVE. En el examen basta con reconocer «cero hidrográfico»."
   },
   {
     "id": "g-1069",
@@ -1315,7 +1320,7 @@
     "q": "La tabla de corrección por presión del Anuario va aproximadamente de…",
     "options": ["−0,25 m a 1038 mb a +0,50 m a 963 mb", "+1 m a −1 m", "0 a 10 cm", "−0,50 m a +0,25 m"],
     "answer": 0,
-    "explanation": ""
+    "explanation": "La corrección por presión es de aproximadamente un centímetro por milibar de diferencia respecto a 1013 mb, con signo contrario: la presión alta hace bajar el nivel del mar y la baja lo hace subir. A 1038 mb (+25) el nivel baja ≈ 0,25 m; a 963 mb (−50) sube ≈ 0,50 m."
   },
   {
     "id": "g-1073",
@@ -1366,19 +1371,24 @@
     "options": [
       "Sí, siempre",
       "No: el barco se desliza de lado sin cambiar la proa",
-      "Solo en veleros",
+      "Solo con mar de fondo",
       "Solo con corriente"
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "El abatimiento es el desplazamiento lateral que produce el viento: el barco avanza «de lado» respecto a su proa, que sigue apuntando igual. Por eso la estela forma un ángulo con la línea de crujía."
   },
   {
     "id": "g-1086",
     "topic": "teoria",
     "q": "Con el viento justo por la proa o por la popa, el abatimiento es…",
-    "options": ["Máximo", "Nulo; el viento solo frena o empuja", "Positivo", "Negativo"],
+    "options": [
+      "Máximo",
+      "Nulo; el viento solo frena o empuja",
+      "Igual que con viento de través",
+      "Mínimo, pero no nulo"
+    ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "El abatimiento depende de la componente lateral del viento. Con el viento por la proa o por la popa no hay componente lateral: solo frena o empuja, y el abatimiento es nulo. Es máximo con el viento de través."
   },
   {
     "id": "g-1087",
@@ -1396,15 +1406,15 @@
   {
     "id": "g-1088",
     "topic": "teoria",
-    "q": "Para contrarrestar el abatimiento hay que caer…",
+    "q": "Para contrarrestar el abatimiento hay que meter la proa…",
     "options": [
-      "Hacia sotavento",
+      "Hacia sotavento los mismos grados que se abate",
       "Hacia barlovento los mismos grados que se abate",
-      "Hacia el viento el doble",
-      "A la vía"
+      "Hacia barlovento el doble de grados",
+      "No hace falta: el abatimiento no cambia la proa"
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "Si el viento te abate x grados hacia sotavento, para hacer el rumbo deseado hay que orzar: meter la proa esos mismos x grados hacia barlovento. Que el abatimiento no cambie la proa es cierto, pero precisamente por eso hay que corregirla para compensar el desplazamiento lateral."
   },
   {
     "id": "g-1089",
@@ -1412,7 +1422,7 @@
     "q": "El Rv a seguir para compensar el abatimiento es…",
     "options": ["Rv = Rs + Abt", "Rv = Rs − Abt", "Rv = Ra + Abt", "Rv = Rs"],
     "answer": 1,
-    "explanation": ""
+    "explanation": "Si Rs = Rv + Abt, despejando: Rv = Rs − Abt. Con el abatimiento con su signo (+ con viento por babor, − por estribor), es el rumbo verdadero al que hay que poner la proa para que el de superficie sea el deseado."
   },
   {
     "id": "g-1090",
@@ -1420,7 +1430,7 @@
     "q": "Quieres un Rs de 225° con viento del NW que te abate 5°. Debes navegar a Rv…",
     "options": ["220°", "230°", "225°", "235°"],
     "answer": 1,
-    "explanation": "El viento entra por estribor: Abt −5°; Rv = 225° + 5°."
+    "explanation": "Con rumbo 225° (SW), el viento del NW (315°) entra por el través de estribor y te empuja hacia babor: abatimiento −5°. Rv = Rs − Abt = 225° − (−5°) = 230°, es decir, metes la proa 5° hacia barlovento."
   },
   {
     "id": "g-1091",
@@ -1428,7 +1438,7 @@
     "q": "La corriente general del Estrecho de Gibraltar es de tipo…",
     "options": ["Oceánica", "De descarga, hacia el E", "De marea, hacia el W", "De impulsión, hacia el N"],
     "answer": 1,
-    "explanation": "Puede llegar a 4 nudos en verano."
+    "explanation": "Por el Estrecho entra en superficie agua del Atlántico hacia el E: el Mediterráneo pierde por evaporación más agua de la que recibe de los ríos y la lluvia, y su nivel tiende a quedar por debajo. Esa corriente por diferencia de nivel es de descarga; a ella se suman las corrientes de marea, que cambian a lo largo del día."
   },
   {
     "id": "g-1092",
@@ -1436,7 +1446,7 @@
     "q": "Las corrientes más frecuentes y complicadas para la navegación son las…",
     "options": ["Oceánicas", "De marea", "De descarga", "De impulsión"],
     "answer": 1,
-    "explanation": ""
+    "explanation": "Las corrientes de marea cambian de dirección e intensidad a lo largo del día con el ciclo de la marea, así que hay que recalcularlas cada pocas horas. Las oceánicas y las de impulsión son más constantes."
   },
   {
     "id": "g-1093",
@@ -1444,15 +1454,15 @@
     "q": "Las corrientes provocadas por un viento constante se llaman…",
     "options": ["De descarga", "De impulsión o de superficie", "De marea", "Oceánicas"],
     "answer": 1,
-    "explanation": ""
+    "explanation": "Un viento que sopla de forma persistente arrastra la capa superficial del agua y crea corrientes de impulsión (o de arrastre, de superficie). Las de descarga las causa el agua de un río que desemboca, y las de marea, la marea."
   },
   {
     "id": "g-1094",
     "topic": "teoria",
-    "q": "La deriva es el ángulo entre…",
+    "q": "Sin viento, la deriva es el ángulo entre…",
     "options": ["Rv y Rs", "Rv y el rumbo efectivo", "Ra y Rv", "Rc y Rs"],
     "answer": 1,
-    "explanation": "Afecta igual a todas las embarcaciones."
+    "explanation": "La deriva es el ángulo que la corriente abre entre el rumbo de superficie y el rumbo efectivo (el que se hace sobre el fondo); sin viento no hay abatimiento y el rumbo de superficie coincide con el verdadero, así que es el ángulo entre Rv y el rumbo efectivo. No hay que confundirla con el abatimiento (Rv–Rs, causado por el viento): la deriva la causa la corriente y afecta igual a todos los barcos."
   },
   {
     "id": "g-1095",
@@ -1461,11 +1471,11 @@
     "options": [
       "Depende de cada barco",
       "Afecta por igual a todos los barcos",
-      "Es siempre nula",
+      "Es siempre menor que el abatimiento",
       "Solo afecta a veleros"
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "La deriva la causa la corriente, que mueve toda la masa de agua y con ella a cualquier barco por igual. El abatimiento, en cambio, depende de cuánto «agarra» el viento cada barco (obra muerta, velas, calado)."
   },
   {
     "id": "g-1096",
@@ -1473,7 +1483,7 @@
     "q": "El rumbo efectivo también se llama…",
     "options": ["Rumbo de superficie", "Rumbo sobre el fondo", "Rumbo de aguja", "Rumbo magnético"],
     "answer": 1,
-    "explanation": "El fondo es la única referencia inmóvil."
+    "explanation": "El rumbo efectivo es el que el barco hace realmente sobre el fondo, sumando el efecto de la corriente; por eso se llama también rumbo sobre el fondo (el COG del GPS). El de superficie es el que hace sobre el agua, solo con el abatimiento."
   },
   {
     "id": "g-1097",
@@ -1486,7 +1496,7 @@
       "Resulta del triángulo"
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "La velocidad de máquinas es la del barco respecto al agua, la que mide la corredera. Con corriente, la velocidad sobre el fondo (la del GPS) es distinta: se obtiene del triángulo de velocidades."
   },
   {
     "id": "g-1098",
@@ -1523,7 +1533,7 @@
       "Intensidad del viento"
     ],
     "answer": 0,
-    "explanation": ""
+    "explanation": "Ihc es la intensidad horaria de la corriente: cuántas millas por hora (nudos) avanza el agua. Junto con el rumbo de la corriente (Rc) forma el vector corriente del triángulo de velocidades."
   },
   {
     "id": "g-1102",
@@ -1531,7 +1541,7 @@
     "q": "«Sc» en los ejercicios de carta es…",
     "options": ["Situación corregida", "Sonda de la carta", "Superficie", "Sector"],
     "answer": 1,
-    "explanation": ""
+    "explanation": "En los ejercicios de carta, Sc es la sonda de la carta, la profundidad impresa referida al cero hidrográfico. Sumándole la altura de la marea a esa hora se obtiene la sonda real."
   },
   {
     "id": "g-1103",
@@ -1539,7 +1549,7 @@
     "q": "«HCL» significa…",
     "options": ["Hora del reloj de bitácora", "Hora civil del lugar", "Hora de Greenwich", "Hora de llegada"],
     "answer": 1,
-    "explanation": ""
+    "explanation": "HCL es la hora civil del lugar, referida al meridiano del observador. Con la longitud en tiempo se pasa a la hora civil de Greenwich (HCG), y sumando el adelanto oficial (+1 h en invierno y +2 h en verano en la Península) se obtiene la hora oficial. En los ejercicios de carta se usa la HRB, la hora del reloj de bitácora."
   },
   {
     "id": "g-1104",
@@ -1552,7 +1562,7 @@
       "Sector y sonda"
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "Se es la situación de estima, deducida del rumbo, la velocidad y el tiempo navegado; Sv es la situación verdadera, obtenida con observaciones (demoras, distancias, enfilaciones). La diferencia entre ambas revela errores o una corriente desconocida."
   },
   {
     "id": "g-1105",
@@ -1560,6 +1570,6 @@
     "q": "El rumbo de superficie se calcula con…",
     "options": ["Rs = Rv − Abt", "Rs = Rv + Abt", "Rs = Ra + Ct", "Rs = Rv + M"],
     "answer": 1,
-    "explanation": ""
+    "explanation": "El rumbo de superficie es el que el barco hace realmente sobre el agua cuando el viento lo abate: Rs = Rv + Abt, con el abatimiento + si el viento entra por babor (empuja a estribor) y − si entra por estribor."
   }
 ]

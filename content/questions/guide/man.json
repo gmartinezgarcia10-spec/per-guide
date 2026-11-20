@@ -26,7 +26,7 @@
     "q": "Los agentes que más influyen en la maniobra son…",
     "options": ["Las bajas presiones", "El viento y la corriente", "La eslora", "La temperatura"],
     "answer": 1,
-    "explanation": ""
+    "explanation": "El viento empuja la obra muerta y la corriente arrastra la obra viva; juntos deciden cómo responde el barco en cualquier maniobra, sobre todo a poca velocidad. La eslora influye, pero es una característica fija del barco, no un agente externo."
   },
   {
     "id": "g-0078",
