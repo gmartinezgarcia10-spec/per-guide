@@ -1,7 +1,9 @@
 // Shared app namespace. Chapters and the app (src/legacy/*) read everything from window.PER,
 // so this module must be imported first (see src/main.ts).
 import type { LegacyQuestion } from "../content/schema.ts";
-import { TOPICS, type Topic, type TopicId } from "../exam/spec.ts";
+import { assembleMock } from "../exam/assemble.ts";
+import { daysToExam, EXAM, scoreAnswers, TOPICS, type Topic, type TopicId } from "../exam/spec.ts";
+import { isDue, nextReviewLabel, review } from "../learn/srs.ts";
 import { horn } from "./audio.ts";
 import { $, $$ } from "./dom.ts";
 import { boatTop, buoy, COL } from "./draw.ts";
@@ -45,6 +47,8 @@ export const PER = {
   horn,
   legacyKeyMap,
   migrateProgress,
+  exam: { EXAM, scoreAnswers, assembleMock, daysToExam },
+  srs: { review, isDue, nextReviewLabel },
 };
 
 declare global {

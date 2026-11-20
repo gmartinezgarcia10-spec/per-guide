@@ -55,13 +55,12 @@ async function connect(){
 }
 function renderSync(){const cloud=sync.mode==="cloud";const t=(cloud?"☁︎ ":"⚠︎ ")+sync.msg;
   const a=$("#syncLine");if(a){a.textContent=t;a.className="small "+(cloud?"pass":"")}const b=$("#saveState");if(b)b.textContent=t}
-const IV=[1,3,7,14,30];
-const record=(q,ok)=>{const k=qid(q);const s=S.stats[k]||[0,0,false];s[0]++;if(ok)s[1]++;s[2]=ok;const now=Date.now();s[3]=now;const box=ok?Math.min((s[4]||0)+1,IV.length):0;s[4]=box;s[5]=ok?now+IV[box-1]*864e5:now;S.stats[k]=s;
+const record=(q,ok)=>{const k=qid(q);const now=Date.now();S.stats[k]=PER.srs.review(S.stats[k],ok,now); /* src/learn/srs.ts */
   S.log=S.log||[];S.log.push([now,k,ok?1:0]);if(S.log.length>300)S.log.splice(0,S.log.length-300);save()};
 const QMAP={};Q.forEach(q=>QMAP[qid(q)]=q);
-const dueQs=()=>{const now=Date.now();return Q.filter(q=>{const s=S.stats[qid(q)];return s&&(s[5]!=null?s[5]<=now:!s[2])})};
+const dueQs=()=>{const now=Date.now();return Q.filter(q=>PER.srs.isDue(S.stats[qid(q)],now))};
 const ago=ts=>{const m=Math.round((Date.now()-ts)/6e4);if(m<1)return "ahora mismo";if(m<60)return `hace ${m} min`;const h=Math.round(m/60);if(h<24)return `hace ${h} h`;const d=Math.round(h/24);return d===1?"ayer":`hace ${d} días`};
-const nextReview=s=>{if(!s||s[5]==null)return "";const d=Math.ceil((s[5]-Date.now())/864e5);return d<=0?"toca repasarla hoy":d===1?"vuelve mañana":`vuelve en ${d} días`};
+const nextReview=s=>PER.srs.nextReviewLabel(s,Date.now());
 const st=q=>S.stats[qid(q)];
 const topicInfo=t=>{const qs=Q.filter(q=>q[0]===t);let seen=0,dom=0,a=0,b=0;qs.forEach(q=>{const s=st(q);if(s){seen++;a+=s[1];b+=s[0];if(s[2])dom++}});return {n:qs.length,seen,dom,acc:b?a/b:null}};
 const prep=q=>{const order=q[5]?[0,1,2,3].slice(0,q[2].length):shuffle([0,1,2,3].slice(0,q[2].length));return {q,ord:order,opts:order.map(i=>q[2][i]),ans:order.indexOf(q[3])}};
@@ -126,9 +125,7 @@ function renderChapter(n){
 let timer=null;
 function startMock(){
   const weak=$("#mockWeak").checked;
-  let qs=[];T.forEach(t=>{let pool=shuffle(QQ().filter(q=>q[0]===t.id));
-    if(weak){pool.sort((a,b)=>{const sa=st(a),sb=st(b);const fa=sa?(sa[2]?1:0)+sa[1]/sa[0]:0.6,fb=sb?(sb[2]?1:0)+sb[1]/sb[0]:0.6;return fa-fb})}
-    qs=qs.concat(pool.slice(0,t.q))});
+  const qs=PER.exam.assembleMock(QQ(),{weak,stats:S.stats,key:qid,topic:q=>q[0]}); /* src/exam/assemble.ts */
   runExam(qs,{title:"Simulacro",timed:$("#mockTimer").checked});
 }
 function startPaper(pid){
@@ -151,14 +148,15 @@ function runExam(qs,o){const rb=$("#resumeBox");if(rb)rb.hidden=true;
     const p=$("[data-prev]",area),nx=$("[data-nx]",area);p&&p.addEventListener("click",()=>{i--;render()});nx&&nx.addEventListener("click",()=>{i++;render()});
     $("[data-end]",area).addEventListener("click",()=>{const blank=ans.filter(a=>a==null).length;if(blank&&!area.querySelector("[data-confirm]")){const c=document.createElement("p");c.className="note";c.setAttribute("data-confirm","");c.innerHTML=`<b>Te quedan ${blank} sin responder.</b> No restan, pero tampoco suman. <button class="btn sm" id="reallyEnd">Entregar igualmente</button>`;area.appendChild(c);$("#reallyEnd").addEventListener("click",finish);return}finish()});
   };
-  const finish=()=>{clearInterval(timer);S.cur=null;let total=0;const per={};T.forEach(t=>per[t.id]=[0,0]);
-    items.forEach((it,k)=>{const ok=ans[k]===it.ans;per[it.q[0]][1]++;if(ok){total++;per[it.q[0]][0]++}if(ans[k]!=null)record(it.q,ok)});
-    const fails=T.filter(t=>t.min&&per[t.id][0]<t.min);const pass=total>=32&&!fails.length;
+  const finish=()=>{clearInterval(timer);S.cur=null;const PASS=PER.exam.EXAM.passCorrect;
+    items.forEach((it,k)=>{if(ans[k]!=null)record(it.q,ans[k]===it.ans)});
+    const sc=PER.exam.scoreAnswers(items.map((it,k)=>({topic:it.q[0],ok:ans[k]===it.ans}))); /* src/exam/spec.ts */
+    const total=sc.total,pass=sc.pass,fails=T.filter(t=>sc.failedMinimums.includes(t.id));const per=Object.fromEntries(T.map(t=>[t.id,[sc.perTopic[t.id].correct,sc.perTopic[t.id].asked]]));
     S.hist.push({d:Date.now(),total,pass,p:o.paper||null,per:Object.fromEntries(T.map(t=>[t.id,per[t.id][0]]))});if(S.hist.length>60)S.hist.shift();
     if(o.paper){S.papers=S.papers||{};const x=S.papers[o.paper];if(!x||total>x.best)S.papers[o.paper]={best:total,pass,d:Date.now()};else{x.d=Date.now()}}
     save();if(o.paper)renderPapers();
     area.innerHTML=`<div class="result stack" style="gap:10px"><div class="eyebrow">Resultado · ${esc(o.title)}</div><p style="font-size:30px;font-family:var(--display);font-weight:700;margin:0">${total} / ${N} · <span class="${pass?"pass":"fail"}">${pass?"APTO":"NO APTO"}</span></p>
-      <p>${pass?"Has superado los 32 aciertos y los tres mínimos.":total<32?`Necesitas 32 aciertos; te faltan ${32-total}.`:""} ${fails.length?"No llegas al mínimo en: "+fails.map(t=>`<b>${t.name}</b>`).join(", ")+".":""}${o.voided?` <span class="small muted">(${o.voided} pregunta${o.voided>1?"s":""} sin respuesta en la plantilla, anulada${o.voided>1?"s":""}.)</span>`:""}</p>
+      <p>${pass?`Has superado los ${PASS} aciertos y los tres mínimos.`:total<PASS?`Necesitas ${PASS} aciertos; te faltan ${PASS-total}.`:""} ${fails.length?"No llegas al mínimo en: "+fails.map(t=>`<b>${t.name}</b>`).join(", ")+".":""}${o.voided?` <span class="small muted">(${o.voided} pregunta${o.voided>1?"s":""} sin respuesta en la plantilla, anulada${o.voided>1?"s":""}.)</span>`:""}</p>
       <div class="blk">${T.map(t=>{const [a,b]=per[t.id];const bad=t.min&&a<t.min;return `<span>${t.n}. ${t.name}${t.min?` <span class="chip min">mín ${t.min}</span>`:""}</span><span class="${bad?"fail":a===b?"pass":""}">${a}/${b}</span><span class="bar" style="width:${b?Math.round(a/b*80):0}px;align-self:center;${bad?"background:var(--bad)":""}"></span>`}).join("")}</div>
       <div class="row"><button class="btn" id="again">${o.paper?"Repetir este examen":"Otro simulacro"}</button><button class="btn ghost" id="rev">Revisar mis fallos</button><a class="btn ghost" href="#progreso">Ver mi progreso</a></div><div id="review" class="stack"></div></div>`;
     $("#again").addEventListener("click",()=>o.paper?startPaper(o.paper):startMock());
@@ -298,7 +296,7 @@ function route(){
   if(v==="plan")renderPlan();if(v==="progreso")renderProgress();if(v==="test")renderResume();
 }
 window.addEventListener("hashchange",route);
-const exam=new Date(2026,11,12);const today=new Date();today.setHours(0,0,0,0);const days=Math.round((exam-today)/864e5);
+const days=PER.exam.daysToExam(new Date()); /* exam date: src/exam/spec.ts */
 $("#countdown").textContent=days>0?days:days===0?"¡Hoy!":"—";
 const lt=store.get("lastTema",null);const tabT=$('nav.tabs a[href="#tema/1"]');if(lt&&tabT)tabT.setAttribute("href","#tema/"+lt);
 route();renderSync();connect();
