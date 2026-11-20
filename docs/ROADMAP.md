@@ -12,8 +12,8 @@ Exam: **Sat 12 Dec 2026** (GVA Valencia). Status is updated at the end of every 
 | F3 | Question bank → `content/questions/**` JSON, stable IDs, schema, validator | done (#4) |
 | F4 | CSS + core (store, helpers, exam spec) → `src/`; rest of the script → `src/legacy/` modules (router stays in `app.js` until phase 2) | done (#5) |
 | F5 | `src/legacy/chapters.js` → `src/chapters/tema-NN-<name>/` | done (#6) |
-| F6 | `per2:` progress migration to stable IDs | **in progress**, branch `f6-progress-ids` |
-| F7 | Full `.claude/` setup: settings, hooks, rules, skills, agents, `.mcp.json`, statusline | todo |
+| F6 | `per2:` progress migration to stable IDs | done (#7) |
+| F7 | Full `.claude/` setup: settings, hooks, rules, skills, agents, `.mcp.json`, statusline | **in progress**, branch `f7-claude-setup` |
 | F8 | ARCHITECTURE, CONTENT-GUIDE, ADRs, slim CLAUDE.md, move old files to `legacy/` | todo |
 
 ## Phase 2: Learning core

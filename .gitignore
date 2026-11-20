@@ -9,3 +9,4 @@ playwright-report/
 .claude/session-notes.md
 CLAUDE.local.md
 .env*
+.playwright-mcp/
