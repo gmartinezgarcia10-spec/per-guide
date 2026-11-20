@@ -4,13 +4,15 @@
     "includes": [
       "**",
       "!src/legacy",
+      "!src/chapters/tema-*",
       "!index.html",
       "!dist",
       "!legacy",
       "!tools",
       "!playwright-report",
       "!test-results",
-      "!**/*.md"
+      "!**/*.md",
+      "!.claude/settings.local.json"
     ]
   },
   "formatter": {
