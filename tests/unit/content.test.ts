@@ -82,7 +82,7 @@ describe("validateBank", () => {
     // Same topic and first 70 characters → the app would store their progress together.
     const long = "x".repeat(70);
     const clash = [g({ q: `${long} A` }), g({ id: "g-0002", q: `${long} B` })];
-    expect(errors([{ path: "guide/nom.json", data: clash }]).join()).toMatch(/progress key/);
+    expect(errors([{ path: "guide/nom.json", data: clash }]).join()).toMatch(/old-style progress key/);
   });
 
   it("ties gva ids to their index and folder", () => {

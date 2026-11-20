@@ -85,7 +85,12 @@ export function validateBank(
 
     const key = progressKey(q);
     const clash = byKey.get(key);
-    if (clash) err(file, `same progress key as ${clash.id}: progress would be shared`, q.id);
+    if (clash)
+      err(
+        file,
+        `same old-style progress key as ${clash.id}: pre-v3 saved progress couldn't be migrated`,
+        q.id,
+      );
     byKey.set(key, q);
 
     if (!q.gva) {

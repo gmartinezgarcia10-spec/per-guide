@@ -5,6 +5,7 @@ import { TOPICS, type Topic, type TopicId } from "../exam/spec.ts";
 import { horn } from "./audio.ts";
 import { $, $$ } from "./dom.ts";
 import { boatTop, buoy, COL } from "./draw.ts";
+import { legacyKeyMap, migrateProgress } from "./progress.ts";
 import { store } from "./store.ts";
 import { deg, esc, n360, pm, r, rad, shuffle } from "./util.ts";
 
@@ -42,12 +43,14 @@ export const PER = {
   esc,
   shuffle,
   horn,
+  legacyKeyMap,
+  migrateProgress,
 };
 
 declare global {
   interface Window {
     PER: typeof PER & Record<string, unknown>;
-    PER_BANK: { guide: LegacyQuestion[]; real: LegacyQuestion[] };
+    PER_BANK: { guide: LegacyQuestion[]; real: LegacyQuestion[]; ids: { guide: string[]; real: string[] } };
   }
 }
 

@@ -18,10 +18,10 @@ test("answering a chapter question gives feedback and saves progress", async ({ 
   await expect(quiz.locator(".expl")).toContainText(/✓|✗/);
 
   const state = await page.evaluate(() => JSON.parse(localStorage.getItem("per2:state") ?? "null"));
-  expect(state?.v).toBe(2);
+  expect(state?.v).toBe(3);
   expect(Object.keys(state.stats)).toHaveLength(1);
-  // Progress keys: guide questions "topic:<first 70 chars>", real GVA questions "r:<index>" (F6 migrates these).
-  expect(Object.keys(state.stats)[0]).toMatch(/^(nom:.+|r:\d+)$/);
+  // Progress is keyed by permanent question id (F6).
+  expect(Object.keys(state.stats)[0]).toMatch(/^(g|gva)-\d{4}$/);
 
   await quiz.locator("[data-next]").click();
   await expect(page.locator(`${VIEW} .q .eyebrow`).first()).toContainText("Pregunta 2 de");

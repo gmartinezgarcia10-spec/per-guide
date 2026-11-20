@@ -11,13 +11,13 @@ Exam: **Sat 12 Dec 2026** (GVA Valencia). Status is updated at the end of every 
 | F2 | Baseline snapshot of the current app + port the 12 Python tests to real assertions | done (#3) |
 | F3 | Question bank → `content/questions/**` JSON, stable IDs, schema, validator | done (#4) |
 | F4 | CSS + core (store, helpers, exam spec) → `src/`; rest of the script → `src/legacy/` modules (router stays in `app.js` until phase 2) | done (#5) |
-| F5 | `src/legacy/chapters.js` → `src/chapters/tema-NN-<name>/` | **in progress**, branch `f5-chapters` |
-| F6 | `per2:` progress migration to stable IDs | todo |
+| F5 | `src/legacy/chapters.js` → `src/chapters/tema-NN-<name>/` | done (#6) |
+| F6 | `per2:` progress migration to stable IDs | **in progress**, branch `f6-progress-ids` |
 | F7 | Full `.claude/` setup: settings, hooks, rules, skills, agents, `.mcp.json`, statusline | todo |
 | F8 | ARCHITECTURE, CONTENT-GUIDE, ADRs, slim CLAUDE.md, move old files to `legacy/` | todo |
 
 ## Phase 2: Learning core
-Spaced repetition already exists (1/3/7/14/30-day reviews + mistakes queue): move it onto stable IDs and upgrade the scheduler · rewrite `src/legacy/app.js` (quiz engine, router, views) as typed modules · weak-spot queues · readiness score / pass probability · PNB fallback result in the simulator · explanations linked to theory sections.
+Spaced repetition already exists (1/3/7/14/30-day reviews + mistakes queue) and is keyed by stable IDs since F6: upgrade the scheduler · rewrite `src/legacy/app.js` (quiz engine, router, views) as typed modules · weak-spot queues · readiness score / pass probability · PNB fallback result in the simulator · explanations linked to theory sections.
 
 ## Phase 3: Interactive training
 Chart-work trainer (course, current, compass correction) · lights, shapes and sound-signal drills (RIPA) · IALA A buoyage drills.

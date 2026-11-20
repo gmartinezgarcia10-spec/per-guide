@@ -47,7 +47,7 @@ export const guideId = (n: number) => `g-${String(n).padStart(4, "0")}`;
 export const gvaId = (index: number) => `gva-${String(index).padStart(4, "0")}`;
 export const idNumber = (id: string) => Number(id.slice(id.indexOf("-") + 1));
 
-/** Key the app's progress store uses for a question (see `qid` in index.html). */
+/** Pre-v3 progress key (see src/core/progress.ts legacyKey); kept unique so old progress can be migrated. */
 export const progressKey = (q: Question) => (q.gva ? `r:${q.gva.index}` : `${q.topic}:${q.q.slice(0, 70)}`);
 
 type LegacyMeta = { i: number; p: string[]; d?: 1; img?: string };

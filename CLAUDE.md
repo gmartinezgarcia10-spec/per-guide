@@ -23,15 +23,15 @@ Spanish PER (Patrón de Embarcaciones de Recreo) study guide, intended to become
 - **Question bank `PER.Q`:** built from `content/questions/` by `src/content/vite-plugin-bank.ts`, which injects `window.PER_BANK = {guide, real}` as legacy arrays: `[topic, question, options[4], answer, explanation]`, plus `{i, p: [sittings], d?, img?}` for real questions. `index.html` does `PER.Q.push(...PER_BANK.guide)` and `const R=PER_BANK.real`.
   - Topic keys: nom, amarre, seg, leg, baliz, ripa, man, emerg, meteo, teoria, carta.
   - **IDs are permanent:** guide `g-NNNN` (new ones take the next free number, appended at the end), real `gva-NNNN` = original index. Never renumber, reuse or delete-and-recreate an id.
-  - Editing the first 70 characters of a guide question's text changes its progress key (orphans saved progress) until F6 moves progress onto ids. Avoid it, or flag it in the PR.
+  - Question text can be edited freely: progress follows the id. (Only progress saved before F6 and never opened since is matched by the old text key.)
 - **App** (`src/legacy/app.js`): progress state, quiz engine, chapter rendering, mock exams, views and the hash router. Routes: `#tema/N`, `#tema/N/preguntas`, `#plan`, `#test`, `#progreso`, `#practicas`.
 - **Sync:** `app.js` also syncs progress to the claude.ai artifact runtime (`window.claude.use("db")`) when present; elsewhere it's local only.
-- **Progress:** localStorage `per2:state` (`v:2`); per-question stats keyed `topic:<first 70 chars>` (guide) or `r:<index>` (real GVA). Never break existing keys. The app already schedules reviews (1/3/7/14/30 days) and a mistakes queue.
+- **Progress:** localStorage `per2:state` (`v:3`), keyed by permanent question id (`q.id`, attached in `src/legacy/bank.js`). Older states (`v:2`: `topic:<first 70 chars>` / `r:<index>`) are migrated on load and in `merge()` (cloud sync, file import) by `src/core/progress.ts`; unmappable keys are kept. Never break existing keys. The app schedules reviews (1/3/7/14/30 days) and a mistakes queue.
 
 ## Conventions
 - Paraphrase source material; never copy the manual verbatim. Spanish terms in `<span class="es">`, formulas in `<span class="formula">`.
 - When the manual and real exams disagree, follow the real exams and flag outdated rules (RD 339/2021, MARPOL 2013, RD 128/2022).
-- Add or edit questions only in `content/questions/`; the validator (also run by the post-edit hook and the build) rejects schema errors, duplicate ids, shared progress keys and repeated options. 39 guide questions have empty explanations (warnings) — fill them when touching those questions.
+- Add or edit questions only in `content/questions/`; the validator (also run by the post-edit hook and the build) rejects schema errors, duplicate ids, two questions sharing an old-style key (needed to migrate pre-v3 progress) and repeated options. 39 guide questions have empty explanations (warnings) — fill them when touching those questions.
 - Run `npm run verify` after every change.
 
 ## Rights note

@@ -5,7 +5,8 @@
 (function(){
 "use strict";
 const {$,$$,store,T,TBY,CH,Q,shuffle,esc,PAPERS,RQ}=PER;
-const qid=q=>q[5]?"r:"+q[5].i:q[0]+":"+q[1].slice(0,70);
+const qid=q=>q.id; /* F6: progress is keyed by permanent id; old keys are migrated (src/core/progress.ts) */
+const LEGACY=PER.legacyKeyMap(Q);const migrate=o=>PER.migrateProgress(o,LEGACY);
 const PNAME=Object.fromEntries(PAPERS.map(p=>[p[0],p[1]]));
 let SRC=store.get("src","all");
 const inSrc=q=>SRC==="all"||(SRC==="real")===!!q[5];
@@ -19,14 +20,15 @@ function srcBar(el,onChange){const draw=()=>{el.innerHTML=`<span class="small mu
 const L="ABCD";
 
 /* ================= progress state (local + account) ================= */
-const blank=()=>({v:2,stats:{},best:{},hist:[],checks:{},papers:{},log:[],cur:null,lastTema:null,upd:0});
+const blank=()=>({v:3,stats:{},best:{},hist:[],checks:{},papers:{},log:[],cur:null,lastTema:null,upd:0});
 let S=Object.assign(blank(),store.get("state",null)||{});
 /* migrate earlier per2:* keys once */
 if(!S.upd){const st=store.get("stats",null),b=store.get("best",null),h=store.get("hist",null),c=store.get("checks",null);
   if(st)Object.keys(st).forEach(k=>S.stats[k]=[st[k][0],st[k][1],st[k][1]>0]);if(b)S.best=b;if(h)S.hist=h;if(c)S.checks=c;}
+S=migrate(S);{const raw=store.get("state",null);if(raw&&raw.v!==S.v)store.set("state",S)} /* F6: persist the id-keyed state once */
 let sync={mode:"local",msg:"Guardado solo en este navegador."};
 let dbDoc=null,writing=false,dirty=false,tmr=null;
-function merge(a,b){const o=blank();o.stats={...a.stats};
+function merge(a,b){a=migrate(a);b=migrate(b);const o=blank();o.stats={...a.stats};
   Object.entries(b.stats||{}).forEach(([k,v])=>{const x=o.stats[k];if(!x||v[0]>x[0])o.stats[k]=v});
   o.best={...a.best};Object.entries(b.best||{}).forEach(([k,v])=>o.best[k]=Math.max(o.best[k]||0,v));
   const seen=new Set();o.hist=[...(a.hist||[]),...(b.hist||[])].filter(h=>{if(seen.has(h.d))return false;seen.add(h.d);return true}).sort((x,y)=>x.d-y.d).slice(-60);
