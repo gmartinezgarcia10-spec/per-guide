@@ -1,0 +1,259 @@
+1
+4 preg.
+2
+2 preg.
+3
+4 preg.
+4
+2 preg.
+5
+5 preg.
+6
+10 preg.
+7
+2 preg.
+8
+3 preg.
+9
+4 preg.
+10
+5 preg.
+11
+4 preg.
+TEMA 5 DE 11 · 5 PREGUNTAS EN EL EXAMEN · MÍNIMO 3/5
+Balizamiento
+
+Cinco preguntas y hace falta acertar tres. Es un tema cerrado y muy visual: en una tarde lo tienes. Aprende cada marca por su forma, color, marca de tope y luz, que es exactamente como lo pregunta el examen.
+
+IALA región A y sentido del balizamiento
+Sistema IALA/AISM: qué balizan y cómo se distinguen
+Las marcas: forma, color, tope y luz
+El sistema cardinal
+Luces: ritmos, fase y periodo
+¿Qué marca es?
+Preguntas de examen (179)
+5.1
+IALA región A y sentido del balizamiento
+
+España está en la región A de IALA (Europa, África, casi toda Asia y Oceanía). En la región B (América, Japón, Corea, Filipinas) se invierten los colores laterales: allí la roja va a estribor al entrar.
+
+El sentido convencional del balizamiento es el de quien entra en puerto viniendo de la mar (o remonta un río). Cuando puede haber duda, la carta lo indica con una flecha magenta.
+
+INTERACTIVO · ENTRANDO Y SALIENDO
+PUERTO
+Entrando: roja a babor, verde a estribor
+Entrando
+Saliendo
+
+Al salir de puerto todo se invierte: dejas las rojas por estribor y las verdes por babor. En el examen lee bien si el barco entra o sale.
+
+Truco. «Roja a babor entrando»: piensa en el vino tinto que te bebes al volver a puerto. Rojo, babor, regreso.
+5.2
+Sistema IALA/AISM: qué balizan y cómo se distinguen
+
+La AISM (Asociación Internacional de Señalización Marítima; en inglés IALA) define seis tipos de marcas, combinables entre sí: laterales, cardinales, peligro aislado, aguas navegables, especiales y peligro nuevo.
+
+Qué balizan: límites laterales de los canales, peligros naturales y obstáculos (naufragios), recalada y rumbo a seguir, otras zonas de interés y peligros nuevos. No se incluyen faros, luces de sector, enfilaciones, buques faro ni grandes boyas de navegación.
+
+DE DÍA
+Forma: castillete, espeque, cónica, cilíndrica o esférica.
+Color: rojo, verde, negro, amarillo, blanco, y combinaciones negro-rojo, amarillo-negro, blanco-rojo y amarillo-azul.
+Tope: cilindro, cono, esfera, aspa o cruz; rojo, verde, negro o amarillo.
+DE NOCHE
+Color de la luz: blanco, amarillo, rojo o verde (y azul en el peligro nuevo).
+Ritmo: destellos, ocultaciones, centelleos o isofase.
+
+También pueden señalizarse con símbolos electrónicos, como complemento de una marca física o de forma exclusiva (marcas virtuales).
+
+Marcas laterales en detalle
+Balizan canales en ríos, rías, aguas someras y bocanas. El sentido convencional es el de quien viene de alta mar hacia un puerto, estuario o río; o el que fije la autoridad, y en principio siguiendo las costas en el sentido de las agujas del reloj.
+Babor: roja, castillete, espeque o cilíndrica, tope cilindro rojo. Estribor: verde, castillete, espeque o cónica, tope cono verde. Luz de su color con cualquier ritmo excepto el 2+1, reservado a la bifurcación.
+Numeración: desde la mar; pares las rojas e impares las verdes.
+Las luces pueden ser sincronizadas (destellan a la vez) o secuenciales (una tras otra).
+Bifurcación: el color dominante y el tope dicen por dónde se deja; la franja central de otro color avisa de que hay bifurcación; de noche, la luz 2+1. Canal principal a estribor → marca roja con franja verde, cilíndrica, tope cilindro rojo, luz roja Fl(2+1), se deja por babor. Canal principal a babor → verde con franja roja, cónica, tope cono verde, luz verde Fl(2+1), se deja por estribor.
+Cardinales: uso y periodos
+Los cuadrantes se limitan por las demoras verdaderas NW-NE, NE-SE, SE-SW y SW-NW tomadas desde el punto a balizar. La marca se llama como el cuadrante donde está y se pasa por ese lado: la Norte se pasa por el norte y deja el peligro al sur.
+Sirven para indicar dónde están las aguas más profundas, el lado por el que salvar un peligro, o una configuración especial del canal (recodo, confluencia, bifurcación, extremo de un bajo). Son iguales en las regiones A y B. No conviene abusar de ellas: sus luces blancas pueden confundirse.
+Castillete o espeque, con bandas horizontales amarillas y negras. El tope de dos conos es su característica diurna más importante, lo más grande posible y bien separados.
+Luz blanca Q o VQ. N: continua. E: 3 centelleos, periodo 5 o 10 s. S: 6 centelleos + 1 destello largo, periodo 10 o 15 s. W: 9 centelleos, periodo 10 o 15 s.
+Peligro aislado, aguas navegables, especiales y peligro nuevo
+Peligro aislado: sobre un peligro con aguas navegables alrededor; a menudo un espeque clavado en el propio bajo. Negra con franjas horizontales rojas, forma libre (mejor castillete o espeque, que no se confunda con las laterales), tope de dos esferas negras, luz blanca en grupos de 2 destellos. Se pasa a distancia prudente, preferiblemente por sotavento con mal tiempo.
+Aguas navegables: no señalan peligro; marcan eje o centro de canal, recalada, entrada de un puerto o estuario, o el mejor paso bajo un puente. Esférica, castillete o espeque, franjas verticales rojas y blancas, tope una esfera roja. Luz blanca isofase, ocultaciones, un destello largo cada 10 s o Morse «A».
+Especiales: zonas que se entienden mirando la carta. Ejemplos: boyas oceanográficas (SADO), separación de tráfico donde el balizamiento normal confunda, vertederos, ejercicios militares, cables o conductos submarinos, zonas reservadas al recreo, límites de fondeaderos, parques de energía renovable en el mar y acuicultura. Amarillas, forma libre, tope aspa amarilla y luz amarilla de cualquier ritmo que no se confunda.
+Peligro nuevo: peligro recién descubierto que aún no figura en las publicaciones (bancos, escollos, naufragios). Se puede balizar con laterales, cardinales, peligro aislado o con la boya de emergencia: castillete o espeque, franjas verticales azules y amarillas en igual número, tope cruz amarilla vertical, y luz azul 1 s y amarilla 1 s con 0,5 s de oscuridad entre ambas. Si el riesgo es alto se duplica alguna marca (idéntica a su pareja). Si se usa una lateral luminosa, su luz será Q o VQ. Puede llevar racón «D» («manténgase separado de mí») o AIS (incluso solo marcas virtuales). Se retira cuando el peligro ya se ha difundido o ha desaparecido.
+Simulacro: entrando en un estuario
+Por estribor, cuatro marcas especiales amarillas rodean una piscifactoría: no pasar entre ellas.
+Por la amura de estribor, una marca de peligro nuevo azul y amarilla sobre un barco hundido: darle resguardo.
+En el eje del canal, una marca de aguas navegables señala la entrada al estuario.
+Ya en el canal: rojas por babor y verdes por estribor.
+Un peligro aislado: darle resguardo (aquí se deja por babor).
+Una bifurcación con el canal principal a babor (verde con franja roja): se deja por estribor.
+Una bifurcación con el canal principal a estribor (roja con franja verde): se deja por babor.
+Un barco que sale hacia el mar ve todo al revés: rojas por estribor y verdes por babor.
+Al salir, una cardinal Sur por la amura de babor le dice que las aguas profundas están entre el SW y el SE de la marca.
+5.3
+Las marcas: forma, color, tope y luz
+
+Toca cada marca para ver su luz encendida con su ritmo real.
+
+Lateral de babor
+Roja, marca de tope
+cilíndrica
+. Entrando en puerto se deja por
+babor
+.
+Lateral de estribor
+Verde,
+cono
+con el vértice hacia arriba. Entrando se deja por
+estribor
+.
+Cardinal Norte
+Negro sobre amarillo. Conos
+hacia arriba
+. Aguas seguras al
+N
+de la marca.
+Cardinal Este
+Negro-amarillo-negro. Conos
+opuestos por las bases
+(forma de rombo). Aguas seguras al
+E
+.
+Cardinal Sur
+Amarillo sobre negro. Conos
+hacia abajo
+. Aguas seguras al
+S
+.
+Cardinal Oeste
+Amarillo-negro-amarillo. Conos
+unidos por los vértices
+(reloj de arena / «copa de vino»). Aguas seguras al
+W
+.
+Peligro aislado
+Negra con franjas rojas,
+dos esferas negras
+. Peligro pequeño con aguas navegables alrededor.
+Aguas navegables
+Franjas
+verticales
+rojas y blancas,
+una esfera roja
+. Aguas seguras: recalada, centro del canal.
+Marca especial
+Amarilla,
+aspa amarilla
+. Señala zonas especiales: baño, cables, emisarios, ejercicios militares.
+Peligro nuevo
+Franjas verticales azules y amarillas,
+cruz amarilla
+. Peligro aún no cartografiado (un pecio reciente).
+Canal principal a estribor
+Roja con franja verde (bifurcación). Cilindro rojo. Entrando, sigue el canal principal dejándola por
+babor
+.
+Canal principal a babor
+Verde con franja roja. Cono verde. Entrando, sigue el canal principal dejándola por
+estribor
+.
+LUZ DE LA MARCA SELECCIONADA
+Elige una marca
+Solo tres tipos de marca llevan luz blanca: cardinales, peligro aislado y aguas navegables. Las laterales, roja o verde. La especial, amarilla. El peligro nuevo, azul y amarilla alternativas.
+5.4
+El sistema cardinal
+PELIGRO
+N
+E
+S
+W
+
+Una marca cardinal se coloca en un cuadrante respecto al peligro y te dice por qué lado pasar: la cardinal Norte está al norte del peligro y se pasa por su norte.
+
+Conos: apuntan hacia donde está el negro. Arriba y arriba: negro arriba (N). Abajo y abajo: negro abajo (S). Bases juntas: negro arriba y abajo (E). Vértices juntos: negro en medio (W).
+Luces: piensa en un reloj. E = 3 centelleos (las 3), S = 6 (+ uno largo para distinguirla), W = 9, N = continua (las 12, o las 0).
+Todas las cardinales tienen luz blanca, Q o VQ.
+Toca una cardinal del dibujo.
+5.5
+Luces: ritmos, fase y periodo
+INTERACTIVO · REPRODUCE CADA RITMO
+Q
+Centelleante continua: 60 destellos/min
+VQ
+Centelleante rápida: 120 destellos/min
+Q(3) 10s
+3 centelleos cada 10 s
+Q(6)+LFl 15s
+6 centelleos + 1 destello largo cada 15 s
+Q(9) 15s
+9 centelleos cada 15 s
+Fl(2) 5s
+Grupo de 2 destellos cada 5 s
+Iso 4s
+Isofase: luz y oscuridad de igual duración
+LFl 10s
+Destello largo (≥2 s) cada 10 s
+Mo(A) 6s
+Morse «A» (· —) cada 6 s
+Oc 4s
+Ocultación: más luz que oscuridad
+Fl R 4s
+Destello rojo cada 4 s (babor)
+Fl G 4s
+Destello verde cada 4 s (estribor)
+Fl(2+1) R 10s
+Grupo 2+1 rojo: canal principal a estribor
+Fl(2+1) G 10s
+Grupo 2+1 verde: canal principal a babor
+Fl Y 5s
+Destello amarillo: marca especial
+Al Bu Y
+Azul 1 s y amarilla 1 s, con 0,5 s de oscuridad entre ambas: peligro nuevo
+Fase: cada uno de los aspectos de la luz (luz u oscuridad) dentro de la secuencia. Periodo: duración de un ciclo completo hasta que se repite. Característica: el conjunto de ritmo, color y periodo que identifica a una luz, como Fl(3) W 10s.
+Fl destello (luz más corta que la oscuridad). LFl destello largo (≥ 2 s). Oc ocultación (luz más larga que la oscuridad). Iso isofase (iguales). Q centelleante, 50–60/min. VQ centelleante rápida, 100–120/min. Al alternativa (cambia de color). Mo Morse. F fija.
+Los faros se identifican por su característica y aparecen en el Libro de Faros y Señales de Niebla y en la carta, con su alcance en millas. Algunos tienen sectores de distinto color que marcan peligros o canales.
+5.6
+¿Qué marca es?
+INTERACTIVO · RECONOCE LA MARCA
+Cardinal Este
+Cardinal Sur
+Cardinal Oeste
+Peligro aislado
+
+Otra
+Solo la luz (de noche)
+PARA FIJAR CONOCIMIENTOS
+Preguntas de examen del tema
+
+179 preguntas en el banco de este tema. Elige cuántas hacer; las que no has visto y las que fallaste se pueden repasar aparte.
+
+Tu progreso en este tema: 0/179 vistas · 0 dominadas.
+
+Preguntas:
+Todas (2061)
+Exámenes reales (956)
+Banco de la guía (1105)
+10 preguntas
+25 preguntas
+Todas (179)
+No vistas (179)
+Mis fallos (0)
+Repetidas en exámenes (15)
+PREGUNTA 1 DE 10 · NUEVA
+0 aciertos
+Examen real · salió 2 veces
+
+¿Cómo son las franjas de colores en una marca de aguas navegables?
+
+A
+Horizontales
+B
+Verticales
+C
+En diagonal
+D
+Perpendiculares entre ellas
+Terminar aquí
+← 4. Legislación
+6. Reglamento (RIPA) →

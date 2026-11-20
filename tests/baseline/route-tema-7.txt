@@ -1,0 +1,244 @@
+1
+4 preg.
+2
+2 preg.
+3
+4 preg.
+4
+2 preg.
+5
+5 preg.
+6
+10 preg.
+7
+2 preg.
+8
+3 preg.
+9
+4 preg.
+10
+5 preg.
+11
+4 preg.
+TEMA 7 DE 11 · 2 PREGUNTAS EN EL EXAMEN
+Maniobra y navegación
+
+Dos preguntas, casi siempre sobre el efecto de la hélice y del timón, o qué amarra trabaja en una maniobra. En las prácticas es lo que más vas a hacer: atracar y desatracar.
+
+Qué mueve el barco en una maniobra
+Amarras: voces y efectos
+Efecto de la hélice
+Curva de evolución
+Ciaboga y agentes externos
+Atraque de puntas y de costado, paso a paso
+Atracar y desatracar
+Navegar con mar
+Preguntas de examen (127)
+7.1
+Qué mueve el barco en una maniobra
+TIMÓN
+
+Solo gobierna si pasa agua por él: necesita arrancada o el chorro de la hélice. Avante, la popa cae al lado contrario de la caña… o hacia donde giras la rueda con la proa.
+
+HÉLICE
+
+Empuja, y además «camina» lateralmente (efecto evolutivo): avante, una hélice dextrógira lleva la popa a estribor; atrás, a babor, y mucho más marcado.
+
+VIENTO
+
+Lo que más influye en una lancha: la proa, alta y ligera, cae a sotavento. Maniobra contra el viento siempre que puedas: frena y controla.
+
+CORRIENTE
+
+Mueve el barco entero. Igual que el viento, mejor recibirla por la proa al atracar.
+
+ARRANCADA
+
+La inercia. Un barco no tiene frenos: para pararlo hay que dar atrás. Calcula con tiempo.
+
+AMARRAS
+
+Son una herramienta de maniobra: trabajando sobre un esprín puedes abrir la proa o la popa del muelle.
+
+7.2
+Amarras: voces y efectos
+VOZ	SIGNIFICA
+Atracar · desatracar	Arrimar el barco a un muelle · separarse de él
+Amarrar · desamarrar	Asegurar el barco en puerto o fondeadero con cabos, maromas o cadenas · lo contrario
+Encapillar la gaza en el noray	Pasarla de abajo arriba por dentro de las gazas que ya hay: así cualquier barco puede soltar la suya sin quitar las demás
+Amarrar por seno	Pasar el seno por el noray y hacer firmes los dos chicotes a bordo. Para largar basta soltar un chicote y cobrar del otro, sin ayuda de tierra
+Tomar vueltas · hacer firme	Dar vueltas a una bita, cornamusa o pasamanos para sujetar · afirmar con nudos o vueltas para que no se mueva
+Virar	Cobrar un cabo o cadena por medios mecánicos (molinete, cabrestante)
+Amollar	Soltar un poco de cabo
+Adujar	Enrollar el cabo en vueltas (adujas) para que ocupe poco y salga sin problemas
+Codera	Cabo que se da a una boya, muerto o barco para aguantar el barco con viento de fuera y que no apriete contra el muelle; también sirve para separarlo al desatracar
+Qué hace cada amarra al cobrar de ella
+Largo de proa: atraca la proa y mueve el barco avante. Largo de popa: atraca la popa y lo mueve atrás.
+Esprín de proa: atraca la proa y lo mueve hacia popa. Esprín de popa: atraca la popa y lo mueve hacia proa. El esprín trabaja al revés que su largo y es muy útil para abrir la proa o la popa del muelle.
+Traveses: atracan de través y evitan que el barco se separe.
+Coderas: amarran a boyas y separan el costado del muelle.
+Idea clave. Lo que atraca la proa desatraca la popa, y al revés. Para desatracar: con viento o corriente de proa, deja el esprín de popa y la proa se abre; de popa, deja el esprín de proa y se abre la popa; con viento fuerte de fuera, da una o dos coderas a una boya, muelle o barco y vira de ellas.
+Gobierno, velocidad de gobierno y arrancada
+Caña: la pala va a la banda contraria. Para caer a estribor, caña a babor. Rueda (con guardines): el barco cae hacia donde giras la rueda.
+Velocidad de gobierno: la mínima con la que el barco sigue maniobrable desde el timón. Arrancada: la velocidad que lleva. Sin arrancada, no hay velocidad de gobierno.
+7.3
+Efecto de la hélice
+INTERACTIVO · HACIA DÓNDE VA LA POPA
+popa
+avante ↑
+proa
+Dextrógira
+Levógira
+ 
+Avante
+Atrás
+
+Dextrógira avante: la popa cae a estribor, la proa a babor.
+
+La hélice dextrógira gira en sentido horario vista desde popa en marcha avante. Sus palas inferiores trabajan en agua más densa y «empujan» la popa hacia ese lado.
+
+Sin arrancada, la popa cae a la banda hacia la que gira la hélice (efecto de «rodadura»: presión lateral del agua impulsada por las palas sobre la obra viva), y la proa a la contraria. Atrás, una dextrógira gira a izquierdas: la popa cae a babor hasta que el barco coge arrancada; una levógira, a estribor.
+Avante sin arrancada: se gobierna desde el primer momento, porque el chorro de la hélice va directo a la pala del timón.
+Atrás, parado y timón a la vía: el chorro va hacia proa y no toca la pala; los primeros segundos el timón no hace nada y manda la presión lateral de las palas. Cuando el barco coge arrancada atrás, ya se gobierna con el timón.
+Con arrancada avante y máquina atrás: el barco frena y a la vez la popa cae a la banda de giro de la hélice (babor si dextrógira). Con arrancada atrás, se gobierna sujetando firme la caña o la rueda.
+Dos hélices: giran en sentidos contrarios para compensar sus efectos, avante y atrás.
+Consecuencia práctica. Con una hélice dextrógira es más fácil atracar por babor: la palada final atrás para frenar acerca la popa al muelle. Atracando por estribor, esa palada la separa.
+7.4
+Curva de evolución
+avance
+diámetro táctico (al caer 180°)
+metida del timón
+diámetro final de evolución
+Avance: lo que avanza el barco desde que mete el timón hasta que ha caído 90°.
+Diámetro táctico: separación lateral cuando ha caído 180°.
+La curva es más cerrada a poca velocidad con mucha máquina momentánea (una palada), y más abierta a mucha velocidad.
+
+Curva de evolución: trayectoria (de su centro de gravedad) que describe el barco al girar con revoluciones y ángulo de timón constantes. Tiene tres fases:
+
+Fase de maniobra: desde que empiezas a meter timón hasta que la pala llega al ángulo deseado.
+Fase variable: ángulo constante, pero aún sin equilibrio dinámico entre las fuerzas: el movimiento varía.
+Fase uniforme: desde que se alcanza ese equilibrio y mientras no cambien máquina ni timón.
+
+En la fase de maniobra el barco: pierde velocidad (la pala frena); cae hacia la banda de la metida; desplaza la popa hacia la banda contraria (rabeo, ojo con la aleta al girar cerca de barcos, muelles o boyas); y escora a la banda contraria a la metida (fuerza centrífuga), más cuanto más rápido vaya.
+
+Depende del barco, la velocidad, el viento y la ola, y del diseño de la obra viva: un velero pivota casi sobre su quilla (curva limpia, poco abatimiento y poco rabeo); una lancha de obra viva plana hace una curva muy abierta y con rabeo acusado.
+
+7.5
+Ciaboga y agentes externos
+
+Ciabogar: girar el barco en el mínimo espacio, casi sobre sí mismo, para orientar proa o popa. Viene de los botes de remos: bogar es remar para ir avante y ciar, para ir atrás; bogando con un remo y ciando con el otro, el bote pivota.
+
+Con una hélice dextrógira, ciaboga a estribor
+Avante poco, timón a estribor, antes de que el barco coja arrancada: empieza el giro.
+Atrás: frena y la popa cae a babor, es decir, la proa sigue cayendo a estribor. El timón se deja a estribor (atrás su efecto es nulo).
+Se repite avante-atrás hasta tener la proa donde se quiere; después, avante con el timón a la vía.
+
+Por eso con una dextrógira es más fácil ciabogar a estribor.
+
+Con dos hélices
+
+Una avante y otra atrás a la vez: la proa cae a la banda contraria a la hélice que da avante (motor de babor avante y de estribor atrás → proa a estribor). Como una hélice rinde mucho más avante, la que da atrás debe ir a unas dobles revoluciones, o el barco cogerá arrancada. Timones a la vía: su efecto es inapreciable.
+
+Viento, corriente y olas
+El viento actúa sobre la obra muerta (barlovento, por donde entra; sotavento, por donde sale). Produce abatimiento: desplazamiento lateral cuando entra por un costado; si entra por proa o popa, solo cambia la velocidad.
+La corriente actúa sobre la obra viva: produce deriva, desplazamiento en su dirección.
+El oleaje (de viento o de corriente) actúa sobre todo el barco y dificulta las maniobras.
+Libre a sotavento: mantenerse alejado de cualquier peligro a sotavento, con margen para maniobrar.
+7.6
+Atraque de puntas y de costado, paso a paso
+
+Atraque de puntas: el barco queda con la crujía perpendicular al muelle, dándole la popa o la proa. Ahorra espacio en las marinas frente al atraque de costado. Queda con dos largos al muelle y uno o dos largos al agua, firmes a un muerto o una cadena del fondo.
+
+Atrás y muy despacio hacia el puesto, con el espejo de agua libre.
+El largo de proa y su guía descansan en el fondo: el largo va del muerto a la guía, y la guía acaba con una gaza en el noray.
+Cerca del muelle, un tripulante coge la guía con el bichero (o la da el marinero).
+Se desplaza a proa tirando de la guía hasta recuperar el largo, lo tensa y lo hace firme en una cornamusa de proa. Otro tripulante, en popa, amarra por seno los largos de popa. La guía no trabaja: solo une el largo con el muelle.
+
+Supuestos con una sola hélice dextrógira (popa a babor dando atrás). Defensas en ambos costados, sobre todo en sotavento, y amarras preparadas.
+
+SUPUESTO	CÓMO
+1 · Puesto a la banda de caída atrás (babor)	Paralelo al pantalán por fuera de la línea de muertos, poca arrancada; pasado un poco el hueco, atrás con timón a babor: la popa cae y entra.
+2 · Puesto a la banda contraria	En una zona espaciosa, atrás hasta que el barco gobierne solo con el timón; desde ahí, marcha atrás gobernando hasta el hueco.
+3 · Viento fuerte perpendicular o poca experiencia	Entrar de proa, avante con velocidad de gobierno y poca arrancada, y un poco atrás para parar. Pega: el timonel ve mal la distancia de la proa al muelle (de ahí las rodas golpeadas de los chárter).
+Orden de las amarras. Al amarrar, primero las de barlovento: son las que trabajan en cuanto el barco se para. Al desamarrar, las de barlovento son las últimas en largarse.
+Viento de proa (del mar), popa al muelle: primero el largo de proa, que es el de barlovento (que la popa no golpee el muelle): coger la guía, cobrar y hacer firme; enseguida, los largos de popa por seno. Desamarre: largos de popa y por último el de proa, dando ligeramente avante sin enganchar la guía.
+Viento de popa (del muelle): la aproximación es fácil; el marinero ofrece la guía, pero lo primero son los largos de popa por seno, porque el viento separa del muelle; después la guía y el largo de proa. Desamarre: largar el largo de proa y dejar que se hunda con la guía, luego los de popa, y salir con muy poco avante.
+Viento de través: al parar, el barco cae a sotavento. Dar a la vez el largo de popa de barlovento y el de proa (el de barlovento si hay dos), luego el largo de popa de sotavento, y cobrar fuerte de los de barlovento. Desamarre: primero el de popa de sotavento (y el de proa si hay), luego el de popa de barlovento y, por último, el de proa dando avante, separando con el bichero, defensas en sotavento y sin enganchar la guía.
+De costado a un muelle
+
+Aproximación proa al viento o a la corriente, o al más fuerte de los dos. Para salir hay que separar antes el barco: con viento del muelle basta largar amarras; en barcos pequeños, abriendo la popa con el bichero y saliendo atrás.
+
+Hacer cabeza (cuando el viento acuesta el barco contra el muelle): defensa grande en la amura de babor, largar todo menos el esprín de proa, avante muy poco con timón a babor (hacia el muelle); la popa se abre; al final, largar y salir atrás.
+
+Premisas: atraque por babor, una hélice dextrógira, defensas en la banda de atraque y amarras adujadas y pasadas.
+
+VIENTO	ATRAQUE	DESATRAQUE
+De proa, paralelo	Muy poco ángulo, poca arrancada, timón a la vía. Punto muerto (casi se para) y largo de proa. Poco atrás con timón a babor: la popa cae al muelle; largo de popa, luego esprines y traveses.	Largar traveses, largos y esprín de proa, defensa grande en la aleta de babor. Aguantar el esprín de popa, separar la proa con el bichero (el viento hace el resto), poco avante, largar el esprín y salir.
+De popa, paralelo	Muy poco ángulo, punto muerto con velocidad de gobierno. Poco timón a babor y atrás (popa a babor). Esprín de proa para parar y atracar la proa; poco atrás, timón a la vía, largo de popa y largo de proa.	Largar las de popa, defensa a proa y aguantar el esprín de proa (hacer cabeza). Separar la popa en punto muerto o con muy poco avante y timón a babor; poco atrás, largar el esprín y salir atrás.
+De dentro (del muelle al mar)	Ángulo algo más abierto, poca arrancada. Con la proa en el muelle, esprín de proa y muy poco avante con timón a estribor: el esprín frena y mete la popa (defensa en la amura de babor). Traveses enseguida, luego largos y esprín de popa.	Largar todo menos el esprín de proa, defensa a proa. En punto muerto el viento separa la popa; poco atrás, largar el esprín y salir. También puede hacerse abriendo la proa.
+De fuera (del mar al muelle)	Ángulo abierto, muy poco avante o punto muerto. Con la proa cerca y sin arrancada, largo de proa y timón a estribor: el viento acuesta el barco. Timón a la vía, largo de popa y el resto.	Largar todo menos el esprín de proa, defensa a proa (hacer cabeza). Poco avante con timón a babor para abrir la popa; con la popa bien separada, poco atrás controlando la caída a babor, largar el esprín y salir atrás.
+Abarloarse y amarrar a una boya
+Abarloarse: amarrarse de costado a otro barco. Si ese barco está atracado, la maniobra es como atracar a un muelle, pero los largos van al muelle y traveses y esprines al otro barco.
+Para desabarloarse, salir a favor del viento o la corriente, para que los barcos exteriores sigan firmes con sus estachas de barlovento. Ejemplo: el barco exterior larga las de sotavento (su largo de popa), el nuestro larga todo y sale avante hacia sotavento, y luego el exterior cobra y se abarloa al de muelle.
+A un barco fondeado se llega proa al viento, que es como está todo barco fondeado.
+Boya: proa al viento y a la boya, velocidad de gobierno y muy poca arrancada, hasta quedar parado muy cerca y a barlovento de ella. Coger cabo o boya con el bichero y amarrar mejor por seno, con los dos chicotes a las cornamusas de proa.
+7.7
+Atracar y desatracar
+MUELLE
+1 · 20–30°, muy despacio
+2 · punto muerto, timón a Er
+3 · palada atrás: la popa entra
+Atraque de costado por babor con hélice dextrógira.
+Prepara defensas y amarras en la banda del muelle antes de llegar. Reparte la tripulación: una persona a proa y otra a popa.
+Aproxímate a 20–30° del muelle, muy despacio, contra el viento o la corriente si es posible.
+A una eslora, punto muerto; gira para ponerte paralelo y da una palada atrás para parar.
+Da primero el largo de proa o el esprín (el cabo que impide el movimiento que llevas), después la popa.
+Desatraque
+Abrir la popa (lo más habitual): largas todo menos el esprín de proa, timón hacia el muelle y avante despacio. La proa se apoya en el muelle (con defensa) y la popa se abre. Cuando está abierta, largas el esprín y sales atrás.
+Abrir la proa: trabajas sobre el esprín de popa dando atrás; la proa se abre y sales avante.
+Con viento desde el muelle no hace falta: largas y el viento te separa.
+Otras maniobras
+Atraque en punta (de popa, amarre mediterráneo): coger el muerto (con su cabo guía) o largar el ancla bien separado, entrar atrás despacio y dar las amarras de popa. Lo difícil es gobernar marcha atrás.
+Coger una boya: llegar proa al viento o a la corriente, a muy poca velocidad, y cogerla con el bichero por la amura.
+Abarloarse: amarrarse al costado de otro barco, con defensas y con amarras propias a tierra.
+7.8
+Navegar con mar
+Mar de proa: reducir velocidad para no golpear y cortar las olas ligeramente por la amura.
+Mar de popa: cuidado con que el barco se atraviese (la ola levanta la popa y la cruza). Ajusta la velocidad a la de las olas y no bajes por la cara de la ola a toda máquina.
+Mar de través: la más incómoda y la de mayor balance. Si es grande, navegar en zigzag cogiéndola por la amura o la aleta.
+Planeo: con la cola o los flaps se trima la lancha. Proa abajo con ola corta; proa algo arriba para planear en aguas tranquilas.
+Con poco fondo o en un canal estrecho, el barco gobierna peor y se «sienta»: velocidad reducida.
+PARA FIJAR CONOCIMIENTOS
+Preguntas de examen del tema
+
+127 preguntas en el banco de este tema. Elige cuántas hacer; las que no has visto y las que fallaste se pueden repasar aparte.
+
+Tu progreso en este tema: 0/127 vistas · 0 dominadas.
+
+Preguntas:
+Todas (2061)
+Exámenes reales (956)
+Banco de la guía (1105)
+10 preguntas
+25 preguntas
+Todas (127)
+No vistas (127)
+Mis fallos (0)
+Repetidas en exámenes (2)
+PREGUNTA 1 DE 10 · NUEVA
+0 aciertos
+Examen real · Febrero 2022
+
+¿Cómo se llama a la acción de recoger un cabo de manera manual, tirando de él?:
+
+A
+Amollar.
+B
+Lascar.
+C
+Virar.
+D
+Cobrar.
+Terminar aquí
+← 6. Reglamento (RIPA)
+8. Emergencias en la mar →

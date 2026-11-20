@@ -1,0 +1,279 @@
+1
+4 preg.
+2
+2 preg.
+3
+4 preg.
+4
+2 preg.
+5
+5 preg.
+6
+10 preg.
+7
+2 preg.
+8
+3 preg.
+9
+4 preg.
+10
+5 preg.
+11
+4 preg.
+TEMA 2 DE 11 · 2 PREGUNTAS EN EL EXAMEN
+Elementos de amarre y fondeo
+
+Dos preguntas en el examen, pero en las prácticas lo vas a hacer todo: dar amarras, hacer firme en una cornamusa y fondear. Aquí lo importante es entender para qué trabaja cada cabo.
+
+Cabos: partes, materiales y maniobras
+Nudos y cornamusa
+Las amarras de un barco atracado
+Anclas y fondeo
+Borneo, garreo y vigilancia
+Dos anclas y levar
+Preguntas de examen (125)
+2.1
+Cabos: partes, materiales y maniobras
+chicote (extremo)
+seno (parte curva)
+firme (parte que trabaja)
+Chicote: extremo libre. Seno: curva o parte central. Firme: parte fija o que soporta la tensión. Mena: grosor (el diámetro del cabo). Gaza: curva cerrada o lazo en un cabo; se hace con un as de guía o trenzando (ayustando) los cordones del chicote en los del firme.
+Materiales: poliamida (nailon), elástica, ideal para amarras y fondeo porque absorbe los tirones; poliéster (tergal/dacron), poco elástico, para escotas y drizas; polipropileno, flota, para rabizas y cabos de remolque/salvavidas. Las fibras naturales (cáñamo, manila) ya casi no se usan.
+VOZ	SIGNIFICA
+Cobrar	Tirar de un cabo para recoger el seno o para tensarlo
+Lascar / amollar	Aflojar un poco un cabo que estaba tenso
+Arriar	Aflojar un cabo; lleva implícita la idea de bajar (se arrían las velas y los botes)
+Arriar en banda	Soltar un cabo de golpe, sin retenerlo nada
+Hacer firme	Sujetar el cabo a un punto fijo (cornamusa, bita)
+Tomar vuelta	Dar una vuelta a una cornamusa o bita para aguantar sin soltar
+Adujar	Recoger el cabo en vueltas ordenadas (adujas) para que no se enrede
+Largar	Soltar del todo un cabo y dejarlo libre, desconectándose de él (o lanzarlo a tierra)
+Tesar / templar	Poner un cabo en tensión
+Encapillar	Colocar una gaza en una bita o noray
+2.2
+Nudos y cornamusa
+Vuelta de cornamusa
+1 vuelta completa · ochos · vuelta mordida
+
+Cómo hacer firme en una cornamusa: entra el cabo por el lado más alejado de la carga, da una vuelta completa a la base, después uno o dos «ochos» por encima de los cuernos, y termina con una vuelta mordida (el cabo pasa por debajo de sí mismo). Así se puede soltar aunque esté en tensión.
+
+NUDO	PARA QUÉ SIRVE	LO QUE PREGUNTA EL EXAMEN
+As de guía	Gaza fija, no corrediza, para encapillar un cabo (en un noray, alrededor de una persona). El más usado a bordo, sobre todo en vela	«El rey de los nudos»; no se corre
+Ballestrinque	Hacer firme el chicote: a una bita (amarras) o a un pasamanos o candelero (cabos de las defensas). Se remata con un cote de seguridad	Defensas; termina con cote
+Nudo llano	Unir por los chicotes dos cabos de igual mena	Igual mena
+Vueltas de rezón	Afirmar una amarra a una argolla protegiendo el cabo del roce. Muy usado para unir el cabo de fondeo a un ancla pequeña	Argolla · ancla pequeña
+Vuelta de escota	Unir dos cabos de distinta mena	Distinta mena
+Nudo de ocho	Tope en un chicote para que no se escape por una polea o guía	Nudo de tope
+Vuelta redonda y dos medios cotes	Hacer firme a una argolla o boya, aguantando tensión	Para argollas
+
+Un buen nudo tiene que poder deshacerse con facilidad aunque haya trabajado mucho.
+
+A bordo. Practica el as de guía con los ojos cerrados y en las dos manos. En las prácticas es el que te pedirán siempre, y al pasar una amarra a un noray tienes segundos.
+2.3
+Las amarras de un barco atracado
+INTERACTIVO · TOCA CADA AMARRA
+MUELLE
+proa →
+Largo Pr
+Esprín Pr
+Través Pr
+Través Pp
+Esprín Pp
+Largo Pp
+¿Qué amarras trabajan con viento…?
+de proa
+de popa
+desde el muelle
+desde el mar
+Toca una amarra.
+Regla para no fallar. El largo va hacia fuera (proa hacia delante, popa hacia atrás). El esprín va «cruzado» hacia el centro del barco: el de proa hacia popa y el de popa hacia proa. Cada cabo impide el movimiento contrario a hacia donde apunta desde el barco.
+Elementos de amarre
+ELEMENTO	QUÉ ES
+Noray	Pieza de hierro fundido fijada al muelle para sujetar las amarras
+Bita	Pieza cilíndrica y sólida fijada a la cubierta para amarrar cabos
+Cornamusa	Pieza sólida de madera o metal, fijada en cubierta, para amarrar cabos (con dos «cuernos»)
+Muerto	Peso sólido en el fondo, adecuado al barco, para asegurar el amarre en puerto o fondeadero. De él salen las cadenas o cabos que sujetan las boyas.
+Boya	Cuerpo ligero y flotante sujeto al fondo por un lastre o muerto. Sirve para amarrar un barco o para señalizar.
+Defensas	Protegen el casco de golpes y rozaduras
+Bichero	Palo o percha larga con un gancho en la punta (también llamado puntera) para coger la guía o las amarras
+Roldana	Rueda de madera o metal sobre la que gira el cabo en poleas, motones y otras cajeras. Sirve para dirigir los cabos de amarre hacia los elementos de cubierta.
+Guía-cabos	Piezas, normalmente de inox, fijadas en la borda para pasar y guiar las amarras hacia el muelle
+Boza	Trozo de cabo que sujeta una cadena o cabo en tensión para poder manipularlo
+Guía	Cabo fino, a veces con peso, que se lanza para pasar luego uno más grueso
+No confundir. El noray está en el muelle; la bita y la cornamusa, a bordo. La boya flota; el muerto está en el fondo.
+2.4
+Anclas y fondeo
+Almirantazgo (con cepo)
+arganeo
+cepo
+caña
+cruz
+brazo / uña
+Danforth
+arena y fango · poco peso
+Arado (CQR)
+polivalente
+Rezón
+auxiliares · roca
+Partes de un ancla (ancla de almirantazgo) y los tipos habituales.
+ELEMENTO	QUÉ ES
+Molinete (chigre)	Máquina eléctrica para virar (subir) la cadena; eje horizontal
+Cabrestante	Igual pero con eje vertical
+Barbotén	Corona del molinete con huecos donde encajan los eslabones: la pieza clave para virar cadena
+Cabirón	Tambor liso en el otro extremo del eje del molinete, para virar un cabo (fondeo o atraque)
+Embrague · freno	El embrague acopla o suelta el barbotén del eje del motor; el freno bloquea el barbotén
+Estopor	Mordaza que trinca la cadena para que no se suelte
+Escobén	Conducto por donde pasa la cadena hacia fuera
+Caja de cadenas («pozo de anclas»)	Compartimento bajo cubierta, normalmente a proa, donde se estiba la línea de fondeo y se hace firme su chicote
+Gatera	Orificio de cubierta por el que pasa la cadena o el cabo hacia la caja
+Grillete	Pieza en U con perno que une ancla y cadena. También es una medida de cadena (27,5 m)
+Grillete de unión (giratorio)	Une cadena y ancla dejando girar el ancla sin retorcer la cadena; ayuda a que el ancla entre bien en la puntera
+Puntera	Pieza de proa por la que corren la cadena y la caña del ancla al empezar y acabar el fondeo
+Orinque	Cabo con boya firme a la cruz del ancla para recuperarla si se engancha
+Partes y tipos de ancla
+
+Partes: caña (barra principal), arganeo (argolla de arriba, donde se hace firme el cabo o el grillete), cruz (unión de caña y brazos), brazos terminados en uñas que se clavan, y mapa (la cara plana de la uña). El cepo, barra transversal de las anclas clásicas, mejoraba el agarre; las anclas modernas no lo llevan y agarran gracias a los brazos móviles.
+
+Arado: brazos y uñas forman una sola pieza. Según el manual, apropiada para fondos de fango.
+Danforth: barra bajo la cruz y dos uñas planas. Muy usada en recreo por su gran agarre.
+Rezón: sin cepo, cuatro brazos; caiga como caiga, siempre quedan dos en posición de clavar. Para neumáticas y auxiliares hay rezones plegables con un capuchón (caperuzón) que cierra las uñas.
+Línea de fondeo (norma). Longitud total de al menos 5 veces la eslora. El tramo de cadena, como mínimo igual a la eslora, salvo en barcos de menos de 6 m, que pueden llevar solo estacha (cabo). La tabla de pesos y diámetros por eslora es orientativa y no entra en el examen.
+INTERACTIVO · CUÁNTA CADENA FILAR
+Sonda (profundidad): 6 m 
+Cadena
+Cadena + cabo
+Solo cabo
+Mal tiempo / se espera que refresque
+
+Fila unos 18 m (3 × sonda)
+
+Radio de borneo ≈ 25 m (cadena + eslora). Deja ese círculo libre de otros barcos y de piedras.
+
+sonda 6 m · filado 18 m
+Dónde fondear: el tenedero
+
+Fondear es afirmar el barco al fondo con el ancla y su cadena o cabo. Un barco fondeado nunca es como un barco atracado: muchos se pierden por confiarse. El tenedero es la superficie del fondo donde se clava el ancla.
+
+BUENOS TENEDEROS
+
+Fango duro, arena fangosa, arena dura o incluso fina.
+
+MALOS TENEDEROS
+
+Piedra y fondos duros en general, y los de algas. En roca, el ancla puede enrocarse y no poder levarse.
+
+Resguardo: el mayor posible del viento y, sobre todo, de la mar.
+Profundidad: adecuada al calado, al tipo de barco y a la longitud de tu línea de fondeo.
+Salida fácil: si el tiempo cambia de golpe, el refugio no puede convertirse en una «ratonera».
+Nunca sobre posidonia (manchas oscuras en el fondo). Además de ser mal tenedero, en la Comunitat Valenciana está prohibido (Decreto 64/2022) y en Baleares y otras zonas protegidas hay boyas de amarre.
+Fondeo a la gira, paso a paso
+
+Fondear a la gira es hacerlo con una sola ancla por proa, filando la cadena por la puntera o el escobén: el ancla es el único punto de sujeción.
+
+Aproximación: ancla a la pendura, proa al viento, con velocidad de gobierno pero la mínima arrancada.
+Dar fondo: en el punto elegido, se para el barco y se da un poco atrás. Se abre el freno del barbotén y se fila hasta que el ancla esté a pique (toque fondo), sin dejar caer la cadena encima.
+Filar cadena mientras el barco cae atrás, hasta 3–6 veces la sonda según viento y corriente. Si la proa se abre al viento, se deja de filar un momento para que la cadena «llame» y el barco vuelva a aproarse.
+Hacer firme la cadena a una cornamusa o al barbotén. Mejor abozarla con un cabo a las cornamusas de proa: los anclajes del molinete no siempre aguantan el esfuerzo.
+Antes de parar el motor, toma referencias en tierra (enfilaciones) para comprobar que ha agarrado.
+Cuánta cadena. Normalmente 3–4 veces la profundidad. Con mucho viento, corriente o efecto de marea, 5–6 veces. El barco debe llevar en total una cadena de 5 veces su eslora.
+Virar: cobrar (recoger) cabo o cadena. Filar: largar o arriar cabo o cadena.
+Levar: virar la cadena para recoger el ancla. Se avanza despacio hacia ella mientras se vira, hasta que esté «a pique» y se desclave.
+A la pendura: ancla destrincada, bajada y colgando, lista para darle fondo cuando se decida. Ancla al pelo: justo despegada del fondo.
+A pique: al fondear, el momento en que el ancla toca fondo; al levar, cuando la cadena está vertical con el ancla aún en el fondo, justo antes de despegarse.
+Zarpar: momento en que el ancla se despega del fondo, justo después de estar a pique.
+¡Clara! / ¡Libre!: voz que indica que el ancla ha zarpado y viene limpia (sin fango, algas ni cabos enredados).
+Ojo en el examen. Lo que hace agarrar al ancla es sobre todo que la cadena trabaje horizontal sobre el fondo: por eso cuenta la longitud filada (y el peso de la cadena) más que el peso del ancla.
+2.5
+Borneo, garreo y vigilancia
+
+Bornear: el barco gira alrededor del ancla, con la cadena como radio, cuando cambia el viento o la corriente; la proa queda hacia el que domine. El círculo de borneo depende de la cadena filada, de la fuerza del viento o la corriente y de la obra muerta del barco. El espacio de borneo de cada barco hay que respetarlo en el fondeadero para no chocar.
+
+INTERACTIVO · ROLA EL VIENTO
+Dirección del viento: 0° 
+Fondeados muy juntos
+Respetando el borneo
+
+✓ Hay sitio: cada uno bornea en su círculo.
+
+Barco claro: velero (bornea despacio). Barco oscuro: lancha (sigue enseguida al viento).
+
+De día, en verano, el viento suele rolar unos 40–50°. De noche puede rolar hasta 180°: por eso, quien pasa la noche fondeado necesita su círculo completo libre. Las lanchas (mucha obra muerta, poca obra viva) bornean más rápido que los veleros.
+
+viento
+Garreo
+
+Un barco garrea cuando el ancla no queda firme y el barco se va desplazando a sotavento.
+
+CAUSAS
+No se ha filado bastante cadena para el fondo o el viento.
+Fondo duro: el ancla no penetra.
+Fondo demasiado blando: el ancla va abriendo surco.
+La cadena cayó encima del ancla y la bloquea.
+CÓMO EVITARLO
+Filar más cadena.
+Cambiar de fondeadero si el fondo no es bueno.
+Fondear una segunda ancla.
+Aguantarse con máquina avante.
+
+Vigilancia: referencias en tierra tomadas antes de parar el motor, alarma de la sonda con un fondo mínimo y, si hay radar, distancias mínimas a rocas y peligros.
+
+Orinque: cabo firme por un chicote a la cruz del ancla y por el otro a un boyarín. Permite levar el ancla tirando de la cruz si se enroca y marca su vertical si hay que abandonarla para recuperarla luego con buceadores.
+
+Ojo. Garrear sobre algas y posidonia destroza el fondo: es una de las principales causas de su degradación en el Mediterráneo.
+2.6
+Dos anclas y levar
+DOS ANCLAS POR LA PROA
+
+Da más seguridad. Se fondea la primera y se fila; luego se mete timón a la banda contraria, se da un poco avante y se fondea la segunda, cerca de la primera. Se fila de la segunda procurando que las dos líneas tengan la misma longitud.
+
+A BARBAS DE GATO
+
+Dos anclas cuyas líneas forman un ángulo de 90° a 120°. Además de más seguridad, reduce el espacio de borneo. Se llega de través al viento, se fondea la primera por barlovento, se fila, se fondea la segunda por sotavento y se vira de la primera mientras se fila de la segunda, hasta igualar longitudes. El barco queda aproado al viento.
+
+viento
+viento
+costa
+90°–120°
+1.ª ancla
+2.ª ancla
+A barbas de gato: dos líneas iguales y abiertas; menos borneo.
+Levar el ancla
+Un tripulante a proa indica con la mano hacia dónde «llama» la cadena: tras horas de borneo, la cadena dibuja curvas en el fondo y el timonel corrige el rumbo para que llame siempre por la proa.
+Se da un poco avante mientras se cobra, para que ni el molinete ni el tripulante hagan esfuerzo.
+Con el ancla a pique (cadena vertical, ancla aún en el fondo) se para el barco y se sigue virando.
+El ancla zarpa, sube clara y se iza rápido.
+El barco vuelve a tomar arrancada. Hay que estibar el ancla enseguida para que no golpee la roda ni las amuras.
+PARA FIJAR CONOCIMIENTOS
+Preguntas de examen del tema
+
+125 preguntas en el banco de este tema. Elige cuántas hacer; las que no has visto y las que fallaste se pueden repasar aparte.
+
+Tu progreso en este tema: 0/125 vistas · 0 dominadas.
+
+Preguntas:
+Todas (2061)
+Exámenes reales (956)
+Banco de la guía (1105)
+10 preguntas
+25 preguntas
+Todas (125)
+No vistas (125)
+Mis fallos (0)
+Repetidas en exámenes (6)
+PREGUNTA 1 DE 10 · NUEVA
+0 aciertos
+Examen real · Septiembre 2025
+
+La rueda acanalada de una polea por donde corre un cabo se denomina:
+
+A
+Pasteca
+B
+Motón
+C
+Roldana
+D
+Simple
+Terminar aquí
+← 1. Nomenclatura náutica
+3. Seguridad en la mar →

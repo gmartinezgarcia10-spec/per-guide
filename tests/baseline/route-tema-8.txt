@@ -1,0 +1,219 @@
+1
+4 preg.
+2
+2 preg.
+3
+4 preg.
+4
+2 preg.
+5
+5 preg.
+6
+10 preg.
+7
+2 preg.
+8
+3 preg.
+9
+4 preg.
+10
+5 preg.
+11
+4 preg.
+TEMA 8 DE 11 · 3 PREGUNTAS EN EL EXAMEN
+Emergencias en la mar
+
+Tres preguntas: fuego, vías de agua, varada, abordaje, primeros auxilios y abandono. La idea que repite el examen es siempre la misma: primero valorar la situación y mantener la calma.
+
+Incendios
+Vías de agua
+Varada y abordaje
+Primeros auxilios
+Abandono, helicóptero y comunicaciones
+Preguntas de examen (162)
+8.1
+Incendios
+INTERACTIVO · EL TRIÁNGULO DEL FUEGO
+COMBUSTIBLE
+OXÍGENO
+CALOR
+
+Quita un lado del triángulo y el fuego se apaga. Cada forma de extinción ataca uno:
+
+Quitar combustible
+Quitar oxígeno
+Quitar calor
+Restaurar
+
+Con los tres lados (y la reacción en cadena) hay fuego.
+
+INTERACTIVO · QUÉ EXTINTOR USO
+Clase A
+Clase B
+Clase C
+Clase D
+Clase F
+Clase E
+Elige una clase de fuego.
+
+Clases UNE-EN 2: A, B, C, D y F. La «E» (eléctrico) no es una clase oficial pero el manual y el examen la usan. Clase F (Foxtrot): aceites y grasas de cocina; agente químico húmedo (espuma AFF de pH bajo) que enfría y forma una capa que impide que se reactive.
+
+Dar la alarma y pedir ayuda si no se controla en segundos.
+Parar motores, cortar el combustible y la electricidad.
+Cerrar escotillas y puertas para quitar aire, y orientar el barco para que el fuego quede a sotavento del resto del barco y de las personas.
+Atacar con el extintor a la base de las llamas, desde barlovento, en ráfagas cortas.
+Tetraedro del fuego y métodos de extinción
+
+Además del triángulo, el examen pregunta por el tetraedro: combustible, comburente (oxígeno), calor (temperatura de ignición) y reacción en cadena. Basta eliminar uno.
+
+MÉTODO	ELIMINA	CON QUÉ
+Enfriamiento	Temperatura	Agua o niebla de agua
+Sofocación	Oxígeno	CO₂ u otro gas inerte, espuma, mantas mojadas o arena, cierre hermético del compartimento y cortar la ventilación
+Eliminación del combustible	Combustible	Cerrar llaves y válvulas, reducir la fuga, retirar el sólido que arde
+Supresión de la reacción en cadena	Reacción	Polvo seco (bicarbonato sódico o potásico)
+
+El agua absorbe mucho calor y, al evaporarse, aumenta unas 1.700 veces su volumen y desplaza el aire (también sofoca). Pero reacciona con aluminio y magnesio liberando gases inflamables, conduce la electricidad y, más densa, no sirve en combustibles más ligeros. Ideal para clase A; ineficaz en C; peligrosa en D y E; en B, solo pulverizada (niebla) para refrigerar.
+
+Extintores: 21B ≈ 2 kg de polvo o 3,5 kg de CO₂; 34B ≈ 3 kg de polvo o 5 kg de CO₂; 55B ≈ 4 kg de polvo o 6,5 kg de CO₂. Siempre en vertical (inclinado, su rendimiento es parcial; nunca boca abajo).
+
+Al declararse un incendio
+Localización: dónde está, qué arde, qué extensión tiene, qué combustibles hay cerca y por dónde puede propagarse (comunicaciones, viento, corrientes).
+Confinamiento: el calor pasa por radiación, conducción (sólidos, líquidos, gases) y convección. Taponar conductos, cerrar puertas y portillos, parar ventiladores, refrescar y humedecer las zonas próximas.
+Extinción: quitar uno de los elementos del tetraedro.
+No abrir de golpe un compartimento incendiado: con monóxido de carbono dentro, el aire puede provocar una explosión. No entrar en espacios cerrados sin máscara antigás (tipo OBA).
+Impedir que el fuego llegue a combustibles cercanos y que se acerquen más; evitar que los vapores pasen a otras zonas.
+Si es imposible sofocarlo, y sobre todo si hay riesgo de explosión, abandonar el barco sin dilación.
+Socairear el fuego: rumbo para que el viento aparente sea cero
+El foco principal debe quedar a sotavento del resto del barco.
+Viento igual o más flojo que tu velocidad: popa al viento, igualando velocidades hasta tener viento aparente cero.
+Viento más fuerte que el barco y fuego a proa: popa al viento a toda máquina. Fuego a popa: proa al viento con la mínima máquina para gobernar.
+Si no se puede apagar y hay un fondo aplacerado y poco profundo cerca, se puede hundir el barco abriendo los grifos de fondo para reflotarlo después.
+
+Lugares de riesgo: cocina (apagar cerrando la llave de paso para vaciar los conductos y dejarla cerrada), cámara de motores (bien ventilada: muchos gases pesan más que el aire y van a la sentina), tomas de combustible (sin derrames, tapas cerradas), baterías (gases explosivos y venenosos al cargar: ventilación), instalación eléctrica (sin chispas) y pañol de pinturas (ventilado, botes cerrados, brochas limpias y envueltas, sin calor cerca).
+
+Dónde empieza: cocina, cámara de motores, baterías (desprenden hidrógeno al cargar), instalación eléctrica, pañol de pinturas. Al repostar: motores y fogones apagados, no fumar, escotillas cerradas, imbornales tapados y ventilar después.
+
+8.2
+Vías de agua
+limera (timón)
+bocina (eje)
+grifos de fondo
+tomas de mar / sonda
+manguitos y abrazaderas
+
+Además de varadas y abordajes, el agua suele entrar por los orificios de la obra viva: bocina, limera, grifos de fondo de servicios y fregaderos, manguitos, abrazaderas, escapes e imbornales de la bañera. Hay que revisarlos periódicamente.
+
+Primeras medidas: localizar la vía de agua y achicar (el examen lo resume en «achicar e intentar taponar»).
+Localizar la entrada (escuchar, palpar, ver de dónde sube el agua) y comprobar si es agua salada o dulce (puede ser un depósito).
+Achicar con las bombas eléctricas y manuales, y con baldes si hace falta.
+Taponar: espiches (tapones cónicos de madera; conviene tener uno atado junto a cada grifo de fondo), trapos, cuñas o un pallete de colisión (lona por fuera del casco, que la presión del agua aprieta).
+Escorar el barco a la banda contraria para sacar la brecha del agua, si está cerca de la flotación y la mar es muy buena.
+Bombas: las manuales, de al menos medio litro por embolada; las eléctricas, unos 1.800 L/h. Llevar rotores de repuesto: las palas se calientan y rompen al trabajar en vacío. Muy útiles las automáticas con sensor de nivel.
+Otras medidas de fortuna: turafallas (disco de fieltro, goma o lona con un eje roscado y un brazo articulado que forman una «T»); sobre la flotación, con la zona seca, un tablero de contrachapado marino sellado con sicaflex o silicona; vías grandes, mantas, colchonetas o almohadas apuntaladas con puntales de madera. Las encajonadas de cemento (cajones apuntalados y rellenos de cemento rápido) no se usan en recreo.
+Toda vía de agua implica rumbo al puerto más cercano o al más fácil de recalar.
+8.3
+Varada y abordaje
+VARADA INVOLUNTARIA
+Parar máquina y valorar daños en la obra viva: ¿hay vías de agua?
+Sondar alrededor para ver por dónde hay más agua.
+Valorar la resistencia del casco y la estabilidad según los puntos de apoyo (si baja la marea, un velero con orza puede acostarse y sufrir daños graves).
+Reflotar: esperar a que suba la marea, trasladar pesos para cambiar el asiento o escorar hacia el lado de más fondo, aligerar carga, espiarse con el ancla o pedir remolque. Para avisar a Salvamento, canal 16.
+ABORDAJE
+Investigar la gravedad de las averías y detener el barco. Comprobar si hay heridos.
+Prestar ayuda al barco dañado.
+No separarse sin evaluar juntos la situación: la proa empotrada puede estar taponando la vía de agua y el abordado se hundiría.
+Tomar los datos del otro (barco, seguro, titulación del patrón) y comunicarlo a la aseguradora; en tierra, pedir la peritación.
+Si estás seguro de no ser culpable, formular una protesta de mar ante el juzgado más próximo.
+TIPO DE VARADA	QUÉ HACER
+En seco (ha bajado la marea)	Apuntalar el barco, reparar averías y reflotar en pleamar con remolque y escora.
+Fondo fangoso	No suele haber daños, pero el barco se incrusta, la hélice queda atrapada y las tomas de refrigeración pueden obturarse. Trasladar pesos para cambiar el asiento, anular el efecto ventosa «rabeando» (moviendo lateralmente a un lado y a otro), esperar la marea y, en el peor caso, aligerar carga.
+Fondo rocoso	Si no hay vías de agua, dar atrás rápidamente o desplazar pesos para aliviar la zona varada.
+Velero	Provocar escora para que pierda calado: izar todo el aparejo o templar una driza desde la perilla del palo (otra embarcación tira de ella desde su popa y da avante), controlando las tensiones del mástil. En el Mediterráneo, sin mareas, casi siempre hará falta otra embarcación.
+8.4
+Primeros auxilios
+SITUACIÓN	QUÉ HACER	QUÉ NO HACER
+Hemorragia	Presión directa con gasa limpia (unos 15 min) y elevar el miembro	Torniquete salvo último recurso
+Hemorragia nasal	Sentarle y que se apriete suavemente las fosas nasales	Echar la cabeza hacia atrás
+Quemadura	Agua fría 10–20 min, cubrir con apósito limpio (graso)	Reventar las ampollas, poner hielo
+Golpe de calor / insolación	Sombra, enfriar, agua a sorbos si está consciente	
+Hipotermia	Quitar la ropa mojada, abrigar, calentar el tronco poco a poco, bebidas calientes	Alcohol, frotar las extremidades
+Mareo	Aire fresco, mirar el horizonte, centro del barco, llevar el timón, comer algo ligero	Bajar al interior, leer
+Ahogado inconsciente que no respira	RCP: 30 compresiones y 2 insuflaciones. Abrir la vía aérea con la maniobra frente-mentón	Perder tiempo intentando sacar el agua de los pulmones
+Fractura	Inmovilizar en la postura en que esté	Intentar recolocarla
+INTERACTIVO · RITMO DE COMPRESIONES
+Iniciar metrónomo 110/min
+0
+de 30, luego 2 insuflaciones
+
+Comprime el centro del pecho 5–6 cm, a 100–120 por minuto, dejando que el pecho vuelva entero.
+
+Lo que dice el manual
+
+Los accidentes más frecuentes a bordo son contusiones, heridas, fracturas y esguinces (cubierta mojada, movimientos imprevistos, golpes de mar). Primera asistencia: alejar al herido del peligro o cortar la causa; observarle; controlar respiración y pulso (RCP si hace falta); localizar y detener hemorragias; no intentar reducir fracturas ni luxaciones, inmovilizar; no dar nunca por muerto a un accidentado; y después, consulta radiomédica y evacuación (Salvamento, Cruz Roja del Mar o arribar al puerto más próximo).
+
+Heridas: traumatismos abiertos; riesgos inmediatos, pérdida de sangre e infección. Desinfectar y cubrir con un apósito estéril.
+Contusiones: traumatismos cerrados, graves en cabeza o abdomen por posibles hemorragias internas. En la cabeza, vigilar pérdida de conocimiento y vómitos; en el tórax, dolor fuerte al toser o moverse puede indicar costillas rotas (reposo total); en el abdomen, riesgo para vejiga, hígado, riñones. Reposo, observación y consulta radiomédica.
+Hemorragias: arterial, rojo vivo, a borbotones con el pulso (reducir cuanto antes); venosa, rojo oscuro y continua; capilar, intermedia y poco importante. Riesgo: shock. Medio litro se tolera; 1,5 L es grave; 3 L, mortal. El torniquete, como última medida, se pone entre la herida y el corazón, un poco por encima; temporal (el manual dice máximo 3 h aflojándolo cada cuarto de hora). Evacuar con los pies más altos que el cuerpo. En la venosa, vendaje compresivo por debajo de la herida.
+Quemaduras: su gravedad depende sobre todo de la extensión (la palma de la mano ≈ 1 % del cuerpo): más del 33 % es grave; menos del 10 %, leve. Zonas más graves: cara y cuello, manos y pies, genitales, pliegues y orificios. 1.er grado: enrojecimiento y dolor. 2.º: ampollas de líquido transparente, dolor intenso. 3.er: costras, nervios destruidos, menos dolor pero más riesgo (shock, infección); no quitar la costra y prevenir el tétanos. Ampollas: cubrir con apósitos grasos, no romper nunca.
+Quemaduras solares: el viento reduce la sensación de calor y aumenta el riesgo. Filtro alto unos 30 min antes (cara, nariz, orejas, hombros), bálsamo labial, exposición moderada, evitar el mediodía, gorra, gafas y manga larga. Pueden tardar 24 h en manifestarse. Tratamiento: analgésico (ibuprofeno; nunca aspirina a los niños), cremas de cortisona o aloe vera, bañarse en el mar, compresas frías, no reventar ampollas, ropa holgada de algodón.
+Insolación: cara roja y caliente, dolor de cabeza en la frente, náuseas y vómitos, fatiga y calambres, sed intensa y sudor. Sombra, lugar fresco y ventilado, posición semisentado, compresas frías en frente y nuca, sorbos de agua fresca.
+Mareo: boca pastosa, somnolencia, náuseas, dolor de cabeza, sudor frío; vómitos repetidos pueden deshidratar. Se supera navegando con continuidad. Prevención con dimenhidrinato (Biodramina) una hora antes de embarcar, siguiendo el prospecto. Ya mareado: quieto, reclinado, mirando un punto fijo lejano o cerrando los ojos, en el centro del barco; comer algo seco (galletas, pan tostado), no en ayunas. El primer vómito suele marcar el inicio de la mejoría; si se repite, sales de rehidratación oral.
+Ojo: consejos anticuados. El manual propone para las quemaduras sumergirlas o aplicar alcohol, y para el inconsciente el lado derecho; también cita mercromina, morfina y pomadas antiguas. Las pautas actuales de primeros auxilios dicen otra cosa: agua fría 10–20 min para la quemadura (nunca alcohol) y posición lateral de seguridad, sin importar el lado. En el examen de la GVA, lo que se ha preguntado es «apósitos grasos y venda», «compresión directa» y «torniquete entre la herida y el corazón».
+Servicio Radiomédico y Guía sanitaria
+El Centro Radio-Médico Español (CRME) depende del Instituto Social de la Marina (ISM). Se contacta por una estación costera pidiendo «consulta médica», por teléfono al 913 103 475 (24 h, los 365 días) o, con Inmarsat o móvil, marcando ese número directamente. Fax 913 083 302; télex 43340.
+El ISM recomienda las consultas no urgentes o de control entre las 09:00 y las 15:00 (hora peninsular); fuera de ese horario solo hay un médico de guardia.
+La Guía sanitaria a bordo (Guía médica sanitaria), del ISM, es gratuita; se reparte en mercantes y pesqueros y se puede descargar. Sirve para las consultas a distancia, para usar bien el botiquín y como guía de prevención.
+
+Botiquín: el que corresponde a la zona de navegación.
+
+8.5
+Abandono, helicóptero y comunicaciones
+Abandonar el barco es el último recurso: solo con peligro inminente de hundimiento o un incendio declarado con gran riesgo de explosión. Se está más seguro encima del barco, aunque esté escorado, semihundido o con la quilla al aire.
+Antes: instruir a quien embarca sobre los medios de salvamento y dónde están; decidido el abandono, alerta de socorro por LSD canal 70 o voz por el 16 indicando la naturaleza («abandono»), activar el respondedor de radar y la radiobaliza; coger agua (lo primero para sobrevivir), comida energética y la pirotecnia.
+Saltar al agua por sotavento (por barlovento si hay incendio o combustible derramado a sotavento), con el chaleco puesto, de pie y los brazos cruzados sujetándolo. El chaleco hinchable no se dispara hasta estar en el agua. Traje de agua puesto y bien cerrado en muñecas, tobillos y cuello: aísla. Alejarse unos metros, siempre hacia la balsa.
+En el agua: los peligros son asfixia, hipotermia, sed, hambre y estrés por miedo. Posición fetal (HELP: rodillas a la barbilla, brazos cruzados al pecho, pies cruzados). En grupo, agruparse o formar un círculo cogidos de los brazos: conserva calor, ayuda a los más débiles y se ve mejor. Si se ve un buque, encender una bengala o bote de humo en el centro del círculo.
+Pirotecnia: solo cuando haya certeza de que alguien la puede ver, siempre por sotavento; leer antes las instrucciones.
+La balsa se lanza por sotavento, sujeta por su boza (al tirar de ella se infla). Se sube sin mojarse si se puede; si hay que saltar al agua, con los brazos cruzados sobre el chaleco y las piernas juntas.
+Evacuación en helicóptero: despejar la cubierta, navegar a rumbo constante con el viento entrando por la amura de babor (unos 30°), no tocar el cable ni el gancho hasta que toquen el agua o el barco (descarga electrostática) y nunca hacerlo firme al barco.
+Prioridad de las llamadas: MAYDAY (socorro, peligro grave e inminente) > PAN PAN (urgencia) > SÉCURITÉ (seguridad, avisos). Canal 16 VHF, LSD por el 70.
+MAYDAY MAYDAY MAYDAY
+AQUÍ  [nombre ×3]  [indicativo]  MMSI [nº]
+MAYDAY  [nombre]
+POSICIÓN  [lat/long o demora y distancia]
+NATURALEZA  [vía de agua / incendio / hombre al agua…]
+AYUDA REQUERIDA · [nº] PERSONAS A BORDO · otra info
+CAMBIO
+PARA FIJAR CONOCIMIENTOS
+Preguntas de examen del tema
+
+162 preguntas en el banco de este tema. Elige cuántas hacer; las que no has visto y las que fallaste se pueden repasar aparte.
+
+Tu progreso en este tema: 0/162 vistas · 0 dominadas.
+
+Preguntas:
+Todas (2061)
+Exámenes reales (956)
+Banco de la guía (1105)
+10 preguntas
+25 preguntas
+Todas (162)
+No vistas (162)
+Mis fallos (0)
+Repetidas en exámenes (5)
+PREGUNTA 1 DE 10 · NUEVA
+0 aciertos
+Examen real · Noviembre 2021
+
+¿Los incendios derivados del uso de aceites en cocinas se clasifican según Une con?:
+
+A
+Clase A.
+B
+Clase B.
+C
+Clase E.
+D
+Clase F.
+Terminar aquí
+← 7. Maniobra y navegación
+9. Meteorología →

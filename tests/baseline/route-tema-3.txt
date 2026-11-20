@@ -1,0 +1,439 @@
+1
+4 preg.
+2
+2 preg.
+3
+4 preg.
+4
+2 preg.
+5
+5 preg.
+6
+10 preg.
+7
+2 preg.
+8
+3 preg.
+9
+4 preg.
+10
+5 preg.
+11
+4 preg.
+TEMA 3 DE 11 · 4 PREGUNTAS EN EL EXAMEN
+Seguridad en la mar
+
+Cuatro preguntas que salen de pocos datos fijos: estabilidad, material obligatorio por zonas, mal tiempo y hombre al agua. Y es, con diferencia, el tema que más te servirá navegando.
+
+Estabilidad
+Antes de salir
+Material de seguridad por zonas (RD 339/2021)
+Chalecos, arneses, aros y balsas
+Balsa: estiba, lanzamiento y adrizado
+Pirotecnia, material náutico, extintores y achique
+Mal tiempo y tormentas
+Niebla, noche, tráfico y aguas someras
+Hombre al agua
+Remolque y auxilio
+Preguntas de examen (240)
+3.1
+Estabilidad
+
+Estabilidad: propiedad del barco de recuperar su posición de equilibrio cuando la pierde por causas externas (viento, mar). Dos fuerzas mantienen el barco derecho, y juntas forman el par de estabilidad: el peso, aplicado en el centro de gravedad G, que tira hacia abajo, y el empuje, aplicado en el centro de carena C (el centro del volumen sumergido), que empuja hacia arriba. Al escorar, C se desplaza hacia la banda que se hunde y las dos fuerzas forman un par adrizante. El punto donde la vertical del empuje corta la crujía es el metacentro M.
+
+INTERACTIVO · ESCORA Y ALTURA DE G
+Escora: 15° Altura de G (pesos altos ↑): media
+
+Estable: M por encima de G. Brazo adrizante GZ ≈ 0.35 (relativo)
+
+GZ es el brazo adrizante: GZ ≈ GM · sen(escora). Mientras M quede por encima de G, el barco vuelve a adrizarse.
+
+G
+C
+empuje
+peso
+M
+Escora 15°
+Empeoran la estabilidad: pesos altos (gente de pie en la cubierta superior, carga en el techo), superficies libres (tanques a medias, agua en la sentina o en cubierta, que se desplaza a la banda baja) y pesos desplazados a una banda.
+Barco duro: GM grande, muy estable; se adriza rápido y a menudo de forma brusca y violenta. Los veleros, y sobre todo los monocascos de regata con el peso en el bulbo de la quilla, son barcos duros. En un mercante es peligroso porque puede correrse la carga. Barco blando: GM pequeño, menos estable; cómodo porque recupera la escora despacio, pero con mar fuerte puede volcar y hundirse. El diseño busca un equilibrio entre ambos.
+Balance: vaivén de una banda a otra. Su periodo es el tiempo que tarda el barco en pasar de estar inclinado a una banda a estarlo los mismos grados a la otra. Cabezada (cabeceo): vaivén proa-popa por el oleaje. Si al cabecear el barco golpea con fuerza el agua con la parte delantera de la obra viva, ha dado un pantocazo.
+Sincronismo: cuando el periodo de las olas coincide (o casi) con el del barco, la amplitud crece hasta poder volcarlo. Con el balance es sincronismo transversal; con la cabezada, sincronismo longitudinal.
+La reserva de flotabilidad es el volumen estanco por encima de la flotación (depende del francobordo).
+Estática y dinámica
+TIPO	QUÉ ES	CÓMO SE VE SU PÉRDIDA
+Estática transversal	Recuperar el equilibrio, en aguas tranquilas, tras una fuerza lateral. Inicial (escora <10°) o de grandes inclinaciones (>10°).	Balance y escora. Adrizado = escora nula.
+Estática longitudinal	Recuperarlo en sentido proa-popa (solo se estudia la inicial, <10°)	Cabeceo y cambios del asiento. En aguas iguales = asiento cero.
+Dinámica	Estabilidad frente a fuerzas externas como olas grandes y viento fuerte (transversal)	—
+Cómo gobernar. Para cortar un balance excesivo, cambia el rumbo: la causa principal es la mar de través. Para cortar la cabezada, cambia la velocidad (más o menos), porque así cambias el periodo de cabeceo. En otros rumbos, rumbo, velocidad o las dos cosas.
+3.2
+Antes de salir
+TIEMPO
+
+Parte de AEMET o de Salvamento por VHF para toda la salida, con su tendencia. Si hay duda, no se sale.
+
+COMBUSTIBLE
+
+Regla de los tercios: ⅓ ida, ⅓ vuelta, ⅓ reserva. Filtro decantador sin agua.
+
+MOTOR
+
+Aceite, refrigeración (grifo de fondo abierto, sale agua por el escape), correas, baterías.
+
+GASOLINA INTRABORDA
+
+Ventilar la cámara del motor 4–5 min antes de arrancar: los vapores de gasolina pesan más que el aire y se acumulan abajo.
+
+MATERIAL
+
+Chalecos para todos, bengalas en vigor, extintores con el manómetro en verde, achique, luces, VHF.
+
+PLAN
+
+Dejar dicho en tierra a dónde vas, con quién y cuándo piensas volver.
+
+Con la náutica de recreo muy estacional y largos periodos sin usar el barco, conviene una lista de comprobación el primer día y buena parte de ella antes de cada salida. Muchas de las asistencias de Salvamento cada verano se evitarían así.
+
+QUÉ	QUÉ COMPROBAR
+Meteorología	Prioridad absoluta, mejor ya en casa: parte y previsión de la zona por la que vas a navegar.
+Sistema de gobierno	Poleas y guardines no se ven desde la bañera: revisarlos (se rompen alambres tras mucho uso con ola o en portantes). Es una avería muy frecuente. Saber dónde está la caña de emergencia, que se acopla directamente a la mecha, y que la tapa roscada de la mecha en cubierta esté engrasada para abrirla rápido.
+Aceite	Comprobar el nivel y rellenar si hace falta; el nivel máximo es la cantidad adecuada.
+Filtro decantador	Separa el agua del gasoil por gravedad (el agua, más densa, va al fondo) y retiene impurezas. El agua es el peor enemigo del motor. Su tubo de cristal muestra el nivel de agua; se purga por un grifo de fondo del vaso.
+Refrigeración	Líquido refrigerante en el circuito cerrado. Grifo de fondo de toma de agua de mar abierto: truco, al cerrarlo deja la llave de arranque colgada de su maneta. En náutica profesional se cierran todos los grifos de fondo al atracar con el motor parado.
+Correa del alternador	Tensión correcta: floja, resbala y no carga las baterías; muy apretada, gasta los rodamientos.
+Combustible	Cada día, suficiente para el plan. Quedarse sin combustible a la deriva es de las asistencias más frecuentes.
+Gases explosivos	Buena ventilación de sentinas y sala de máquinas (extractores). Bombonas de butano en compartimentos de la bañera aislados; revisar conductos y abrazaderas. Disolventes, pinturas y gasolina del auxiliar, en zonas ventiladas.
+Fugas de aceite o combustible	Revisar sentinas y cofres; secar y limpiar. En puerto está prohibido achicar agua de sentina con residuos.
+Electricidad	Carga de baterías con el voltímetro. Luces de navegación funcionando.
+VHF	Llamada de prueba al club náutico por el canal 9 a mínima potencia (1 W), avisando «emisión en pruebas», para confirmar que se recibe «fuerte y claro».
+Elementos de seguridad	En buen estado: pirotecnia sin caducar, revisiones de extintores, balsa y radiobaliza. Enseñar a la tripulación dónde están, sobre todo los chalecos.
+Estanqueidad	Cerrar portillos y escotillas antes de zarpar según la mar que vayas a encontrar.
+Agua dulce	Una media de 3 litros por persona y día previsto de navegación.
+
+El patrón es el responsable absoluto del barco y de las personas. La seguridad tiene dos objetivos: evitar el accidente (barco y equipo en buen estado, revisar el material, meteorología antes y al menos una vez al día navegando, buena vigilancia) y, si ocurre, reducir sus consecuencias.
+
+3.3
+Material de seguridad por zonas (RD 339/2021)
+
+El RD 339/2021 (en vigor desde el 1 de julio de 2021) regula el equipo de seguridad y de prevención de la contaminación según la zona de navegación. Se aplica a los barcos de recreo matriculados en España y también a los de cualquier bandera que naveguen por aguas españolas si sus propietarios o usuarios residen en España (para evitar abanderamientos de conveniencia). Con el PER puedes ir hasta 12 mn: zona 4 como máximo (zonas 2 y 3 con la habilitación a Baleares).
+
+CATEGORÍA DE DISEÑO (CE)	VIENTO MÁX.	OLA MÁX.	ZONAS	TÍTULO
+A · oceánica	más de fuerza 8	más de 4 m	1 (sin límite)	Capitán de yate
+B · alta mar	hasta fuerza 8	hasta 4 m	2 (60 mn) · 3 (25 mn)	Patrón de yate (150 mn)
+C · aguas costeras	hasta fuerza 6	hasta 2 m	4 (12 mn) · 5 (5 mn de un abrigo) · 6 (2 mn)	PER · PNB · licencia de navegación
+D · aguas protegidas	hasta fuerza 3	hasta 0,3 m	7 (puertos, rías, bahías)	—
+
+La categoría de diseño (Directiva 2013/53/UE) dice qué viento y ola aguanta el barco por cómo está construido; el RD la vincula a las zonas. Un barco sin marcado CE navega en la zona que le corresponda por su equipo, pero nunca con viento u ola por encima de su categoría. El propietario o patrón responde de que el barco pueda hacerse a la mar sin peligro, de no llevar más personas de las autorizadas y de que el equipo esté certificado (RD 701/2016 de equipos marinos: homologación SOLAS o CE; la norma ISO también sirve para homologar algunos equipos).
+
+INTERACTIVO · ELIGE LA ZONA
+Zona 1
+Zona 2
+Zona 3
+Zona 4
+Zona 5
+Zona 6
+Zona 7
+12 mn
+costa / abrigo
+Zona 4
+
+Hasta 12 mn de la costa
+
+Chaleco 150 N, uno por persona, con luz (se puede prescindir de ella si solo navegas de día)
+3 bengalas de mano
+3 cohetes con paracaídas
+Aro salvavidas con luz y rabiza
+
+Es el máximo con el PER (12 mn).
+
+ZONA	LÍMITE	BENGALAS DE MANO	COHETES PARACAÍDAS	FUMÍGENAS	CHALECO
+1	Navegación ilimitada	6	6	2	275 N
+2	Hasta 60 mn de la costa	6	6	1	150 N
+3	Hasta 25 mn de la costa	6	6	1	150 N
+4	Hasta 12 mn de la costa	3	3	—	150 N
+5	Hasta 5 mn de un abrigo	3	—	—	100 N
+6	Hasta 2 mn de un abrigo	3	—	—	100 N
+7	Aguas protegidas (puertos, rías, bahías)	—	—	—	100 N
+BENGALA DE MANO
+
+Luz roja ≈ 1 min. Se ve a unas 4 mn de día y 8 de noche. Se enciende por sotavento, con el brazo extendido y sin mirarla.
+
+COHETE CON PARACAÍDAS
+
+Sube ≈ 300 m y cae despacio ≈ 40 s. Visible a ≈ 16 mn de noche. Vertical, o a unos 45° si hay nubes bajas.
+
+SEÑAL FUMÍGENA
+
+Humo naranja ≈ 3 min. Solo de día. Se lanza al agua por sotavento.
+
+CHALECOS
+
+Uno por persona, con silbato y bandas reflectantes. Los automáticos se inflan al contacto con el agua: revisa la pastilla y la botella.
+
+ARO SALVAVIDAS
+
+Con luz y rabiza flotante. Se lanza a barlovento del náufrago para que el viento se lo acerque.
+
+RADIOBALIZA (RLS)
+
+Emite en 406 MHz por satélite (Cospas-Sarsat) la identidad y la posición. Las de zafa hidrostática se activan solas al hundirse.
+
+Ojo en el examen. Las pirotécnicas llevan fecha de caducidad: caducadas no cuentan como material válido. Los extintores deben tener eficacia mínima 34B según el RD 339/2021 (los manuales antiguos dicen 21B). Para fuego de combustibles se usan de polvo o CO₂.
+3.4
+Chalecos, arneses, aros y balsas
+Chalecos salvavidas
+ZONA	CHALECOS (100 % DE LAS PERSONAS)	EQUIVALE A
+1	275 N + un chaleco adicional	28,05 kgf
+2–3 (Baleares) · 4 (PER)	150 N	15,3 kgf
+5–6 (PNB)	100 N	10,2 kgf
+Cada chaleco lleva luz; en zonas 4 a 7, si solo se navega de día, se puede prescindir de ella. Homologados (SOLAS o CE, aprobados por la DGMM).
+Los menores, chaleco de su talla, mejor con cinchas por las piernas.
+Deben poner boca arriba a una persona inconsciente en 5–10 segundos y mantener la cabeza fuera del agua. La tripulación debe poder ponérselo sola en menos de 1 minuto (SOLAS). Estiba accesible y conocida por todos.
+Los hinchables se revisan según el fabricante, en estaciones de servicio autorizadas.
+1 newton ≈ 0,102 kilogramos-fuerza (kilopondio).
+Arnés de seguridad
+
+No es obligatorio, pero es tan importante como el chaleco: el chaleco te mantiene a flote; el arnés evita que caigas al agua o que quedes separado del barco. Cinchas con una hebilla a la que va un cabo con mosquetones (los hay dobles, corto y largo, o integrados en el chaleco o el traje de agua). Se engancha a puntos muy fuertes o a líneas de vida de proa a popa por ambas bandas. Riesgo: ahogarse arrastrado si caes; se evita usando el tramo corto y no estando solo en cubierta. Nunca salir de la bañera solo, o sin avisar al compañero de guardia. Se estiba junto a los chalecos y se pone de noche o con mal tiempo.
+
+Aros salvavidas
+Aro o herradura de polietileno naranja, con luz y rabiza flotante de polipropileno de al menos 30 m (flota, sirve de asidero y no se enreda en la hélice). Conviene una bobina para que salga sin enredos.
+Estibado a popa, con desestiba rápida. La luz es autoadrizable por el peso de las pilas: de noche es la principal guía para el rescate.
+Zonas 1 a 4: un aro con luz y rabiza; en zona 1, además, otro aro sin luz ni rabiza. Zonas 5–6: no obligatorio.
+Útiles: pértiga IOR extensible con bandera, y un respondedor de radar (SART) en el aro, que localiza náufragos y balsas.
+Balsa salvavidas
+
+Obligatoria en zonas 1, 2 y 3, para todas las personas autorizadas a bordo; sus datos figuran en el certificado de navegabilidad. Revisión según el fabricante (barcos sin fines lucrativos, lista 7.ª) o cada 24 meses como máximo (uso comercial, lista 6.ª); la primera, siempre en una estación autorizada.
+
+EQUIPO
+Luz de litio (≈12 h)
+Doble cámara de flotación y doble fondo aislante
+Bolsas estabilizadoras (evitan el vuelco)
+Ancla flotante
+Escalera y rampa de acceso
+Disparo: tú haces el 10 % y el gas el 90 %; puede dispararla un niño
+Temperatura de hinchado adecuada a la zona
+PRESTACIONES
+Rampa que aguanta 100 kg; escala con el peldaño inferior a ≥0,40 m bajo la flotación
+Una persona puede adrizarla volcada
+Remolcable a 3 nudos con carga completa
+30 días a la intemperie
+Toldo automático; dos entradas si es de más de 8 personas
+Recoge agua de lluvia; soporte para respondedor de radar a 1 m
+Si falla una cámara, el resto mantiene a flote a todos (75 kg por persona)
+Se hincha en ≤1 min a 18–20 °C
+Capacidad mínima: 4 personas (ISO) o 6 (SOLAS)
+3.5
+Balsa: estiba, lanzamiento y adrizado
+Accesorios: guirnaldas salvavidas (asideros) por dentro y por fuera; una boza de longitud al menos el doble de la distancia de la estiba a la flotación, para lanzarla sin que se dispare la apertura; lámpara exterior en el toldo (blanca, fija o de 50–70 destellos/min, ≥12 h, se enciende sola al montarse la balsa, pila activada por agua de mar o seca); lámpara interior (≥12 h, para leer las instrucciones).
+Envoltorio: contenedor rígido (más protección, se trinca en un soporte, con asas para botarlo) o saco plastificado anti-UV. El saco, en un sitio protegido y accesible donde nadie se siente ni lo pise; nunca se arrastra.
+Estiba del contenedor: en cubierta, en su varadero o sobre calzos, bien trincado pero fácil de lanzar, con una cincha o llanta y un tensor de gancho a un disparador fijo.
+Zafa hidrostática: libera sola el contenedor si el barco se hunde, al llegar a unos 4 m de profundidad (entre 1,5 y 4 m); la balsa sube a la superficie y se puede hinchar desde el barco. Caduca a los dos años.
+Cómo lanzarla
+Soltar las trincas y buscar una zona de cubierta con la vertical exterior despejada.
+Hacer firme a bordo la tira de disparo (que es también la tira de unión con el barco) y lanzar el contenedor al agua.
+Cobrar de la tira de disparo dando un tirón fuerte para abrir la válvula de inflado. Hinchada, acercarla al costado y embarcar.
+Cortar la tira de unión con el cuchillo antes de que el barco se hunda, recoger a quien esté en el agua y alejarse.
+
+Adrizado: si se abre invertida, una sola persona puede darle la vuelta. Se sube por sotavento con los pies sobre la botella de inflado (el punto más pesado), agarrada a las cinchas de adrizado, de cara al viento, y se deja caer hacia atrás; el resto ayuda desde barlovento.
+
+ZONA	BALSA (100 % DE LAS PERSONAS)	PAQUETE DE EMERGENCIA
+1	SOLAS o equivalente	SOLAS A: más de 60 mn, socorro en más de 24 h. Con comida (10.000 kJ por persona), agua (1,5 L por persona) y kit de pesca.
+2–3	SOLAS, equivalente o ISO 9650	SOLAS B: menos de 60 mn, socorro en menos de 24 h. Sin agua, comida ni kit de pesca.
+4–6	No obligatoria	—
+
+El kit incluye, entre otras cosas: manual, tabla de señales de salvamento, botiquín, pastillas y bolsas para el mareo, bote de humo, bengalas, cohetes, ayuda térmica, reflector de radar, linterna estanca, remos flotantes, espejo de señales, kit de reparación, achicador, cuchillo, esponja, silbato, inflador, ancla de capa y anilla de rescate con cabo.
+
+3.6
+Pirotecnia, material náutico, extintores y achique
+Señales pirotécnicas
+Solo en emergencia. Siempre hacia sotavento, con el brazo por fuera del barco y nunca hacia una persona. Caducadas no sirven. Estiba en lugar seco, accesible y lejos del calor. Homologadas según el RD 809/1999. Conviene haber simulado su uso.
+No dispararlas precipitadamente: primero asegúrate de que te pueden ver y decide entre cohete y bengala según distancia y condiciones.
+Cohete con paracaídas: de noche se ve a 8–16 mn, sube unos 300 m y dura unos 40 s. Bengala de mano: unas 8 mn de noche y 4 de día, dura 60 s. Fumígena flotante: solo de día; se lanza al agua, humo naranja al menos 3 minutos, sin llama, y sigue humeando tras 10 s sumergida a 10 cm.
+
+Luces: en zonas 4–7 y navegando solo de día, con eslora total <12 m se admiten luces no homologadas visibles a 1 mn; con eslora <7 m se puede llevar en su lugar una linterna de luz blanca.
+
+Material náutico por zonas
+MATERIAL	ZONAS	NOTAS
+Compás	1–4	Sin interferencias eléctricas; tablilla de desvíos en zonas 1–2, revisada cada 5 años
+Compás de marcaciones	1–2	
+Sextante, cronómetro, diario de navegación	1	
+Cartas y accesorios	1–4	Cartas y portulanos, regla, compás de puntas; derrotero, libro de faros y anuario de mareas (en aguas atlánticas)
+Manuales náuticos	1	Manual SMM, nomenclátor de costeras, Código internacional de señales, libro de radioseñales
+Tabla de señales de salvamento	1–7	
+Bocina de niebla	1–7	Manual o de gas (con recambio); ≥20 m de eslora, también campana de ≥200 mm
+Prismáticos	1–4	
+Barómetro · pabellón nacional · linterna estanca	1–2	
+Código de banderas	1–7	
+Reflector de radar	1–7	En cascos no metálicos
+Baldes contra incendios	2 en zonas 1–3 · 1 en 4–6	3 en zonas 1–2 si eslora >20 m
+
+Material de armamento (todas las zonas): caña de emergencia (veleros y barcos con intraborda), al menos dos estachas de amarre, bichero, remo con dispositivo de boga o un par de zaguales si mide menos de 8 m (no obligatorio pero muy recomendable), inflador y kit de pinchazos en neumáticas y semirrígidas. Botiquín tipo «balsas de salvamento» en zonas 1–4 (RD 258/1999), con su Guía sanitaria.
+
+Combustibles
+GRUPO	QUÉ ES
+1	Líquido con punto de inflamación <55 °C: gasolina (motores de chispa)
+2	Líquido con punto de inflamación ≥55 °C: gasoil (motores de compresión)
+3	GLP: propano, butano…
+Extintores
+Al alcance de la mano, lejos de posibles focos, y toda la tripulación sabe dónde están y cómo se usan. Los de polvo seco son polivalentes (todo menos metales). Con instalación eléctrica de más de 50 V, uno apto para fuego eléctrico (CO₂ o polvo). Con motores de GLP, uno apto para gases.
+Homologados por la DGMM o con la marca del timón (RD 809/1999). Al menos 2 kg de agente. Revisión anual por empresa autorizada (con tarjeta), retimbrado a los 5, 10 y 15 años y vida útil de 20 años.
+No obligatorio en fuerabordas de menos de 20 kW (27,2 CV) en zonas 6 y 7.
+Uso: quitar el seguro al llegar al fuego; extintor vertical; apuntar a la base de las llamas, de abajo arriba, sin acercarse a menos de unos 3 m. Dura alrededor de 1 minuto: dosificarlo.
+SEGÚN ESLORA
+Cabina cerrada y <10 m: 1 de 34B
+10–15 m: 1 de 34B
+15–20 m: 2 de 34B
+20–24 m: 3 de 34B
+SEGÚN POTENCIA
+≤25 kW (36 CV): 1 de 34B (no en fueraborda)
+25–220 kW: 1 de 34B
+>220 kW: capacidad total B = 0,3 × kW (250 kW → 75B → 3 de 34B)
+1 kW = 1,36 CV. 21B ≈ 2 kg de polvo; 34B ≈ 3 kg de polvo o 5 kg de CO₂; 55B ≈ 4 kg de polvo
+
+Barcos con marcado CE: lo que diga el manual del fabricante (que pueden pedirte). Sin marcado CE o con uso comercial: como mínimo las tablas. Sin CE y con motores de gasolina o GLP: sistema fijo de extinción en el compartimento del motor. Con instalación de gas en el interior: detector de gases con alarma luminosa y sonora. Compartimentos de gasolina sin CE: ventilación según norma; si el arranque es eléctrico, forzada, con una placa junto al arranque que recuerde ventilar 4 minutos. Los depósitos de gasolina no forman parte del casco y van protegidos del fuego.
+
+Achique
+ZONA	BOMBA DEL MOTOR U OTRA FUENTE	BOMBA MANUAL O ELÉCTRICA	BALDES
+1, 2, 3	1	1	2 (>5 L)
+4, 5, 6	—	1	1 (>5 L)
+7	—	1	— (≤6 m con cámaras: un achicador de 2 L)
+
+Veleros en zonas 1–6: al menos una bomba manual y fija, manejable desde la bañera con todo cerrado. Capacidad mínima (a ≥10 kPa): ≤6 m, 10 L/min; 6–12 m, 15 L/min; ≥12 m, 30 L/min; las manuales, con 45 emboladas por minuto. Sanciones (RD 339/2021): según eslora (hasta 7,5 m, 7,5–12 m, más de 12 m), desde 100 € por cada chaleco sin luz hasta 3.000 € por no llevar sistema fijo de extinción, detección de gases o ventilación.
+
+3.7
+Mal tiempo y tormentas
+CAPEAR
+mar y viento
+proa a la mar, 1–2 cuartas abierta, poca máquina
+CORRER EL TEMPORAL
+popa a la mar, velocidad similar a la ola
+Si el parte anuncia mal tiempo, la mejor decisión es no salir.
+Capear: aguantar el temporal amurado a la mar, por la proa ligeramente abierta (1–2 cuartas). A motor, con poca pero suficiente máquina para gobernar: los pantocazos son más suaves y se embarca menos agua. A vela, con la mayor de capa, amurado al viento y la ola, abatiendo sin avanzar; un velero solo capea si mar y viento le impiden avanzar con seguridad hacia donde quiere.
+Correr el temporal: cuando ya no se puede mantener la proa a la mar, navegar de aleta o popa, avanzando con el oleaje y el viento. Hay riesgo de que el barco se atraviese: evitar las guiñadas y, si hace falta, largar cabos por la popa para frenarlo.
+Nunca atravesarse a la mar: es la máxima exposición. Olas de temporal de 4 m o más rompiendo en el costado pueden volcar el barco. Para dar la vuelta y poner la popa al temporal, hacerlo lo más rápido posible y aprovechando una recalmada.
+Ancla de capa: saco de lona troncocónico con un aro de refuerzo (flotador arriba y lastre abajo para que quede vertical y sumergido), cuatro pernadas que acaban en una gaza para el cabo y una abertura en el vértice por donde sale el agua. Frena el barco con la proa o la popa a la mar y evita que se atraviese.
+Estiba y trinca a son de mar: estiba es colocar ordenadamente enseres y víveres. Con mal tiempo, buscando la máxima estabilidad transversal y longitudinal, todo bien trincado (atado) y sin dejar cosas «empachadas» (que haya que mover otras para sacarlas). «A son de mar» = estibar, trincar y arranchar (limpiar y ordenar) con criterio.
+Aberturas: cerrar herméticamente portillos, escotillas y lumbreras (las de la sala de máquinas, según el tiempo, porque ventilan gases). Manguerotes con la boca a sotavento o directamente tapados (censurados). Grifos de fondo cerrados salvo los que estén trabajando (refrigeración del motor): aseos, fregaderos y achiques, cerrados.
+Derrota: ruta para ir de un lugar a otro. Trazarla antes de zarpar, analizando peligros y distancia a la costa, dándoles resguardo y teniendo en cuenta corriente y viento.
+Costa a sotavento: evitarla. Si una avería te deja a la deriva hacia ella, orienta el barco para abatir menos (con bichero, remos, aletas…), fondea aunque el ancla no toque fondo para aproarte y frenar el abatimiento esperando que agarre, y pide auxilio por radio antes de que sea tarde.
+Con mal tiempo: chalecos (y arneses) puestos, escotillas y portillos cerrados, objetos trincados, imbornales libres, situación tomada y comunicar el plan.
+Tormenta eléctrica: si todos los equipos tienen toma de masa, la descarga va al mar sin daños. Aun así, desconectar la electrónica y no tocar partes metálicas. En barcos de fibra y sobre todo de madera conviene un pararrayos en el tope del palo, o unir un obenque a masa con un cable al agua. Al acabar, comprobar el desvío de la aguja.
+3.8
+Niebla, noche, tráfico y aguas someras
+
+La visibilidad reducida la causan niebla, lluvia, granizo o tormentas de arena. La noche no es visibilidad reducida, aunque es un agravante porque no se ven los perfiles de la costa. Con niebla la humedad es total, la procedencia de los sonidos se distorsiona y, sin radar, la tensión es máxima: es el enemigo número uno del marino.
+
+CON NIEBLA
+El mayor peligro es el abordaje, y el barco de recreo tiene las de perder.
+Luces de navegación, señales fónicas reglamentarias, radar si lo hay.
+Extremar la vigilancia y reducir la velocidad.
+Al verla venir, asegurar la situación y trazar una derrota lejos de la costa y los peligros.
+Suele pegarse a la costa y altera el color de las luces y la dirección de los sonidos.
+DE NOCHE
+Vigilancia de los 360° del horizonte cada ≈5 minutos: un mercante a 15 nudos visto a unas 5 mn puede estar encima en unos 15 minutos.
+Guardia con arnés; no salir de la bañera sin estar atado y sin otro tripulante presente.
+No dormirse; maniobra clara (cabos ordenados y sin cocas).
+Navegación precisa, sabiendo siempre dónde estás.
+Si un buque en rumbo de colisión no cambia su rumbo, llamarle por el canal 16.
+
+Reflector de radar: en lo más alto posible, da buen eco en los radares de otros barcos. Según el manual, obligatorio en barcos de casco no metálico en zonas 1 a 4, y muy aconsejable en todos. El clásico son tres láminas metálicas perpendiculares (ocho triedros); hoy los hay cilíndricos, igual de eficaces.
+
+Tráfico marítimo: se concentra en recaladas, entradas de puertos, canales, estrechos y cabos. Mantenerse lejos de las rutas, evitar los dispositivos de separación de tráfico usando la zona de navegación costera, vigilar los 360° y cumplir el RIPA sabiendo que tienes las de perder.
+
+Aguas someras
+
+Aguas poco profundas en las que puedes varar sin querer. Técnicamente, cuando la profundidad es menor que la mitad de la longitud de la ola. El barco «se sienta» (asentamiento), gobierna peor y aumenta su calado efectivo.
+
+Reducir la velocidad, más cuanto menos fondo.
+Estudiar la carta y localizar bajos y piedras que velan.
+Sonda encendida y un tripulante «cantando» las profundidades.
+Marcar en la carta un veril de seguridad que no se cruce, y demoras de seguridad.
+Tener lista la maniobra de fondeo.
+Un vigía en lo más alto (el palo en un velero) buscando bajos, rompientes o cambios de color del agua.
+3.9
+Hombre al agua
+INTERACTIVO · LAS DOS MANIOBRAS
+Ver Anderson
+Ver Boutakow
+náufrago
+
+Prevenir es la clave: en 20 segundos un náufrago es casi invisible desde la bañera, y de noche desaparece al instante. La cabeza puede no verse ni a 100 m.
+
+PREVENCIÓN
+Moverse lo mínimo fuera de la bañera y nunca solo.
+Dos líneas de vida, una por banda, de proa a popa.
+Arneses para al menos el 50 % de la tripulación; obligatorios con tiempo fresco, de noche y en maniobras en cubierta.
+Cubierta iluminada de noche al maniobrar; antideslizante y candeleros fuertes.
+«Una mano para el barco y otra para ti».
+Dar la voz «¡hombre al agua por estribor/babor!», lanzar el aro, poner a alguien de vigía señalándolo sin perderlo de vista y pulsar MOB en el GPS.
+Meter el timón a la banda por la que cayó: así la popa y la hélice se separan del náufrago.
+Anderson: mantener el timón a esa banda y describir un giro de unos 270° hasta tenerlo por la proa. Es la más rápida; se usa cuando se le ve.
+Boutakow (o Williamson): timón a la banda de caída hasta caer unos 60–70°, después todo a la banda contraria hasta llegar al rumbo opuesto. Se vuelve por la propia estela: sirve de noche o con mala visibilidad.
+Si le ves, para el barco enseguida (un barco de recreo maniobra bien) y acércate con poca arrancada, recibiendo el viento por la amura y quedando a barlovento del náufrago: el barco no se aleja y le protege con el casco. Luego te dejas caer hasta él. Valora si con mucha mar la aproximación por barlovento es peligrosa.
+Si no se puede maniobrar enseguida, anota posición y hora. Si no se le recupera casi sobre la marcha: alerta LSD en el canal 70 con el código 110 «Man over board» o llamada de urgencia PAN PAN.
+La tecla MOB del GNSS memoriza posición, fecha y hora; volviendo a pulsarla da rumbo y distancia a ese punto. El respondedor de radar lanzado en los primeros segundos es de los apoyos más fiables.
+Si no se le ve, a partir de la posición inicial: espiral cuadrada (cuadrados concéntricos desde el datum; precisa, para áreas pequeñas) o exploración por sectores (tramos iguales de ≈1 mn, giros de 120° a estribor; al acabar, se gira el primer sector 30° a estribor y se repite; cuando se sabe más o menos dónde está).
+Recogida: con mucha mar, largar cabos para que se agarre; escala en la banda o la de baño. Si está inconsciente, se tira otro tripulante bien equipado. En un velero, un aparejo de poleas en una driza es lo mejor para izarlo.
+Hipotermia y reanimación
+AGUA	SUPERVIVENCIA
+<2 °C	<45 min
+2–5 °C	≈1 h
+5–10 °C	<3 h
+10–15 °C	<7 h
+15–20 °C	<16 h
+>20 °C	indefinida
+Influyen la temperatura del agua, el viento, la corpulencia, la edad y la obesidad. Moverse en el agua hace perder calor.
+Hipotermia por debajo de 35 °C: cansancio, falta de coordinación, aturdimiento, habla torpe, desorientación. Bajo 31 °C, pérdida de conocimiento, pupilas dilatadas, pulso débil e irregular. Bajo 30 °C, difícil saber si está vivo.
+Con ≤34 °C y síntomas: comprobar pulso y pupilas, respiración artificial y, sin pulso, masaje cardíaco.
+Si respira: abrigarlo, ponerlo a resguardo y en posición lateral, calor (botellas de agua, toallas calientes) en cuello, ingles y axilas, bebidas calientes sin alcohol, y vigilarlo.
+Si no respira ni da signos de vida: avisar al Radiomédico (913 103 475), a Salvamento (900 202 202) o al 112, e iniciar RCP: 30 compresiones y 2 insuflaciones, a 100 compresiones por minuto, manos entrelazadas en el centro del pecho y brazos rectos. Si eres el único o dudas, solo masaje. Para el boca a boca: cabeza hacia atrás, tapar la nariz, sujetar la mandíbula. Hasta que llegue ayuda o haya signos de vida, unos 30–40 min (más si hay hipotermia).
+Ojo. El manual habla de calentar al náufrago «friccionándole». Las pautas actuales de primeros auxilios desaconsejan frotar las extremidades de una persona con hipotermia: mejor quitarle la ropa mojada y calentar el tronco poco a poco.
+3.10
+Remolque y auxilio
+
+Remolque: la línea de cabo que une remolcador y remolcado. Se pide por cualquier avería de gobierno o máquina que impida seguir el rumbo.
+
+Cabo: fibra sintética; las amarras van bien por su elasticidad, que absorbe los estrechonazos (tirones), el principal problema. También ayudan un ramal de cadena bajo el agua, un remolque muy largo o un ancla en el centro del remolque. Mena y puntos de fijación, con resistencia adecuada.
+Longitud: según la mar, para que los dos barcos estén a la vez en la cresta o en el seno de la ola.
+Aproximación: el que da la guía, sea remolcador o remolcado, se pone a barlovento para que el viento acerque el cabo. Si cuesta, se ata una boya al extremo y se describe un semicírculo a barlovento del remolcado largando cabo.
+Fijación: en puntos muy fuertes de proa del remolcado (cornamusas), guiado por los guía-cabos para que tire desde la crujía. El remolcador lo fija a popa, con un aparejo que salve las hélices si son exteriores, tirando por su eje longitudinal.
+Inicio y fin: templar a muy baja velocidad y subir revoluciones poco a poco; al parar, igual de progresivo, para que no quede seno flojo que se enrede en la hélice ni se aborde al remolcado.
+Gobierno: el remolcado intenta que el cabo llame lo más de popa posible, en línea con la crujía, metiendo timón a la banda contraria a la que cae el remolcador cuando éste cambia de rumbo, y sigue sus aguas. El remolcador decide la derrota, lejos de la costa, con cambios de rumbo suaves (±10°), velocidad constante y nunca más de 10 nudos. Si el remolcado tiene hélices, deben poder girar libres. Vigilar los roces. Con mar de proa fuerte puede haber que suspenderlo.
+Abarloado: solo con mar perfecta. Defensas en las dos bandas de contacto y aproximación por sotavento. Sin largos, los esprines son determinantes y los traveses impiden que se separen.
+Salvamento Marítimo (SASEMAR)
+
+Organismo público creado en 1992 por la Ley de Puertos del Estado y de la Marina Mercante. Se encarga de búsqueda, rescate y salvamento; control y ayuda al tráfico; lucha contra la contaminación; remolques; y servicios complementarios (meteorología, avisos a los navegantes). Alerta 24 h, 365 días.
+
+Cómo contactar. Voz por el canal 16 (socorro o urgencia), alerta LSD por el canal 70, móvil 900 202 202 o 112.
+PARA FIJAR CONOCIMIENTOS
+Preguntas de examen del tema
+
+240 preguntas en el banco de este tema. Elige cuántas hacer; las que no has visto y las que fallaste se pueden repasar aparte.
+
+Tu progreso en este tema: 0/240 vistas · 0 dominadas.
+
+Preguntas:
+Todas (2061)
+Exámenes reales (956)
+Banco de la guía (1105)
+10 preguntas
+25 preguntas
+Todas (240)
+No vistas (240)
+Mis fallos (0)
+Repetidas en exámenes (8)
+PREGUNTA 1 DE 10 · NUEVA
+0 aciertos
+
+La boza de la balsa salvavidas debe medir al menos…
+
+A
+La eslora del barco
+B
+El doble de la distancia de la estiba a la flotación
+C
+10 m
+D
+La mitad de la eslora
+Terminar aquí
+← 2. Elementos de amarre y fondeo
+4. Legislación →

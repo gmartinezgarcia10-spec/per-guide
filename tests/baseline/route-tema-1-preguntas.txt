@@ -1,0 +1,239 @@
+1
+4 preg.
+2
+2 preg.
+3
+4 preg.
+4
+2 preg.
+5
+5 preg.
+6
+10 preg.
+7
+2 preg.
+8
+3 preg.
+9
+4 preg.
+10
+5 preg.
+11
+4 preg.
+TEMA 1 DE 11 · 4 PREGUNTAS EN EL EXAMEN
+Nomenclatura náutica
+
+Es vocabulario: cuatro preguntas casi regaladas si dominas las palabras. Y es el idioma en que te hablará el instructor en las prácticas («larga el esprín de popa», «defensa a la aleta de babor»).
+
+Partes del barco
+Babor, estribor y direcciones a bordo
+Estructura del casco
+Dimensiones
+Cubierta, aberturas y accesorios
+Timón y hélice
+Tipos de casco y de embarcación
+Preguntas de examen (154)
+1.1
+Partes del barco
+
+Toca cada número para ver qué es. Después usa el modo «Encuentra la parte» hasta que las aciertes todas.
+
+INTERACTIVO · PERFIL DE UNA LANCHA
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+flotación
+Encuentra la parte
+Toca un número.
+Lo esencial. Obra viva = sumergida (carena). Obra muerta = fuera del agua. Las separa la línea de flotación. Roda a proa, codaste a popa, quilla abajo de una a otra.
+1.2
+Babor, estribor y direcciones a bordo
+
+Mirando hacia proa, babor es la izquierda y estribor la derecha. Truco para las luces: las palabras cortas van juntas (babor–rojo) y las largas también (estribor–verde). La línea (y plano) de crujía divide el barco de proa a popa en dos mitades simétricas: las bandas de babor y estribor. Ojo: si miras el barco desde proa, su babor queda a tu derecha.
+
+INTERACTIVO · MUEVE LA VISUAL
+PROA
+Amura Er
+Través Er
+Aleta Er
+POPA
+Aleta Br
+Través Br
+Amura Br
+crujía
+BR
+ER
+Ángulo desde la proa (marcación)
+
+Por la amura de estribor
+
+Marcación 45° Er (+) · 4.0 cuartas
+
+Las marcaciones se miden desde la proa, de 0° a 180°, hacia estribor (+) o hacia babor (−). Una cuarta son 11,25° (la rosa tiene 32 cuartas): «dos cuartas por la amura» son 22,5°.
+
+TÉRMINO	DÓNDE
+Costados	Cada una de las dos caras laterales exteriores del casco, de proa a popa. Cada costado tiene amura, través y aleta.
+Amura	Tramo del costado entre el través y la proa (como dirección, ≈45° de la proa)
+Través	Parte central del costado en sentido longitudinal. Como dirección, perpendicular a la crujía (90°): «tener un barco por el través».
+Aleta	Tramo del costado entre el través y la popa, donde los costados se juntan (como dirección, ≈135°)
+Barlovento / sotavento	Lado por donde viene el viento / lado contrario, hacia donde va
+Socaire	Zona resguardada a la que no llega el viento (detrás de un cabo, de un muro…). No es lo mismo que sotavento.
+Escorar · adrizar	Escorar: inclinarse hacia una banda (pesos mal repartidos, viento u ola). Adrizar: volver a la posición derecha.
+Balanceo	Movimiento de vaivén de una banda a otra (babor ↔ estribor)
+A proa / a popa de	Por delante / por detrás de algo (o del través)
+1.3
+Estructura del casco
+Bao (transversal, sostiene la cubierta)
+Cuaderna (costilla)
+Quilla
+Sentina (agua acumulada)
+Forro / casco
+crujía
+Sección transversal: el «esqueleto» del barco.
+
+Casco: el cuerpo del barco, sin contar arboladura (palos y jarcia), máquinas ni superestructuras. Puede ser monocasco o multicasco: catamarán (dos cascos) o trimarán (uno central y dos laterales que le dan estabilidad).
+
+PIEZA	QUÉ ES
+Quilla	Pieza longitudinal del fondo, de proa a popa
+Roda · codaste	Pieza robusta, recta o curva, que sube desde la quilla y cierra el casco a proa · pieza que cierra la popa; en barcos pequeños y veleros clásicos sujeta el timón
+Cuadernas	Piezas transversales y simétricas que salen de la quilla hacia cada banda y suben por los costados (costillas)
+Baos	Vigas transversales de banda a banda que sostienen la cubierta
+Mamparos	Separaciones verticales (transversales o longitudinales) del interior: las «paredes». Los estancos dan seguridad; el de proa es el de colisión.
+Sentina	Parte más baja del interior, donde se acumula el agua. Hay que achicarla (bombas de achique).
+Plan	Superficie horizontal interior más baja del casco: el «suelo» del barco
+Bombas de achique	Sacan el agua de la sentina. Además de las eléctricas conviene llevar una manual (aspira en la sentina, se acciona desde la bañera y descarga por el costado sobre la flotación).
+Grifos de fondo	Válvulas de mar bajo la flotación que dan o cortan el agua de refrigeración del motor, aseos, cocina… Abrir solo cuando haga falta y mantener limpios. Van roscados a los pasacascos, piezas que atraviesan el casco.
+Pantoque	Zona curva de unión entre el fondo y el costado
+Para el examen. La estructura la forman quilla + roda + codaste + cuadernas + baos. Los grifos de fondo y la bocina son puntos por donde puede entrar agua: revísalos.
+1.4
+Dimensiones
+ESLORA
+flotación
+MANGA
+PUNTAL
+CALADO
+FRANCOBORDO
+Eslora máxima: distancia entre la parte más saliente de proa y la de popa, medida paralela a la flotación de diseño. Incluye las partes estructurales y la unión casco-cubierta; excluye el púlpito (se mide desde donde la cubierta corta la roda) y las piezas desmontables sin romper nada. Es la que figura en la documentación oficial. Para amarrar en puerto, en cambio, cuenta la mayor longitud ocupacional (con todo lo que sobresalga). La eslora de flotación es la medida en el agua.
+Manga máxima: anchura máxima con las estructuras fijas, medida por fuera de los forros (el revestimiento del casco).
+Puntal: altura máxima medida a media eslora, desde la línea de cubierta hasta el canto superior de la quilla.
+Calado: distancia vertical del canto inferior de la quilla a la flotación (altura de la obra viva). Lo que necesitas saber para no varar. Hay calado a proa, a popa y en el medio; no confundir con el calado medio = (Cpr + Cpp) / 2.
+Francobordo: altura del costado desde la flotación, con máxima carga, hasta la cubierta estanca más alta, es decir, la altura de la obra muerta. Más francobordo, más reserva de flotabilidad.
+Desplazamiento máximo: peso del barco con la máxima carga segura de tripulantes, equipaje y carga. Se da en toneladas métricas.
+Desplazamiento: peso del agua que desaloja el barco = peso del barco (Arquímedes). Arqueo: volumen interior (GT), no es un peso.
+INTERACTIVO · ASIENTO
+Calado a proa: 1.10 m Calado a popa: 1.30 m
+
+Calado medio = (1.10 + 1.30) / 2 = 1.20 m
+Asiento = 1.30 − 1.10 = +0.20 m → apopado
+
+Ejemplo: Cpr 1,5 m y Cpp 1,9 m → calado medio (1,5 + 1,9)/2 = 1,7 m; asiento 1,9 − 1,5 = +0,4 m (apopado). Asiento = calado de popa − calado de proa. Positivo: apopado (normal en lanchas). Negativo: aproado. Cero: en aguas iguales. Conviene adaptar el asiento al estado de la mar. La inclinación lateral es otra cosa: escora.
+
+popa
+proa
+1.5
+Cubierta, aberturas y accesorios
+TÉRMINO	QUÉ ES
+Cubierta	Pieza horizontal que cierra el casco por arriba; se fabrica aparte y se une al casco
+Escotilla	Abertura en cubierta, normalmente rectangular, que comunica los distintos departamentos del barco
+Escotilla principal	La de acceso de la tripulación al interior, con escalera. Suele estar junto a la bañera.
+Lumbrera	Abertura en cubierta, cerrada con cristal, solo para dar luz y ventilación a las cámaras
+Portillos y tragaluces	Aberturas, normalmente redondas, en los costados para dar luz y ventilación
+Manguerotes	Tubos verticales de fibra o acero para ventilar. Si puede entrar agua de lluvia o de mar, se orienta la boca a sotavento.
+Bañera	Zona abierta desde donde se gobierna (caña o rueda) y se maneja la maniobra. Debe ser autoachicable.
+Imbornales	Orificios de desagüe de la bañera, y a la altura del trancanil para la cubierta. Siempre limpios. Se tapan al repostar para que no salga combustible al mar.
+Borda / regala	Canto superior del costado (la regala es la parte de arriba de la borda). Se usan como sinónimos.
+Pasamanos	Asideros de madera o inox sobre cubierta para sujetarse al moverse por ella
+Candeleros · guardamancebos	Postes · cable o cabo de seguridad que sostienen
+Púlpito · balcón de popa	Pasamanos metálico a proa · a popa
+Bitas · cornamusas	Piezas fuertes para amarrar cabos (tema 2)
+Gateras / guías	Piezas por donde pasan los cabos para que no rocen. En el fondeo, la gatera es el orificio de cubierta por el que la cadena baja a la caja de cadenas.
+Escobén	Conducto por donde sale la cadena del ancla
+Tambucho	Cierre corredizo de la entrada a la cabina
+Pañol	Compartimento para guardar material
+Recuerda. Portillos, escotillas y lumbreras deben cerrar herméticamente para que no entre agua de lluvia ni de los golpes de mar.
+1.6
+Timón y hélice
+casco
+caña (o rueda)
+mecha (eje) · pasa por la limera
+pala
+eje
+bocina
+dextrógira: horaria vista desde popa, en avante
+palas
+núcleo
+Caña: se mueve al contrario de donde quieres ir. Caña a babor → la proa cae a estribor. Rueda: se gira hacia donde quieres ir, como un coche.
+Hélice dextrógira: en marcha avante gira en sentido horario mirándola desde popa. Levógira: al revés. Su efecto lateral (la popa «camina») se estudia en el tema 7.
+Paso de la hélice: lo que avanzaría en una vuelta completa sin resbalar. El retroceso o resbalamiento es la diferencia con lo que avanza de verdad.
+Pala del timón: si gira sobre su borde de proa es timón ordinario (más sensible, pero más duro); si gira sobre un eje más o menos centrado es timón compensado (más suave y algo menos sensible). Con fueraborda o dentro-fueraborda no hay pala: gobierna la cola del motor.
+La mecha une la pala con la caña o rueda y pasa por la limera. Con rueda, los cables y poleas que llevan el movimiento a la pala son los guardines.
+Partes de la hélice: núcleo (se rosca al eje), palas y capacete (pieza cónica que cubre el núcleo, con pasador de seguridad para que la hélice no se suelte). Diámetro: el del círculo que describen las palas.
+Hélices gemelas de giro al exterior: con dos motores, la dextrógira va a estribor y la levógira a babor; sus efectos laterales se anulan.
+Hélice de paso variable (reversible): orienta las palas para ir avante, atrás o quedarse sin empuje, siempre girando en el mismo sentido; el motor no lleva inversora. Hélice abatible o plegable («pico de pato»): en veleros, se pliega al navegar a vela y se abre por fuerza centrífuga.
+Hélice de proa: empuja la proa a una banda en el atraque. Habitual por encima de 15 m de eslora y cada vez más en barcos de más de 9 m.
+Según su uso: hélice de velocidad (mucho paso y poco diámetro, típica de fuerabordas) o de arrastre (poco paso y mucho diámetro, barcos de gran desplazamiento).
+La bocina recubre el orificio por donde sale el eje: hay que revisarla periódicamente, porque un golpe en la hélice o una red enganchada pueden abrir una vía de agua rápida.
+Motores: intraborda (dentro del casco, con eje y bocina), fueraborda (colgado del espejo, gira entero para gobernar) y dentro-fueraborda o sterndrive (motor dentro, cola fuera que orienta el empuje). Los waterjet no llevan hélice exterior.
+A bordo. En una lancha con fueraborda o cola, no hay timón separado: giras la propia hélice. Sin motor en marcha casi no gobiernas, así que no lo pongas en punto muerto en mitad de una maniobra.
+1.7
+Tipos de casco y de embarcación
+CASCO DE DESPLAZAMIENTO
+
+Siempre «dentro» del agua, la empuja hacia los lados. Velocidad limitada por su eslora. Veleros y barcos de pesca. Más cómodo con mar.
+
+CASCO DE PLANEO
+
+A partir de cierta velocidad sube y «patina» sobre el agua. Lanchas rápidas. Fondo en V o plano, con redanes. Golpea con ola.
+
+SEMIRRÍGIDA (NEUMÁTICA)
+
+Casco rígido y flotadores inflables. Muy estable y muy segura por su reserva de flotabilidad.
+
+MULTICASCO
+
+Catamarán (dos cascos) o trimarán (uno central y dos laterales que aseguran la estabilidad). Estabilidad de forma, poca escora.
+
+PARA FIJAR CONOCIMIENTOS
+Preguntas de examen del tema
+
+154 preguntas en el banco de este tema. Elige cuántas hacer; las que no has visto y las que fallaste se pueden repasar aparte.
+
+Tu progreso en este tema: 0/154 vistas · 0 dominadas.
+
+Preguntas:
+Todas (2061)
+Exámenes reales (956)
+Banco de la guía (1105)
+10 preguntas
+25 preguntas
+Todas (154)
+No vistas (154)
+Mis fallos (0)
+Repetidas en exámenes (11)
+PREGUNTA 1 DE 10 · NUEVA
+0 aciertos
+Examen real · Julio 2023
+
+En un ancla, la parte que va desde el arganeo a la cruz, se denomina:
+
+A
+Arpeo
+B
+Caña
+C
+Uña
+D
+Mapa
+Terminar aquí
+2. Elementos de amarre y fondeo →

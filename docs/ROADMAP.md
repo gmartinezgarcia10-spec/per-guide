@@ -7,8 +7,8 @@ Exam: **Sat 12 Dec 2026** (GVA Valencia). Status is updated at the end of every 
 | Step | What | Status |
 |---|---|---|
 | F0 | Docs baseline: fix CLAUDE.md, EXAM-SPEC (checked against GVA), ROADMAP, record decisions | done (#1) |
-| F1 | Tooling skeleton (Vite, TS, Biome, Vitest, Playwright Test, CI) + minimal guard/post-edit hooks + branch protection | **in progress**, branch `f1-tooling` |
-| F2 | Baseline snapshot of the current app + port the 12 Python tests to real assertions | todo |
+| F1 | Tooling skeleton (Vite, TS, Biome, Vitest, Playwright Test, CI) + minimal guard/post-edit hooks + branch protection | done (#2) |
+| F2 | Baseline snapshot of the current app + port the 12 Python tests to real assertions | **in progress**, branch `f2-baseline-tests` |
 | F3 | Question bank → `content/questions/**` JSON, stable IDs, schema, validator | todo |
 | F4 | CSS + core (store, router, helpers, exam spec) → `src/` | todo |
 | F5 | Chapters 1–11 → `src/chapters/` (one commit per chapter) | todo |
@@ -17,7 +17,7 @@ Exam: **Sat 12 Dec 2026** (GVA Valencia). Status is updated at the end of every 
 | F8 | ARCHITECTURE, CONTENT-GUIDE, ADRs, slim CLAUDE.md, move old files to `legacy/` | todo |
 
 ## Phase 2: Learning core
-Spaced repetition on stable IDs · weak-spot queues · readiness score / pass probability · PNB fallback result in the simulator · explanations linked to theory sections.
+Spaced repetition already exists (1/3/7/14/30-day reviews + mistakes queue): move it onto stable IDs and upgrade the scheduler · weak-spot queues · readiness score / pass probability · PNB fallback result in the simulator · explanations linked to theory sections.
 
 ## Phase 3: Interactive training
 Chart-work trainer (course, current, compass correction) · lights, shapes and sound-signal drills (RIPA) · IALA A buoyage drills.

@@ -1,0 +1,244 @@
+1
+4 preg.
+2
+2 preg.
+3
+4 preg.
+4
+2 preg.
+5
+5 preg.
+6
+10 preg.
+7
+2 preg.
+8
+3 preg.
+9
+4 preg.
+10
+5 preg.
+11
+4 preg.
+TEMA 11 DE 11 · 4 PREGUNTAS EN EL EXAMEN · MÍNIMO 2/4
+Carta de navegación
+
+Cuatro preguntas sobre la carta 25-C del Estrecho y hace falta acertar dos. Son siempre del mismo tipo y se resuelven con un método fijo: aquí practicarlas rinde más que en ningún otro tema. El trazado de verdad hay que hacerlo a mano, con instrumentos.
+
+Instrumentos y método
+Carta de práctica interactiva
+Trazado paso a paso (ejemplos del manual)
+Situarse y mareas paso a paso (ejemplos del manual)
+Los ejercicios del examen
+Generador de ejercicios de cálculo
+Preguntas de examen (136)
+11.1
+Instrumentos y método
+COMPÁS DE PUNTAS
+
+Medir distancias: abres sobre los dos puntos y lo llevas a la escala de latitudes (lateral), a la misma altura. 1′ = 1 mn.
+
+TRANSPORTADOR
+
+Medir y trazar rumbos y demoras. Se alinea con un meridiano o un paralelo.
+
+REGLA PARALELA / CARTABÓN
+
+Trasladar una dirección desde la rosa o un meridiano hasta tu punto.
+
+LÁPIZ Y GOMA
+
+Blando (2B) y fino. Traza solo lo necesario y borra al terminar cada ejercicio.
+
+CALCULADORA
+
+No programable, para D = V·t y las horas.
+
+LO PRIMERO
+
+Corregir siempre la dm al año del examen con la rosa de la carta antes de pasar rumbos.
+
+11.2
+Carta de práctica interactiva
+INTERACTIVO · TRABAJA SOBRE LA CARTA
+Leer coordenadas
+Rumbo y distancia
+Situación por 2 demoras
+10
+24 · 31 A
+48 F
+63
+36°02′
+36°04′
+36°06′
+36°08′
+36°10′
+5°40′W
+5°36′W
+5°32′W
+5°28′W
+5°24′W
+5°20′W
+Faro Pta. Alta
+Fl(2) 10s 15M
+Faro C. Gaviota
+Oc 4s 12M
+Torre del Moro
+(visible)
+N
+dm 2°W (2026)
+Carta de práctica, no para navegar
+Toca cualquier punto de la carta para leer su latitud y longitud.
+
+Esta carta es inventada pero respeta la proyección Mercator: fíjate en que un minuto de latitud (lateral) mide más que uno de longitud (abajo). Por eso las distancias se miden siempre en la escala lateral.
+
+11.3
+Trazado paso a paso (ejemplos del manual)
+En la carta los meridianos son rectas verticales con su longitud en los bordes de arriba y abajo; los paralelos, rectas horizontales con la latitud en los bordes laterales. En el hemisferio norte la latitud crece hacia arriba; la longitud W crece de derecha a izquierda (la E, al revés).
+En las escalas, cada celda es 1′, dividida en cinco de 0,2′.
+Transportador rectangular: ángulos de 0° a 360° en el borde y líneas N-S y E-W dentro. Su centro se pone en el barco o en el faro, orientado al norte (alguna línea paralela o encima de un meridiano o paralelo).
+TAREA	CÓMO
+Coordenadas de un punto (opción A)	Borde superior o inferior del transportador tangente al punto, bien orientado; donde corta la escala lateral, la latitud. Con el borde lateral, la longitud en la escala de arriba o abajo.
+Coordenadas de un punto (opción B)	Con el compás, distancia del punto al paralelo (o meridiano) más próximo; se lleva a la escala y se lee.
+Situar unas coordenadas	Al revés: transportador en la latitud exacta de la escala lateral y se traza el paralelo; en la longitud exacta de la escala de abajo, el meridiano. El cruce es el punto.
+Medir una distancia	Compás sobre los dos puntos y a la escala de latitudes a esa altura. Si es larga, toma 10 millas en la escala y ve marcándolas sobre la línea, midiendo luego el resto.
+Medir un rumbo	Centro del transportador en el punto de salida, orientado al norte; el rumbo se lee donde la línea corta el borde.
+Trazar un rumbo	Centro en el punto, orientado; marca el valor en el borde y une. Traza en el sentido de avance del barco.
+ISLA DE TARIFA → TÁNGER
+
+dm 1° NW, Δ 5° W. Rv medido 215°. Ct = −1° − 5° = −6°. Ra = 215° − (−6°) = 221°.
+
+ALGECIRAS → CEUTA
+
+Salida HRB 10:00, 8,1 nudos, dm 3° NW, Δ 5° E. Rv 158°, Ct +2°, Ra 156°. Distancia 16,2 mn; t = 16,2 / 8,1 = 2 h; llegada 12:00.
+
+PASAR A 4 MILLAS DE PUNTA EUROPA
+
+Desde l 36° 09,6′ N, L 005° 12,4′ W, Ct −8°. Arco de 4 mn de radio con centro en el faro, tangente desde la situación: Rv 213° → Ra = 213° + 8° = 221°.
+
+FÓRMULA DEL TIEMPO
+
+t = D / V · D = V · t · V = D / t. Hora de llegada = hora de salida + t.
+
+11.4
+Situarse y mareas paso a paso (ejemplos del manual)
+Trazar una demora: igual que un rumbo, pero el centro del transportador va en la estrellita del faro, orientado al norte, y la marca queda en el lado contrario al que vas a trazar. Con la regla unes la marca con el faro y trazas desde el faro hacia el mar (el ángulo opuesto).
+Trazar una enfilación u oposición: el borde de la regla sobre las estrellitas de los dos faros.
+Trazar una distancia: con el compás, la distancia en la escala de latitudes a la altura del faro, y un arco con centro en el faro.
+ESTIMA DESDE TÁNGER
+
+HRB 12:00 en el espigón de Tánger, Ra 032°, 8 nudos, Ct −7°. Rv = 32° − 7° = 25°. En una hora, 8 millas sobre el Rv: a las 13:00, s/e l 35° 54,6′ N, L 005° 43,6′ W.
+
+DOS DEMORAS: TARIFA Y PTA. CARNERO
+
+Da Tarifa 296°, Da Pta. Carnero 020°, Ct −5°. Dv 291° y 015°. Se trazan desde cada faro hacia el mar: s/v l 35° 57,2′ N, L 005° 27,7′ W.
+
+CT POR UNA OPOSICIÓN
+
+Oposición Pta. de Gracia–Pta. Malabata; Dv medida en la carta (referencia Gracia) 350°. Da a Gracia N 05° W = 360° − 5° = 355°. Ct = 350° − 355° = −5°.
+
+CT CON LA DM DE LA CARTA
+
+Estrecho, Δ 4° NE, rosa: 2° 50′ W en 2005, 7′ E por año; año 2015. 10 × 7′ = 1° 10′ E; dm = −2° 50′ + 1° 10′ = −1° 40′ ≈ 1° 30′ W. Ct = −1° 30′ + 4° = +2° 30′.
+
+DEMORA + ENFILACIÓN SIN CONOCER LA CT
+
+En la enfilación Pta. Europa–Pta. Carnero: Dv de Europa en la carta 244°, Da 251° → Ct −7°. Da Pta. Carbonera 342° → Dv 335°. Corte: s/v l 36° 09′ N, L 005° 14,6′ W.
+
+DOS OPOSICIONES
+
+Pta. Carnero–Pta. Alcázar e Isla de Tarifa–Pta. Cires: basta trazar las dos rectas, sin cálculos. s/v l 35° 55,8′ N, L 005° 30,8′ W. Es un caso bastante excepcional.
+
+DOS DISTANCIAS
+
+4 mn al faro de Pta. Carnero y 2,2 mn al de Pta. Europa. Dos arcos; su corte: s/v l 36° 04,3′ N, L 005° 20,5′ W.
+
+DEMORA Y DISTANCIA AL MISMO FARO
+
+Al W verdadero de Cabo Espartel y a 5 mn: desde el faro se traza el 270° y se miden 5 millas sobre él: s/v l 35° 47,4′ N, L 006° 01,6′ W.
+
+DEMORA Y VERIL
+
+Dv 017° a Cabo Trafalgar y la sonda marca 50 m: el corte de la demora con el veril de 50 m es la situación estimada l 36° 05,8′ N, L 006° 04′ W.
+
+MARCACIONES SIMULTÁNEAS
+
+Ra 123°, Ct −12° → Rv 111°. Pta. de Gracia 30° Br → Dv 81°; Cabo Trafalgar 154° Br → Dv 317°. s/v l 36° 04,6′ N, L 005° 54,6′ W.
+
+MAREAS EN BARBATE
+
+22-12-2014, sonda carta 6,2 m, 1003 hPa, entre las 12:00 y las 23:00. Anuario: pleamar 14:09 GMT 2,31 m; bajamar 20:10 GMT 0,23 m. Corrección por presión +0,10 m. Sonda en pleamar 2,41 + 6,2 = 8,61 m; en bajamar 0,33 + 6,2 = 6,53 m.
+
+En el examen, las respuestas de situación difieren a veces en décimas de minuto: los resultados de arriba son los del manual sobre la carta del Estrecho, y tu trazado puede variar un poco.
+
+11.5
+Los ejercicios del examen
+Coordenadas de un faro o un punto: latitud en las escalas laterales, longitud en las de arriba y abajo.
+Rumbo y distancia entre dos puntos. El rumbo que mides es verdadero; si te piden el de aguja, réstale la Ct.
+Situación por dos demoras simultáneas: pasa las Da a Dv (suma la Ct) o las marcaciones a Dv (Dv = Rv + M), y traza desde cada faro la opuesta. El corte es tu posición.
+Demora y distancia a un mismo faro: traza la demora y mide la distancia sobre ella.
+Estima: desde una situación, navegar el Rv durante t a V. D = V·t sobre la línea del rumbo.
+Ct por enfilación: Ct = Dv (carta) − Da (aguja). Y Δ = Ct − dm.
+Corriente: rumbo y velocidad efectivos, o qué Rv hay que hacer para seguir un rumbo efectivo dado (el problema inverso).
+Mareas: sonda en el momento, o la hora a la que habrá agua suficiente.
+Pasar a X millas de un faro: círculo de radio X con centro en el faro y tangente desde tu posición.
+Truco de velocidad. Las cuatro respuestas suelen diferir en pocos grados o décimas de minuto. Traza con cuidado una sola vez, no redondees hasta el final y descarta primero las opciones absurdas (rumbos al revés, latitudes fuera de la carta).
+11.6
+Generador de ejercicios de cálculo
+INTERACTIVO · EJERCICIOS INFINITOS
+Ra → Rv (de aguja a verdadero)
+Rv → Ra (de verdadero a aguja)
+Ct y Δ por enfilación
+Marcación → Dv
+Da (aguja) → Dv
+Hora de llegada (D = V·t)
+Actualizar la dm a 2026
+Sonda en el momento (marea + presión)
+Abatimiento → Rs
+Corriente → rumbo efectivo
+Nuevo ejercicio
+
+Gobiernas Ra = 129°. dm = 5° W, Δ = +2°. ¿Rv?
+
+Comprobar
+Ver solución
+MAGNITUD	POSITIVO (+)	NEGATIVO (−)
+dm	Este (NE)	Oeste (NW)
+Δ	Este / «+»	Oeste / «−»
+M marcación	Estribor	Babor
+Abt	Viento por babor	Viento por estribor
+PARA FIJAR CONOCIMIENTOS
+Preguntas de examen del tema
+
+136 preguntas en el banco de este tema. Elige cuántas hacer; las que no has visto y las que fallaste se pueden repasar aparte.
+
+Tu progreso en este tema: 0/136 vistas · 0 dominadas.
+
+Preguntas:
+Todas (2061)
+Exámenes reales (956)
+Banco de la guía (1105)
+10 preguntas
+25 preguntas
+Todas (136)
+No vistas (136)
+Mis fallos (0)
+Repetidas en exámenes (2)
+PREGUNTA 1 DE 10 · NUEVA
+0 aciertos
+Examen real · Noviembre 2019
+necesitas la carta 25-C
+
+Si a la HRB 2130 nuestra situación es l 36º05,4´N L 005º55,2´W, si navegamos con un rumbo de aguja Ra= 151º a una velocidad de 10 nudos. ¿Cuál será nuestra situación de estima a HRB 2248?. Declinación magnética dm=3ºW, desvío Δ =2ºE:
+
+A
+s/e.- l = 35º 53,9’ N ; L = 005º 45,6’ W
+B
+s/e.- l = 35º 57,2’ N ; L = 005º 46,5’ W
+C
+s/e.- l = 35º 54,1’ N ; L = 005º 47,3’ W
+D
+s/e.- l = 35º 54,9’ N ; L = 005º 45,4’ W
+Terminar aquí
+← 10. Teoría de navegación
+Hacer un simulacro completo →

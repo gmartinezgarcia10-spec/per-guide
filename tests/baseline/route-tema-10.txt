@@ -1,0 +1,339 @@
+1
+4 preg.
+2
+2 preg.
+3
+4 preg.
+4
+2 preg.
+5
+5 preg.
+6
+10 preg.
+7
+2 preg.
+8
+3 preg.
+9
+4 preg.
+10
+5 preg.
+11
+4 preg.
+TEMA 10 DE 11 · 5 PREGUNTAS EN EL EXAMEN
+Teoría de navegación
+
+Cinco preguntas de teoría que luego aplicas en la carta: coordenadas, unidades, rumbos, corrección total, demoras, marcaciones, mareas y publicaciones. Si entiendes la rosa de abajo, la mitad del tema está hecho.
+
+La Tierra, coordenadas y unidades
+La carta náutica
+Milla, nudo, corredera, sonda y hora
+Magnetismo, aguja náutica y desvío
+Rumbos, declinación y desvío
+Demoras, marcaciones y líneas de posición
+Faros, luces y otras ayudas
+Abatimiento y corriente
+Mareas
+Abreviaturas y fórmulas
+Preguntas de examen (269)
+10.1
+La Tierra, coordenadas y unidades
+Polo N
+Polo S
+ecuador
+Greenwich
+l
+Latitud (l): arco de meridiano desde el
+ecuador al lugar. 0°–90° N o S.
+Longitud (L): arco de ecuador desde el
+meridiano de Greenwich. 0°–180° E o W.
+Δl, ΔL: diferencias de latitud y longitud.
+1 milla = 1′ de latitud = 1852 m.
+1 nudo = 1 mn/h. 1 cable = 0,1 mn.
+Se escribe la latitud primero: 36° 05,2′ N · 005° 21,8′ W. Los minutos se dividen en décimas (no en segundos) en la navegación.
+Meridianos: semicírculos de polo a polo (todos iguales). Paralelos: círculos paralelos al ecuador, cada vez más pequeños hacia los polos. Por eso 1′ de longitud vale cada vez menos millas al subir de latitud, y las distancias siempre se miden en la escala de latitudes.
+Eje: diámetro sobre el que gira la Tierra; sus extremos son los polos Norte (Pn) y Sur (Ps). Ecuador: circunferencia máxima perpendicular al eje; divide la Tierra en los hemisferios norte y sur.
+Paralelos: circunferencias menores paralelas al ecuador (infinitas). Meridianos: circunferencias máximas que pasan por los polos, perpendiculares al ecuador y a los paralelos. Los polos dividen cada meridiano en dos mitades: el meridiano superior (el «visible») y el inferior o antimeridiano.
+Meridiano del lugar: el que pasa por donde está el barco (si está en B, Pn-B-Ps). Meridiano cero o primer meridiano: el de Greenwich; divide la Tierra en las mitades oriental y occidental.
+Latitud (l): arco de meridiano del lugar desde el ecuador hasta el punto. De 0° (ecuador) a 90° (polos), N o S; nunca pasa de 90°. Todo un paralelo tiene la misma latitud.
+Longitud (L): arco de ecuador desde Greenwich hasta el meridiano del lugar. De 0° a 180°, E o W; Greenwich es 0° y su antimeridiano 180°. Todo un meridiano tiene la misma longitud. En el cruce de Greenwich con el ecuador, l = 0 y L = 0.
+La situación es el cruce del meridiano y el paralelo del lugar, en grados, minutos y décimas de minuto, siempre con su N/S y E/W. Ejemplo del manual: l = 36° 04,5′ N, L = 005° 55,0′ W.
+Loxodrómica: línea que corta todos los meridianos con el mismo ángulo (rumbo constante). En la carta Mercator es una recta. Ortodrómica: el camino más corto (círculo máximo).
+10.2
+La carta náutica
+Proyección Mercator: cilíndrica, conforme (conserva los ángulos), meridianos y paralelos son rectas perpendiculares, la loxodrómica es una recta. Deforma las superficies en latitudes altas (las latitudes «crecen»).
+Las edita en España el Instituto Hidrográfico de la Marina. Representan la costa, accidentes, faros, boyas, bajos, fondos, sondas y la cuadrícula de meridianos y paralelos.
+Escala: índice de reducción, en fracción con numerador 1: una carta 1/10.000 muestra la zona 10.000 veces más pequeña. Por escala: general (oceánica), arrumbamiento (rumbos directos, navegación media), navegación costera (costa a la vista), aproches o recalada (aproximación a puertos) y portulanos (puertos, radas, fondeaderos; la mayor escala). Las cifras de escala de cada tipo no hay que memorizarlas.
+Cartas de punto menor: grandes extensiones (escala pequeña). De punto mayor: escala grande (costeras y portulanos). Cartucho: recuadro dentro de una carta con una zona importante a mayor escala.
+Información: unos mil signos y abreviaturas. Accidentes de la costa y del terreno, puntos de referencia (iglesias, torres, antenas), luces con su fase, periodo y color, marcas para situarse o enfilar, boyas y balizas (las de peligro suelen ser espeques, palos clavados al fondo para que no se muevan con los temporales), sondas y veriles, naturaleza del fondo, peligros (bajos, rocas, naufragios), zonas prohibidas (militares, dispositivos de separación de tráfico) y la rosa de declinación magnética con su variación anual (en cartas generales puede haber varias).
+Faros y farolas: una lágrima rojiza; la posición exacta es el punto (estrellita) donde arranca la lágrima.
+Sondas: en metros, referidas a la bajamar escorada (cero hidrográfico), el nivel más bajo esperable. Veriles o isobáticas: líneas que unen puntos de igual sonda.
+Naturaleza del fondo: por decisión de la OMI, las abreviaturas de las cartas deben ir en inglés, y el examen pregunta las inglesas («M» = fango o lodo, «St» = piedra).
+FONDO	ESPAÑOL	INGLÉS
+Arena	A	S (sand)
+Piedra	P	St (stone)
+Fango, lodo	F	M (mud)
+Cascajo (trozos de concha y piedra)	Co	G (gravel)
+Alga	Alg	Wd (weed)
+Roca	R	Rk (rock)
+Arcilla	Arc	Cl (clay)
+LUZ	ESPAÑOL	INGLÉS
+Blanca · roja · verde	B · R · V	W · R · G
+Destellos	D	Fl
+Isofase	Iso	Iso
+Ocultaciones	Oc	Oc
+Centelleante (50–60 por minuto)	Ct	Q
+Centelleante rápido (100–120 por minuto)	Ct.R	VQ
+Grupo de…	Gp	Gp
+Los faros se ven con su característica: Fl(3) 10s 23m 15M = grupo de 3 destellos cada 10 s, a 23 m de altura, alcance 15 millas. Ejemplo del manual: Fl(4) WR 20s 16M = faro de sectores blanco y rojo, 4 destellos cada 20 s, alcance 16 millas.
+Derroteros: describen la costa con detalle (con fotos y dibujos) y dan información para recaladas y aproximaciones a puertos, rías y ensenadas; hay que leerlos durante la navegación. Guías náuticas: Código Internacional de Señales, manual de primeros auxilios, reglamento de comunicaciones… Libro de faros: todos los faros, balizas, marcas y señales de niebla y acústicas, con número, posición, característica, elevación sobre el nivel medio, alcance y descripción; imprescindible para navegar de noche. Anuario de mareas: alturas de marea por lugar y día.
+Publicaciones náuticas: Libro de Faros y Señales de Niebla, Derrotero (descripción de costas y puertos), Avisos a los Navegantes (correcciones semanales a cartas y libros), Anuario de Mareas, Radioavisos. El organismo responsable en España es el Instituto Hidrográfico de la Marina (Cádiz).
+10.3
+Milla, nudo, corredera, sonda y hora
+Milla náutica: 1 minuto de arco de meridiano (1′ de latitud) = 1.852 m. Sale de dividir la longitud de un meridiano completo (≈ 40.000.000 m) entre los 21.600 minutos de sus 360°.
+Las distancias se miden con el compás de puntas y se llevan a la escala de latitudes, a la misma altura, nunca a la de longitudes: los paralelos son circunferencias menores. El único paralelo que valdría es el ecuador, que es círculo máximo.
+Nudo: unidad de velocidad, una milla por hora.
+Corredera: mide la velocidad y la distancia recorrida. Coeficiente de corredera: K = Vv / Vc = Dv / Dc. Multiplicado por lo que marca la corredera da lo verdadero; K = 1, corredera bien ajustada. Se calcula navegando a rumbo fijo una distancia conocida marcada por enfilaciones. Ejemplo: Dv 4,5 mn, Dc 3 mn → K = 1,5.
+Sonda (ecosonda): un emisor de ultrasonidos en el casco mide el tiempo hasta el eco. Mide desde el transductor, no desde la flotación: a su lectura hay que sumar la distancia del transductor a la flotación para tener la profundidad total.
+Hora del reloj de bitácora (Hrb): la hora de a bordo. En navegaciones largas coincide con la hora legal (Hz) del huso: 1 huso = 15° de longitud = 1 hora (360°/24 h). En costera, la del PER, se usa la hora oficial (Ho), la de tu reloj.
+INTERACTIVO · COEFICIENTE DE CORREDERA
+Distancia verdadera (carta): 4.5 mn Distancia de corredera: 3.0 mn
+
+K = 4.5 / 3.0 = 1.50 → la corredera marca de menos.
+
+10.4
+Magnetismo, aguja náutica y desvío
+La Tierra se comporta como un gran imán (núcleo de hierro y níquel). Una aguja imantada libre apunta a los polos magnéticos, que no coinciden con los geográficos. Campo magnético: zona de influencia de un imán, con intensidad y dirección en cada punto.
+Declinación magnética (dm) o variación (local): ángulo entre el meridiano geográfico (Nv) y el magnético (Nm). Nm a la derecha de Nv: NE, +; a la izquierda: NW, −. Cambia con el lugar y con los años: la carta da su valor, el año y la variación anual (E o W).
+Actualizarla: variación anual × años transcurridos, con su signo, sumada a la dm de la carta. Se redondea a medio grado o grado entero (00′ o 30′). Ejemplo del manual: dm 4° 25′ NW en 2005, variación 7′ E al año; en 2014: 9 × 7′ = 1° 03′ E → −4° 25′ + 1° 03′ = −3° 22′ ≈ 3° 30′ NW.
+INTERACTIVO · ACTUALIZAR LA DM
+dm de la carta: 4° 25′ NW Variación anual: 7′ E
+Año de la carta: 2005 Año en curso: 2014
+1. Años: 2014 − 2005 = 9
+2. Cambio: 9 × 7′ E = +63′
+3. dm 2014: −265′ + 63′ = −202′ = 3° 22′ NW
+4. Redondeo a medio grado: 3° 30′ NW
+La aguja náutica (compás)
+Da el rumbo en todo momento; funciona porque los imanes se orientan paralelos a las líneas de fuerza del campo magnético terrestre.
+Rosa: disco muy ligero con los 360° grabados y las agujas imantadas debajo. Chapitel: hendidura central, apoyada en el estilo, un eje vertical muy afilado que reduce el rozamiento y deja girar la rosa. Mortero: caja circular metálica con tapa de cristal, con las líneas de fe alineadas con la línea proa-popa. Va lleno de agua destilada con alcohol (o glicerol), que no se congela y amortigua, y descansa sobre una suspensión cardan. Bitácora: soporte de fibra, madera o metal no magnético, fijado normalmente en crujía.
+Propiedades: sensibilidad a cualquier cambio de rumbo (precisión) y estabilidad frente a vibraciones, balances, escora y cabeceo.
+Instalación: en el eje longitudinal si se puede (en barcos pequeños, donde se vea bien desde el gobierno) y lo más lejos posible del material magnético.
+Perturbaciones: navajas, ceniceros de hierro, pulseras y hebillas, motores eléctricos, altavoces, radio, radar, sondas…
+Desvío (Δ)
+Los objetos de a bordo, e incluso el casco si es metálico, se imantan temporalmente por inducción del campo terrestre y desvían la aguja. Desvío: ángulo entre el meridiano magnético (Nm) y el de aguja (Na). Na a la derecha de Nm: NE, +; a la izquierda: NW, −.
+Cambia con el rumbo (cada rumbo tiene el suyo). Tablilla de desvíos: hecha por un profesional, normalmente de 15° en 15°; hay que tenerla a mano y prorratear los rumbos intermedios.
+10.5
+Rumbos, declinación y desvío
+
+Hay tres «nortes»: el verdadero (el del meridiano, el de la carta), el magnético (adonde apunta una aguja sin perturbar) y el de aguja (adonde apunta la aguja de tu barco, perturbada por sus hierros y electricidad).
+
+INTERACTIVO · LA ROSA DE LA CORRECCIÓN TOTAL
+000
+030
+060
+090
+120
+150
+180
+210
+240
+270
+300
+330
+▲ Nv verdadero
+▲ Nm magnético
+▲ Na de aguja
+- - rumbo
+Declinación magnética dm: 3° W (NW) Desvío Δ (de la tablilla): +4° Rumbo de aguja Ra: 060°
+Ct = dm + Δ = −3° +4° = +1°
+Rm = Ra + Δ = 060° +4° = 064°
+Rv = Ra + Ct = 060° +1° = 061°
+ÁNGULO	ENTRE	SIGNO
+dm declinación magnética	Nv y Nm. Viene en la rosa de la carta con un año y su variación anual	NE (+) · NW (−)
+Δ desvío	Nm y Na. Depende del rumbo del barco: se lee en la tablilla con el Ra	E (+) · W (−)
+Ct corrección total	Nv y Na. Ct = dm + Δ	suma algebraica
+Fórmulas. Rv = Ra + Ct · Ra = Rv − Ct · Rm = Ra + Δ · Rv = Rm + dm. De aguja a verdadero se suma la Ct; de verdadero a aguja se resta.
+Rumbo: ángulo entre la línea popa-proa y el meridiano del lugar (el norte). Según el norte: verdadero (Rv), magnético (Rm) o de aguja (Ra). En la carta se trazan Rv; el timonel sigue Ra. La línea popa-proa no cambia: cambia el norte de referencia.
+Si el resultado sale negativo, súmale 360°; si pasa de 360°, réstaselos. Ej.: Ra 003°, Ct −8° → −5° + 360° = 355°. Ra 357°, Ct +8° → 365° − 360° = 005°.
+Ejemplos del manual: Ra 228°, dm 3° NW, Δ 1° NE → Ct −2° → Rv 226°. Rv 342°, dm 5° NW, Δ 2° NW → Ct −7° → Ra = 342° − (−7°) = 349°.
+Notación circular: de 000° a 360° en sentido horario. Cuadrantal: nunca pasa de 90°. Se escribe primero el punto cardinal desde el que se cuenta (N o S), luego los grados y por último hacia dónde va la proa (E o W). Ej.: 65° = N 65° E.
+Para operar, los rumbos cuadrantales llevan signo: + en el 1.er (NE) y 3.er (SW) cuadrante, − en el 2.º (SE) y 4.º (NW).
+CUADRANTE	A CIRCULAR	EJEMPLO
+1.º · N…E (0°–90°)	el mismo valor	N 35° E = 035°
+2.º · S…E (90°–180°)	180° − valor	S 50° E = 130°
+3.º · S…W (180°–270°)	180° + valor	S 25° W = 205°
+4.º · N…W (270°–360°)	360° − valor	N 50° W = 310°
+Rosa de los vientos (rosa náutica): el horizonte dividido en grados. Nació para nombrar de dónde viene el viento, pero sirve igual para los rumbos. Cardinales: N 0°/360°, E 90°, S 180°, W 270°. Partiendo los cuadrantes por la mitad salen los octantes de 45°: NE 45°, SE 135°, SW 225°, NW 315°.
+Partiendo otra vez (ángulos de 22° 30′) salen NNE 22,5°, ENE 67,5°, ESE 112,5°, SSE 157,5°, SSW 202,5°, WSW 247,5°, WNW 292,5° y NNW 337,5°. Y partiendo una última vez, las cuartas: la rosa en 32 partes de 11° 15′ cada una.
+Para actualizar la dm: dm del año = dm de la carta + (años transcurridos × variación anual), con su signo.
+INTERACTIVO · CIRCULAR ↔ CUADRANTAL
+210° = S 30° W
+10.6
+Demoras, marcaciones y líneas de posición
+INTERACTIVO · DEMORA = RUMBO + MARCACIÓN
+Nv
+faro
+demora (desde el N)
+marcación (desde la proa)
+Rumbo verdadero Rv: 040° Marcación M (− babor · + estribor): 70° Er
+Dv = Rv + M = 040° +70° = 110°
+En la carta trazas desde el faro la opuesta: 290°
+Demora: ángulo desde el norte hasta la visual a un objeto (Dv verdadera, Da de aguja). Dv = Da + Ct.
+Marcación: ángulo desde la proa hasta la visual, de 0° a 180° por estribor (+) o por babor (−). Dv = Rv + M.
+Demora opuesta (la que trazas en la carta desde el faro): Dv ± 180°.
+Como con los rumbos, hay tres demoras según el norte: verdadera (Dv), magnética (Dm) y de aguja (Da). La visual al objeto es siempre la misma; solo cambia el norte desde el que se mide. En la práctica solo se usan Dv y Da.
+La Da se toma con el compás de alidada, una aguja magnética portátil (con lupa y luz fotoluminiscente para la noche). Como es una aguja, le afectan la dm y el desvío: hay que pasarla a Dv con la Ct antes de trazarla, porque todo lo que hay en la carta es «verdadero». Ejemplo del manual: Da 235°, dm 5° NW, Δ +4° → Ct −1° → Dv 234°.
+Las demoras siempre van de 0° a 360°: si el cálculo da negativo, súmale 360°; si pasa de 360°, réstaselos.
+Una demora te dice que estás en algún punto de esa recta; necesitas una segunda que la corte (o incluso tres simultáneas).
+Cuándo fiarte de una situación por demoras. Buena visibilidad y mar razonable · tablilla de desvíos bien hecha · con dos demoras, que se corten con una abertura de entre 60° y 120° (fuera de ese margen se agrandan los errores) · tomar primero la del faro cuya demora cambie más despacio (el más lejano o el más cercano a la proa o la popa) y enseguida la otra.
+Enfilación: recta que une dos marcas; estás en ella cuando las ves una detrás de otra (como las torres roja y verde de un puerto que se tapan). Más fiable cuanto más lejos estés de las marcas y más separadas estén entre sí. Su gran ventaja: el error de observación es prácticamente nulo.
+Oposición: también una recta entre dos marcas, pero el barco está entre ellas. Mucho menos precisa. Como desde el barco las dos marcas tienen demoras que difieren 180°, hay que decir cuál se toma de referencia.
+Una enfilación u oposición se puede trazar antes de llegar a ella, uniendo las marcas con la regla, y medir su Dv con el transportador. Si al pasar por ella tomas la Da con la alidada, tienes las dos y sale la corrección total: Ct = Dv − Da.
+Distancias (normalmente con radar): cada distancia es un arco de circunferencia con centro en el punto de la costa. Dos arcos se cortan en dos puntos: si ambos caen en el mar, elige el más cercano a tu situación de estima.
+Veril o línea isobática: une puntos de igual profundidad (en la carta, líneas azules o negras con la cifra intercalada). Una demora o enfilación cortada con el veril de la sonda que lees da una situación estimada de cierto rigor, pero no muy fiable.
+Líneas de seguridad: la más fiable es la enfilación, pero hay pocas en la costa. Las demoras tienen errores de medición que el desvío puede aumentar. Las sondas pueden no coincidir con la carta por movimientos del fondo o cartas sin actualizar. Lo ideal: dos o tres demoras simultáneas.
+Marcación: ángulo desde la línea de crujía (proa) hasta el objeto. Circular: de 0° a 360° en sentido horario, siempre positiva. Semicircular: de 0° a 180° por cada banda, + por estribor y − por babor. D = R + M · Dv = Rv + M.
+Ejemplo del manual: Ra 123°, dm 4° NW, Δ 8° NW → Ct −12° → Rv 111°. Pta. de Gracia 30° por babor → Dv = 111° − 30° = 81°. Cabo Trafalgar 154° por babor → 111° − 154° = −43° + 360° = 317°.
+Enfilación
+dos objetos en línea
+Oposición
+estás entre los dos
+Dos demoras
+el corte es tu situación
+
+Líneas de posición: demora, enfilación (la más precisa y sin instrumentos), oposición, distancia a un punto (círculo, medida con radar o por ángulo vertical) e isobática (sonda). Con dos líneas que se cortan tienes tu situación; con tres, un pequeño triángulo que te dice cuánto te fías.
+
+Navegación por estima: desde una situación conocida, con el rumbo y la distancia navegada (D = V·t) calculas la nueva. Desde el punto de salida trazas el Rv y, pasado un tiempo, la distancia recorrida sobre él; si cambias de rumbo, repites desde ahí. Se hace a intervalos de una hora, estimando un rumbo y una velocidad medios, y para eso cuentan mucho la atención del timonel y del navegante. En la carta, la situación de estima se marca con un triángulo con un punto en el centro. La corredera mide la velocidad y la distancia en el agua; la sonda (ecosonda), la profundidad; el GPS, la situación; el radar, distancias y demoras a costa y barcos; el AIS, identifica barcos cercanos.
+
+10.7
+Faros, luces y otras ayudas
+Hay señales diurnas, nocturnas y de niebla; y, por su naturaleza, visuales, sonoras, electromagnéticas o electrónicas. Las luminosas son faros, farolas (en el extremo de los muelles), buques faro (frecuentes en latitudes del norte), marcas de la costa, balizas y boyas.
+Toda luz se describe por tres cosas: período, el tiempo tras el que una luz no fija repite sus aspectos en el mismo orden; fase, los aspectos que toma durante ese período (un destello, un grupo de tres…); y color: blanco, verde, rojo y amarillo los más usados. Ejemplo del manual: el faro del Cabo de La Nao da un destello blanco cada 5 s: período 5 s, fase un destello, color blanco.
+RITMO	CÓMO ES
+Fija (F)	continua y uniforme
+Destellos (D · Fl)	la luz dura menos que la oscuridad; destellos normalmente iguales
+Ocultaciones (Oc)	la luz dura más que la oscuridad; ocultaciones normalmente iguales
+Isofase (Iso)	luz y oscuridad exactamente iguales
+Centelleante (Ct · Q)	50 a 60 destellos por minuto
+Centelleante rápido (Ct.R · VQ)	100 a 120 destellos por minuto
+Faro de sectores: da colores distintos en distintos arcos del horizonte para señalar bajos o peligros. Ejemplo: el faro de la isla de Botafoch (entrada de Ibiza) se ve blanco en aguas profundas y rojo si te acercas demasiado a la zona de islotes sin señalizar.
+Alcance geográfico: la mayor distancia a la que se puede ver una luz por la curvatura de la Tierra y las alturas del foco y del observador. Alcance luminoso: la distancia máxima a la que la luz se hace visible por su potencia, la visibilidad meteorológica, la duración de los destellos… Ves la luz hasta el menor de los dos.
+Identificar un faro: prepara antes una lista de los faros, balizas y marcas de tu derrota. Al avistarlo, mide primero el período (cuánto tarda en repetirse) y cuenta la fase a grandes rasgos; luego afina. No te dejes llevar por lo que «debería» ser según la estima: así se cometen errores peligrosos. Antes del GPS, las luces eran imprescindibles para situarse de noche; conviene recordarlo por si falla.
+Boyas y balizas: úsalas con precaución, porque el temporal puede desplazarlas o hacerlas desaparecer, salvo los espeques, clavados al fondo. Balizas fijas: pilares o estacas de mampostería o metal en aguas poco profundas, para señalar canales o bajos. Boyas: balizas flotantes, más bajas y de corto alcance; su luz suele ser de destellos.
+Todas están en el Libro de Faros y Señales de Niebla del Instituto Hidrográfico de la Marina. Los ritmos de las marcas de balizamiento están en el tema 5.
+10.8
+Abatimiento y corriente
+Viento: aire en movimiento. Su dirección se da siempre de dónde viene, no hacia dónde va: un viento NE nos «entra» del 045°.
+Rumbo de superficie (Rs): el viento hace que el barco se deslice de lado hacia sotavento sin cambiar la dirección de la proa. El rumbo que traza de verdad sobre el agua ya no es el Rv: es el Rs.
+Abatimiento (Abt, en el manual «ab»): ángulo entre la proa (Rv) y el rumbo de superficie (Rs) por efecto del viento. Viento por babor → te desplaza a estribor → Abt +. Viento por estribor → Abt −. Rs = Rv + Abt.
+Con viento por la proa (0°) o por la popa (180°) no hay abatimiento: el viento solo frena o empuja.
+Con el mismo viento, cada barco abate distinto según su obra viva y su obra muerta. Las lanchas de motor de fondo plano, sin apéndices y con mucho francobordo abaten mucho con viento de través o por la amura, y cuesta atracarlas y desatracarlas (de ahí las hélices de proa). Los veleros, con quilla y pala de timón y menos obra muerta, lo aguantan mucho mejor.
+Contrarrestar el abatimiento: cae hacia barlovento (la banda contraria a la que abates) los mismos grados que abates. El rumbo a seguir: Rv = Rs − Abt. Ejemplo del manual: quieres un Rs de 225° con viento del NW (315°) que te abate 5°. El viento entra por estribor → Abt −5° → Rv = 225° − (−5°) = 230°.
+Corriente: movimiento del agua en una dirección. Se da por su rumbo (Rc, hacia dónde va, al revés que el viento) y su intensidad horaria (Ihc o Ic, en nudos). Afecta sobre todo a la velocidad y a la derrota.
+Causas: temperatura y densidad del agua (oceánicas), viento constante (de impulsión o superficie), diferencia de nivel (de descarga, como la general del Estrecho) y las mareas (las más frecuentes y complicadas). En el Estrecho, el Mediterráneo evapora más de lo que recibe y el agua atlántica entra hacia el E, con intensidad variable que en verano llega a 4 nudos.
+Deriva (D): ángulo entre el Rv y el rumbo efectivo (Ref), la derrota real sobre el fondo. A diferencia del abatimiento, que depende de cada barco, la deriva afecta igual a todos.
+Triángulo de vectores: Rv con Vm (velocidad de máquinas o del barco, Vb: la que marca la corredera sobre el agua) + Rc con Ihc = Ref con Vef (rumbo y velocidad efectivos o sobre el fondo, la única referencia inmóvil).
+Casos especiales: si Rv y Rc son iguales, Ref = Rv y Vef = Vm + Ihc. Si son opuestos (con Vm > Ihc), Ref = Rv y Vef = Vm − Ihc. Si Vm = Ihc, el barco no avanza nada sobre el fondo; si Ihc > Vm, retrocede.
+INTERACTIVO · TRIÁNGULO DE VELOCIDADES
+N ↑
+rumbo y velocidad propios
+corriente
+efectivo
+Rv: 045°Velocidad: 8 nudos Rc (hacia dónde va): 160°Ihc: 2.0 nudos
+Rumbo efectivo Ref = 059°
+Velocidad efectiva Vef = 7.4 nudos
+En la carta: tu vector de 8 mn al 045° y, desde su extremo, 2.0 mn al 160°.
+10.9
+Mareas
+INTERACTIVO · ¿CUÁNTA AGUA TENGO AHORA?
+Hora tras la bajamar: 3 h 00 min
+cero hidrográfico
+PM 2,6 m
+BM 0,4 m
+BM
+0 h → 12 h 24 min
+
+Sonda en la carta: 2.0 m · calado de tu barco: 1.6 m
+
+Altura de marea ahora: 1.44 m
+
+Sonda en el momento: 2.0 + 1.44 = 3.44 m
+
+Agua bajo la quilla: 1.84 m · pasas con margen
+
+Pleamar: nivel máximo. Bajamar: nivel mínimo. Amplitud (carrera): diferencia entre ambas. Repunte o estoa: momento de cambio, sin corriente de marea. Flujo: la marea sube; reflujo: baja.
+Mareas vivas (con luna nueva y llena): mayor amplitud. Muertas (cuartos): menor. En el Mediterráneo apenas hay marea; en el Estrecho y el Atlántico, mucha.
+Sonda en el momento = sonda en la carta + altura de la marea. La presión también cuenta: unos 1 cm por cada hPa de diferencia con 1013. Presión baja, más agua.
+Las mareas son el movimiento oscilatorio, diario y periódico del nivel del mar por la atracción de la Luna y el Sol. Nivel medio: el promedio entre pleamar y bajamar. Marea creciente (entrante, flujo): de bajamar a pleamar; vaciante (saliente, reflujo): de pleamar a bajamar. Entre pleamar y bajamar pasan unas 6 h 15 min (duración de la creciente o de la vaciante), aunque varía.
+Por qué manda la Luna: la atracción depende de la masa y de la distancia. La Luna tiene casi 27 millones de veces menos masa que el Sol, pero está unas 389 veces más cerca, y su efecto sobre las mareas es unas 2,17 veces el del Sol. Los demás astros no cuentan.
+Cero hidrográfico (LAT, Lowest Astronomical Tide): la bajamar más baja que puede predecirse en condiciones meteorológicas medias. También se llama bajamar escorada o Datum. Es la referencia de las sondas de la carta, así que el agua real casi siempre es la de la carta o más. Para calcularlo, la Organización Hidrográfica Internacional usa una predicción de 19 años.
+Altura de la marea: lo que sube el agua sobre el Datum en un momento dado. Amplitud: diferencia, en metros, entre la bajamar y la pleamar más próximas. Duración: tiempo entre una bajamar y la pleamar (o al revés).
+Anuario de Mareas (Instituto Hidrográfico de la Marina, cada año): hora y altura de cada pleamar y bajamar de todos los días para los puertos de la península, Canarias, Ceuta y algunos de África occidental, Lisboa, Gibraltar y la Antártida. Las horas van en GMT (huso 0): para la hora del reloj suma el adelanto vigente, +1 en invierno y +2 en verano. Las alturas, en metros al centímetro y sobre el Datum: se suman a la sonda de la carta.
+Lo que el Anuario no prevé: con presión alta, las alturas son menores; con presión baja, mayores. Su tabla de corrección va de −0,25 m a 1038 mb a +0,50 m a 963 mb. El viento también influye: de mar sube la altura y adelanta la pleamar; de tierra la baja y la retrasa. Para el viento no hay tablas.
+INTERACTIVO · SONDA CON EL ANUARIO Y LA PRESIÓN
+Sonda de la carta: 6,2 m Altura de marea del Anuario: 2,31 m Presión: 1003 hPa
+1. Corrección por presión: (1013 − 1003) cm = +0,10 m
+2. Altura corregida: 2,31 + 0,10 = 2,41 m
+3. Sonda: 6,2 + 2,41 = 8,61 m
+Regla de los doceavos: en las 6 horas entre bajamar y pleamar, sube 1/12, 2/12, 3/12, 3/12, 2/12 y 1/12 de la amplitud. Lo más rápido, en las horas centrales.
+10.10
+Abreviaturas y fórmulas
+ABREV.	SIGNIFICADO	ABREV.	SIGNIFICADO
+Abt (ab)	Abatimiento	Ic · Ihc	Intensidad (horaria) de la corriente
+Br · Er	Babor · Estribor	K	Coeficiente de corredera
+D	Deriva	l · le · lv	Latitud · estimada · verdadera
+Da · Dm · Dv	Demora de aguja · magnética · verdadera	L · Le · Lv	Longitud · estimada · verdadera
+dm	Declinación magnética	M	Marcación
+Δ	Desvío	Ra · Rm · Rv	Rumbo de aguja · magnético · verdadero
+GMT · T.U.	Hora del meridiano de Greenwich · Tiempo universal	Rc · Ref · Rs	Rumbo de la corriente · efectivo · de superficie
+HCL	Hora civil del lugar	Sc	Sonda de la carta
+HRB	Hora del reloj de bitácora	Se · Sv	Situación estimada · verdadera
+Vb · Vm	Velocidad del barco · de máquinas	Vef	Velocidad efectiva
+FÓRMULA	EN PALABRAS
+Ct = dm + Δ	declinación con su signo más desvío con su signo
+Rv = Ra + Ct	de aguja a verdadero se suma la Ct
+Ra = Rv − Ct	de verdadero a aguja se resta
+Dv = Da + Ct	igual con las demoras
+Ct = Dv − Da	Ct con una enfilación u oposición
+Rs = Rv + Abt	rumbo de superficie con el abatimiento
+Rv = Rs − Abt	qué proa llevar para compensar el abatimiento
+Dv = Rv + M	de marcación a demora verdadera
+D = V · t	distancia, velocidad y tiempo
+Sonda = Sc + altura de marea	con la corrección por presión
+
+Todas las cantidades van con su signo: dm y Δ, + al E y − al W; M y Abt, + por estribor y − por babor (el Abt + cuando el viento entra por babor).
+
+PARA FIJAR CONOCIMIENTOS
+Preguntas de examen del tema
+
+269 preguntas en el banco de este tema. Elige cuántas hacer; las que no has visto y las que fallaste se pueden repasar aparte.
+
+Tu progreso en este tema: 0/269 vistas · 0 dominadas.
+
+Preguntas:
+Todas (2061)
+Exámenes reales (956)
+Banco de la guía (1105)
+10 preguntas
+25 preguntas
+Todas (269)
+No vistas (269)
+Mis fallos (0)
+Repetidas en exámenes (15)
+PREGUNTA 1 DE 10 · NUEVA
+0 aciertos
+Examen real · salió 2 veces
+
+La coordenada de la longitud se define como:
+
+A
+El arco de meridiano contado desde el Ecuador hasta el paralelo del observador
+B
+El arco de paralelo contado desde el Meridiano de Greenwich al observador
+C
+El arco de Ecuador contado desde el meridiano 0° hasta el meridiano del lugar o del observador
+D
+El arco de meridiano contado desde el Polo Norte hasta el observador
+Terminar aquí
+← 9. Meteorología
+11. Carta de navegación →
