@@ -1,0 +1,358 @@
+[
+  {
+    "id": "g-0107",
+    "topic": "carta",
+    "q": "Ra = 045°, dm = 3° W, Δ = +1°. El Rv es…",
+    "options": ["049°", "047°", "043°", "041°"],
+    "answer": 2,
+    "explanation": "Ct = −3 + 1 = −2, así que Rv = 045 − 2 = 043°."
+  },
+  {
+    "id": "g-0108",
+    "topic": "carta",
+    "q": "Queremos un Rv = 230° con Ct = −5°. ¿A qué Ra gobernamos?",
+    "options": ["225°", "230°", "235°", "240°"],
+    "answer": 2,
+    "explanation": "Ra = Rv − Ct = 230 − (−5) = 235°."
+  },
+  {
+    "id": "g-0109",
+    "topic": "carta",
+    "q": "A las 11:30 estamos a 12,5 mn de la bocana y navegamos a 10 nudos. ETA:",
+    "options": ["12:15", "12:45", "12:55", "13:15"],
+    "answer": 1,
+    "explanation": "t = 12,5/10 = 1,25 h = 1 h 15 min."
+  },
+  {
+    "id": "g-0110",
+    "topic": "carta",
+    "q": "Rv = 100°, y un faro se ve por la marcación 40° Br. Su Dv es…",
+    "options": ["140°", "060°", "040°", "320°"],
+    "answer": 1,
+    "explanation": "Dv = Rv + M = 100 + (−40) = 060°."
+  },
+  {
+    "id": "g-0111",
+    "topic": "carta",
+    "q": "Sonda en carta 3 m, altura de marea 2,30 m, presión 1003 hPa. Sonda en el momento:",
+    "options": ["5,20 m", "5,30 m", "5,40 m", "2,40 m"],
+    "answer": 2,
+    "explanation": "3 + 2,30 = 5,30, más 10 hPa bajo 1013, que suman unos +0,10 m, da 5,40 m."
+  },
+  {
+    "id": "g-0112",
+    "topic": "carta",
+    "q": "En una enfilación, Dv (carta) = 155° y Da observada = 160°. La Ct es…",
+    "options": ["+5°", "−5°", "+315°", "0°"],
+    "answer": 1,
+    "explanation": "Ct = Dv − Da = 155 − 160 = −5°."
+  },
+  {
+    "id": "g-0113",
+    "topic": "carta",
+    "q": "Un grado de latitud medido en la escala lateral equivale a…",
+    "options": ["1 milla", "10 millas", "60 millas", "111 millas"],
+    "answer": 2,
+    "explanation": "1° = 60′ = 60 mn."
+  },
+  {
+    "id": "g-0256",
+    "topic": "carta",
+    "q": "Dv de una enfilación en la carta 120°, Da observada 125°. La Ct es…",
+    "options": ["+5°", "−5°", "+125°", "0°"],
+    "answer": 1,
+    "explanation": "Ct = Dv − Da = 120 − 125 = −5°."
+  },
+  {
+    "id": "g-0257",
+    "topic": "carta",
+    "q": "Con Ct = −5° y dm = −2°, el desvío es…",
+    "options": ["−3°", "+3°", "−7°", "+7°"],
+    "answer": 0,
+    "explanation": "Δ = Ct − dm = −5 − (−2) = −3°."
+  },
+  {
+    "id": "g-0258",
+    "topic": "carta",
+    "q": "Da de un faro 300°, Ct = +4°. La Dv que trazamos es…",
+    "options": ["296°", "304°", "124°", "120°"],
+    "answer": 1,
+    "explanation": "Dv = Da + Ct. Desde el faro se traza la opuesta, 124°."
+  },
+  {
+    "id": "g-0259",
+    "topic": "carta",
+    "q": "Navegando 2 h 30 min a 8 nudos se recorren…",
+    "options": ["16 mn", "20 mn", "24 mn", "10 mn"],
+    "answer": 1,
+    "explanation": "D = V · t = 8 × 2,5."
+  },
+  {
+    "id": "g-0260",
+    "topic": "carta",
+    "q": "Para medir una distancia con el compás de puntas se lleva la abertura a…",
+    "options": [
+      "La escala de longitudes",
+      "La escala de latitudes a la misma altura",
+      "La rosa de la carta",
+      "Cualquier escala"
+    ],
+    "answer": 1,
+    "explanation": "1′ de latitud = 1 mn."
+  },
+  {
+    "id": "g-0261",
+    "topic": "carta",
+    "q": "La dm de la carta es 3°10′ W en 2010 con variación anual 7′ E. En 2026 vale aproximadamente…",
+    "options": ["1°18′ W", "5°02′ W", "3°10′ W", "0°"],
+    "answer": 0,
+    "explanation": "16 años × 7′ = 112′ = 1°52′ E. 3°10′ W − 1°52′ = 1°18′ W."
+  },
+  {
+    "id": "g-0262",
+    "topic": "carta",
+    "q": "Para pasar a 3 mn de un faro se traza…",
+    "options": [
+      "Una demora",
+      "Un círculo de 3 mn de radio con centro en el faro y la tangente desde la situación",
+      "Una enfilación",
+      "Un paralelo"
+    ],
+    "answer": 1,
+    "explanation": "La derrota tangente al círculo."
+  },
+  {
+    "id": "g-0263",
+    "topic": "carta",
+    "q": "La situación por dos demoras simultáneas es…",
+    "options": [
+      "El punto medio de los faros",
+      "El corte de las dos líneas de demora trazadas desde los faros",
+      "La distancia al faro",
+      "La sonda"
+    ],
+    "answer": 1,
+    "explanation": "Desde cada faro se traza la demora opuesta."
+  },
+  {
+    "id": "g-0430",
+    "topic": "carta",
+    "q": "Ra = 300°, dm = 2° W, Δ = −3°. El Rv es…",
+    "options": ["305°", "295°", "299°", "301°"],
+    "answer": 1,
+    "explanation": "Ct = −5 → Rv = 300 − 5 = 295°."
+  },
+  {
+    "id": "g-0431",
+    "topic": "carta",
+    "q": "Rv = 080°, dm = 1° W, Δ = +4°. El Ra a gobernar es…",
+    "options": ["077°", "083°", "085°", "075°"],
+    "answer": 0,
+    "explanation": "Ct = +3 → Ra = 080 − 3 = 077°."
+  },
+  {
+    "id": "g-0432",
+    "topic": "carta",
+    "q": "Da de un faro 045°, Ct = −2°. Desde el faro se traza la demora…",
+    "options": ["043°", "223°", "225°", "047°"],
+    "answer": 1,
+    "explanation": "Dv = 043°; su opuesta es 223°."
+  },
+  {
+    "id": "g-0433",
+    "topic": "carta",
+    "q": "Navegando 45 min a 12 nudos se recorren…",
+    "options": ["6 mn", "9 mn", "12 mn", "15 mn"],
+    "answer": 1,
+    "explanation": "D = 12 × 0,75."
+  },
+  {
+    "id": "g-0434",
+    "topic": "carta",
+    "q": "Para recorrer 15 mn a 10 nudos se tarda…",
+    "options": ["1 h", "1 h 30 min", "1 h 50 min", "2 h"],
+    "answer": 1,
+    "explanation": "t = 15/10 = 1,5 h."
+  },
+  {
+    "id": "g-0435",
+    "topic": "carta",
+    "q": "Salimos a las 09:40 y tenemos 18 mn por delante a 8 nudos. Llegamos a las…",
+    "options": ["11:55", "12:00", "11:40", "12:15"],
+    "answer": 0,
+    "explanation": "t = 2,25 h = 2 h 15 min."
+  },
+  {
+    "id": "g-0436",
+    "topic": "carta",
+    "q": "Rv = 150° con viento por estribor que produce 5° de abatimiento. El Rs es…",
+    "options": ["155°", "145°", "150°", "330°"],
+    "answer": 1,
+    "explanation": "Viento por Er: Abt negativo."
+  },
+  {
+    "id": "g-0437",
+    "topic": "carta",
+    "q": "Rv = 010° con viento por babor y abatimiento de 6°. El Rs es…",
+    "options": ["004°", "016°", "010°", "190°"],
+    "answer": 1,
+    "explanation": "Viento por Br: Abt positivo."
+  },
+  {
+    "id": "g-0438",
+    "topic": "carta",
+    "q": "La dm es 1° W y Δ = +1°. La Ct es…",
+    "options": ["−2°", "0°", "+2°", "+1°"],
+    "answer": 1,
+    "explanation": "Ct = −1 + 1 = 0."
+  },
+  {
+    "id": "g-0439",
+    "topic": "carta",
+    "q": "Con Ct = +2° observamos Da = 358° de un faro. Su Dv es…",
+    "options": ["356°", "000°", "002°", "180°"],
+    "answer": 1,
+    "explanation": "358 + 2 = 360 = 000°."
+  },
+  {
+    "id": "g-0440",
+    "topic": "carta",
+    "q": "Se trazan dos demoras simultáneas y se cortan. Ese punto es…",
+    "options": ["La situación verdadera observada", "La estima", "El rumbo", "La sonda"],
+    "answer": 0,
+    "explanation": "Situación por dos demoras."
+  },
+  {
+    "id": "g-0441",
+    "topic": "carta",
+    "q": "En la carta, el rumbo directo medido entre dos puntos con el transportador es un rumbo…",
+    "options": ["De aguja", "Magnético", "Verdadero", "De superficie"],
+    "answer": 2,
+    "explanation": "Para gobernar hay que restar la Ct."
+  },
+  {
+    "id": "g-0442",
+    "topic": "carta",
+    "q": "Sonda en carta 1,8 m, altura de marea 0,9 m, presión 1023 hPa. La sonda en el momento es aproximadamente…",
+    "options": ["2,6 m", "2,7 m", "2,8 m", "1,7 m"],
+    "answer": 0,
+    "explanation": "1,8 + 0,9 − 0,10 = 2,60 m."
+  },
+  {
+    "id": "g-0443",
+    "topic": "carta",
+    "q": "Para leer la latitud de un punto en la carta se usa…",
+    "options": ["La escala inferior", "La escala lateral", "La rosa", "El compás"],
+    "answer": 1,
+    "explanation": "La longitud, en la escala superior o inferior."
+  },
+  {
+    "id": "g-1016",
+    "topic": "carta",
+    "q": "Rv medido 215°, dm 1° NW y Δ 5° W. El Ra es…",
+    "options": ["209°", "221°", "215°", "216°"],
+    "answer": 1,
+    "explanation": "Ct = −6°; Ra = Rv − Ct = 215° + 6°."
+  },
+  {
+    "id": "g-1017",
+    "topic": "carta",
+    "q": "Distancia 16,2 millas a 8,1 nudos, salida HRB 10:00. La llegada es a las…",
+    "options": ["11:00", "12:00", "12:30", "13:00"],
+    "answer": 1,
+    "explanation": "t = 16,2 / 8,1 = 2 h."
+  },
+  {
+    "id": "g-1018",
+    "topic": "carta",
+    "q": "Al leer la latitud con el transportador, este debe estar…",
+    "options": [
+      "Girado 45°",
+      "Perfectamente orientado al norte",
+      "Sobre el faro siempre",
+      "En la escala de longitudes"
+    ],
+    "answer": 1,
+    "explanation": "Alguna línea paralela a un meridiano o paralelo."
+  },
+  {
+    "id": "g-1019",
+    "topic": "carta",
+    "q": "En la escala de una carta, cada celda pequeña de un minuto se divide en cinco partes de…",
+    "options": ["0,1′", "0,2′", "0,5′", "1″"],
+    "answer": 1,
+    "explanation": "Las fracciones van en décimas, no en segundos."
+  },
+  {
+    "id": "g-1020",
+    "topic": "carta",
+    "q": "En una carta del hemisferio norte, la escala de latitudes crece…",
+    "options": ["De arriba abajo", "De abajo arriba", "De izquierda a derecha", "No cambia"],
+    "answer": 1,
+    "explanation": "Pregunta real (2021)."
+  },
+  {
+    "id": "g-1074",
+    "topic": "carta",
+    "q": "Ra 032°, Ct −7°. El Rv es…",
+    "options": ["039°", "025°", "032°", "018°"],
+    "answer": 1,
+    "explanation": "Rv = Ra + Ct."
+  },
+  {
+    "id": "g-1075",
+    "topic": "carta",
+    "q": "Da Tarifa 296°, Ct −5°. La Dv que se traza es…",
+    "options": ["301°", "291°", "111°", "296°"],
+    "answer": 1,
+    "explanation": "Desde el faro, hacia el mar."
+  },
+  {
+    "id": "g-1076",
+    "topic": "carta",
+    "q": "Dv medida de una oposición 350°, Da N 05° W. La Ct es…",
+    "options": ["+5°", "−5°", "−15°", "+15°"],
+    "answer": 1,
+    "explanation": "N 05° W = 355°; Ct = 350° − 355°."
+  },
+  {
+    "id": "g-1077",
+    "topic": "carta",
+    "q": "Dv de la enfilación en la carta 244°, Da 251°. La Ct es…",
+    "options": ["+7°", "−7°", "−3°", "+3°"],
+    "answer": 1,
+    "explanation": "Ct = Dv − Da."
+  },
+  {
+    "id": "g-1078",
+    "topic": "carta",
+    "q": "Estás al W verdadero de un faro y a 5 millas. Para situarte trazas desde el faro…",
+    "options": ["El 090° y 5 millas", "El 270° y 5 millas", "El 180° y 5 millas", "El 000° y 5 millas"],
+    "answer": 1,
+    "explanation": "Si estás al W del faro, desde el faro trazas hacia el W."
+  },
+  {
+    "id": "g-1079",
+    "topic": "carta",
+    "q": "Sonda en la carta 6,2 m y altura de marea corregida 2,41 m. La sonda real es…",
+    "options": ["3,79 m", "8,61 m", "6,20 m", "2,41 m"],
+    "answer": 1,
+    "explanation": "Se suman."
+  },
+  {
+    "id": "g-1080",
+    "topic": "carta",
+    "q": "Con 1003 hPa, la corrección por presión a la altura de la marea es de unos…",
+    "options": ["−0,10 m", "+0,10 m", "+1,0 m", "0"],
+    "answer": 1,
+    "explanation": "10 hPa por debajo de 1013: +10 cm."
+  },
+  {
+    "id": "g-1081",
+    "topic": "carta",
+    "q": "Una dm de 2° 50′ W en 2005 con variación anual de 7′ E vale en 2015…",
+    "options": ["4° 00′ W", "1° 30′ W (redondeada)", "2° 50′ W", "1° 10′ E"],
+    "answer": 1,
+    "explanation": "−2° 50′ + 1° 10′ = −1° 40′ ≈ 1° 30′ W."
+  }
+]

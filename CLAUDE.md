@@ -5,11 +5,12 @@ Spanish PER (Patrón de Embarcaciones de Recreo) study guide, intended to become
 ## Commands
 - `npm run verify` — check + unit + build + e2e. **A task is done only when this passes**; report failures with output.
 - `npm run check` (typecheck, Biome, content validation) · `npm test` (Vitest) · `npm run build` (→ `dist/index.html`, single file) · `npm run e2e` (Playwright, 390 + 1280 px).
-- Hooks in `.claude/settings.json` block edits to `dist/`, `legacy/`, `tools/patches/`, lockfile, and lint/typecheck every edit.
+- Hooks in `.claude/settings.json` block edits to `dist/`, `legacy/`, `tools/patches/`, lockfile, and lint/typecheck every edit (plus validate the bank on `content/questions` edits).
 - `main` is protected: work on a branch, open a PR, CI must be green.
 
 ## What's here
-- `index.html` — the whole app: one self-contained file (~1.2 MB) with HTML, CSS, JS and the question bank. No build step. Open it in a browser to run it.
+- `index.html` — the app source (HTML, CSS, JS; ~430 KB). **Not runnable on its own any more**: the question bank is injected at build. Run `npm run dev` (http://localhost:5173) or `npm run build` and open `dist/index.html`.
+- `content/questions/{guide,gva}/<topic>.json` — the question bank (source of truth). Schema and rules: `src/content/schema.ts`; validator: `npm run validate:content`.
 - `tools/patches/patch1.py … patch14.py` — the history of content merges from Gerardo's printed manual (one per chapter). Kept for reference; don't re-run them on the current file.
 - `tests/e2e/` — Playwright tests against `dist/index.html` at 390 and 1280 px (fixed clock 20 Nov 2026, seeded `Math.random`): key terms per chapter, overflow, question-bank validity, quiz/simulator flows, widgets. `tests/unit/` — Vitest.
 - `tests/baseline/` — snapshot of the app before the split (bank, visible text of every route, TOCs, widget outputs). The refactor must reproduce it exactly; update only on purpose (`npx playwright test --project=baseline --update-snapshots`) and explain why in the PR.
@@ -17,24 +18,24 @@ Spanish PER (Patrón de Embarcaciones de Recreo) study guide, intended to become
 ## Code layout inside index.html
 - **Chapters:** `CH[n] = {intro, sections: [[id, title, `html`], ...], init(root){...}}`, n = 1..11. Sections render as collapsible blocks; the chapter's table of contents is built from the array. Widgets are wired in `init(root)`.
 - **Helpers:** `PER` with `$`, `$$`, `boatTop`, `AR(id, color)`.
-- **Question bank `PER.Q`:**
-  - Guide questions are `[topic, question, options[], correctIndex, explanation]`, added through `PER.Q.push(...)` blocks placed just before the `(function(){` that precedes `const R=[`.
-  - Real GVA exam questions live in `const R=[...]`; they carry a 6th field, `{p: [sittings], i}`.
+- **Question bank `PER.Q`:** built from `content/questions/` by `src/content/vite-plugin-bank.ts`, which injects `window.PER_BANK = {guide, real}` as legacy arrays: `[topic, question, options[4], answer, explanation]`, plus `{i, p: [sittings], d?, img?}` for real questions. `index.html` does `PER.Q.push(...PER_BANK.guide)` and `const R=PER_BANK.real`.
   - Topic keys: nom, amarre, seg, leg, baliz, ripa, man, emerg, meteo, teoria, carta.
+  - **IDs are permanent:** guide `g-NNNN` (new ones take the next free number, appended at the end), real `gva-NNNN` = original index. Never renumber, reuse or delete-and-recreate an id.
+  - Editing the first 70 characters of a guide question's text changes its progress key (orphans saved progress) until F6 moves progress onto ids. Avoid it, or flag it in the PR.
 - **Routes:** `#tema/N`, `#tema/N/preguntas`, `#plan`, `#test`, `#progreso`, `#practicas`.
 - **Progress:** localStorage `per2:state` (`v:2`); per-question stats keyed `topic:<first 70 chars>` (guide) or `r:<index>` (real GVA). Never break existing keys. The app already schedules reviews (1/3/7/14/30 days) and a mistakes queue.
 
 ## Conventions
 - Paraphrase source material; never copy the manual verbatim. Spanish terms in `<span class="es">`, formulas in `<span class="formula">`.
 - When the manual and real exams disagree, follow the real exams and flag outdated rules (RD 339/2021, MARPOL 2013, RD 128/2022).
-- Check for duplicates before adding questions (the e2e tests fail on them).
+- Add or edit questions only in `content/questions/`; the validator (also run by the post-edit hook and the build) rejects schema errors, duplicate ids, shared progress keys and repeated options. 39 guide questions have empty explanations (warnings) — fill them when touching those questions.
 - Run `npm run verify` after every change.
 
 ## Rights note
 The manual content is Gerardo's own copy of a commercial book. Owning a copy doesn't confer the right to sell its content, so clear rights before shipping a paid app.
 
 ## Status (20 Nov 2026)
-The whole manual is merged (Temas 1–11). 2,061 questions in total: 1,105 guide questions plus 956 real GVA questions. Possible next steps: wrap it as an iOS app (e.g. Capacitor), split the single file into modules, add sync for progress.
+The whole manual is merged (Temas 1–11). 2,061 questions in total: 1,105 guide questions plus 956 real GVA questions.
 
 ## Current work
 Phase 1 (foundations) — plan in `docs/FOUNDATIONS.md`, status in `docs/ROADMAP.md`.

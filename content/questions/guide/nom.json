@@ -1,0 +1,599 @@
+[
+  {
+    "id": "g-0001",
+    "topic": "nom",
+    "q": "La parte del casco que queda sumergida se denomina…",
+    "options": ["Obra muerta", "Obra viva", "Francobordo", "Puntal"],
+    "answer": 1,
+    "explanation": "Obra viva o carena es lo que está por debajo de la flotación."
+  },
+  {
+    "id": "g-0002",
+    "topic": "nom",
+    "q": "La pieza que prolonga la quilla hacia proa se denomina…",
+    "options": ["Codaste", "Trancanil", "Roda", "Orza"],
+    "answer": 2,
+    "explanation": "Roda a proa, codaste a popa."
+  },
+  {
+    "id": "g-0003",
+    "topic": "nom",
+    "q": "El orificio por donde la mecha del timón atraviesa el casco es la…",
+    "options": ["Bocina", "Limera", "Gatera", "Lumbrera"],
+    "answer": 1,
+    "explanation": "Limera es el timón. La bocina es el eje de la hélice."
+  },
+  {
+    "id": "g-0004",
+    "topic": "nom",
+    "q": "El tubo por el que el eje de la hélice sale al exterior se llama…",
+    "options": ["Limera", "Bocina", "Escobén", "Imbornal"],
+    "answer": 1,
+    "explanation": "Bocina: uno de los puntos clásicos de vía de agua."
+  },
+  {
+    "id": "g-0005",
+    "topic": "nom",
+    "q": "La diferencia entre el calado de popa y el calado de proa es el…",
+    "options": ["Asiento", "Puntal", "Arqueo", "Desplazamiento"],
+    "answer": 0,
+    "explanation": "Asiento = Cpp − Cpr. Positivo es apopado."
+  },
+  {
+    "id": "g-0006",
+    "topic": "nom",
+    "q": "Las aberturas en los costados que desaguan el agua embarcada en cubierta son…",
+    "options": ["Portillos", "Lumbreras", "Imbornales", "Escotillas"],
+    "answer": 2,
+    "explanation": "Imbornales. Se tapan al repostar para que no salga combustible."
+  },
+  {
+    "id": "g-0007",
+    "topic": "nom",
+    "q": "La distancia vertical entre la línea de flotación y la cubierta principal es el…",
+    "options": ["Calado", "Puntal", "Francobordo", "Asiento"],
+    "answer": 2,
+    "explanation": "Francobordo. El puntal se mide desde la quilla."
+  },
+  {
+    "id": "g-0008",
+    "topic": "nom",
+    "q": "Las piezas transversales que sostienen la cubierta se denominan…",
+    "options": ["Cuadernas", "Baos", "Mamparos", "Varengas"],
+    "answer": 1,
+    "explanation": "Baos. Las cuadernas son las costillas del casco."
+  },
+  {
+    "id": "g-0009",
+    "topic": "nom",
+    "q": "La parte del costado próxima a la proa es la…",
+    "options": ["Aleta", "Amura", "Través", "Bañera"],
+    "answer": 1,
+    "explanation": "Amura a proa, aleta a popa."
+  },
+  {
+    "id": "g-0114",
+    "topic": "nom",
+    "q": "La línea longitudinal que divide el barco en dos mitades simétricas es la…",
+    "options": ["Línea de flotación", "Línea de crujía", "Línea de agua", "Manga"],
+    "answer": 1,
+    "explanation": "La crujía va de proa a popa; separa babor de estribor."
+  },
+  {
+    "id": "g-0115",
+    "topic": "nom",
+    "q": "La parte del costado próxima a la popa se denomina…",
+    "options": ["Amura", "Aleta", "Través", "Regala"],
+    "answer": 1,
+    "explanation": "Amura a proa, aleta a popa, través en medio (90°)."
+  },
+  {
+    "id": "g-0116",
+    "topic": "nom",
+    "q": "Una «cuarta» de la rosa equivale a…",
+    "options": ["5°", "11,25°", "22,5°", "45°"],
+    "answer": 1,
+    "explanation": "La rosa se divide en 32 cuartas: 360/32 = 11,25°."
+  },
+  {
+    "id": "g-0117",
+    "topic": "nom",
+    "q": "Un objeto situado a 90° de la proa por estribor está…",
+    "options": [
+      "Por la amura de estribor",
+      "Por el través de estribor",
+      "Por la aleta de estribor",
+      "A proa"
+    ],
+    "answer": 1,
+    "explanation": "Través = perpendicular a la crujía."
+  },
+  {
+    "id": "g-0118",
+    "topic": "nom",
+    "q": "Las piezas curvas transversales que forman el esqueleto del casco son…",
+    "options": ["Baos", "Cuadernas", "Esloras", "Mamparos"],
+    "answer": 1,
+    "explanation": "Las cuadernas son las «costillas»; los baos sostienen la cubierta."
+  },
+  {
+    "id": "g-0119",
+    "topic": "nom",
+    "q": "El peso del agua desalojada por un barco es su…",
+    "options": ["Arqueo", "Desplazamiento", "Porte", "Puntal"],
+    "answer": 1,
+    "explanation": "Principio de Arquímedes: desplazamiento = peso del barco."
+  },
+  {
+    "id": "g-0120",
+    "topic": "nom",
+    "q": "Si el calado de proa es mayor que el de popa, el barco está…",
+    "options": ["Apopado", "Aproado", "Escorado", "En aguas iguales"],
+    "answer": 1,
+    "explanation": "Asiento negativo: aproado."
+  },
+  {
+    "id": "g-0121",
+    "topic": "nom",
+    "q": "La inclinación transversal de un barco hacia una banda se denomina…",
+    "options": ["Asiento", "Escora", "Arrufo", "Quebranto"],
+    "answer": 1,
+    "explanation": "Escora es lateral; asiento es longitudinal."
+  },
+  {
+    "id": "g-0122",
+    "topic": "nom",
+    "q": "La abertura en cubierta que sirve para dar luz y ventilación es la…",
+    "options": ["Escotilla", "Lumbrera", "Bocina", "Limera"],
+    "answer": 1,
+    "explanation": "La escotilla es para pasar; la lumbrera, para luz y aire."
+  },
+  {
+    "id": "g-0123",
+    "topic": "nom",
+    "q": "El cable o cabo sujeto por los candeleros alrededor de la cubierta es el…",
+    "options": ["Guardamancebos", "Estay", "Obenque", "Barandilla de bañera"],
+    "answer": 0,
+    "explanation": "Candeleros = postes; guardamancebos = cable de seguridad."
+  },
+  {
+    "id": "g-0124",
+    "topic": "nom",
+    "q": "Una hélice dextrógira, vista desde popa y en marcha avante, gira…",
+    "options": ["En sentido antihorario", "En sentido horario", "Alternativamente", "Depende del timón"],
+    "answer": 1,
+    "explanation": "Dextrógira = a derechas (horario)."
+  },
+  {
+    "id": "g-0125",
+    "topic": "nom",
+    "q": "La parte del timón que actúa sobre el agua es la…",
+    "options": ["Mecha", "Caña", "Pala", "Limera"],
+    "answer": 2,
+    "explanation": "Pala: superficie; mecha: eje; caña: palanca."
+  },
+  {
+    "id": "g-0126",
+    "topic": "nom",
+    "q": "El tabique estanco más a proa, que protege en caso de choque, es el mamparo…",
+    "options": ["De popa", "De colisión", "De máquinas", "Maestro"],
+    "answer": 1,
+    "explanation": "Mamparo de colisión."
+  },
+  {
+    "id": "g-0264",
+    "topic": "nom",
+    "q": "La parte delantera del barco se denomina…",
+    "options": ["Popa", "Proa", "Aleta", "Través"],
+    "answer": 1,
+    "explanation": "Proa delante, popa detrás."
+  },
+  {
+    "id": "g-0265",
+    "topic": "nom",
+    "q": "Mirando hacia proa, el costado derecho es…",
+    "options": ["Babor", "Estribor", "Barlovento", "Sotavento"],
+    "answer": 1,
+    "explanation": "Estribor = derecha; babor = izquierda."
+  },
+  {
+    "id": "g-0266",
+    "topic": "nom",
+    "q": "La anchura máxima de un barco es la…",
+    "options": ["Eslora", "Manga", "Puntal", "Calado"],
+    "answer": 1,
+    "explanation": "Eslora = longitud; manga = anchura."
+  },
+  {
+    "id": "g-0267",
+    "topic": "nom",
+    "q": "La altura desde la quilla hasta la cubierta principal es el…",
+    "options": ["Calado", "Francobordo", "Puntal", "Asiento"],
+    "answer": 2,
+    "explanation": "El puntal se mide desde la quilla."
+  },
+  {
+    "id": "g-0268",
+    "topic": "nom",
+    "q": "La profundidad de la parte sumergida del casco es el…",
+    "options": ["Puntal", "Calado", "Francobordo", "Arqueo"],
+    "answer": 1,
+    "explanation": "Calado: de la flotación a la quilla."
+  },
+  {
+    "id": "g-0269",
+    "topic": "nom",
+    "q": "La zona abierta y rebajada a popa desde la que se gobierna es la…",
+    "options": ["Sentina", "Bañera", "Cámara", "Regala"],
+    "answer": 1,
+    "explanation": "Bañera."
+  },
+  {
+    "id": "g-0270",
+    "topic": "nom",
+    "q": "La parte más baja del interior del casco, donde se acumula el agua, es la…",
+    "options": ["Bañera", "Sentina", "Pantoque", "Plan"],
+    "answer": 1,
+    "explanation": "Hay que achicarla con las bombas."
+  },
+  {
+    "id": "g-0271",
+    "topic": "nom",
+    "q": "La zona curva de unión entre el fondo y el costado del casco es el…",
+    "options": ["Pantoque", "Codaste", "Bao", "Plan"],
+    "answer": 0,
+    "explanation": "Pantoque."
+  },
+  {
+    "id": "g-0272",
+    "topic": "nom",
+    "q": "El tabique que divide el interior del barco en compartimentos es el…",
+    "options": ["Bao", "Mamparo", "Puntal", "Candelero"],
+    "answer": 1,
+    "explanation": "Los estancos dan seguridad."
+  },
+  {
+    "id": "g-0273",
+    "topic": "nom",
+    "q": "La ventana, normalmente redonda, en el costado o en la superestructura es el…",
+    "options": ["Portillo", "Lumbrera", "Imbornal", "Escobén"],
+    "answer": 0,
+    "explanation": "Portillo."
+  },
+  {
+    "id": "g-0274",
+    "topic": "nom",
+    "q": "El conducto por donde sale la cadena del ancla al exterior es el…",
+    "options": ["Imbornal", "Escobén", "Limera", "Bocina"],
+    "answer": 1,
+    "explanation": "Escobén."
+  },
+  {
+    "id": "g-0275",
+    "topic": "nom",
+    "q": "La parte del casco por encima de la línea de flotación es la…",
+    "options": ["Obra viva", "Obra muerta", "Carena", "Quilla"],
+    "answer": 1,
+    "explanation": "Obra muerta, fuera del agua."
+  },
+  {
+    "id": "g-0276",
+    "topic": "nom",
+    "q": "El volumen interior de un barco, expresado en GT, es el…",
+    "options": ["Desplazamiento", "Arqueo", "Porte", "Calado"],
+    "answer": 1,
+    "explanation": "El arqueo es un volumen, no un peso."
+  },
+  {
+    "id": "g-0277",
+    "topic": "nom",
+    "q": "Con una caña, para caer a babor la caña se lleva a…",
+    "options": ["Babor", "Estribor", "Al centro", "Depende del motor"],
+    "answer": 1,
+    "explanation": "La caña va al lado contrario del giro."
+  },
+  {
+    "id": "g-0278",
+    "topic": "nom",
+    "q": "El pasamanos metálico de proa que protege la cubierta es el…",
+    "options": ["Púlpito", "Balcón de popa", "Guardamancebos", "Candelero"],
+    "answer": 0,
+    "explanation": "A popa: balcón de popa."
+  },
+  {
+    "id": "g-0279",
+    "topic": "nom",
+    "q": "En un motor fueraborda, el barco se gobierna…",
+    "options": [
+      "Con un timón independiente",
+      "Girando el propio motor",
+      "Solo con las velas",
+      "Con la hélice de proa"
+    ],
+    "answer": 1,
+    "explanation": "El empuje cambia de dirección con el motor."
+  },
+  {
+    "id": "g-0280",
+    "topic": "nom",
+    "q": "Un objeto situado a 135° de la proa por babor está…",
+    "options": ["Por la amura de babor", "Por el través de babor", "Por la aleta de babor", "Por la popa"],
+    "answer": 2,
+    "explanation": "Amura ≈45°, través 90°, aleta ≈135°."
+  },
+  {
+    "id": "g-0281",
+    "topic": "nom",
+    "q": "El lado de donde viene el viento se llama…",
+    "options": ["Sotavento", "Barlovento", "Socaire", "Través"],
+    "answer": 1,
+    "explanation": "Sotavento es el lado contrario."
+  },
+  {
+    "id": "g-0444",
+    "topic": "nom",
+    "q": "¿Qué parte del barco NO forma parte del casco?",
+    "options": ["La quilla", "Las cuadernas", "La arboladura", "El forro"],
+    "answer": 2,
+    "explanation": "El casco es el cuerpo del barco sin arboladura, máquinas ni superestructuras."
+  },
+  {
+    "id": "g-0445",
+    "topic": "nom",
+    "q": "Un trimarán es una embarcación con…",
+    "options": [
+      "Un casco y dos orzas",
+      "Tres cascos: uno central y dos laterales",
+      "Tres palos",
+      "Tres motores"
+    ],
+    "answer": 1,
+    "explanation": "Los cascos laterales le dan estabilidad."
+  },
+  {
+    "id": "g-0446",
+    "topic": "nom",
+    "q": "Las aberturas de cubierta que solo sirven para dar luz y ventilación se llaman…",
+    "options": ["Escotillas", "Lumbreras", "Imbornales", "Gateras"],
+    "answer": 1,
+    "explanation": "Si una abertura no da paso sino solo luz y aire, es una lumbrera (con cristal)."
+  },
+  {
+    "id": "g-0447",
+    "topic": "nom",
+    "q": "Las aberturas circulares en los costados para luz y ventilación son…",
+    "options": ["Lumbreras", "Escotillas", "Portillos", "Manguerotes"],
+    "answer": 2,
+    "explanation": "Portillos (o tragaluces), en los costados."
+  },
+  {
+    "id": "g-0448",
+    "topic": "nom",
+    "q": "Si hay riesgo de que entre agua de lluvia o de mar, la boca de un manguerote se orienta…",
+    "options": ["A barlovento", "A sotavento", "Hacia proa", "Hacia arriba"],
+    "answer": 1,
+    "explanation": "A sotavento, de espaldas al viento y al rocío."
+  },
+  {
+    "id": "g-0449",
+    "topic": "nom",
+    "q": "La bañera debe ser autoachicable mediante…",
+    "options": ["Grifos de fondo", "Imbornales", "Pasacascos", "Manguerotes"],
+    "answer": 1,
+    "explanation": "Los imbornales son los desagües; siempre despejados."
+  },
+  {
+    "id": "g-0450",
+    "topic": "nom",
+    "q": "Las válvulas situadas bajo la flotación para tomar agua de mar del motor o los aseos son…",
+    "options": ["Imbornales", "Grifos de fondo", "Lumbreras", "Bombas de achique"],
+    "answer": 1,
+    "explanation": "Solo se abren cuando hace falta y se mantienen limpias."
+  },
+  {
+    "id": "g-0451",
+    "topic": "nom",
+    "q": "Las piezas que atraviesan el casco y en las que se roscan los grifos de fondo se llaman…",
+    "options": ["Bocinas", "Pasacascos", "Limeras", "Gateras"],
+    "answer": 1,
+    "explanation": "Pasacascos."
+  },
+  {
+    "id": "g-0452",
+    "topic": "nom",
+    "q": "Además de las bombas de achique eléctricas, es muy aconsejable llevar…",
+    "options": ["Un segundo molinete", "Una bomba manual", "Un manguerote extra", "Una hélice de proa"],
+    "answer": 1,
+    "explanation": "La manual funciona aunque falle la electricidad."
+  },
+  {
+    "id": "g-0453",
+    "topic": "nom",
+    "q": "El «suelo» interior más bajo del casco es…",
+    "options": ["La cubierta", "El plan", "El pantoque", "La regala"],
+    "answer": 1,
+    "explanation": "Plan: superficie horizontal, interior e inferior del casco."
+  },
+  {
+    "id": "g-0454",
+    "topic": "nom",
+    "q": "El cable que corre de proa a popa por cada banda, sostenido por los candeleros, es el…",
+    "options": ["Pasamanos", "Guardamancebos", "Guardín", "Púlpito"],
+    "answer": 1,
+    "explanation": "Guardamancebos: seguridad de la tripulación."
+  },
+  {
+    "id": "g-0455",
+    "topic": "nom",
+    "q": "Un timón cuya pala gira sobre su borde de proa es un timón…",
+    "options": ["Compensado", "Ordinario", "Semicompensado", "De rueda"],
+    "answer": 1,
+    "explanation": "El ordinario es más sensible pero exige más fuerza."
+  },
+  {
+    "id": "g-0456",
+    "topic": "nom",
+    "q": "Frente al timón ordinario, el timón compensado…",
+    "options": [
+      "Es más sensible y más duro",
+      "Pierde algo de sensibilidad pero requiere menos fuerza",
+      "No necesita mecha",
+      "Solo se usa con fueraborda"
+    ],
+    "answer": 1,
+    "explanation": "El eje centrado reparte la presión del agua."
+  },
+  {
+    "id": "g-0457",
+    "topic": "nom",
+    "q": "En un barco de rueda, los cables y poleas que llevan el movimiento a la pala son los…",
+    "options": ["Guardamancebos", "Guardines", "Grilletes", "Candeleros"],
+    "answer": 1,
+    "explanation": "Guardines."
+  },
+  {
+    "id": "g-0458",
+    "topic": "nom",
+    "q": "La pieza cónica que cubre el núcleo de la hélice y lleva pasador de seguridad es el…",
+    "options": ["Capacete", "Casquillo", "Arganeo", "Barbotén"],
+    "answer": 0,
+    "explanation": "El capacete evita que la hélice se suelte del eje."
+  },
+  {
+    "id": "g-0459",
+    "topic": "nom",
+    "q": "En unas hélices gemelas de giro al exterior, la dextrógira va…",
+    "options": ["A babor", "A estribor", "A proa", "Indistintamente"],
+    "answer": 1,
+    "explanation": "Dextrógira a estribor, levógira a babor: sus efectos se anulan."
+  },
+  {
+    "id": "g-0460",
+    "topic": "nom",
+    "q": "Una hélice de paso variable permite ir avante y atrás…",
+    "options": [
+      "Invirtiendo el giro del motor",
+      "Orientando las palas sin cambiar el sentido de giro",
+      "Plegando las palas",
+      "Solo con hélice de proa"
+    ],
+    "answer": 1,
+    "explanation": "Por eso el motor no necesita inversora."
+  },
+  {
+    "id": "g-0461",
+    "topic": "nom",
+    "q": "Las hélices plegables o de «pico de pato» se usan sobre todo en…",
+    "options": ["Lanchas de planeo", "Veleros", "Remolcadores", "Neumáticas"],
+    "answer": 1,
+    "explanation": "Se pliegan navegando a vela y se abren por fuerza centrífuga."
+  },
+  {
+    "id": "g-0462",
+    "topic": "nom",
+    "q": "Una hélice de velocidad se caracteriza por…",
+    "options": [
+      "Poco paso y mucho diámetro",
+      "Mucho paso y poco diámetro",
+      "Palas plegables",
+      "Paso variable"
+    ],
+    "answer": 1,
+    "explanation": "La de arrastre es al revés: poco paso y mucho diámetro."
+  },
+  {
+    "id": "g-0463",
+    "topic": "nom",
+    "q": "Al medir la eslora máxima…",
+    "options": [
+      "Se incluye el púlpito de proa",
+      "Se excluye el púlpito de proa",
+      "Se mide en la flotación",
+      "Se incluyen las piezas desmontables"
+    ],
+    "answer": 1,
+    "explanation": "Se mide desde donde la cubierta corta la roda; también se excluyen las piezas desmontables."
+  },
+  {
+    "id": "g-0464",
+    "topic": "nom",
+    "q": "Para el amarre en un muelle, se entiende por eslora máxima…",
+    "options": [
+      "La de flotación",
+      "La de la documentación",
+      "La mayor longitud ocupacional",
+      "La eslora entre perpendiculares"
+    ],
+    "answer": 2,
+    "explanation": "Cuenta todo lo que ocupa el barco en el atraque."
+  },
+  {
+    "id": "g-0465",
+    "topic": "nom",
+    "q": "El puntal se mide…",
+    "options": [
+      "De la flotación a la quilla",
+      "A media eslora, de la línea de cubierta al canto superior de la quilla",
+      "De la flotación a la cubierta",
+      "De proa a popa"
+    ],
+    "answer": 1,
+    "explanation": "Puntal: dimensión vertical máxima del casco."
+  },
+  {
+    "id": "g-0466",
+    "topic": "nom",
+    "q": "Calado a proa 1,5 m y calado a popa 1,9 m. El calado medio es…",
+    "options": ["0,4 m", "1,7 m", "1,9 m", "3,4 m"],
+    "answer": 1,
+    "explanation": "(1,5 + 1,9) / 2 = 1,7 m. El asiento sería +0,4 m (apopado)."
+  },
+  {
+    "id": "g-0467",
+    "topic": "nom",
+    "q": "El francobordo equivale genéricamente a la altura de…",
+    "options": ["La obra viva", "La obra muerta", "El puntal", "La arboladura"],
+    "answer": 1,
+    "explanation": "De la flotación (a máxima carga) a la cubierta estanca más alta."
+  },
+  {
+    "id": "g-0468",
+    "topic": "nom",
+    "q": "El desplazamiento máximo se expresa en…",
+    "options": ["Metros cúbicos", "Toneladas de arqueo (GT)", "Toneladas métricas", "Litros"],
+    "answer": 2,
+    "explanation": "Es un peso: barco con la máxima carga segura."
+  },
+  {
+    "id": "g-0469",
+    "topic": "nom",
+    "q": "La zona resguardada a la que no llega el viento se llama…",
+    "options": ["Sotavento", "Socaire", "Barlovento", "Aleta"],
+    "answer": 1,
+    "explanation": "No confundir socaire con sotavento."
+  },
+  {
+    "id": "g-0470",
+    "topic": "nom",
+    "q": "Recuperar la posición derecha de un barco escorado es…",
+    "options": ["Arrizar", "Adrizar", "Achicar", "Zarpar"],
+    "answer": 1,
+    "explanation": "Adrizar."
+  },
+  {
+    "id": "g-0471",
+    "topic": "nom",
+    "q": "El movimiento de vaivén del barco de una banda a otra es el…",
+    "options": ["Cabeceo", "Balanceo", "Asiento", "Garreo"],
+    "answer": 1,
+    "explanation": "Balanceo: babor ↔ estribor. El cabeceo es proa-popa."
+  },
+  {
+    "id": "g-0472",
+    "topic": "nom",
+    "q": "El tramo del costado entre el través y la proa es la…",
+    "options": ["Aleta", "Amura", "Regala", "Roda"],
+    "answer": 1,
+    "explanation": "Amura a proa, aleta a popa."
+  }
+]

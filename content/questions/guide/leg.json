@@ -1,0 +1,730 @@
+[
+  {
+    "id": "g-0027",
+    "topic": "leg",
+    "q": "En una zona de 200 m de playa no balizada, la velocidad máxima es…",
+    "options": ["3 nudos", "5 nudos", "8 nudos", "No hay límite"],
+    "answer": 0,
+    "explanation": "3 nudos, también dentro de 50 m del resto de la costa."
+  },
+  {
+    "id": "g-0028",
+    "topic": "leg",
+    "q": "El resguardo mínimo a una embarcación con la bandera «Alfa» izada es…",
+    "options": ["10 m", "25 m", "50 m", "500 m"],
+    "answer": 2,
+    "explanation": "50 m, salvo su embarcación de apoyo."
+  },
+  {
+    "id": "g-0029",
+    "topic": "leg",
+    "q": "Dentro de los puertos se pueden arrojar al mar…",
+    "options": ["Restos de comida", "Residuos que se hundan", "Ningún residuo", "Solo papel"],
+    "answer": 2,
+    "explanation": "Nada. Todo va a la instalación de recepción del puerto."
+  },
+  {
+    "id": "g-0030",
+    "topic": "leg",
+    "q": "Los plásticos pueden arrojarse al mar…",
+    "options": ["A más de 12 millas", "A más de 25 millas", "Nunca", "Si están triturados"],
+    "answer": 2,
+    "explanation": "MARPOL Anexo V: prohibición total."
+  },
+  {
+    "id": "g-0031",
+    "topic": "leg",
+    "q": "Las aguas sucias sin tratar ni desmenuzar solo pueden descargarse a más de…",
+    "options": ["3 millas", "4 millas", "12 millas", "Nunca"],
+    "answer": 2,
+    "explanation": "12 mn. Desmenuzadas y desinfectadas, a más de 3 mn y a 4 nudos o más."
+  },
+  {
+    "id": "g-0032",
+    "topic": "leg",
+    "q": "Los canales de acceso a playas balizadas tienen una anchura de…",
+    "options": ["5 a 10 m", "25 a 50 m", "100 a 200 m", "Más de 200 m"],
+    "answer": 1,
+    "explanation": "25–50 m, a 3 nudos o menos y perpendiculares a la playa."
+  },
+  {
+    "id": "g-0033",
+    "topic": "leg",
+    "q": "La regla 33 del capítulo V del SOLAS obliga a…",
+    "options": [
+      "Llevar balsa salvavidas",
+      "Prestar auxilio a personas en peligro en la mar",
+      "Llevar la bandera autonómica",
+      "Notificar la salida a Capitanía"
+    ],
+    "answer": 1,
+    "explanation": "Siempre que no ponga en grave peligro el buque propio."
+  },
+  {
+    "id": "g-0153",
+    "topic": "leg",
+    "q": "Fuera de las playas, a menos de 50 m de la costa, la velocidad máxima es…",
+    "options": ["3 nudos", "5 nudos", "10 nudos", "Sin límite"],
+    "answer": 0,
+    "explanation": "200 m de playas y 50 m del resto de costa: 3 nudos."
+  },
+  {
+    "id": "g-0154",
+    "topic": "leg",
+    "q": "La zona de baño en una playa no balizada se extiende hasta…",
+    "options": ["50 m", "100 m", "200 m", "500 m"],
+    "answer": 2,
+    "explanation": "200 m."
+  },
+  {
+    "id": "g-0155",
+    "topic": "leg",
+    "q": "El PER permite gobernar embarcaciones de motor de hasta…",
+    "options": ["8 m", "12 m", "15 m", "24 m"],
+    "answer": 2,
+    "explanation": "15 m y 12 mn (24 m con prácticas adicionales)."
+  },
+  {
+    "id": "g-0156",
+    "topic": "leg",
+    "q": "El PER permite navegar hasta una distancia de la costa de…",
+    "options": ["5 mn", "12 mn", "25 mn", "60 mn"],
+    "answer": 1,
+    "explanation": "12 mn, de día y de noche."
+  },
+  {
+    "id": "g-0157",
+    "topic": "leg",
+    "q": "En el Mediterráneo, los restos de comida solo pueden arrojarse a más de…",
+    "options": ["3 mn", "12 mn", "25 mn", "Nunca"],
+    "answer": 1,
+    "explanation": "Es zona especial MARPOL."
+  },
+  {
+    "id": "g-0158",
+    "topic": "leg",
+    "q": "La posidonia oceánica es…",
+    "options": [
+      "Un alga invasora",
+      "Una planta marina endémica del Mediterráneo protegida",
+      "Un coral",
+      "Un tipo de arena"
+    ],
+    "answer": 1,
+    "explanation": "Fanerógama, no alga. Prohibido fondear sobre ella en la Comunitat Valenciana."
+  },
+  {
+    "id": "g-0159",
+    "topic": "leg",
+    "q": "La bandera que indica buceadores en el agua es la…",
+    "options": ["A (Alfa) del Código Internacional", "B (Bravo)", "Roja", "Amarilla"],
+    "answer": 0,
+    "explanation": "Alfa, blanca y azul con farpa."
+  },
+  {
+    "id": "g-0160",
+    "topic": "leg",
+    "q": "Las islas Columbretes son…",
+    "options": [
+      "Un puerto deportivo",
+      "Una reserva marina y ZEPIM frente a Castellón",
+      "Una zona de fondeo libre",
+      "Una zona militar"
+    ],
+    "answer": 1,
+    "explanation": "Zona protegida con limitaciones de fondeo y pesca."
+  },
+  {
+    "id": "g-0161",
+    "topic": "leg",
+    "q": "El seguro obligatorio de una embarcación de recreo cubre…",
+    "options": ["Los daños propios", "La responsabilidad civil frente a terceros", "El robo", "El motor"],
+    "answer": 1,
+    "explanation": "RC obligatoria."
+  },
+  {
+    "id": "g-0162",
+    "topic": "leg",
+    "q": "Ante una mancha de hidrocarburos en el mar, el patrón debe…",
+    "options": [
+      "Ignorarla",
+      "Informar a Salvamento Marítimo o a Capitanía",
+      "Dispersarla con detergente",
+      "Recogerla"
+    ],
+    "answer": 1,
+    "explanation": "Obligación de informar."
+  },
+  {
+    "id": "g-0163",
+    "topic": "leg",
+    "q": "Si se iza la bandera de una comunidad autónoma, la española…",
+    "options": [
+      "No es necesaria",
+      "Debe estar izada y en lugar preferente",
+      "Se iza más pequeña",
+      "Se arría"
+    ],
+    "answer": 1,
+    "explanation": "Ninguna bandera sin la nacional, ni más grande."
+  },
+  {
+    "id": "g-0316",
+    "topic": "leg",
+    "q": "La velocidad máxima en las zonas de baño no balizadas y a menos de 50 m del resto de la costa es…",
+    "options": ["2 nudos", "3 nudos", "5 nudos", "10 nudos"],
+    "answer": 1,
+    "explanation": "3 nudos."
+  },
+  {
+    "id": "g-0317",
+    "topic": "leg",
+    "q": "En una zona de baño balizada…",
+    "options": [
+      "Se puede navegar a 3 nudos",
+      "Está prohibido navegar dentro",
+      "Solo pueden entrar motos",
+      "Se puede fondear"
+    ],
+    "answer": 1,
+    "explanation": "Se usan los canales de entrada y salida."
+  },
+  {
+    "id": "g-0318",
+    "topic": "leg",
+    "q": "Los canales de entrada y salida de playas se navegan…",
+    "options": [
+      "En paralelo a la playa",
+      "Perpendiculares a la playa y a 3 nudos como máximo",
+      "A cualquier velocidad",
+      "Solo a vela"
+    ],
+    "answer": 1,
+    "explanation": "Solo para entrar y salir."
+  },
+  {
+    "id": "g-0319",
+    "topic": "leg",
+    "q": "Cuando un buceador nada lejos de su embarcación, la bandera Alfa se refleja también…",
+    "options": ["En su traje", "En boyarines flotantes", "En la costa", "No hace falta"],
+    "answer": 1,
+    "explanation": "Se autoseñaliza con boyarines."
+  },
+  {
+    "id": "g-0320",
+    "topic": "leg",
+    "q": "El PER permite gobernar motos náuticas…",
+    "options": ["No", "Sí", "Solo de menos de 3 m", "Solo en puerto"],
+    "answer": 1,
+    "explanation": "El PER incluye motos náuticas."
+  },
+  {
+    "id": "g-0321",
+    "topic": "leg",
+    "q": "Para gobernar un velero con el PER hace falta…",
+    "options": [
+      "Nada más",
+      "La habilitación a vela (prácticas)",
+      "El título de Patrón de Yate",
+      "Un examen teórico de vela"
+    ],
+    "answer": 1,
+    "explanation": "Prácticas de habilitación a vela."
+  },
+  {
+    "id": "g-0322",
+    "topic": "leg",
+    "q": "La licencia de navegación permite gobernar embarcaciones de hasta…",
+    "options": ["6 m, de día y a 2 mn de un puerto", "8 m y 5 mn", "15 m y 12 mn", "24 m"],
+    "answer": 0,
+    "explanation": "Curso práctico corto, sin examen."
+  },
+  {
+    "id": "g-0323",
+    "topic": "leg",
+    "q": "El PNB permite gobernar embarcaciones de hasta…",
+    "options": ["6 m", "8 m, a 5 mn de un abrigo y de día", "15 m", "24 m"],
+    "answer": 1,
+    "explanation": "Patrón de Navegación Básica."
+  },
+  {
+    "id": "g-0324",
+    "topic": "leg",
+    "q": "El Patrón de Yate permite navegar hasta…",
+    "options": ["12 mn", "60 mn", "150 mn de la costa", "Sin límite"],
+    "answer": 2,
+    "explanation": "Hasta 24 m de eslora."
+  },
+  {
+    "id": "g-0325",
+    "topic": "leg",
+    "q": "La navegación sin límite de distancia en recreo la permite el título de…",
+    "options": ["PER", "Patrón de Yate", "Capitán de Yate", "PNB"],
+    "answer": 2,
+    "explanation": "Capitán de Yate."
+  },
+  {
+    "id": "g-0326",
+    "topic": "leg",
+    "q": "Una embarcación de recreo es la de eslora comprendida entre…",
+    "options": ["1 y 10 m", "2,5 y 24 m", "5 y 50 m", "Cualquier eslora"],
+    "answer": 1,
+    "explanation": "Destinada a uso deportivo o de ocio."
+  },
+  {
+    "id": "g-0327",
+    "topic": "leg",
+    "q": "Las aguas sucias desmenuzadas y desinfectadas pueden descargarse a más de 3 mn navegando a…",
+    "options": ["Cualquier velocidad", "4 nudos o más", "Menos de 2 nudos", "Fondeados"],
+    "answer": 1,
+    "explanation": "A ≥4 nudos."
+  },
+  {
+    "id": "g-0328",
+    "topic": "leg",
+    "q": "El aceite y el combustible…",
+    "options": [
+      "Pueden verterse a más de 12 mn",
+      "No pueden verterse nunca al mar",
+      "Pueden verterse diluidos",
+      "Pueden verterse de noche"
+    ],
+    "answer": 1,
+    "explanation": "Se entregan en puerto."
+  },
+  {
+    "id": "g-0329",
+    "topic": "leg",
+    "q": "La distancia mínima de aproximación a cetáceos para una embarcación es de…",
+    "options": ["10 m", "60 m", "500 m", "1 mn"],
+    "answer": 1,
+    "explanation": "RD 1727/2007: sin cortarles el paso."
+  },
+  {
+    "id": "g-0330",
+    "topic": "leg",
+    "q": "El crecimiento de la posidonia es de aproximadamente…",
+    "options": ["1 m al año", "1 cm al año", "10 cm al mes", "No crece"],
+    "answer": 1,
+    "explanation": "Por eso un ancla destruye décadas de pradera."
+  },
+  {
+    "id": "g-0331",
+    "topic": "leg",
+    "q": "La bandera nacional se iza en una embarcación de recreo en…",
+    "options": [
+      "La proa",
+      "El asta de popa o el pico del palo mayor",
+      "El mástil de proa",
+      "No es obligatoria"
+    ],
+    "answer": 1,
+    "explanation": "La de mayor tamaño y en lugar preferente."
+  },
+  {
+    "id": "g-0632",
+    "topic": "leg",
+    "q": "El práctico es obligatorio para entrar en puerto a los buques de más de…",
+    "options": ["100 TRB", "500 TRB", "1.000 TRB", "24 m"],
+    "answer": 1,
+    "explanation": "Toneladas de Registro Bruto."
+  },
+  {
+    "id": "g-0633",
+    "topic": "leg",
+    "q": "En la bocana de un puerto, tiene preferencia…",
+    "options": ["El que entra", "El que sale", "El de mayor eslora", "El de vela"],
+    "answer": 1,
+    "explanation": "Y en las entradas se navega por la derecha."
+  },
+  {
+    "id": "g-0634",
+    "topic": "leg",
+    "q": "¿Qué está prohibido dentro de un puerto?",
+    "options": ["Colocar defensas", "Pescar y bañarse", "Reforzar amarras", "Navegar a 2 nudos"],
+    "answer": 1,
+    "explanation": "Tampoco se lastran ni deslastran tanques."
+  },
+  {
+    "id": "g-0635",
+    "topic": "leg",
+    "q": "Cerca de un canal con tráfico de buques, un barco de recreo navega…",
+    "options": [
+      "Por el centro del canal",
+      "Cerca del límite exterior del canal, por su estribor",
+      "Por babor",
+      "Cortando las derrotas"
+    ],
+    "answer": 1,
+    "explanation": "Sin estorbar la maniobra de los buques."
+  },
+  {
+    "id": "g-0636",
+    "topic": "leg",
+    "q": "La pesca deportiva a barlomar de almadrabas o viveros…",
+    "options": ["Está permitida", "Está prohibida", "Solo de noche", "Con licencia especial"],
+    "answer": 1,
+    "explanation": "Norma de tráfico marítimo."
+  },
+  {
+    "id": "g-0637",
+    "topic": "leg",
+    "q": "En la franja de 50 m del litoral, las actividades deportivas o de recreo no pueden superar…",
+    "options": ["1 nudo", "3 nudos", "5 nudos", "10 nudos"],
+    "answer": 1,
+    "explanation": "Lugares próximos a la costa."
+  },
+  {
+    "id": "g-0638",
+    "topic": "leg",
+    "q": "En una playa no balizada, se considera zona de baño la franja de…",
+    "options": ["50 m", "100 m", "200 m", "500 m"],
+    "answer": 2,
+    "explanation": "Dentro, como máximo 3 nudos."
+  },
+  {
+    "id": "g-0639",
+    "topic": "leg",
+    "q": "Las boyas que balizan una playa son…",
+    "options": [
+      "Esféricas rojas a 100 m",
+      "Cónicas amarillas a 200 m de la orilla y a menos de 200 m entre sí",
+      "Cilíndricas verdes a 50 m",
+      "Cardinales"
+    ],
+    "answer": 1,
+    "explanation": "Sistema de balizamiento de playas."
+  },
+  {
+    "id": "g-0640",
+    "topic": "leg",
+    "q": "El canal de acceso a una playa tiene una anchura de…",
+    "options": ["5–10 m", "25–50 m", "100 m", "200 m"],
+    "answer": 1,
+    "explanation": "Marcado con boyarines amarillos y una boya lateral a cada lado de la entrada."
+  },
+  {
+    "id": "g-0641",
+    "topic": "leg",
+    "q": "En el canal de acceso a la playa…",
+    "options": [
+      "Se puede bañar",
+      "No se puede bañar, pero sí navegar balandros, auxiliares y artefactos flotantes",
+      "Solo pueden entrar motos náuticas",
+      "Se puede fondear"
+    ],
+    "answer": 1,
+    "explanation": "Y se navega a menos de 3 nudos."
+  },
+  {
+    "id": "g-0642",
+    "topic": "leg",
+    "q": "En una reserva marina se puede…",
+    "options": [
+      "Fondear",
+      "Amarrar a las boyas habilitadas",
+      "Pescar desde la embarcación",
+      "Hacer esquí náutico"
+    ],
+    "answer": 1,
+    "explanation": "El fondeo está prohibido."
+  },
+  {
+    "id": "g-0643",
+    "topic": "leg",
+    "q": "En una reserva marina, la navegación a motor solo se permite…",
+    "options": [
+      "Libremente",
+      "Para acercarse a las boyas a menos de 3 nudos",
+      "De noche",
+      "A más de 10 nudos"
+    ],
+    "answer": 1,
+    "explanation": "Además, la pesca recreativa está prohibida en todas sus modalidades."
+  },
+  {
+    "id": "g-0644",
+    "topic": "leg",
+    "q": "Salvo la embarcación de apoyo, hay que mantenerse de una zona de buceo al menos a…",
+    "options": ["25 m", "50 m", "100 m", "200 m"],
+    "answer": 1,
+    "explanation": "Según el manual y los exámenes de la GVA."
+  },
+  {
+    "id": "g-0645",
+    "topic": "leg",
+    "q": "La bandera Alfa izada sola significa…",
+    "options": [
+      "Necesito práctico",
+      "Tengo un buzo sumergido; manténgase alejado y a poca velocidad",
+      "Transporto mercancías peligrosas",
+      "Necesito ayuda"
+    ],
+    "answer": 1,
+    "explanation": "Blanca y azul, en forma de corneta."
+  },
+  {
+    "id": "g-0646",
+    "topic": "leg",
+    "q": "La bandera roja con una franja diagonal blanca es la…",
+    "options": ["Alfa", "Bravo modificada", "Bravo", "Oscar"],
+    "answer": 1,
+    "explanation": "Mismo significado que la Alfa; en España no tiene cobertura legal, pero se tolera."
+  },
+  {
+    "id": "g-0647",
+    "topic": "leg",
+    "q": "La bandera Bravo (sin modificar) del Código Internacional izada sola significa…",
+    "options": [
+      "Buzo sumergido",
+      "Estoy cargando, descargando o transportando mercancías peligrosas",
+      "Hombre al agua",
+      "Tengo práctico"
+    ],
+    "answer": 1,
+    "explanation": "De ella derivó la Bravo modificada."
+  },
+  {
+    "id": "g-0648",
+    "topic": "leg",
+    "q": "Las embarcaciones de recreo deben cumplir los anexos del MARPOL…",
+    "options": ["I, V y VI", "II y III", "IV solamente", "Todos"],
+    "answer": 0,
+    "explanation": "Hidrocarburos, basuras y contaminación atmosférica."
+  },
+  {
+    "id": "g-0649",
+    "topic": "leg",
+    "q": "El tanque de retención de aguas sucias debe indicar cuando su contenido supera…",
+    "options": ["La mitad", "Los 3/4", "El 90 %", "El 100 %"],
+    "answer": 1,
+    "explanation": "Para vaciarlo a tiempo."
+  },
+  {
+    "id": "g-0650",
+    "topic": "leg",
+    "q": "Como referencia, un barco autorizado para 8 personas necesita un tanque de aguas sucias de unos…",
+    "options": ["16 L", "32 L", "64 L", "120 L"],
+    "answer": 2,
+    "explanation": "8 personas × 4 L × 2 días."
+  },
+  {
+    "id": "g-0651",
+    "topic": "leg",
+    "q": "En zona 7 (puertos, rías, bahías), la descarga de aguas sucias…",
+    "options": [
+      "Se permite tratada",
+      "No se permite ni siquiera tratada",
+      "Se permite a 4 nudos",
+      "Se permite de noche"
+    ],
+    "answer": 1,
+    "explanation": "Fuera de la zona 7 y hasta 3 mn, solo con planta de tratamiento homologada."
+  },
+  {
+    "id": "g-0652",
+    "topic": "leg",
+    "q": "Las aguas sucias retenidas se descargan, cuando está permitido…",
+    "options": [
+      "De golpe",
+      "A ritmo moderado, navegando a 4 nudos como mínimo",
+      "Fondeado",
+      "En puerto al mar"
+    ],
+    "answer": 1,
+    "explanation": "Nunca instantáneamente."
+  },
+  {
+    "id": "g-0653",
+    "topic": "leg",
+    "q": "El tanque de retención fijo debe tener…",
+    "options": [
+      "Una conexión universal a tierra",
+      "Un filtro de carbón",
+      "Una bomba eléctrica",
+      "Un desagüe por el imbornal"
+    ],
+    "answer": 0,
+    "explanation": "Para acoplarlo a las instalaciones de recepción."
+  },
+  {
+    "id": "g-0654",
+    "topic": "leg",
+    "q": "Las sanciones por equipos de prevención de aguas sucias van de…",
+    "options": ["100 a 500 €", "500 a 3.000 €", "3.000 a 30.000 €", "No hay sanción"],
+    "answer": 1,
+    "explanation": "RD 339/2021."
+  },
+  {
+    "id": "g-0655",
+    "topic": "leg",
+    "q": "En el Mediterráneo, los restos de comida pueden echarse al mar…",
+    "options": ["A más de 3 mn", "Nunca a menos de 12 mn", "En puerto", "A más de 25 mn"],
+    "answer": 1,
+    "explanation": "Todas las demás basuras están prohibidas."
+  },
+  {
+    "id": "g-0656",
+    "topic": "leg",
+    "q": "Los plásticos pueden echarse al mar…",
+    "options": ["A más de 12 mn", "A más de 25 mn", "Nunca", "Triturados a 3 mn"],
+    "answer": 2,
+    "explanation": "Incluidos cabos, redes sintéticas y bolsas de basura."
+  },
+  {
+    "id": "g-0657",
+    "topic": "leg",
+    "q": "Si las basuras están mezcladas con otros residuos con distintas normas, se aplica…",
+    "options": ["La más permisiva", "La más rigurosa", "La del puerto", "Ninguna"],
+    "answer": 1,
+    "explanation": "Siempre la más estricta."
+  },
+  {
+    "id": "g-0658",
+    "topic": "leg",
+    "q": "Un barco de recreo con base en un puerto español justifica la entrega de sus desechos ante Capitanía…",
+    "options": ["Cada mes", "Cada año", "Cada 5 años", "Nunca"],
+    "answer": 1,
+    "explanation": "Con el recibo anual de la instalación receptora."
+  },
+  {
+    "id": "g-0659",
+    "topic": "leg",
+    "q": "De las infracciones por contaminación desde buques responden solidariamente…",
+    "options": [
+      "Solo el capitán",
+      "El naviero, el propietario, el asegurador y el capitán",
+      "Solo el propietario",
+      "La Capitanía"
+    ],
+    "answer": 1,
+    "explanation": "Y deben reparar el daño."
+  },
+  {
+    "id": "g-0660",
+    "topic": "leg",
+    "q": "Si en la mar avistas un vertido de hidrocarburos, debes avisar a…",
+    "options": [
+      "La Guardia Civil",
+      "Salvamento Marítimo (Centro de Coordinación o 900 202 202)",
+      "El club náutico",
+      "Nadie"
+    ],
+    "answer": 1,
+    "explanation": "En puerto, a la Autoridad Marítima."
+  },
+  {
+    "id": "g-0661",
+    "topic": "leg",
+    "q": "El uso de la bandera de España en barcos de recreo lo regula el…",
+    "options": ["RD 339/2021", "RD 2335/1980", "RD 875/2014", "RD 128/2022"],
+    "answer": 1,
+    "explanation": "De 10 de octubre de 1980."
+  },
+  {
+    "id": "g-0662",
+    "topic": "leg",
+    "q": "En un velero, el pabellón nacional puede izarse en…",
+    "options": [
+      "La cruceta de estribor",
+      "El asta de popa o el pico del palo mayor",
+      "El tope del palo",
+      "La proa"
+    ],
+    "answer": 1,
+    "explanation": "Se reservan para la bandera de España."
+  },
+  {
+    "id": "g-0663",
+    "topic": "leg",
+    "q": "El tamaño de cualquier otra bandera izada junto al pabellón nacional no puede superar…",
+    "options": ["La mitad", "Un tercio", "Dos tercios", "El mismo tamaño"],
+    "answer": 1,
+    "explanation": "Y ninguna puede ir izada sin el pabellón nacional."
+  },
+  {
+    "id": "g-0664",
+    "topic": "leg",
+    "q": "En puerto, los festivos el pabellón nacional se iza…",
+    "options": ["Solo al mediodía", "De sol a sol", "Toda la noche", "No se iza"],
+    "answer": 1,
+    "explanation": "También al entrar y salir de puerto y a la vista de buques de guerra."
+  },
+  {
+    "id": "g-0665",
+    "topic": "leg",
+    "q": "La obligación de prestar auxilio a personas en peligro en la mar la establece…",
+    "options": ["El MARPOL", "El SOLAS, capítulo V, regla 33", "El RIPA", "El RD 339/2021"],
+    "answer": 1,
+    "explanation": "Acudiendo a toda máquina."
+  },
+  {
+    "id": "g-0666",
+    "topic": "leg",
+    "q": "Si un capitán no acude a un auxilio por considerarlo innecesario, debe…",
+    "options": [
+      "No hacer nada",
+      "Anotar el motivo en el diario de navegación e informar a salvamento",
+      "Llamar a la Guardia Civil",
+      "Izar la bandera Alfa"
+    ],
+    "answer": 1,
+    "explanation": "Según las recomendaciones de la OMI."
+  },
+  {
+    "id": "g-0667",
+    "topic": "leg",
+    "q": "El Protocolo que creó las ZEPIM se firmó en 1995 en el marco del…",
+    "options": ["Convenio MARPOL", "Convenio de Barcelona", "Convenio SOLAS", "Tratado de Lisboa"],
+    "answer": 1,
+    "explanation": "Zonas Especialmente Protegidas de Importancia para el Mediterráneo."
+  },
+  {
+    "id": "g-0668",
+    "topic": "leg",
+    "q": "¿Cuántas ZEPIM tiene España?",
+    "options": ["3", "5", "9", "15"],
+    "answer": 2,
+    "explanation": "Es el país mediterráneo con más."
+  },
+  {
+    "id": "g-0669",
+    "topic": "leg",
+    "q": "La única ZEPIM de la Comunitat Valenciana es…",
+    "options": ["Tabarca", "Islas Columbretes", "Cabo de San Antonio", "Serra Gelada"],
+    "answer": 1,
+    "explanation": "Tabarca es reserva marina, pero no ZEPIM."
+  },
+  {
+    "id": "g-0670",
+    "topic": "leg",
+    "q": "¿Cuál de estas NO es una ZEPIM española?",
+    "options": ["Cabo de Gata-Níjar", "Archipiélago de Cabrera", "Isla de Tabarca", "Illes Medes"],
+    "answer": 2,
+    "explanation": "Pregunta real en los exámenes de la GVA."
+  },
+  {
+    "id": "g-0671",
+    "topic": "leg",
+    "q": "La posidonia oceánica vive a profundidades de…",
+    "options": ["Menos de 50 m", "Entre 100 y 200 m", "Más de 200 m", "Solo en la orilla"],
+    "answer": 0,
+    "explanation": "Donde llega la luz para la fotosíntesis."
+  },
+  {
+    "id": "g-0672",
+    "topic": "leg",
+    "q": "Las praderas de posidonia también se llaman…",
+    "options": ["Arrecifes", "Algueros o alguers", "Manglares", "Bajos"],
+    "answer": 1,
+    "explanation": "Son la principal fuente de oxigenación del Mediterráneo."
+  },
+  {
+    "id": "g-0673",
+    "topic": "leg",
+    "q": "¿Qué proporción de la contaminación del Mediterráneo tiene origen en tierra?",
+    "options": ["Un tercio", "La mitad", "Dos tercios", "Casi nada"],
+    "answer": 2,
+    "explanation": "La llevan ríos, ramblas y cauces."
+  }
+]

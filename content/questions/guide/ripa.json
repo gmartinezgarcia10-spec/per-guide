@@ -1,0 +1,1697 @@
+[
+  {
+    "id": "g-0047",
+    "topic": "ripa",
+    "q": "Un buque de propulsión mecánica y uno de vela se cruzan con riesgo de abordaje. Maniobra…",
+    "options": [
+      "El de vela",
+      "El de propulsión mecánica",
+      "Ambos a estribor",
+      "El que tenga al otro por babor"
+    ],
+    "answer": 1,
+    "explanation": "Salvo que el velero esté alcanzando."
+  },
+  {
+    "id": "g-0048",
+    "topic": "ripa",
+    "q": "Dos veleros reciben el viento por bandas distintas. Maniobra el que…",
+    "options": ["Lo recibe por estribor", "Lo recibe por babor", "Está a sotavento", "Es más grande"],
+    "answer": 1,
+    "explanation": "El amurado a babor se aparta."
+  },
+  {
+    "id": "g-0049",
+    "topic": "ripa",
+    "q": "Dos veleros reciben el viento por la misma banda. Maniobra el que está…",
+    "options": ["A barlovento", "A sotavento", "Más a proa", "Más rápido"],
+    "answer": 0,
+    "explanation": "El de barlovento se aparta."
+  },
+  {
+    "id": "g-0050",
+    "topic": "ripa",
+    "q": "Un buque alcanza a otro cuando se aproxima desde una marcación mayor de…",
+    "options": ["11,25° a popa del través", "22,5° a popa del través", "45° a proa", "90°"],
+    "answer": 1,
+    "explanation": "22,5° a popa del través: de noche solo vería la luz de alcance."
+  },
+  {
+    "id": "g-0051",
+    "topic": "ripa",
+    "q": "Un pesquero alcanza a un velero por babor con riesgo de abordaje. Debe maniobrar…",
+    "options": [
+      "El velero, por ser más maniobrable",
+      "El pesquero, porque es el que alcanza",
+      "El velero, por ser el alcanzado",
+      "Ninguno"
+    ],
+    "answer": 1,
+    "explanation": "El que alcanza siempre se mantiene apartado."
+  },
+  {
+    "id": "g-0052",
+    "topic": "ripa",
+    "q": "Dos buques de propulsión mecánica de vuelta encontrada deben…",
+    "options": ["Caer ambos a babor", "Caer ambos a estribor", "Parar máquinas", "Maniobrar el más pequeño"],
+    "answer": 1,
+    "explanation": "Regla 14."
+  },
+  {
+    "id": "g-0053",
+    "topic": "ripa",
+    "q": "En un cruce entre dos buques de propulsión mecánica maniobra el que…",
+    "options": ["Ve al otro por su babor", "Ve al otro por su estribor", "Es más rápido", "Es más grande"],
+    "answer": 1,
+    "explanation": "Regla 15, y evitando cortarle la proa."
+  },
+  {
+    "id": "g-0054",
+    "topic": "ripa",
+    "q": "Dos luces rojas todo horizonte en línea vertical indican un buque…",
+    "options": ["Fondeado", "Sin gobierno", "Restringido por su calado", "De práctico"],
+    "answer": 1,
+    "explanation": "Rojo-rojo: sin gobierno. De día, dos esferas."
+  },
+  {
+    "id": "g-0055",
+    "topic": "ripa",
+    "q": "Luces roja, blanca y roja todo horizonte en vertical indican un buque…",
+    "options": ["Sin gobierno", "Con maniobrabilidad restringida", "Pesquero", "Varado"],
+    "answer": 1,
+    "explanation": "De día: esfera, bicono, esfera."
+  },
+  {
+    "id": "g-0056",
+    "topic": "ripa",
+    "q": "Las luces de un buque restringido por su calado son…",
+    "options": [
+      "Tres rojas todo horizonte en vertical",
+      "Roja, blanca, roja",
+      "Dos verdes",
+      "Blanca sobre roja"
+    ],
+    "answer": 0,
+    "explanation": "De día, un cilindro."
+  },
+  {
+    "id": "g-0057",
+    "topic": "ripa",
+    "q": "Luz verde sobre blanca todo horizonte corresponde a un…",
+    "options": ["Práctico", "Pesquero de arrastre", "Pesquero no de arrastre", "Remolcador"],
+    "answer": 1,
+    "explanation": "«Verde sobre blanco, arrastrero»."
+  },
+  {
+    "id": "g-0058",
+    "topic": "ripa",
+    "q": "El buque que de noche exhibe dos rojas en vertical y, más abajo y a la izquierda, otra roja es…",
+    "options": [
+      "Con maniobra restringida",
+      "Sin gobierno con arrancada, visto por babor",
+      "Restringido por su calado",
+      "Pesquero no de arrastre"
+    ],
+    "answer": 1,
+    "explanation": "La roja de abajo es su luz de costado de babor."
+  },
+  {
+    "id": "g-0059",
+    "topic": "ripa",
+    "q": "Un buque fondeado de eslora inferior a 50 m exhibirá de día…",
+    "options": ["Dos esferas negras", "Una esfera negra", "Un cono vértice abajo", "Un cilindro"],
+    "answer": 1,
+    "explanation": "Y de noche, una luz blanca todo horizonte a proa."
+  },
+  {
+    "id": "g-0060",
+    "topic": "ripa",
+    "q": "Una marca bicónica negra (dos conos unidos por la base) indica…",
+    "options": [
+      "Remolcador con remolque de más de 200 m",
+      "Buque restringido por su calado",
+      "Pesquero",
+      "Buque sin gobierno"
+    ],
+    "answer": 0,
+    "explanation": "Bicono = remolque de más de 200 m."
+  },
+  {
+    "id": "g-0061",
+    "topic": "ripa",
+    "q": "Un velero que navega también a motor exhibirá de día…",
+    "options": ["Un cono vértice arriba", "Un cono vértice abajo", "Una esfera", "Nada"],
+    "answer": 1,
+    "explanation": "Cono con el vértice abajo, a proa."
+  },
+  {
+    "id": "g-0062",
+    "topic": "ripa",
+    "q": "El sector de la luz de alcance es de…",
+    "options": ["112,5°", "135°", "225°", "360°"],
+    "answer": 1,
+    "explanation": "Tope 225°, costado 112,5°, alcance 135°."
+  },
+  {
+    "id": "g-0063",
+    "topic": "ripa",
+    "q": "Una pitada corta significa…",
+    "options": ["Caigo a babor", "Caigo a estribor", "Doy atrás", "Duda"],
+    "answer": 1,
+    "explanation": "Dos cortas: a babor. Tres: atrás."
+  },
+  {
+    "id": "g-0064",
+    "topic": "ripa",
+    "q": "Cinco o más pitadas cortas y rápidas significan…",
+    "options": ["Socorro", "Duda sobre las intenciones del otro", "Fondeado", "Voy a adelantar"],
+    "answer": 1,
+    "explanation": "Regla 34(d)."
+  },
+  {
+    "id": "g-0065",
+    "topic": "ripa",
+    "q": "Con niebla, una pitada larga cada 2 minutos como máximo la emite un buque…",
+    "options": [
+      "De vela",
+      "De propulsión mecánica con arrancada",
+      "Fondeado",
+      "De propulsión mecánica parado"
+    ],
+    "answer": 1,
+    "explanation": "Dos largas: en navegación pero parado."
+  },
+  {
+    "id": "g-0066",
+    "topic": "ripa",
+    "q": "Con poca visibilidad, una larga y dos cortas cada 2 minutos como máximo indica un buque…",
+    "options": ["Remolcado", "Restringido por su calado", "De propulsión mecánica con arrancada", "Fondeado"],
+    "answer": 1,
+    "explanation": "También sin gobierno, maniobra restringida, vela, pesca y remolcador."
+  },
+  {
+    "id": "g-0067",
+    "topic": "ripa",
+    "q": "Un repique rápido de campana de unos 5 s cada minuto con niebla indica un buque…",
+    "options": ["Varado", "Fondeado", "Remolcado", "Sin gobierno"],
+    "answer": 1,
+    "explanation": "Varado: tres golpes, repique y tres golpes."
+  },
+  {
+    "id": "g-0068",
+    "topic": "ripa",
+    "q": "Las embarcaciones de eslora superior a 20 m e inferior a 100 m deben llevar…",
+    "options": ["Solo pito", "Pito y campana", "Pito, campana y gong", "Megáfono"],
+    "answer": 1,
+    "explanation": "Desde 100 m, también gong."
+  },
+  {
+    "id": "g-0069",
+    "topic": "ripa",
+    "q": "En un canal angosto, un buque de menos de 20 m…",
+    "options": [
+      "Tiene preferencia",
+      "No estorbará a los que solo pueden navegar dentro del canal",
+      "Debe navegar por el centro",
+      "Debe fondear"
+    ],
+    "answer": 1,
+    "explanation": "Regla 9."
+  },
+  {
+    "id": "g-0070",
+    "topic": "ripa",
+    "q": "Si se cruza un dispositivo de separación de tráfico, se hará…",
+    "options": [
+      "Con rumbo perpendicular a la dirección general del tráfico",
+      "Con un ángulo de 45°",
+      "Siguiendo la vía de tráfico",
+      "Por la zona de separación"
+    ],
+    "answer": 0,
+    "explanation": "Regla 10."
+  },
+  {
+    "id": "g-0071",
+    "topic": "ripa",
+    "q": "Existe riesgo de abordaje si la demora de un buque que se aproxima…",
+    "options": ["Aumenta rápidamente", "No varía de forma apreciable", "Disminuye", "Cambia 90°"],
+    "answer": 1,
+    "explanation": "Regla 7."
+  },
+  {
+    "id": "g-0072",
+    "topic": "ripa",
+    "q": "Blanca sobre roja todo horizonte indica un buque…",
+    "options": ["Pesquero", "Práctico en servicio", "Fondeado", "Sin gobierno"],
+    "answer": 1,
+    "explanation": "«Blanco sobre rojo, práctico a bordo»."
+  },
+  {
+    "id": "g-0073",
+    "topic": "ripa",
+    "q": "Cuando hay gran densidad de tráfico la velocidad debe ser…",
+    "options": ["De seguridad", "De autonomía", "De 3 nudos", "Mínima de gobierno"],
+    "answer": 0,
+    "explanation": "Regla 6."
+  },
+  {
+    "id": "g-0074",
+    "topic": "ripa",
+    "q": "En los cambios de rumbo para evitar un abordaje hay que evitar…",
+    "options": [
+      "Caer a estribor",
+      "Que sean amplios",
+      "Pasar por la popa del otro",
+      "Una sucesión de cambios pequeños"
+    ],
+    "answer": 3,
+    "explanation": "Regla 8: cambios amplios y claros."
+  },
+  {
+    "id": "g-0180",
+    "topic": "ripa",
+    "q": "Un velero que navega a vela y con el motor en marcha se considera, a efectos del RIPA…",
+    "options": ["Buque de vela", "Buque de propulsión mecánica", "Buque sin gobierno", "Buque restringido"],
+    "answer": 1,
+    "explanation": "Si usa el motor, es de propulsión mecánica."
+  },
+  {
+    "id": "g-0181",
+    "topic": "ripa",
+    "q": "Un buque que pesca al curricán (con líneas) se considera…",
+    "options": [
+      "Dedicado a la pesca",
+      "Buque de propulsión mecánica (o de vela) normal",
+      "Con maniobra restringida",
+      "Sin gobierno"
+    ],
+    "answer": 1,
+    "explanation": "Solo cuenta como pesca si el aparejo restringe su maniobra."
+  },
+  {
+    "id": "g-0182",
+    "topic": "ripa",
+    "q": "Un buque está «en navegación» cuando…",
+    "options": ["Lleva arrancada", "No está fondeado, amarrado ni varado", "Usa el motor", "Navega de día"],
+    "answer": 1,
+    "explanation": "Puede estar parado y seguir en navegación."
+  },
+  {
+    "id": "g-0183",
+    "topic": "ripa",
+    "q": "De noche ves solo una luz roja de un buque. Lo estás viendo por su…",
+    "options": ["Estribor", "Babor", "Popa", "Proa"],
+    "answer": 1,
+    "explanation": "Roja = costado de babor."
+  },
+  {
+    "id": "g-0184",
+    "topic": "ripa",
+    "q": "Ves de noche una luz blanca alta y, debajo, una roja y una verde a la vez. Es un buque de motor…",
+    "options": ["Que te alcanza", "Que viene de frente hacia ti", "Que te enseña su popa", "Fondeado"],
+    "answer": 1,
+    "explanation": "Ves sus dos costados: viene de vuelta encontrada."
+  },
+  {
+    "id": "g-0185",
+    "topic": "ripa",
+    "q": "Si de un buque solo ves la luz blanca de alcance, tú estás…",
+    "options": ["Por su proa", "A más de 22,5° a popa de su través", "Por su través", "En su estribor"],
+    "answer": 1,
+    "explanation": "Si te acercas, le estás alcanzando."
+  },
+  {
+    "id": "g-0186",
+    "topic": "ripa",
+    "q": "El sector de la luz de tope es de…",
+    "options": ["112,5°", "135°", "225°", "360°"],
+    "answer": 2,
+    "explanation": "Desde la proa hasta 22,5° a popa del través por cada banda."
+  },
+  {
+    "id": "g-0187",
+    "topic": "ripa",
+    "q": "El alcance mínimo de la luz de tope de un buque de menos de 12 m es…",
+    "options": ["1 mn", "2 mn", "3 mn", "5 mn"],
+    "answer": 1,
+    "explanation": "Costados 1 mn, tope y alcance 2 mn."
+  },
+  {
+    "id": "g-0188",
+    "topic": "ripa",
+    "q": "Los buques de 50 m o más llevan dos luces de tope, estando la de popa…",
+    "options": ["Más baja", "Más alta", "A la misma altura", "A estribor"],
+    "answer": 1,
+    "explanation": "Permite saber su rumbo de noche."
+  },
+  {
+    "id": "g-0189",
+    "topic": "ripa",
+    "q": "Una luz amarilla sobre la luz de alcance la exhibe…",
+    "options": ["Un práctico", "Un buque que remolca", "Un pesquero", "Un buque fondeado"],
+    "answer": 1,
+    "explanation": "Luz de remolque."
+  },
+  {
+    "id": "g-0190",
+    "topic": "ripa",
+    "q": "Tres luces de tope blancas en línea vertical a proa indican…",
+    "options": ["Remolque de más de 200 m", "Remolque de menos de 200 m", "Buque varado", "Dragaminas"],
+    "answer": 0,
+    "explanation": "Dos topes si el remolque es ≤ 200 m."
+  },
+  {
+    "id": "g-0191",
+    "topic": "ripa",
+    "q": "Roja sobre blanca todo horizonte indica un buque…",
+    "options": ["De práctico", "Pesquero que no es de arrastre", "De arrastre", "Sin gobierno"],
+    "answer": 1,
+    "explanation": "Blanca sobre roja sería el práctico."
+  },
+  {
+    "id": "g-0192",
+    "topic": "ripa",
+    "q": "De día, tres esferas negras en línea vertical indican un buque…",
+    "options": ["Fondeado", "Varado", "Sin gobierno", "Pescando"],
+    "answer": 1,
+    "explanation": "Varado. Fondeado: una esfera. Sin gobierno: dos."
+  },
+  {
+    "id": "g-0193",
+    "topic": "ripa",
+    "q": "Un cilindro negro izado de día indica un buque…",
+    "options": ["Sin gobierno", "Restringido por su calado", "Fondeado", "De vela a motor"],
+    "answer": 1,
+    "explanation": "De noche: tres rojas en vertical."
+  },
+  {
+    "id": "g-0194",
+    "topic": "ripa",
+    "q": "Esfera, bicono y esfera en vertical indican de día un buque…",
+    "options": ["Con maniobrabilidad restringida", "Varado", "Pescando", "Remolcando"],
+    "answer": 0,
+    "explanation": "Equivale a roja-blanca-roja."
+  },
+  {
+    "id": "g-0195",
+    "topic": "ripa",
+    "q": "Dos conos unidos por los vértices indican de día un buque…",
+    "options": ["Remolcando", "Dedicado a la pesca", "Fondeado", "De práctico"],
+    "answer": 1,
+    "explanation": "Arrastrero o no arrastrero."
+  },
+  {
+    "id": "g-0196",
+    "topic": "ripa",
+    "q": "Tres luces verdes (una en el tope y una en cada penol) indican…",
+    "options": [
+      "Un remolcador",
+      "Un dragaminas: no acercarse a menos de 1000 m",
+      "Un pesquero",
+      "Un práctico"
+    ],
+    "answer": 1,
+    "explanation": "Dragaminas."
+  },
+  {
+    "id": "g-0197",
+    "topic": "ripa",
+    "q": "En visibilidad reducida, dos pitadas largas cada 2 minutos indican un buque de propulsión mecánica…",
+    "options": ["Con arrancada", "En navegación pero parado y sin arrancada", "Fondeado", "Remolcando"],
+    "answer": 1,
+    "explanation": "Una larga: con arrancada."
+  },
+  {
+    "id": "g-0198",
+    "topic": "ripa",
+    "q": "Dos pitadas largas seguidas de una corta, en un canal angosto, significan…",
+    "options": [
+      "Pretendo alcanzarle por su estribor",
+      "Pretendo alcanzarle por su babor",
+      "Conforme",
+      "Duda"
+    ],
+    "answer": 0,
+    "explanation": "Dos largas y dos cortas: por su babor."
+  },
+  {
+    "id": "g-0199",
+    "topic": "ripa",
+    "q": "La señal de conformidad del buque que va a ser alcanzado en un canal es…",
+    "options": ["Cinco cortas", "Larga, corta, larga, corta", "Tres cortas", "Una larga"],
+    "answer": 1,
+    "explanation": "— · — ·"
+  },
+  {
+    "id": "g-0200",
+    "topic": "ripa",
+    "q": "Un buque de vela alcanza a uno de propulsión mecánica. Debe maniobrar…",
+    "options": ["El de propulsión mecánica", "El de vela", "Ninguno", "Los dos a estribor"],
+    "answer": 1,
+    "explanation": "El que alcanza se aparta siempre."
+  },
+  {
+    "id": "g-0201",
+    "topic": "ripa",
+    "q": "El buque que sigue a rumbo, si ve que el otro no maniobra, …",
+    "options": [
+      "Debe mantener rumbo y velocidad pase lo que pase",
+      "Puede maniobrar para evitar el abordaje",
+      "Debe caer a babor",
+      "Debe parar siempre"
+    ],
+    "answer": 1,
+    "explanation": "Regla 17: puede, y si el abordaje es inminente, debe."
+  },
+  {
+    "id": "g-0202",
+    "topic": "ripa",
+    "q": "Con visibilidad reducida y contacto solo por radar con un buque a proa del través, se evitará…",
+    "options": [
+      "Caer a estribor",
+      "Caer a babor (salvo que se le esté alcanzando)",
+      "Reducir velocidad",
+      "Parar"
+    ],
+    "answer": 1,
+    "explanation": "Regla 19."
+  },
+  {
+    "id": "g-0203",
+    "topic": "ripa",
+    "q": "Un buque de menos de 12 m debe llevar como medio de señales acústicas…",
+    "options": ["Pito y campana", "Gong", "Algún medio eficaz de hacer señales acústicas", "Nada"],
+    "answer": 2,
+    "explanation": "Pito a partir de 12 m."
+  },
+  {
+    "id": "g-0204",
+    "topic": "ripa",
+    "q": "Una luz o bengala blanca…",
+    "options": [
+      "Es señal de socorro",
+      "No es señal de socorro; sirve para llamar la atención",
+      "Indica buque varado",
+      "Indica buque fondeado"
+    ],
+    "answer": 1,
+    "explanation": "La de socorro es roja."
+  },
+  {
+    "id": "g-0205",
+    "topic": "ripa",
+    "q": "Es una señal de socorro…",
+    "options": ["Una pitada larga", "Las banderas N sobre C", "La bandera Alfa", "Una luz verde"],
+    "answer": 1,
+    "explanation": "Anexo IV."
+  },
+  {
+    "id": "g-0348",
+    "topic": "ripa",
+    "q": "La regla 5 del RIPA obliga a mantener en todo momento…",
+    "options": [
+      "Velocidad máxima",
+      "Una eficaz vigilancia visual y auditiva",
+      "El motor en marcha",
+      "La radio apagada"
+    ],
+    "answer": 1,
+    "explanation": "Vigilancia por todos los medios."
+  },
+  {
+    "id": "g-0349",
+    "topic": "ripa",
+    "q": "Ante la duda sobre si existe riesgo de abordaje…",
+    "options": ["Se considera que no existe", "Se considera que existe", "Se para el motor", "Se fondea"],
+    "answer": 1,
+    "explanation": "Regla 7."
+  },
+  {
+    "id": "g-0350",
+    "topic": "ripa",
+    "q": "Las maniobras para evitar un abordaje deben ser…",
+    "options": [
+      "Pequeñas y sucesivas",
+      "Amplias, claras y con antelación",
+      "Solo de velocidad",
+      "Hacia babor"
+    ],
+    "answer": 1,
+    "explanation": "Regla 8."
+  },
+  {
+    "id": "g-0351",
+    "topic": "ripa",
+    "q": "Reducir la velocidad para evitar un abordaje…",
+    "options": ["No se considera maniobra", "Es una maniobra válida", "Está prohibido", "Solo vale de noche"],
+    "answer": 1,
+    "explanation": "Reducir, parar o invertir máquinas son maniobras."
+  },
+  {
+    "id": "g-0352",
+    "topic": "ripa",
+    "q": "En un canal angosto los buques navegarán…",
+    "options": [
+      "Por el centro",
+      "Lo más cerca posible del límite exterior de estribor",
+      "Por babor",
+      "Por cualquier lado"
+    ],
+    "answer": 1,
+    "explanation": "Regla 9."
+  },
+  {
+    "id": "g-0353",
+    "topic": "ripa",
+    "q": "Un buque de propulsión mecánica en navegación se aparta de…",
+    "options": [
+      "Ninguno",
+      "Sin gobierno, maniobra restringida, pesca y vela",
+      "Solo de los de vela",
+      "Solo de los mayores"
+    ],
+    "answer": 1,
+    "explanation": "Regla 18."
+  },
+  {
+    "id": "g-0354",
+    "topic": "ripa",
+    "q": "Un velero se aparta de…",
+    "options": [
+      "Un buque de motor",
+      "Un buque pescando, sin gobierno o con maniobra restringida",
+      "Ninguno",
+      "Una moto náutica"
+    ],
+    "answer": 1,
+    "explanation": "Regla 18."
+  },
+  {
+    "id": "g-0355",
+    "topic": "ripa",
+    "q": "Un buque dedicado a la pesca se aparta de…",
+    "options": ["Los de vela", "Los sin gobierno y con maniobra restringida", "Los de motor", "Ninguno"],
+    "answer": 1,
+    "explanation": "Y en lo posible no estorba al restringido por calado."
+  },
+  {
+    "id": "g-0356",
+    "topic": "ripa",
+    "q": "Un buque sin gobierno que lleva arrancada exhibe…",
+    "options": ["Solo dos rojas", "Dos rojas y luces de costado y alcance", "Luz de tope", "Tres rojas"],
+    "answer": 1,
+    "explanation": "Pero no luz de tope."
+  },
+  {
+    "id": "g-0357",
+    "topic": "ripa",
+    "q": "De noche ves una luz verde y una luz blanca más alta. Ves un buque de motor por su…",
+    "options": ["Babor", "Estribor", "Popa", "Proa"],
+    "answer": 1,
+    "explanation": "Verde = estribor."
+  },
+  {
+    "id": "g-0358",
+    "topic": "ripa",
+    "q": "Ves una luz blanca, otra blanca más alta a su derecha y una roja. Es un buque de motor de más de 50 m visto por su…",
+    "options": ["Estribor", "Babor", "Popa", "Proa"],
+    "answer": 1,
+    "explanation": "Roja = babor; la de popa más alta."
+  },
+  {
+    "id": "g-0359",
+    "topic": "ripa",
+    "q": "Una sola luz blanca todo horizonte vista de noche puede ser…",
+    "options": [
+      "Un buque de motor menor de 7 m o un buque fondeado",
+      "Un práctico",
+      "Un velero de 20 m",
+      "Un remolcador"
+    ],
+    "answer": 0,
+    "explanation": "O la luz de alcance de cualquiera."
+  },
+  {
+    "id": "g-0360",
+    "topic": "ripa",
+    "q": "La luz opcional en el tope de un velero es…",
+    "options": ["Blanca sobre roja", "Roja sobre verde", "Verde sobre blanca", "Amarilla"],
+    "answer": 1,
+    "explanation": "Roja sobre verde todo horizonte."
+  },
+  {
+    "id": "g-0361",
+    "topic": "ripa",
+    "q": "Un buque que remolca exhibe sobre su luz de alcance una luz…",
+    "options": ["Blanca", "Roja", "Amarilla de remolque", "Verde"],
+    "answer": 2,
+    "explanation": "Luz de remolque, 135°."
+  },
+  {
+    "id": "g-0362",
+    "topic": "ripa",
+    "q": "Una pitada larga dura aproximadamente…",
+    "options": ["1 s", "De 4 a 6 s", "10 s", "30 s"],
+    "answer": 1,
+    "explanation": "La corta, ≈1 s."
+  },
+  {
+    "id": "g-0363",
+    "topic": "ripa",
+    "q": "Dos pitadas cortas significan…",
+    "options": ["Caigo a estribor", "Caigo a babor", "Doy atrás", "Fondeado"],
+    "answer": 1,
+    "explanation": "Una: a estribor."
+  },
+  {
+    "id": "g-0364",
+    "topic": "ripa",
+    "q": "Con visibilidad reducida, la señal acústica se emite a intervalos que no excedan de…",
+    "options": ["30 s", "1 minuto", "2 minutos", "5 minutos"],
+    "answer": 2,
+    "explanation": "Salvo el fondeado: campana cada minuto."
+  },
+  {
+    "id": "g-0365",
+    "topic": "ripa",
+    "q": "Si oyes a proa del través la señal de niebla de otro buque, debes…",
+    "options": [
+      "Aumentar velocidad",
+      "Reducir al mínimo para gobernar y, si es necesario, parar",
+      "Caer a babor",
+      "Seguir igual"
+    ],
+    "answer": 1,
+    "explanation": "Regla 19."
+  },
+  {
+    "id": "g-0706",
+    "topic": "ripa",
+    "q": "El RIPA se firmó en Londres en…",
+    "options": ["1960", "1972", "1977", "1992"],
+    "answer": 1,
+    "explanation": "El 20 de octubre de 1972; en vigor desde el 15 de julio de 1977."
+  },
+  {
+    "id": "g-0707",
+    "topic": "ripa",
+    "q": "¿Cuántas reglas tiene el RIPA?",
+    "options": ["25", "31", "37", "41"],
+    "answer": 2,
+    "explanation": "37 reglas y varios anexos."
+  },
+  {
+    "id": "g-0708",
+    "topic": "ripa",
+    "q": "El RIPA se aplica…",
+    "options": [
+      "Solo en alta mar",
+      "En alta mar y en las aguas comunicadas con ella navegables por buques de mar",
+      "Solo en aguas territoriales",
+      "Solo a buques mercantes"
+    ],
+    "answer": 1,
+    "explanation": "Regla 1."
+  },
+  {
+    "id": "g-0709",
+    "topic": "ripa",
+    "q": "Los dispositivos de separación del tráfico los adopta…",
+    "options": ["Cada Capitanía", "La OMI", "La IALA", "Salvamento Marítimo"],
+    "answer": 1,
+    "explanation": "Regla 1 d)."
+  },
+  {
+    "id": "g-0710",
+    "topic": "ripa",
+    "q": "Según la regla 2, uno puede apartarse del Reglamento…",
+    "options": ["Nunca", "Para evitar un peligro inmediato", "Cuando tiene preferencia", "De noche"],
+    "answer": 1,
+    "explanation": "Teniendo en cuenta todas las circunstancias."
+  },
+  {
+    "id": "g-0711",
+    "topic": "ripa",
+    "q": "Para el RIPA, la palabra «buque» incluye…",
+    "options": [
+      "Solo los barcos con motor",
+      "También los hidroaviones, aerodeslizadores y naves de vuelo rasante",
+      "Solo los de más de 12 m",
+      "Solo los mercantes"
+    ],
+    "answer": 1,
+    "explanation": "Todo lo que se use para transportarse sobre el agua."
+  },
+  {
+    "id": "g-0712",
+    "topic": "ripa",
+    "q": "Un buque que transborda combustible navegando se considera…",
+    "options": [
+      "Sin gobierno",
+      "Con capacidad de maniobra restringida",
+      "Restringido por su calado",
+      "De propulsión mecánica normal"
+    ],
+    "answer": 1,
+    "explanation": "Regla 3 g)."
+  },
+  {
+    "id": "g-0713",
+    "topic": "ripa",
+    "q": "Dos buques están «a la vista» cuando…",
+    "options": [
+      "Se detectan por radar",
+      "Uno puede ser observado visualmente desde el otro",
+      "Se oyen",
+      "Están a menos de 2 mn"
+    ],
+    "answer": 1,
+    "explanation": "Regla 3 k)."
+  },
+  {
+    "id": "g-0714",
+    "topic": "ripa",
+    "q": "Las reglas de rumbo y gobierno de la sección I se aplican…",
+    "options": ["Solo de día", "En cualquier condición de visibilidad", "Solo con niebla", "Solo a la vista"],
+    "answer": 1,
+    "explanation": "Regla 4."
+  },
+  {
+    "id": "g-0715",
+    "topic": "ripa",
+    "q": "¿Cuál NO es un factor de la velocidad de seguridad?",
+    "options": [
+      "El estado de visibilidad",
+      "El resplandor de las luces de tierra",
+      "La densidad de tráfico",
+      "El color del casco"
+    ],
+    "answer": 3,
+    "explanation": "Regla 6."
+  },
+  {
+    "id": "g-0716",
+    "topic": "ripa",
+    "q": "Según la regla 7, deben evitarse…",
+    "options": [
+      "Las maniobras amplias",
+      "Las suposiciones basadas en información insuficiente, sobre todo de radar",
+      "El uso del radar",
+      "Los cambios de velocidad"
+    ],
+    "answer": 1,
+    "explanation": "Regla 7 c)."
+  },
+  {
+    "id": "g-0717",
+    "topic": "ripa",
+    "q": "Puede existir riesgo de abordaje aunque la demora cambie apreciablemente cuando…",
+    "options": [
+      "Es de día",
+      "Te acercas a un buque grande, un remolque o a muy corta distancia",
+      "Hay buena visibilidad",
+      "El otro es un velero"
+    ],
+    "answer": 1,
+    "explanation": "Regla 7 d) ii."
+  },
+  {
+    "id": "g-0718",
+    "topic": "ripa",
+    "q": "La eficacia de una maniobra para evitar el abordaje se comprueba hasta que…",
+    "options": [
+      "Se cambia de rumbo",
+      "El otro buque está pasado y en franquía",
+      "Se deja de ver",
+      "Se da la señal acústica"
+    ],
+    "answer": 1,
+    "explanation": "Regla 8 d)."
+  },
+  {
+    "id": "g-0719",
+    "topic": "ripa",
+    "q": "Si es necesario para evitar un abordaje o tener tiempo para estudiar la situación, el buque…",
+    "options": [
+      "Acelerará",
+      "Reducirá la velocidad o suprimirá su arrancada",
+      "Fondeará",
+      "Dará atrás siempre"
+    ],
+    "answer": 1,
+    "explanation": "Regla 8 e)."
+  },
+  {
+    "id": "g-0720",
+    "topic": "ripa",
+    "q": "En un canal angosto se navega lo más cerca posible del límite…",
+    "options": ["De babor", "De estribor", "Del centro", "Más profundo"],
+    "answer": 1,
+    "explanation": "Regla 9 a)."
+  },
+  {
+    "id": "g-0721",
+    "topic": "ripa",
+    "q": "En un canal angosto, ¿quién NO debe estorbar a un buque que solo puede navegar dentro?",
+    "options": ["Solo los pesqueros", "Los de menos de 20 m y los de vela", "Ninguno", "Los de más de 50 m"],
+    "answer": 1,
+    "explanation": "Y los pesqueros a ningún buque que navegue dentro."
+  },
+  {
+    "id": "g-0722",
+    "topic": "ripa",
+    "q": "En un canal angosto, fondear…",
+    "options": [
+      "Es obligatorio de noche",
+      "Debe evitarse siempre que se pueda",
+      "Está permitido en el centro",
+      "Solo a vela"
+    ],
+    "answer": 1,
+    "explanation": "Regla 9 g)."
+  },
+  {
+    "id": "g-0723",
+    "topic": "ripa",
+    "q": "Para cruzar una vía de circulación de un dispositivo de separación, el rumbo debe ser…",
+    "options": [
+      "Paralelo",
+      "Lo más perpendicular posible a la corriente de tráfico",
+      "A 45°",
+      "Igual al del tráfico"
+    ],
+    "answer": 1,
+    "explanation": "Regla 10 c)."
+  },
+  {
+    "id": "g-0724",
+    "topic": "ripa",
+    "q": "Para entrar en una vía de circulación por un lateral se hace…",
+    "options": [
+      "Perpendicular",
+      "Con el menor ángulo posible respecto a la corriente de tráfico",
+      "A 90° a estribor",
+      "Por la zona de separación"
+    ],
+    "answer": 1,
+    "explanation": "Regla 10 b) III."
+  },
+  {
+    "id": "g-0725",
+    "topic": "ripa",
+    "q": "¿Quién puede usar la zona de navegación costera aunque pueda usar la vía del dispositivo?",
+    "options": [
+      "Los mercantes de más de 50 m",
+      "Los de menos de 20 m, los de vela y los pesqueros",
+      "Ninguno",
+      "Los remolcadores"
+    ],
+    "answer": 1,
+    "explanation": "Regla 10 d)."
+  },
+  {
+    "id": "g-0726",
+    "topic": "ripa",
+    "q": "Se puede entrar en una zona de separación del tráfico…",
+    "options": ["Para adelantar", "En emergencia o para pescar en ella", "Para fondear", "Nunca"],
+    "answer": 1,
+    "explanation": "Regla 10 e)."
+  },
+  {
+    "id": "g-0727",
+    "topic": "ripa",
+    "q": "Las reglas 12 a 18 se aplican…",
+    "options": [
+      "En cualquier visibilidad",
+      "Solo a buques a la vista uno del otro",
+      "Solo con niebla",
+      "Solo de noche"
+    ],
+    "answer": 1,
+    "explanation": "Regla 11."
+  },
+  {
+    "id": "g-0728",
+    "topic": "ripa",
+    "q": "Para la regla 12, la banda de barlovento es…",
+    "options": [
+      "La que lleva cazada la mayor",
+      "La contraria a la que lleva cazada la mayor",
+      "Siempre estribor",
+      "La de la orza"
+    ],
+    "answer": 1,
+    "explanation": "Regla 12 b)."
+  },
+  {
+    "id": "g-0729",
+    "topic": "ripa",
+    "q": "Un buque alcanza a otro cuando viene desde una marcación mayor de…",
+    "options": ["11,25° a popa del través", "22,5° a popa del través", "45° a proa", "90°"],
+    "answer": 1,
+    "explanation": "De noche solo vería su luz de alcance."
+  },
+  {
+    "id": "g-0730",
+    "topic": "ripa",
+    "q": "Un buque que alcanza y luego cambia la marcación…",
+    "options": [
+      "Pasa a ser un buque que cruza",
+      "Sigue obligado a apartarse hasta estar adelantado y en franquía",
+      "Gana la preferencia",
+      "Debe parar"
+    ],
+    "answer": 1,
+    "explanation": "Regla 13 d)."
+  },
+  {
+    "id": "g-0731",
+    "topic": "ripa",
+    "q": "En vuelta encontrada, de noche se ve al otro buque…",
+    "options": [
+      "Solo con su luz de alcance",
+      "Con los topes enfilados y/o las dos luces de costado",
+      "Con la luz verde solamente",
+      "Con una luz amarilla"
+    ],
+    "answer": 1,
+    "explanation": "Ambos caen a estribor."
+  },
+  {
+    "id": "g-0732",
+    "topic": "ripa",
+    "q": "En un cruce, el que cede el paso, si puede, evitará…",
+    "options": ["Reducir la velocidad", "Cortar la proa del otro", "Caer a estribor", "Dar pitadas"],
+    "answer": 1,
+    "explanation": "Regla 15."
+  },
+  {
+    "id": "g-0733",
+    "topic": "ripa",
+    "q": "El buque con preferencia puede maniobrar…",
+    "options": [
+      "Nunca",
+      "En cuanto vea que el otro no actúa según el Reglamento",
+      "Siempre que quiera",
+      "Solo de día"
+    ],
+    "answer": 1,
+    "explanation": "Y debe hacerlo si la maniobra del otro ya no basta (regla 17)."
+  },
+  {
+    "id": "g-0734",
+    "topic": "ripa",
+    "q": "Un buque de motor con preferencia en un cruce que decide maniobrar evitará caer…",
+    "options": ["A estribor", "A babor por un buque que esté por su babor", "Atrás", "Nunca puede maniobrar"],
+    "answer": 1,
+    "explanation": "Regla 17 c)."
+  },
+  {
+    "id": "g-0735",
+    "topic": "ripa",
+    "q": "Un buque dedicado a la pesca se mantendrá, en lo posible, apartado de…",
+    "options": [
+      "Un velero",
+      "Un buque sin gobierno y uno de maniobra restringida",
+      "Un buque de motor",
+      "Nadie"
+    ],
+    "answer": 1,
+    "explanation": "Regla 18 c)."
+  },
+  {
+    "id": "g-0736",
+    "topic": "ripa",
+    "q": "Un hidroavión amarado…",
+    "options": [
+      "Tiene preferencia sobre todos",
+      "Se mantendrá alejado de todos los buques",
+      "Es un buque sin gobierno",
+      "Es un buque de vela"
+    ],
+    "answer": 1,
+    "explanation": "Si hay riesgo, cumple las reglas de esta parte."
+  },
+  {
+    "id": "g-0737",
+    "topic": "ripa",
+    "q": "Una nave de vuelo rasante que navega por la superficie se considera…",
+    "options": ["Hidroavión", "Buque de propulsión mecánica", "Buque sin gobierno", "Buque de vela"],
+    "answer": 1,
+    "explanation": "Regla 18 f) ii."
+  },
+  {
+    "id": "g-0738",
+    "topic": "ripa",
+    "q": "En visibilidad reducida, los buques de propulsión mecánica tendrán…",
+    "options": [
+      "Las luces apagadas",
+      "Las máquinas listas para maniobrar inmediatamente",
+      "El ancla a la pendura",
+      "Solo radar"
+    ],
+    "answer": 1,
+    "explanation": "Regla 19 b)."
+  },
+  {
+    "id": "g-0739",
+    "topic": "ripa",
+    "q": "Si en niebla oyes la señal de otro buque a proa de tu través, debes…",
+    "options": [
+      "Acelerar",
+      "Reducir a la velocidad mínima de gobierno y, si hace falta, parar",
+      "Caer a babor",
+      "Dar una pitada larga"
+    ],
+    "answer": 1,
+    "explanation": "Regla 19 e)."
+  },
+  {
+    "id": "g-0740",
+    "topic": "ripa",
+    "q": "Las marcas (esferas, conos…) se exhiben…",
+    "options": ["De noche", "De día", "Solo en niebla", "Nunca en recreo"],
+    "answer": 1,
+    "explanation": "Las luces, de la puesta a la salida del sol y con visibilidad reducida."
+  },
+  {
+    "id": "g-0741",
+    "topic": "ripa",
+    "q": "El sector de la luz de tope equivale a…",
+    "options": ["10 cuartas", "12 cuartas", "20 cuartas", "32 cuartas"],
+    "answer": 2,
+    "explanation": "225°."
+  },
+  {
+    "id": "g-0742",
+    "topic": "ripa",
+    "q": "El sector de cada luz de costado equivale a…",
+    "options": ["6 cuartas", "10 cuartas", "12 cuartas", "20 cuartas"],
+    "answer": 1,
+    "explanation": "112,5°."
+  },
+  {
+    "id": "g-0743",
+    "topic": "ripa",
+    "q": "La luz de alcance cubre un arco de…",
+    "options": ["112,5°", "135°", "225°", "360°"],
+    "answer": 1,
+    "explanation": "67,5° a cada banda desde la popa."
+  },
+  {
+    "id": "g-0744",
+    "topic": "ripa",
+    "q": "La luz de remolque es…",
+    "options": ["Blanca", "Amarilla, de las mismas características que la de alcance", "Roja", "Azul"],
+    "answer": 1,
+    "explanation": "Va en vertical sobre la de alcance."
+  },
+  {
+    "id": "g-0745",
+    "topic": "ripa",
+    "q": "Una luz centelleante, según el RIPA, produce…",
+    "options": [
+      "60 centelleos por minuto",
+      "120 o más centelleos por minuto",
+      "30 por minuto",
+      "Una luz fija"
+    ],
+    "answer": 1,
+    "explanation": "Regla 21 f)."
+  },
+  {
+    "id": "g-0746",
+    "topic": "ripa",
+    "q": "Las luces de costado pueden ir combinadas en un solo farol en buques de eslora inferior a…",
+    "options": ["7 m", "12 m", "20 m", "50 m"],
+    "answer": 2,
+    "explanation": "En el eje longitudinal."
+  },
+  {
+    "id": "g-0747",
+    "topic": "ripa",
+    "q": "Un aerodeslizador sin desplazamiento exhibe, además de las de motor…",
+    "options": ["Una roja centelleante", "Una amarilla centelleante todo horizonte", "Dos rojas", "Una azul"],
+    "answer": 1,
+    "explanation": "Pregunta real (julio 2026)."
+  },
+  {
+    "id": "g-0748",
+    "topic": "ripa",
+    "q": "Una nave de vuelo rasante que despega o vuela bajo añade a las luces de motor…",
+    "options": [
+      "Una amarilla centelleante",
+      "Una roja centelleante todo horizonte de gran intensidad",
+      "Una verde",
+      "Ninguna"
+    ],
+    "answer": 1,
+    "explanation": "Regla 23 c)."
+  },
+  {
+    "id": "g-0749",
+    "topic": "ripa",
+    "q": "Un buque de motor de menos de 7 m que no supera los 7 nudos puede llevar…",
+    "options": ["Solo costados", "Una blanca todo horizonte y, si es posible, costados", "Nada", "Una roja"],
+    "answer": 1,
+    "explanation": "Regla 23 d) II."
+  },
+  {
+    "id": "g-0750",
+    "topic": "ripa",
+    "q": "De día, un buque de propulsión mecánica en navegación lleva…",
+    "options": ["Un cono", "Una esfera", "Ninguna marca", "Un cilindro"],
+    "answer": 2,
+    "explanation": "Solo el velero a motor lleva cono vértice abajo."
+  },
+  {
+    "id": "g-0751",
+    "topic": "ripa",
+    "q": "Un remolcador por popa con un remolque de más de 200 m lleva…",
+    "options": ["2 topes en vertical", "3 topes en vertical", "4 topes", "1 tope"],
+    "answer": 1,
+    "explanation": "Y de día un bicono."
+  },
+  {
+    "id": "g-0752",
+    "topic": "ripa",
+    "q": "La longitud del remolque se mide desde…",
+    "options": [
+      "La proa del remolcador",
+      "La popa del remolcador hasta el extremo de popa del remolcado",
+      "El cabo solamente",
+      "La proa del remolcado"
+    ],
+    "answer": 1,
+    "explanation": "Regla 24 a) I."
+  },
+  {
+    "id": "g-0753",
+    "topic": "ripa",
+    "q": "Un buque que empuja hacia proa (sin formar unidad rígida) lleva…",
+    "options": ["3 topes y amarilla", "2 topes en vertical, costados y alcance", "Solo costados", "Una roja"],
+    "answer": 1,
+    "explanation": "Sin luz de remolque amarilla."
+  },
+  {
+    "id": "g-0754",
+    "topic": "ripa",
+    "q": "Un empujador y un empujado unidos rígidamente se iluminan…",
+    "options": [
+      "Como dos buques",
+      "Como un solo buque de propulsión mecánica",
+      "Con 3 topes",
+      "Con luces amarillas"
+    ],
+    "answer": 1,
+    "explanation": "Regla 24 b)."
+  },
+  {
+    "id": "g-0755",
+    "topic": "ripa",
+    "q": "Un objeto remolcado semisumergido de menos de 25 m de manga lleva…",
+    "options": ["Nada", "Una blanca todo horizonte a proa y otra a popa", "Dos rojas", "Costados"],
+    "answer": 1,
+    "explanation": "Los dragones no llevan la de proa."
+  },
+  {
+    "id": "g-0756",
+    "topic": "ripa",
+    "q": "Si un objeto remolcado semisumergido mide más de 100 m de largo, las luces blancas adicionales no distarán más de…",
+    "options": ["25 m", "50 m", "100 m", "200 m"],
+    "answer": 2,
+    "explanation": "Regla 24 g) III."
+  },
+  {
+    "id": "g-0757",
+    "topic": "ripa",
+    "q": "Un buque que remolca de forma imprevista a otro en peligro y no puede mostrar las luces de remolque…",
+    "options": [
+      "Debe parar",
+      "No está obligado a ellas, pero iluminará el cabo de remolque",
+      "Lleva 3 rojas",
+      "Iza la bandera Alfa"
+    ],
+    "answer": 1,
+    "explanation": "Regla 24 i)."
+  },
+  {
+    "id": "g-0758",
+    "topic": "ripa",
+    "q": "Un velero de menos de 20 m puede llevar sus luces de costado y alcance…",
+    "options": [
+      "En un farol combinado en el tope del palo",
+      "En la popa solamente",
+      "Apagadas",
+      "En la cruceta"
+    ],
+    "answer": 0,
+    "explanation": "Regla 25 b)."
+  },
+  {
+    "id": "g-0759",
+    "topic": "ripa",
+    "q": "Las luces opcionales roja sobre verde del velero NO pueden llevarse junto con…",
+    "options": ["Las luces de costado", "El farol combinado del tope", "La luz de alcance", "El motor"],
+    "answer": 1,
+    "explanation": "Regla 25 c)."
+  },
+  {
+    "id": "g-0760",
+    "topic": "ripa",
+    "q": "Una embarcación de vela de menos de 7 m que no lleve sus luces debe tener a mano…",
+    "options": ["Una bengala roja", "Una linterna o farol de luz blanca", "Una bocina", "Nada"],
+    "answer": 1,
+    "explanation": "Para mostrarla a tiempo de evitar el abordaje."
+  },
+  {
+    "id": "g-0761",
+    "topic": "ripa",
+    "q": "Un pesquero de arrastre de 60 m exhibe, además de verde sobre blanca…",
+    "options": ["Nada más", "Una luz de tope a popa más alta que la verde", "Una roja", "Una amarilla"],
+    "answer": 1,
+    "explanation": "Obligatoria con ≥50 m; opcional si es menor."
+  },
+  {
+    "id": "g-0762",
+    "topic": "ripa",
+    "q": "Si el aparejo de un pesquero que no es de arrastre se extiende más de 150 m, exhibe hacia él…",
+    "options": [
+      "Una roja",
+      "Una blanca todo horizonte o, de día, un cono con el vértice arriba",
+      "Dos verdes",
+      "Un cilindro"
+    ],
+    "answer": 1,
+    "explanation": "Regla 26 c) II."
+  },
+  {
+    "id": "g-0763",
+    "topic": "ripa",
+    "q": "Un pesquero que no está faenando exhibe…",
+    "options": ["Las luces de pesca", "Las de un buque de su eslora", "Solo la de alcance", "Ninguna"],
+    "answer": 1,
+    "explanation": "Regla 26 e)."
+  },
+  {
+    "id": "g-0764",
+    "topic": "ripa",
+    "q": "Un buque sin gobierno con arrancada exhibe dos rojas en vertical y…",
+    "options": ["Luz de tope", "Costados y alcance", "Una blanca a proa", "Nada más"],
+    "answer": 1,
+    "explanation": "Nunca luz de tope."
+  },
+  {
+    "id": "g-0765",
+    "topic": "ripa",
+    "q": "Un buque con capacidad de maniobra restringida con arrancada exhibe roja-blanca-roja y además…",
+    "options": ["Solo costados", "Tope(s), costados y alcance", "Dos verdes", "Una amarilla"],
+    "answer": 1,
+    "explanation": "Regla 27 b) III."
+  },
+  {
+    "id": "g-0766",
+    "topic": "ripa",
+    "q": "Una draga con obstrucción indica la banda por la que puede pasar otro buque con…",
+    "options": ["Dos rojas o dos bolas", "Dos verdes o dos biconos", "Una blanca", "Un cilindro"],
+    "answer": 1,
+    "explanation": "La banda de la obstrucción: dos rojas o dos bolas."
+  },
+  {
+    "id": "g-0767",
+    "topic": "ripa",
+    "q": "Una draga fondeada con obstrucción exhibe…",
+    "options": ["Las luces de fondeo", "Las de dragado en lugar de las de fondeo", "Solo dos rojas", "Nada"],
+    "answer": 1,
+    "explanation": "Regla 27 d) III."
+  },
+  {
+    "id": "g-0768",
+    "topic": "ripa",
+    "q": "Una embarcación pequeña dedicada al buceo que no puede llevar todas las luces y marcas muestra…",
+    "options": [
+      "Bandera B",
+      "Roja-blanca-roja y una bandera A rígida de al menos 1 m",
+      "Dos rojas",
+      "Un cono"
+    ],
+    "answer": 1,
+    "explanation": "Regla 27 e)."
+  },
+  {
+    "id": "g-0769",
+    "topic": "ripa",
+    "q": "Las tres luces verdes de un dragaminas van…",
+    "options": [
+      "En vertical",
+      "Una en el tope del palo de proa y una en cada penol de su verga",
+      "En la popa",
+      "A proa y a popa"
+    ],
+    "answer": 1,
+    "explanation": "Regla 27 f)."
+  },
+  {
+    "id": "g-0770",
+    "topic": "ripa",
+    "q": "Los buques de menos de 12 m no están obligados a las luces de la regla 27, salvo…",
+    "options": [
+      "Los sin gobierno",
+      "Los dedicados a operaciones de buceo",
+      "Los dragaminas",
+      "Los remolcadores"
+    ],
+    "answer": 1,
+    "explanation": "Regla 27 g)."
+  },
+  {
+    "id": "g-0771",
+    "topic": "ripa",
+    "q": "Las luces de buque sin gobierno o de maniobra restringida…",
+    "options": [
+      "Son señales de socorro",
+      "No son señales de socorro",
+      "Equivalen a MAYDAY",
+      "Solo se usan en niebla"
+    ],
+    "answer": 1,
+    "explanation": "Las de socorro están en el anexo IV."
+  },
+  {
+    "id": "g-0772",
+    "topic": "ripa",
+    "q": "La señal diurna de un buque restringido por su calado es…",
+    "options": ["Una bola", "Un cilindro", "Un cono", "Un bicono"],
+    "answer": 1,
+    "explanation": "De noche, tres rojas en vertical."
+  },
+  {
+    "id": "g-0773",
+    "topic": "ripa",
+    "q": "Un práctico en servicio fondeado exhibe…",
+    "options": [
+      "Solo blanca sobre roja",
+      "Blanca sobre roja y las luces de fondeo",
+      "Dos rojas",
+      "Las de motor"
+    ],
+    "answer": 1,
+    "explanation": "Navegando: blanca sobre roja, costados y alcance."
+  },
+  {
+    "id": "g-0774",
+    "topic": "ripa",
+    "q": "Fuera de servicio, una embarcación de práctico exhibe…",
+    "options": ["Blanca sobre roja", "Las luces de las embarcaciones de su eslora", "Nada", "Cuatro cortas"],
+    "answer": 1,
+    "explanation": "Regla 29 b)."
+  },
+  {
+    "id": "g-0775",
+    "topic": "ripa",
+    "q": "Un buque fondeado de 120 m debe además…",
+    "options": [
+      "Llevar tres bolas",
+      "Iluminar sus cubiertas con luces de trabajo",
+      "Dar pitadas",
+      "Llevar luz amarilla"
+    ],
+    "answer": 1,
+    "explanation": "Obligatorio con ≥100 m."
+  },
+  {
+    "id": "g-0776",
+    "topic": "ripa",
+    "q": "Un buque fondeado de 40 m puede exhibir…",
+    "options": ["Dos blancas", "Una sola blanca todo horizonte en el lugar más visible", "Una roja", "Nada"],
+    "answer": 1,
+    "explanation": "Regla 30 b)."
+  },
+  {
+    "id": "g-0777",
+    "topic": "ripa",
+    "q": "Una embarcación de menos de 7 m fondeada lejos de canales, fondeaderos y zonas de tráfico…",
+    "options": [
+      "Lleva una bola",
+      "No está obligada a luces ni marcas de fondeo",
+      "Lleva dos blancas",
+      "Da pitadas"
+    ],
+    "answer": 1,
+    "explanation": "Regla 30 e)."
+  },
+  {
+    "id": "g-0778",
+    "topic": "ripa",
+    "q": "De día, un buque varado exhibe…",
+    "options": ["Una bola", "Dos bolas", "Tres bolas en vertical", "Un cilindro"],
+    "answer": 2,
+    "explanation": "De noche, luces de fondeo + dos rojas."
+  },
+  {
+    "id": "g-0779",
+    "topic": "ripa",
+    "q": "Un buque varado de menos de 12 m…",
+    "options": [
+      "Debe llevar dos rojas",
+      "No está obligado a las dos rojas ni a las tres bolas",
+      "Lleva un cono",
+      "Lleva bandera A"
+    ],
+    "answer": 1,
+    "explanation": "Regla 30 f)."
+  },
+  {
+    "id": "g-0780",
+    "topic": "ripa",
+    "q": "Un buque de 15 m debe ir dotado de…",
+    "options": ["Pito, campana y gong", "Pito y campana", "Pito", "Nada"],
+    "answer": 2,
+    "explanation": "≥20 m: pito y campana; ≥100 m: además gong."
+  },
+  {
+    "id": "g-0781",
+    "topic": "ripa",
+    "q": "Un buque de 25 m debe llevar…",
+    "options": ["Solo pito", "Pito y campana", "Pito, campana y gong", "Solo campana"],
+    "answer": 1,
+    "explanation": "Regla 33 a)."
+  },
+  {
+    "id": "g-0782",
+    "topic": "ripa",
+    "q": "Dos pitadas cortas de un buque de motor a la vista significan…",
+    "options": ["Caigo a estribor", "Caigo a babor", "Estoy dando atrás", "Tengo dudas"],
+    "answer": 1,
+    "explanation": "Regla 34 a)."
+  },
+  {
+    "id": "g-0783",
+    "topic": "ripa",
+    "q": "Los destellos que complementan las pitadas de maniobra se hacen con una luz…",
+    "options": ["Roja", "Blanca todo horizonte visible a 5 mn", "Amarilla", "Verde"],
+    "answer": 1,
+    "explanation": "De ≈1 s, con ≈1 s entre destellos."
+  },
+  {
+    "id": "g-0784",
+    "topic": "ripa",
+    "q": "El intervalo entre señales luminosas de maniobra sucesivas no será inferior a…",
+    "options": ["2 s", "5 s", "10 s", "1 min"],
+    "answer": 2,
+    "explanation": "Regla 34 b) II."
+  },
+  {
+    "id": "g-0785",
+    "topic": "ripa",
+    "q": "En un canal angosto, dos largas seguidas de una corta significan…",
+    "options": [
+      "Pretendo alcanzarle por su babor",
+      "Pretendo alcanzarle por su estribor",
+      "Conforme",
+      "Me acerco a un recodo"
+    ],
+    "answer": 1,
+    "explanation": "Dos largas y dos cortas: por su babor."
+  },
+  {
+    "id": "g-0786",
+    "topic": "ripa",
+    "q": "El buque que va a ser alcanzado da su conformidad con…",
+    "options": ["Una larga", "Larga-corta-larga-corta", "Cinco cortas", "Tres cortas"],
+    "answer": 1,
+    "explanation": "Regla 34 c) II."
+  },
+  {
+    "id": "g-0787",
+    "topic": "ripa",
+    "q": "Al menos cinco pitadas cortas y rápidas significan…",
+    "options": ["Socorro", "Duda sobre las intenciones del otro", "Doy atrás", "Fondeado"],
+    "answer": 1,
+    "explanation": "Puede complementarse con cinco destellos."
+  },
+  {
+    "id": "g-0788",
+    "topic": "ripa",
+    "q": "Al aproximarse a un recodo sin visibilidad se da…",
+    "options": ["Una corta", "Una larga, que se contesta con otra larga", "Dos largas", "Cinco cortas"],
+    "answer": 1,
+    "explanation": "Regla 34 e)."
+  },
+  {
+    "id": "g-0789",
+    "topic": "ripa",
+    "q": "Si los pitos de un buque distan entre sí más de 100 m…",
+    "options": [
+      "Se usan todos a la vez",
+      "Solo se usa uno para las señales de maniobra",
+      "Se usan alternados",
+      "No se usan"
+    ],
+    "answer": 1,
+    "explanation": "Regla 34 f)."
+  },
+  {
+    "id": "g-0790",
+    "topic": "ripa",
+    "q": "Con niebla, un buque de motor parado y sin arrancada da cada 2 minutos…",
+    "options": ["Una larga", "Dos largas separadas unos 2 s", "Larga y dos cortas", "Cuatro cortas"],
+    "answer": 1,
+    "explanation": "Con arrancada, una larga."
+  },
+  {
+    "id": "g-0791",
+    "topic": "ripa",
+    "q": "Con niebla, un velero da cada 2 minutos…",
+    "options": ["Una larga", "Una larga y dos cortas", "Dos largas", "Una corta"],
+    "answer": 1,
+    "explanation": "Igual que sin gobierno, maniobra restringida, calado, pesca y remolcadores."
+  },
+  {
+    "id": "g-0792",
+    "topic": "ripa",
+    "q": "Con niebla, un pesquero fondeado emite…",
+    "options": ["Repique de campana", "Una larga y dos cortas", "Dos largas", "Nada"],
+    "answer": 1,
+    "explanation": "También los de maniobra restringida fondeados."
+  },
+  {
+    "id": "g-0793",
+    "topic": "ripa",
+    "q": "El último buque remolcado, si va tripulado, emite con niebla…",
+    "options": [
+      "Una larga y dos cortas",
+      "Una larga y tres cortas, justo después del remolcador",
+      "Cuatro cortas",
+      "Repique"
+    ],
+    "answer": 1,
+    "explanation": "Regla 35 e)."
+  },
+  {
+    "id": "g-0794",
+    "topic": "ripa",
+    "q": "En niebla, un buque fondeado puede dar además corta-larga-corta para…",
+    "options": [
+      "Pedir socorro",
+      "Señalar su posición y el riesgo de abordaje a quien se acerque",
+      "Pedir práctico",
+      "Indicar que leva"
+    ],
+    "answer": 1,
+    "explanation": "Regla 35 g)."
+  },
+  {
+    "id": "g-0795",
+    "topic": "ripa",
+    "q": "Con niebla, un buque fondeado de 120 m hace sonar…",
+    "options": ["Solo campana", "Campana a proa y después gong a popa", "Solo gong", "Pito"],
+    "answer": 1,
+    "explanation": "Unos 5 s cada uno, cada minuto."
+  },
+  {
+    "id": "g-0796",
+    "topic": "ripa",
+    "q": "Un buque varado en niebla da, antes y después del repique de campana…",
+    "options": ["Un golpe", "Tres golpes de campana claros y separados", "El gong", "Cuatro cortas"],
+    "answer": 1,
+    "explanation": "Y puede añadir una señal de pito."
+  },
+  {
+    "id": "g-0797",
+    "topic": "ripa",
+    "q": "Un buque de 15 m fondeado en niebla que no lleva campana…",
+    "options": [
+      "No hace nada",
+      "Emite otra señal acústica eficaz cada ≤2 min",
+      "Da cinco cortas",
+      "Enciende luces de cubierta"
+    ],
+    "answer": 1,
+    "explanation": "Regla 35 i)."
+  },
+  {
+    "id": "g-0798",
+    "topic": "ripa",
+    "q": "Un práctico en servicio puede dar como señal de identificación…",
+    "options": ["Tres cortas", "Cuatro cortas", "Una larga", "Dos largas"],
+    "answer": 1,
+    "explanation": "Regla 35 k)."
+  },
+  {
+    "id": "g-0799",
+    "topic": "ripa",
+    "q": "Para llamar la atención NO deben usarse…",
+    "options": [
+      "Señales acústicas",
+      "El proyector hacia el peligro",
+      "Luces estroboscópicas",
+      "Luces que no se confundan"
+    ],
+    "answer": 2,
+    "explanation": "Regla 36."
+  },
+  {
+    "id": "g-0800",
+    "topic": "ripa",
+    "q": "¿Cuál de estas es una señal de peligro del anexo IV?",
+    "options": [
+      "Una luz blanca intermitente",
+      "Cohetes que despiden estrellas rojas uno a uno",
+      "Una bengala blanca",
+      "Cuatro pitadas cortas"
+    ],
+    "answer": 1,
+    "explanation": "A cortos intervalos."
+  },
+  {
+    "id": "g-0801",
+    "topic": "ripa",
+    "q": "El canal de ondas métricas para la alerta de socorro LSD es el…",
+    "options": ["9", "16", "70", "72"],
+    "answer": 2,
+    "explanation": "MAYDAY por voz, en el 16."
+  },
+  {
+    "id": "g-0802",
+    "topic": "ripa",
+    "q": "Para identificación desde el aire puede usarse…",
+    "options": [
+      "Una bandera Alfa",
+      "Una lona naranja con un cuadrado y un círculo negros",
+      "Una luz amarilla",
+      "Un bicono"
+    ],
+    "answer": 1,
+    "explanation": "También una marca colorante en el agua."
+  },
+  {
+    "id": "g-0803",
+    "topic": "ripa",
+    "q": "Usar una señal de peligro sin estar en peligro…",
+    "options": ["Está permitido para practicar", "Está prohibido", "Se permite de día", "Solo en puerto"],
+    "answer": 1,
+    "explanation": "Ni señales que puedan confundirse con ellas."
+  }
+]

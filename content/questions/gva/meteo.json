@@ -1,0 +1,1200 @@
+[
+  {
+    "id": "gva-0032",
+    "topic": "meteo",
+    "q": "¿Cuál es la utilidad de llevar la escala Beaufort a bordo?:",
+    "options": [
+      "Identificar la fuerza del viento.",
+      "Identificar la altura de las olas.",
+      "Identificar el estado de la mar.",
+      "Identificar la humedad relativa."
+    ],
+    "answer": 0,
+    "explanation": "Beaufort mide la fuerza del viento (0 a 12). El estado de la mar se mide con Douglas.",
+    "gva": {
+      "index": 32,
+      "sittings": ["2019-11"]
+    }
+  },
+  {
+    "id": "gva-0033",
+    "topic": "meteo",
+    "q": "En el hemisferio Norte, ¿Cuál es la trayectoria que suelen seguir las borrascas?:",
+    "options": ["De Oeste a Este.", "De Este a Oeste.", "De Norte a Sur.", "De Sur a Oeste."],
+    "answer": 0,
+    "explanation": "En el hemisferio norte las borrascas viajan de oeste a este.",
+    "gva": {
+      "index": 33,
+      "sittings": ["2019-11"]
+    }
+  },
+  {
+    "id": "gva-0034",
+    "topic": "meteo",
+    "q": "¿Cuál es el valor normal de la presión atmosférica?:",
+    "options": ["992 Mb.", "780 mm de mercurio.", "1016 Mb", "760 mm de mercurio."],
+    "answer": 3,
+    "explanation": "Presión normal: 760 mm Hg = 1013,2 mb.",
+    "gva": {
+      "index": 34,
+      "sittings": ["2019-11"]
+    }
+  },
+  {
+    "id": "gva-0035",
+    "topic": "meteo",
+    "q": "En el Hemisferio Norte, ¿cuál es la circulación general del viento en el interior de un anticiclón?:",
+    "options": [
+      "Ascendente, por eso sube la presión.",
+      "Sentido contrario a las manecillas del reloj.",
+      "Sentido anti horario.",
+      "El sentido horario."
+    ],
+    "answer": 3,
+    "explanation": "Anticiclón en el hemisferio norte: sentido horario, hacia fuera y descendente.",
+    "gva": {
+      "index": 35,
+      "sittings": ["2019-11"]
+    }
+  },
+  {
+    "id": "gva-0077",
+    "topic": "meteo",
+    "q": "¿Cómo se denomina a una manga de tejido troncocónico alargado, abierta por los dos extremos, que se orienta según el viento?:",
+    "options": ["Barógrafo.", "Barómetro aneroide.", "Catavientos.", "Anemómetro."],
+    "answer": 2,
+    "explanation": "Catavientos (manga): indica la dirección del viento.",
+    "gva": {
+      "index": 77,
+      "sittings": ["2021-04"]
+    }
+  },
+  {
+    "id": "gva-0078",
+    "topic": "meteo",
+    "q": "Un viento “Refresca” cuando:",
+    "options": [
+      "Varía su dirección.",
+      "Aumenta su intensidad.",
+      "Cae momentáneamente su intensidad.",
+      "Baja su temperatura."
+    ],
+    "answer": 1,
+    "explanation": "Refrescar: aumentar la fuerza.",
+    "gva": {
+      "index": 78,
+      "sittings": ["2021-04"]
+    }
+  },
+  {
+    "id": "gva-0079",
+    "topic": "meteo",
+    "q": "Las “líneas isóbaras”:",
+    "options": [
+      "Resultan de unir a puntos de la superficie terrestre que tienen la misma presión.",
+      "Se reconocerán en las cartas meteorológicas españolas porque se representan por una “B”.",
+      "Pueden llegar a tocarse si se aproximan mucho unas a otras.",
+      "Se deben medir con los termómetros con escala centígrada."
+    ],
+    "answer": 0,
+    "explanation": "Isobaras: unen puntos de igual presión. Nunca se cortan.",
+    "gva": {
+      "index": 79,
+      "sittings": ["2021-04"]
+    }
+  },
+  {
+    "id": "gva-0080",
+    "topic": "meteo",
+    "q": "Cuanto mayor es el fecht:",
+    "options": [
+      "Más lluvia y chubascos aparecen.",
+      "Menor es la presión atmosférica.",
+      "Menor es la altura de las olas.",
+      "Mayor es la altura de las olas."
+    ],
+    "answer": 3,
+    "explanation": "Más fetch, olas más altas.",
+    "gva": {
+      "index": 80,
+      "sittings": ["2021-04"]
+    }
+  },
+  {
+    "id": "gva-0122",
+    "topic": "meteo",
+    "q": "Cuando un viento cambia de intensidad o fuerza durante intervalos cortos de tiempo, decimos que:",
+    "options": ["Rola.", "Amaina.", "Rachea.", "Refresca."],
+    "answer": 2,
+    "explanation": "Rachear: cambios bruscos de fuerza en poco tiempo.",
+    "gva": {
+      "index": 122,
+      "sittings": ["2021-07"]
+    }
+  },
+  {
+    "id": "gva-0123",
+    "topic": "meteo",
+    "q": "En el hemisferio Norte, los vientos circulan en las bajas presiones en el sentido….",
+    "options": [
+      "de las agujas del reloj y hacia fuera de la baja presión.",
+      "contrario a las agujas del reloj y hacia fuera de la baja presión.",
+      "de las agujas del reloj y hacia adentro de la baja presión.",
+      "contrario a las agujas del reloj y hacia dentro de la baja presión."
+    ],
+    "answer": 3,
+    "explanation": "Borrasca en el hemisferio norte: antihoraria y hacia dentro.",
+    "gva": {
+      "index": 123,
+      "sittings": ["2021-07"]
+    }
+  },
+  {
+    "id": "gva-0124",
+    "topic": "meteo",
+    "q": "El valor normal de la presión a nivel del mar se considera:",
+    "options": [
+      "1031,2 milibares.",
+      "1013,2 milibares.",
+      "760 milímetros de una columna de mercurio",
+      "La respuesta “b” y “c” son correctas."
+    ],
+    "answer": 3,
+    "explanation": "1013,2 mb = 760 mm: «b y c».",
+    "gva": {
+      "index": 124,
+      "sittings": ["2021-07"]
+    }
+  },
+  {
+    "id": "gva-0125",
+    "topic": "meteo",
+    "q": "¿Cuáles son las variables que limitan la altura de la ola?:",
+    "options": [
+      "Temperatura, presión y humedad relativa.",
+      "Intensidad de viento, persistencia y Fetch.",
+      "Borrascas y Anticiclones.",
+      "Profundidad, altura y distancia de costa."
+    ],
+    "answer": 1,
+    "explanation": "La ola crece con la intensidad del viento, su persistencia y el fetch.",
+    "gva": {
+      "index": 125,
+      "sittings": ["2021-07"]
+    }
+  },
+  {
+    "id": "gva-0166",
+    "topic": "meteo",
+    "q": "¿Cómo se llaman las líneas que unen puntos de igual presión atmosférica?:",
+    "options": ["Isocoras.", "Isobaras.", "Isotermas.", "Isobáticas."],
+    "answer": 1,
+    "explanation": "Isobaras.",
+    "gva": {
+      "index": 166,
+      "sittings": ["2021-06"]
+    }
+  },
+  {
+    "id": "gva-0167",
+    "topic": "meteo",
+    "q": "¿Cuál de las siguientes afirmaciones referentes al virazón es cierta?:",
+    "options": [
+      "Sopla durante la noche de tierra hacia el mar.",
+      "Sopla durante el día de tierra hacia el mar.",
+      "Sopla durante la noche de mar hacia tierra.",
+      "Sopla durante el día de mar hacia tierra."
+    ],
+    "answer": 3,
+    "explanation": "Virazón: de día, del mar a tierra.",
+    "gva": {
+      "index": 167,
+      "sittings": ["2021-06"]
+    }
+  },
+  {
+    "id": "gva-0168",
+    "topic": "meteo",
+    "q": "¿Las borrascas en el hemisferio norte se desplazan generalmente?:",
+    "options": [
+      "Varía con la estación del año.",
+      "Desde el este hacia el oeste.",
+      "Desde el oeste hacia el este.",
+      "Desde el norte hacia el sur."
+    ],
+    "answer": 2,
+    "explanation": "De oeste a este.",
+    "gva": {
+      "index": 168,
+      "sittings": ["2021-06"]
+    }
+  },
+  {
+    "id": "gva-0169",
+    "topic": "meteo",
+    "q": "¿Cuándo aumenta la fuerza del viento decimos que?:",
+    "options": ["Calma.", "Rachea.", "Refresca.", "Rola."],
+    "answer": 2,
+    "explanation": "Refresca.",
+    "gva": {
+      "index": 169,
+      "sittings": ["2021-06"]
+    }
+  },
+  {
+    "id": "gva-0211",
+    "topic": "meteo",
+    "q": "¿Un viento decimos que rola cuándo?:",
+    "options": ["Aumenta su fuerza.", "Disminuye su fuerza.", "Cambia de dirección.", "Se hace más frío."],
+    "answer": 2,
+    "explanation": "Rolar: cambiar de dirección.",
+    "gva": {
+      "index": 211,
+      "sittings": ["2021-11"]
+    }
+  },
+  {
+    "id": "gva-0212",
+    "topic": "meteo",
+    "q": "Para medir la intensidad del viento utilizaremos:",
+    "options": ["Una veleta.", "Un anemómetro.", "Un cataviento.", "Un manómetro."],
+    "answer": 1,
+    "explanation": "Anemómetro: fuerza o velocidad. Veleta y catavientos: dirección.",
+    "gva": {
+      "index": 212,
+      "sittings": ["2021-11"]
+    }
+  },
+  {
+    "id": "gva-0213",
+    "topic": "meteo",
+    "q": "¿Cómo se llama el número de horas en que ha soplado un viento de intensidad y dirección fija?:",
+    "options": ["Resilencia.", "Fetch.", "Intensidad.", "Persistencia."],
+    "answer": 3,
+    "explanation": "Persistencia: el tiempo que sopla.",
+    "gva": {
+      "index": 213,
+      "sittings": ["2021-11"]
+    }
+  },
+  {
+    "id": "gva-0214",
+    "topic": "meteo",
+    "q": "¿En la escala Beaufort los grados van?:",
+    "options": ["Del 0 al 12.", "Del 0 al 10.", "Del 0 al 8.", "Del 0 al 6."],
+    "answer": 0,
+    "explanation": "Beaufort: de 0 a 12.",
+    "gva": {
+      "index": 214,
+      "sittings": ["2021-11"]
+    }
+  },
+  {
+    "id": "gva-0256",
+    "topic": "meteo",
+    "q": "La brisa marina que se sopla durante el día de la mar a la tierra, debido a que la superficie de la tierra se calienta más deprisa que el mar, se conoce como:",
+    "options": ["Virazón", "Gregal", "Terral", "Ventolina"],
+    "answer": 0,
+    "explanation": "Virazón.",
+    "gva": {
+      "index": 256,
+      "sittings": ["2022-12"]
+    }
+  },
+  {
+    "id": "gva-0257",
+    "topic": "meteo",
+    "q": "El instrumento utilizado para medir la intensidad del viento se denomina:",
+    "options": ["Anemómetro", "Catavientos", "Veleta", "Manómetro"],
+    "answer": 0,
+    "explanation": "Anemómetro.",
+    "gva": {
+      "index": 257,
+      "sittings": ["2022-12", "2024-11"]
+    }
+  },
+  {
+    "id": "gva-0258",
+    "topic": "meteo",
+    "q": "Las borrascas o áreas de bajas presiones, se caracterizan por:",
+    "options": [
+      "La circulación del viento es en sentido horario de las agujas del reloj en el hemisferio norte",
+      "Gradiente de presión grande, por lo que las isobaras están muy juntas",
+      "En el HN en invierno las bajas presiones se encuentran sobre los continentes",
+      "Moverse del E al W en el hemisferio norte"
+    ],
+    "answer": 1,
+    "explanation": "Las borrascas suelen tener isobaras juntas: gradiente grande y viento fuerte.",
+    "gva": {
+      "index": 258,
+      "sittings": ["2022-12"]
+    }
+  },
+  {
+    "id": "gva-0259",
+    "topic": "meteo",
+    "q": "Cuando existe un cambio repentino del viento en su intensidad en intervalos generalmente cortos decimos que:",
+    "options": ["Rola", "Refresca", "Rachea", "Ninguna de las respuestas anteriores es cierta"],
+    "answer": 2,
+    "explanation": "Rachea.",
+    "gva": {
+      "index": 259,
+      "sittings": ["2022-12", "2024-11"]
+    }
+  },
+  {
+    "id": "gva-0301",
+    "topic": "meteo",
+    "q": "En el hemisferio Norte, ¿cuál es la circulación general del viento en una borrasca?:",
+    "options": [
+      "De Sur a Norte.",
+      "El sentido horario.",
+      "El sentido anti horario.",
+      "De día en el horario y de noche en el anti horario."
+    ],
+    "answer": 2,
+    "explanation": "Antihorario.",
+    "gva": {
+      "index": 301,
+      "sittings": ["2022-02"]
+    }
+  },
+  {
+    "id": "gva-0302",
+    "topic": "meteo",
+    "q": "¿Cuál es el valor normal de la presión atmosférica?:",
+    "options": [
+      "760 mm de Hg o 1.013 milibares.",
+      "1013 mm de Hg o 760 milibares.",
+      "5 atmosferas.",
+      "760 hPa o 2 atmosferas."
+    ],
+    "answer": 0,
+    "explanation": "760 mm Hg = 1013 mb.",
+    "gva": {
+      "index": 302,
+      "sittings": ["2022-02"]
+    }
+  },
+  {
+    "id": "gva-0303",
+    "topic": "meteo",
+    "q": "¿De dónde sopla la brisa costera denominada Virazón?:",
+    "options": ["De Oeste a Este.", "De Sur a Norte.", "De Norte a Sur.", "De mar a tierra."],
+    "answer": 3,
+    "explanation": "Virazón: del mar a tierra.",
+    "gva": {
+      "index": 303,
+      "sittings": ["2022-02"]
+    }
+  },
+  {
+    "id": "gva-0304",
+    "topic": "meteo",
+    "q": "¿Que palabra se usa para indicar que un viento cambia de dirección?:",
+    "options": ["Rolar.", "Fecht.", "Caer.", "Orzar."],
+    "answer": 0,
+    "explanation": "Rolar.",
+    "gva": {
+      "index": 304,
+      "sittings": ["2022-02"]
+    }
+  },
+  {
+    "id": "gva-0346",
+    "topic": "meteo",
+    "q": "¿Qué valor es considerado como la presión normal a nivel del mar internacionalmente a 0º de temperatura y en una latitud de 45º?:",
+    "options": ["1013,2 Mb", "1012,3 Mb", "770 mm", "28,92 pulgadas"],
+    "answer": 0,
+    "explanation": "1013,2 mb.",
+    "gva": {
+      "index": 346,
+      "sittings": ["2022-06"]
+    }
+  },
+  {
+    "id": "gva-0347",
+    "topic": "meteo",
+    "q": "¿Cómo se denomina la zona o extensión en la que el viento sopla en la misma dirección e intensidad?:",
+    "options": ["Fetchall", "Douglas", "Beaufort", "Fetch"],
+    "answer": 3,
+    "explanation": "Fetch.",
+    "gva": {
+      "index": 347,
+      "sittings": ["2022-06"]
+    }
+  },
+  {
+    "id": "gva-0348",
+    "topic": "meteo",
+    "q": "¿Cuál es el sentido de giro en los Anticiclones?:",
+    "options": [
+      "En el HS en sentido horario",
+      "En el HN en sentido contrario de las agujas del reloj",
+      "En el HN en sentido horario",
+      "Todas las respuestas son falsas"
+    ],
+    "answer": 2,
+    "explanation": "Anticiclón en el hemisferio norte: horario.",
+    "gva": {
+      "index": 348,
+      "sittings": ["2022-06"]
+    }
+  },
+  {
+    "id": "gva-0349",
+    "topic": "meteo",
+    "q": "Cuando un viento va variando de dirección sucesivamente, decimos que:",
+    "options": ["Calma", "Rachea", "Refresca", "Rola"],
+    "answer": 3,
+    "explanation": "Rola.",
+    "gva": {
+      "index": 349,
+      "sittings": ["2022-06"]
+    }
+  },
+  {
+    "id": "gva-0391",
+    "topic": "meteo",
+    "q": "En el HN los anticiclones se caracterizan por:",
+    "options": [
+      "La circulación del viento es en sentido horario.",
+      "Son de gran extensión.",
+      "Predomina el buen tiempo con vientos flojos o moderados.",
+      "Todas las respuestas anteriores son ciertas."
+    ],
+    "answer": 3,
+    "explanation": "Anticiclón: horario, extenso y con buen tiempo. Todas.",
+    "gva": {
+      "index": 391,
+      "sittings": ["2023-04", "2024-11", "2026-04"]
+    }
+  },
+  {
+    "id": "gva-0392",
+    "topic": "meteo",
+    "q": "La escala que mide la altura de la ola, se conoce como:",
+    "options": ["Escala de Beaufort", "Escala Douglas", "Escala de Mercalli", "Escala de Torricelli"],
+    "answer": 1,
+    "explanation": "Douglas: estado de la mar u oleaje.",
+    "gva": {
+      "index": 392,
+      "sittings": ["2023-04", "2024-09"]
+    }
+  },
+  {
+    "id": "gva-0393",
+    "topic": "meteo",
+    "q": "Las borrascas o áreas de bajas presiones se desplazan en el HN hacia:",
+    "options": ["Norte", "Levante", "Sur", "Poniente"],
+    "answer": 1,
+    "explanation": "Hacia el este (levante).",
+    "gva": {
+      "index": 393,
+      "sittings": ["2023-04", "2024-11"]
+    }
+  },
+  {
+    "id": "gva-0394",
+    "topic": "meteo",
+    "q": "El peso de la columna de aire sobre la superficie del mar se conoce como:",
+    "options": ["Presión atmosférica", "Marea barométrica", "Presión hidrostática", "Presión isobárica"],
+    "answer": 0,
+    "explanation": "Presión atmosférica: el peso de la columna de aire.",
+    "gva": {
+      "index": 394,
+      "sittings": ["2023-04", "2024-09"]
+    }
+  },
+  {
+    "id": "gva-0434",
+    "topic": "meteo",
+    "q": "La brisa marina que sopla durante la noche de la tierra al mar, debido a que la superficie de la tierra se enfría más deprisa que el mar, se conoce como:",
+    "options": ["Virazón", "Gregal", "Ventolina", "Terral"],
+    "answer": 3,
+    "explanation": "Terral: de noche, de tierra al mar.",
+    "gva": {
+      "index": 434,
+      "sittings": ["2023-02"]
+    }
+  },
+  {
+    "id": "gva-0435",
+    "topic": "meteo",
+    "q": "La escala que mide la intensidad o fuerza del viento en la mar, se conoce como:",
+    "options": ["Escala de Beaufort", "Escala Douglas", "Escala de Mercalli", "Escala de Torricelli"],
+    "answer": 0,
+    "explanation": "Beaufort.",
+    "gva": {
+      "index": 435,
+      "sittings": ["2023-02"]
+    }
+  },
+  {
+    "id": "gva-0436",
+    "topic": "meteo",
+    "q": "Las borrascas o áreas de bajas presiones, se caracterizan por:",
+    "options": [
+      "La circulación del viento en sentido horario de las agujas del reloj en el Hemisferio Norte",
+      "La circulación del viento en sentido contrario a las agujas del reloj en el Hemisferio Sur",
+      "En el HN en invierno las bajas presiones se encuentran sobre los continentes",
+      "Un gradiente de presión grande, por lo que las isobaras están muy juntas"
+    ],
+    "answer": 3,
+    "explanation": "Borrasca: isobaras juntas y gradiente grande.",
+    "gva": {
+      "index": 436,
+      "sittings": ["2023-02"]
+    }
+  },
+  {
+    "id": "gva-0437",
+    "topic": "meteo",
+    "q": "Al cambio de dirección del viento que sopla en la mar a lo largo del día, se le conoce como:",
+    "options": ["Rachear", "Refrescar", "Rolar", "Arreciar"],
+    "answer": 2,
+    "explanation": "Rolar.",
+    "gva": {
+      "index": 437,
+      "sittings": ["2023-02"]
+    }
+  },
+  {
+    "id": "gva-0479",
+    "topic": "meteo",
+    "q": "Decimos que un viento refresca cuando:",
+    "options": [
+      "Aumenta su fuerza",
+      "Disminuye su fuerza",
+      "Cambia de dirección y se vuelve más frío",
+      "Deja de soplar"
+    ],
+    "answer": 0,
+    "explanation": "Refresca = aumenta.",
+    "gva": {
+      "index": 479,
+      "sittings": ["2023-07"]
+    }
+  },
+  {
+    "id": "gva-0480",
+    "topic": "meteo",
+    "q": "Si navegamos con un viento real (Vr) por el través, el viento aparente (Va):",
+    "options": [
+      "Se encuentra más a popa que el Vr",
+      "Tiene una velocidad de cero nudos",
+      "Se encuentra más a proa que el Vr",
+      "Lo notaremos por la misma popa en la crujía"
+    ],
+    "answer": 2,
+    "explanation": "Navegando, el viento aparente viene más de proa que el real.",
+    "gva": {
+      "index": 480,
+      "sittings": ["2023-07"]
+    }
+  },
+  {
+    "id": "gva-0481",
+    "topic": "meteo",
+    "q": "Para conocer la altura de la mar usaremos la escala de:",
+    "options": ["Orlanski", "Douglas", "Beaufort", "Kelvin"],
+    "answer": 1,
+    "explanation": "Douglas.",
+    "gva": {
+      "index": 481,
+      "sittings": ["2023-07"]
+    }
+  },
+  {
+    "id": "gva-0482",
+    "topic": "meteo",
+    "q": "Se toma como referencia para la presión atmosférica normal la que se mide:",
+    "options": [
+      "A nivel de mar",
+      "A mil metros de altitud en la cima de una montaña",
+      "En un valle profundo",
+      "A cinco mil metros de altitud con un globo sonda"
+    ],
+    "answer": 0,
+    "explanation": "La presión de referencia se mide a nivel del mar.",
+    "gva": {
+      "index": 482,
+      "sittings": ["2023-07"]
+    }
+  },
+  {
+    "id": "gva-0524",
+    "topic": "meteo",
+    "q": "¿Cómo giran los vientos que soplan alrededor de una borrasca?:",
+    "options": [
+      "En sentido contrario a las agujas del reloj en los dos hemisferios",
+      "En sentido contrario a las agujas del reloj en el hemisferio Norte y en sentido de las agujas del reloj en el hemisferio Sur",
+      "En sentido contrario a las agujas del reloj en el hemisferio sur y en sentido de las agujas del reloj en el hemisferio norte",
+      "En sentido de las agujas del reloj en los dos hemisferios"
+    ],
+    "answer": 1,
+    "explanation": "Borrasca: antihoraria en el hemisferio norte y horaria en el sur.",
+    "gva": {
+      "index": 524,
+      "sittings": ["2023-11"]
+    }
+  },
+  {
+    "id": "gva-0525",
+    "topic": "meteo",
+    "q": "Durante el día la brisa que sopla de la mar hacia tierra se conoce como:",
+    "options": ["Ventolina", "Terral", "Virazón", "Terreño"],
+    "answer": 2,
+    "explanation": "Virazón.",
+    "gva": {
+      "index": 525,
+      "sittings": ["2023-11"]
+    }
+  },
+  {
+    "id": "gva-0526",
+    "topic": "meteo",
+    "q": "La escala que se utiliza para medir la altura de la ola, se llama:",
+    "options": ["Douglas", "Richter", "Beaufort", "Mercalli"],
+    "answer": 0,
+    "explanation": "Douglas.",
+    "gva": {
+      "index": 526,
+      "sittings": ["2023-11"]
+    }
+  },
+  {
+    "id": "gva-0527",
+    "topic": "meteo",
+    "q": "Cuando un viento cambia su dirección a lo largo del día, decimos que:",
+    "options": ["Rachea", "Rola", "Refresca", "Arrecia"],
+    "answer": 1,
+    "explanation": "Rola.",
+    "gva": {
+      "index": 527,
+      "sittings": ["2023-11", "2025-06"]
+    }
+  },
+  {
+    "id": "gva-0569",
+    "topic": "meteo",
+    "q": "Las líneas que unen puntos de igual presión atmosférica, se llaman:",
+    "options": ["Isobáricas", "Isobáticas", "Isógonas", "Gradientes"],
+    "answer": 0,
+    "explanation": "Isobáricas (isobaras).",
+    "gva": {
+      "index": 569,
+      "sittings": ["2023-09", "2025-06"]
+    }
+  },
+  {
+    "id": "gva-0570",
+    "topic": "meteo",
+    "q": "Encontrándonos en el HN, teniendo en cuenta el sentido de giro y la dirección de desplazamiento de una borrasca ¿Cuál es la respuesta correcta?:",
+    "options": [
+      "Gira en sentido anti horario y se desplaza hacia el W",
+      "Gira en sentido anti horario y se desplaza hacia el E",
+      "Gira en sentido horario y se desplaza hacia el W",
+      "Gira en sentido horario y se desplaza hacia el NW"
+    ],
+    "answer": 1,
+    "explanation": "Antihoraria y hacia el este.",
+    "gva": {
+      "index": 570,
+      "sittings": ["2023-09"]
+    }
+  },
+  {
+    "id": "gva-0571",
+    "topic": "meteo",
+    "q": "La escala que se utiliza para medir la intensidad del viento, se llama:",
+    "options": ["Saffir", "Douglas", "Beaufort", "Simpson"],
+    "answer": 2,
+    "explanation": "Beaufort.",
+    "gva": {
+      "index": 571,
+      "sittings": ["2023-09", "2025-06"]
+    }
+  },
+  {
+    "id": "gva-0572",
+    "topic": "meteo",
+    "q": "Cuando un viento disminuye su intensidad ya sea total o parcial, decimos que:",
+    "options": ["Calma", "Rola", "Refresca", "Rachea"],
+    "answer": 0,
+    "explanation": "La clave usa «calma» para el viento que cae. (Lo correcto sería «amaina» si baja y «calma» si cesa del todo.)",
+    "gva": {
+      "index": 572,
+      "sittings": ["2023-09"]
+    }
+  },
+  {
+    "id": "gva-0614",
+    "topic": "meteo",
+    "q": "El barógrafo es un instrumento que:",
+    "options": [
+      "Mide la presión atmosférica en un instante dado",
+      "Mide la temperatura del aire",
+      "Mide y registra la presión atmosférica de manera continua",
+      "Registra la humedad relativa"
+    ],
+    "answer": 2,
+    "explanation": "Barógrafo: registra la presión de forma continua.",
+    "gva": {
+      "index": 614,
+      "sittings": ["2024-04"]
+    }
+  },
+  {
+    "id": "gva-0615",
+    "topic": "meteo",
+    "q": "¿Cuál es la presión normal a nivel de la mar a 0º C y en una latitud de 45º expresada en mm?",
+    "options": ["740 mm", "750 mm", "755 mm", "760 mm"],
+    "answer": 3,
+    "explanation": "760 mm.",
+    "gva": {
+      "index": 615,
+      "sittings": ["2024-04"]
+    }
+  },
+  {
+    "id": "gva-0616",
+    "topic": "meteo",
+    "q": "La línea que une los puntos de igual presión atmosférica en un momento determinado, se denomina:",
+    "options": ["Isobata", "Veril", "Isobara", "Isógona"],
+    "answer": 2,
+    "explanation": "Isobara.",
+    "gva": {
+      "index": 616,
+      "sittings": ["2024-04"]
+    }
+  },
+  {
+    "id": "gva-0617",
+    "topic": "meteo",
+    "q": "De las siguientes respuestas, ¿Cuál no corresponde a una borrasca en el hemisferio norte?",
+    "options": [
+      "Circulación de viento en sentido contrario a las manecillas del reloj",
+      "Gradiente de presión grande",
+      "Disminución de la presión de la periferia hacia el interior",
+      "Aumento de la presión de la periferia hacia el interior"
+    ],
+    "answer": 3,
+    "explanation": "En una borrasca la presión baja hacia el centro, no sube.",
+    "gva": {
+      "index": 617,
+      "sittings": ["2024-04"]
+    }
+  },
+  {
+    "id": "gva-0659",
+    "topic": "meteo",
+    "q": "El barómetro es un instrumento que mide:",
+    "options": [
+      "La presión atmosférica en un instante dado",
+      "La temperatura del aire",
+      "La dirección de las borrascas",
+      "La humedad"
+    ],
+    "answer": 0,
+    "explanation": "Barómetro: presión en un instante.",
+    "gva": {
+      "index": 659,
+      "sittings": ["2024-02", "2024-09"]
+    }
+  },
+  {
+    "id": "gva-0660",
+    "topic": "meteo",
+    "q": "¿Cuál es la presión normal a nivel de la mar expresada en milibares?",
+    "options": ["1.013,2 Mb", "1.000 Mb", "1.011,3 Mb", "500 Mb"],
+    "answer": 0,
+    "explanation": "1013,2 mb.",
+    "gva": {
+      "index": 660,
+      "sittings": ["2024-02"]
+    }
+  },
+  {
+    "id": "gva-0661",
+    "topic": "meteo",
+    "q": "La brisa costera conocida como virazón:",
+    "options": [
+      "Sopla de día y de la mar a la tierra",
+      "Sopla solo por la noche",
+      "Sopla de día de la tierra al mar",
+      "Sopla de noche de la tierra al mar"
+    ],
+    "answer": 0,
+    "explanation": "Virazón: de día, del mar a tierra.",
+    "gva": {
+      "index": 661,
+      "sittings": ["2024-02"]
+    }
+  },
+  {
+    "id": "gva-0662",
+    "topic": "meteo",
+    "q": "En los mapas isobáricos de un parte meteorológico, ¿Qué significa en una borrasca que las isobaras se encuentren muy juntas si las comparamos con otra borrasca con las isobaras más separadas?",
+    "options": [
+      "Más viento y más fuerte en las borrascas con las isobaras menos juntas",
+      "Más viento y más fuerte en las borrascas con las isobaras más juntas",
+      "Más viento, pero más flojo en la borrasca con las isobaras más juntas",
+      "Más viento y más fuerte en las borrascas con las isobaras más separadas"
+    ],
+    "answer": 1,
+    "explanation": "Isobaras más juntas: viento más fuerte.",
+    "gva": {
+      "index": 662,
+      "sittings": ["2024-02"]
+    }
+  },
+  {
+    "id": "gva-0704",
+    "topic": "meteo",
+    "q": "Si nos encontramos en el hemisferio norte, el sentido de giro del viento en una borrasca será:",
+    "options": [
+      "De fuera hacia adentro en sentido anti horario",
+      "De dentro hacia afuera en sentido horario",
+      "De fuera hacia adentro en sentido horario",
+      "De dentro hacia afuera en sentido anti horario"
+    ],
+    "answer": 0,
+    "explanation": "Hemisferio norte: antihorario y hacia dentro.",
+    "gva": {
+      "index": 704,
+      "sittings": ["2024-06"]
+    }
+  },
+  {
+    "id": "gva-0705",
+    "topic": "meteo",
+    "q": "El “Fetch” es:",
+    "options": [
+      "Cuando el viento cambia de dirección",
+      "El periodo de tiempo que el viento sopla en la misma dirección",
+      "El periodo de tiempo que el viento sopla con la misma intensidad",
+      "Una extensión en la que el viento sopla con la misma dirección e intensidad"
+    ],
+    "answer": 3,
+    "explanation": "Fetch: la extensión con viento constante.",
+    "gva": {
+      "index": 705,
+      "sittings": ["2024-06"]
+    }
+  },
+  {
+    "id": "gva-0706",
+    "topic": "meteo",
+    "q": "La brisa costera conocida como terral:",
+    "options": [
+      "Sopla de día y de la mar a la tierra",
+      "Sopla de noche de la tierra al mar",
+      "Sopla de día de la tierra al mar",
+      "Sopla solo por la noche de la mar a la tierra"
+    ],
+    "answer": 1,
+    "explanation": "Terral: de noche, de tierra al mar.",
+    "gva": {
+      "index": 706,
+      "sittings": ["2024-06", "2025-04"]
+    }
+  },
+  {
+    "id": "gva-0707",
+    "topic": "meteo",
+    "q": "En los mapas isobáricos de un parte meteorológico, ¿Qué significa en una borrasca que las isobaras se encuentren muy separadas si las comparamos con otra borrasca con las isobaras más juntas?",
+    "options": [
+      "El viento es más fuerte en la borrasca con las isobaras más separadas",
+      "Es más flojo el viento en la borrasca con las isobaras más juntas",
+      "No sopla viento en la borrasca con las isobaras más juntas",
+      "Sopla viento más flojo en la borrasca con las isobaras más separadas"
+    ],
+    "answer": 3,
+    "explanation": "Isobaras separadas: viento más flojo.",
+    "gva": {
+      "index": 707,
+      "sittings": ["2024-06"]
+    }
+  },
+  {
+    "id": "gva-0732",
+    "topic": "meteo",
+    "q": "La brisa costera conocida como virazón:",
+    "options": [
+      "Sopla de día de la mar a la tierra",
+      "Sopla solo por la noche",
+      "Sopla de día de la tierra al mar",
+      "Sopla de noche de la tierra al mar"
+    ],
+    "answer": 0,
+    "explanation": "Virazón.",
+    "gva": {
+      "index": 732,
+      "sittings": ["2024-09"]
+    }
+  },
+  {
+    "id": "gva-0765",
+    "topic": "meteo",
+    "q": "Si nos encontramos en el hemisferio norte, el sentido de giro del viento en una borrasca será:",
+    "options": [
+      "De dentro hacia afuera en sentido antihorario",
+      "De dentro hacia afuera en sentido horario",
+      "De fuera hacia adentro en sentido horario",
+      "De fuera hacia adentro en sentido antihorario"
+    ],
+    "answer": 3,
+    "explanation": "De fuera hacia dentro, antihorario.",
+    "gva": {
+      "index": 765,
+      "sittings": ["2025-04"]
+    }
+  },
+  {
+    "id": "gva-0766",
+    "topic": "meteo",
+    "q": "A la superficie marina sobre la que el viento sopla sensiblemente en la misma dirección se la denomina:",
+    "options": ["Persistencia", "Fetch", "Superficie frontal", "Virazón"],
+    "answer": 1,
+    "explanation": "Fetch.",
+    "gva": {
+      "index": 766,
+      "sittings": ["2025-04"]
+    }
+  },
+  {
+    "id": "gva-0767",
+    "topic": "meteo",
+    "q": "Por presión atmosférica se entiende:",
+    "options": [
+      "El volumen de aire que envuelve a la tierra",
+      "El peso ejercido por la columna de aire sobre la superficie de la tierra",
+      "La presión ejercida de todo el aire que rodea la tierra sobre la superficie del mar",
+      "La presión producida por la intersección entre la masa de aire y la superficie de la tierra"
+    ],
+    "answer": 1,
+    "explanation": "El peso de la columna de aire.",
+    "gva": {
+      "index": 767,
+      "sittings": ["2025-04"]
+    }
+  },
+  {
+    "id": "gva-0786",
+    "topic": "meteo",
+    "q": "La brisa que sopla de la mar hacia tierra durante el día, se conoce como:",
+    "options": ["Ventolina", "Terral", "Virazón", "Terreño"],
+    "answer": 2,
+    "explanation": "Virazón.",
+    "gva": {
+      "index": 786,
+      "sittings": ["2025-06"]
+    }
+  },
+  {
+    "id": "gva-0821",
+    "topic": "meteo",
+    "q": "El barómetro es un instrumento para:",
+    "options": [
+      "Medir la presión atmosférica en un instante dado",
+      "Medir la humedad relativa",
+      "Medir la presión del aceite del motor",
+      "Medir y registrar la presión atmosférica"
+    ],
+    "answer": 0,
+    "explanation": "Barómetro: presión en un instante. Registrarla es cosa del barógrafo.",
+    "gva": {
+      "index": 821,
+      "sittings": ["2025-09"]
+    }
+  },
+  {
+    "id": "gva-0822",
+    "topic": "meteo",
+    "q": "¿Cuál es la presión normal a nivel de la mar a 0º C y en una latitud de 45º?",
+    "options": ["760 mm", "1 atmósfera", "1013.2 hPa", "Todas las respuestas anteriores son correctas"],
+    "answer": 3,
+    "explanation": "760 mm = 1 atm = 1013,2 hPa. Todas.",
+    "gva": {
+      "index": 822,
+      "sittings": ["2025-09"]
+    }
+  },
+  {
+    "id": "gva-0823",
+    "topic": "meteo",
+    "q": "Cuando un viento cambia de dirección, decimos que:",
+    "options": ["Arrecia", "Rola", "Rachea", "Refresca"],
+    "answer": 1,
+    "explanation": "Rola.",
+    "gva": {
+      "index": 823,
+      "sittings": ["2025-09"]
+    }
+  },
+  {
+    "id": "gva-0824",
+    "topic": "meteo",
+    "q": "¿Cuál es la escala que se utiliza para medir el oleaje?",
+    "options": ["Douglas", "Beaufort", "Saffir", "Simpson"],
+    "answer": 0,
+    "explanation": "Douglas.",
+    "gva": {
+      "index": 824,
+      "sittings": ["2025-09"]
+    }
+  },
+  {
+    "id": "gva-0856",
+    "topic": "meteo",
+    "q": "La escala centígrada es una escala de medir la temperatura que asigna el valor cero (0ºC) al agua en proceso de:",
+    "options": ["Sublimación.", "Congelación.", "Ebullición.", "Condensación."],
+    "answer": 1,
+    "explanation": "0 ºC: el agua se congela.",
+    "gva": {
+      "index": 856,
+      "sittings": ["2026-04"]
+    }
+  },
+  {
+    "id": "gva-0857",
+    "topic": "meteo",
+    "q": "El valor de la presión atmosférica a nivel del mar a 0°C, y latitud 45° es de:",
+    "options": ["740 mm.", "750 mm.", "760 mm.", "770 mm."],
+    "answer": 2,
+    "explanation": "760 mm.",
+    "gva": {
+      "index": 857,
+      "sittings": ["2026-04"]
+    }
+  },
+  {
+    "id": "gva-0858",
+    "topic": "meteo",
+    "q": "El viento que apreciamos cuando una embarcación se mueve en la mar, se conoce como:",
+    "options": ["Viento real.", "Viento aparente.", "Viento persistente.", "Viento imaginario."],
+    "answer": 1,
+    "explanation": "Viento aparente: el que se nota a bordo.",
+    "gva": {
+      "index": 858,
+      "sittings": ["2026-04"]
+    }
+  },
+  {
+    "id": "gva-0898",
+    "topic": "meteo",
+    "q": "Una subida significativa de la presión en el barómetro ¿qué nos indica?",
+    "options": ["Temporal", "Fuertes vientos.", "Empeoramiento del tiempo.", "Mejoría del tiempo."],
+    "answer": 3,
+    "explanation": "Si el barómetro sube claramente, el tiempo mejora.",
+    "gva": {
+      "index": 898,
+      "sittings": ["2026-07"]
+    }
+  },
+  {
+    "id": "gva-0899",
+    "topic": "meteo",
+    "q": "El valor de la presión atmosférica normal al nivel del mar, a 0° C y en latitud 45° N, es de:",
+    "options": ["1025 hectopascales.", "1013,2 mb.", "780 mm de Hg.", "980 mb."],
+    "answer": 1,
+    "explanation": "1013,2 mb.",
+    "gva": {
+      "index": 899,
+      "sittings": ["2026-07"]
+    }
+  },
+  {
+    "id": "gva-0900",
+    "topic": "meteo",
+    "q": "A la extensión rectilínea o área sobre la que sopla un viento de dirección y fuerza constante, se le denomina:",
+    "options": ["Persistencia.", "Fetch.", "Período.", "Intensidad."],
+    "answer": 1,
+    "explanation": "Fetch.",
+    "gva": {
+      "index": 900,
+      "sittings": ["2026-07"]
+    }
+  },
+  {
+    "id": "gva-0901",
+    "topic": "meteo",
+    "q": "¿A qué llamamos gradiente de presión?",
+    "options": [
+      "A la diferencia de presión entre dos puntos situados al mismo nivel y separados por una unidad de distancia.",
+      "A la diferencia de presión a distinto nivel.",
+      "A la diferencia entre presión y temperatura.",
+      "A la diferencia de temperatura entre dos puntos a diferente nivel."
+    ],
+    "answer": 0,
+    "explanation": "Gradiente: diferencia de presión por unidad de distancia al mismo nivel.",
+    "gva": {
+      "index": 901,
+      "sittings": ["2026-07"]
+    }
+  },
+  {
+    "id": "gva-0943",
+    "topic": "meteo",
+    "q": "¿Qué se entiende por fetch?",
+    "options": [
+      "Es la fuerza o velocidad de viento sobre la superficie del mar.",
+      "Es la longitud de onda de las olas.",
+      "La extensión de la superficie del mar en la que sopla el viento con fuerza y dirección constante.",
+      "Son las horas que ha soplado un viento de intensidad y dirección fijas."
+    ],
+    "answer": 2,
+    "explanation": "Fetch: la extensión con viento de fuerza y dirección constantes.",
+    "gva": {
+      "index": 943,
+      "sittings": ["2026-10"]
+    }
+  },
+  {
+    "id": "gva-0944",
+    "topic": "meteo",
+    "q": "Si decimos que el viento está rolando, significa que…",
+    "options": [
+      "Está aumentando su intensidad.",
+      "Está cambiando de dirección.",
+      "Está disminuyendo su intensidad.",
+      "Ninguna de las respuestas anteriores es cierta."
+    ],
+    "answer": 1,
+    "explanation": "Rolar: cambiar de dirección.",
+    "gva": {
+      "index": 944,
+      "sittings": ["2026-10"]
+    }
+  },
+  {
+    "id": "gva-0945",
+    "topic": "meteo",
+    "q": "¿Qué magnitud describe la escala Douglas en navegación marítima?",
+    "options": [
+      "La intensidad del viento.",
+      "La intensidad de la corriente.",
+      "El gradiente de presión.",
+      "El estado de la mar."
+    ],
+    "answer": 3,
+    "explanation": "Douglas: el estado de la mar.",
+    "gva": {
+      "index": 945,
+      "sittings": ["2026-10"]
+    }
+  },
+  {
+    "id": "gva-0946",
+    "topic": "meteo",
+    "q": "Las líneas que unen puntos con la misma presión atmosférica se denominan:",
+    "options": ["Isóbatas.", "Isócoras.", "Isóbaras.", "Isóclinas."],
+    "answer": 2,
+    "explanation": "Isóbaras.",
+    "gva": {
+      "index": 946,
+      "sittings": ["2026-10"]
+    }
+  }
+]

@@ -1,0 +1,1383 @@
+[
+  {
+    "id": "gva-0041",
+    "topic": "carta",
+    "q": "Navegando a rumbo de aguja Ra = 012º a la HRB 1240 me encuentro en la oposición Punta Carnero - Punta Europa y en ese instante tomo la demora de aguja de Punta Europa Da = 070º. Calcula el valor de la Corrección Total:",
+    "options": ["CT = (- 6º).", "CT= 6º.", "CT= 2º.", "CT= (-2º)."],
+    "answer": 0,
+    "explanation": "En la oposición, la Dv de Punta Europa se mide en la carta (≈ 064º). Ct = Dv − Da = 064 − 070 = −6º.",
+    "gva": {
+      "index": 41,
+      "sittings": ["2019-11"]
+    }
+  },
+  {
+    "id": "gva-0042",
+    "topic": "carta",
+    "q": "Navegando con un desvió de Δ=2º E y una declinación magnética de 5º W a la HRB 1250 tomo simultáneamente demora verdadera de Cabo Trafalgar= 324º y distancia = 5 millas. Sigo navegando al mismo rumbo y a una velocidad de 11.5 nudos llegando a la situación l =36º03,7´N L= 005º55´W. Calcular Rumbo de Aguja y hora de llegada:",
+    "options": [
+      "Ra = 151º Hora de llegada HRB = 1323.",
+      "Ra = 137º Hora de llegada HRB = 1318.",
+      "Ra = 139º Hora de llegada HRB = 1308.",
+      "Ra = 143º Hora de llegada HRB = 1313."
+    ],
+    "answer": 3,
+    "explanation": "Con la carta 25-C. Mide el Rv en la carta con el transportador. Ra = Rv − Ct, con Ct = dm + Δ. Tiempo = distancia ÷ velocidad (en horas × 60 = minutos). Súmalo a la HRB de salida (y las paradas, si las hay).",
+    "gva": {
+      "index": 42,
+      "sittings": ["2019-11"]
+    }
+  },
+  {
+    "id": "gva-0043",
+    "topic": "carta",
+    "q": "Si a la HRB 2130 nuestra situación es l 36º05,4´N L 005º55,2´W, si navegamos con un rumbo de aguja Ra= 151º a una velocidad de 10 nudos. ¿Cuál será nuestra situación de estima a HRB 2248?. Declinación magnética dm=3ºW, desvío Δ =2ºE:",
+    "options": [
+      "s/e.- l = 35º 53,9’ N ; L = 005º 45,6’ W",
+      "s/e.- l = 35º 57,2’ N ; L = 005º 46,5’ W",
+      "s/e.- l = 35º 54,1’ N ; L = 005º 47,3’ W",
+      "s/e.- l = 35º 54,9’ N ; L = 005º 45,4’ W"
+    ],
+    "answer": 2,
+    "explanation": "Con la carta 25-C. Mide el Rv en la carta con el transportador. Ra = Rv − Ct, con Ct = dm + Δ. Tiempo = distancia ÷ velocidad (en horas × 60 = minutos). Súmalo a la HRB de salida (y las paradas, si las hay). Estima: distancia = velocidad × tiempo, llevada sobre el Rv desde el punto de salida.",
+    "gva": {
+      "index": 43,
+      "sittings": ["2019-11"]
+    }
+  },
+  {
+    "id": "gva-0044",
+    "topic": "carta",
+    "q": "Navegando a Rumbo de aguja Ra= 070º al ser la HRB 0315 marcamos simultáneamente Isla de Tarifa 135º por babor y Punta Cires 080º por estribor, si la CT = 5º. Calcular nuestra situación en ese instante:",
+    "options": [
+      "s/v.- l = 35º 57,2’ N ; L = 005º 30,3’ W",
+      "s/v.- l = 35º 57,9’ N ; L = 005º 31,6’ W",
+      "s/v.- l = 35º 57,0’ N ; L = 005º 32,5’ W",
+      "s/v.- l = 35º 56,6’ N ; L = 005º 28,5’ W"
+    ],
+    "answer": 0,
+    "explanation": "Con la carta 25-C. Traza las líneas de posición desde los faros (Dv + 180º hacia ti). Tu situación es el corte; léela en las escalas de los márgenes. Mide el Rv en la carta con el transportador. Ra = Rv − Ct, con Ct = dm + Δ.",
+    "gva": {
+      "index": 44,
+      "sittings": ["2019-11"]
+    }
+  },
+  {
+    "id": "gva-0086",
+    "topic": "carta",
+    "q": "El 22 de enero de 2021 a Hrb=2200, navegando al Rv=030º obtenemos simultáneamente Demora de aguja Faro de Pta. Malabata 150º y Demora de aguja del Faro de Cabo Espartel 210º. Velocidad del buque Vb= 9 nudos. Corrección total= 0º. Se pide situación a Hrb= 2200:",
+    "options": [
+      "l= 35º 53,4’ N L=005º 45,8’ W",
+      "l= 35º 51,8’ N L=005º 46,8’ W",
+      "l= 35º 51,3’ N L=006º 46,7’ W",
+      "l= 35º 55,7’ N L=005º 49,6’ W"
+    ],
+    "answer": 3,
+    "explanation": "Con la carta 25-C. Pasa cada Da a Dv: Dv = Da + Ct (dm + Δ; NE/E +, NW/W −). Traza las líneas de posición desde los faros (Dv + 180º hacia ti). Tu situación es el corte; léela en las escalas de los márgenes. Tiempo = distancia ÷ velocidad (en horas × 60 = minutos). Súmalo a la HRB de salida (y las paradas, si las hay).",
+    "gva": {
+      "index": 86,
+      "sittings": ["2021-04"]
+    }
+  },
+  {
+    "id": "gva-0087",
+    "topic": "carta",
+    "q": "Al ser Hrb=1727, en situación l=36° 01,4'N; L=005° 23,0'W, damos rumbo a la bocana del Puerto de Ceuta, a una velocidad de 4,3 nudos. Corrección total= 0º. ¿Cuál es el rumbo de aguja y la hora de llegada?:",
+    "options": ["Ra 154º Hrb 1927.", "Ra 155º Hrb 1827.", "Ra 154º Hrb 1757.", "Ra 155º Hrb 1857."],
+    "answer": 0,
+    "explanation": "Con la carta 25-C. Mide el Rv en la carta con el transportador. Ra = Rv − Ct, con Ct = dm + Δ. Tiempo = distancia ÷ velocidad (en horas × 60 = minutos). Súmalo a la HRB de salida (y las paradas, si las hay).",
+    "gva": {
+      "index": 87,
+      "sittings": ["2021-04"]
+    }
+  },
+  {
+    "id": "gva-0088",
+    "topic": "carta",
+    "q": "¿Cuáles son las coordenadas de un punto que está al S/v de Cabo Trafalgar y a una distancia de 4,0 millas?:",
+    "options": [
+      "l = 36° 07,0' N L = 006º 02,1´W.",
+      "l = 35° 06,6' N L = 006º 02,1´W.",
+      "l = 36° 07,0' S L = 006º 02,1´W.",
+      "l = 36° 02,8 'N L = 006º 02,1´W."
+    ],
+    "answer": 0,
+    "explanation": "Con la carta 25-C. Las distancias a un faro son arcos de compás con centro en el faro, medidos en la escala de latitudes.",
+    "gva": {
+      "index": 88,
+      "sittings": ["2021-04"]
+    }
+  },
+  {
+    "id": "gva-0089",
+    "topic": "carta",
+    "q": "A la Hrb=1505, un buque se encuentra en l=36° 02,4'N; L=005° 54,0'W y da rumbo para pasar a 4 millas del Faro de Cabo Trafalgar. La declinación magnética es de 4° W, el desvío del compás, 2° (+). ¿Cuál será el Ra?:",
+    "options": ["295°.", "310°.", "297°.", "303°."],
+    "answer": 3,
+    "explanation": "Con la carta 25-C. Pasa cada Da a Dv: Dv = Da + Ct (dm + Δ; NE/E +, NW/W −). Las distancias a un faro son arcos de compás con centro en el faro, medidos en la escala de latitudes. Mide el Rv en la carta con el transportador. Ra = Rv − Ct, con Ct = dm + Δ. Para pasar a X millas: dibuja el círculo de radio X sobre el faro y traza la tangente desde tu posición.",
+    "gva": {
+      "index": 89,
+      "sittings": ["2021-04"]
+    }
+  },
+  {
+    "id": "gva-0131",
+    "topic": "carta",
+    "q": "El 17 de julio de 2021 estamos en la oposición del Faro de Isla Tarifa – Punta Alcázar y a 3 millas de este último. Navegamos a 6 nudos a un rumbo verdadero de 270º durante 90 minutos. ¿Cuál será nuestra situación transcurrido ese tiempo?:",
+    "options": [
+      "Situación verdadera l.- 35º 55,6’N; L.- 005º 42,0’W.",
+      "Situación verdadera l.- 35º 53,9’N; L.- 005º 45,6’W.",
+      "Situación de estima l.- 35º 55,6’N; L.- 005º 42,0’W.",
+      "Situación de estima l.- 35º 53,9’N; L.- 005º 45,6’W."
+    ],
+    "answer": 3,
+    "explanation": "Con la carta 25-C. Oposición: los dos faros en línea recta contigo en medio. Las distancias a un faro son arcos de compás con centro en el faro, medidos en la escala de latitudes. Tiempo = distancia ÷ velocidad (en horas × 60 = minutos). Súmalo a la HRB de salida (y las paradas, si las hay). Estima: distancia = velocidad × tiempo, llevada sobre el Rv desde el punto de salida.",
+    "gva": {
+      "index": 131,
+      "sittings": ["2021-07"]
+    }
+  },
+  {
+    "id": "gva-0132",
+    "topic": "carta",
+    "q": "El 17 de julio de 2021 vamos navegando a lo largo de la oposición del faro de Punta Europa con el Faro de Punta Carnero, proa a Punta Europa. ¿Cuánto valdrá la demora verdadera de la luz de Punta Almina, si hemos tomado una marcación de la misma de 93º por estribor?:",
+    "options": ["Dv = 335º", "Dv = 152º", "Dv = 158º", "Dv = 135º"],
+    "answer": 2,
+    "explanation": "Con la carta 25-C. Dv = Rv + marcación (estribor +, babor −). Por el través = ±90º. Oposición: los dos faros en línea recta contigo en medio.",
+    "gva": {
+      "index": 132,
+      "sittings": ["2021-07"]
+    }
+  },
+  {
+    "id": "gva-0133",
+    "topic": "carta",
+    "q": "El 17 de julio de 2021 nos encontramos a 5 millas al Norte Verdadero del Faro de Punta Almina, navegamos al rumbo de aguja Ra = 245º, con un desvío de la aguja de 11º NE y una velocidad de 10 nudos. Calcular donde estaremos 1 hora 45 minutos más tarde:",
+    "options": [
+      "Situación verdadera l.- 35º 54,8’N; L.- 005º 33,2’W.",
+      "Situación verdadera l.- 35º 54,2’N; L.- 005º 37,4’W.",
+      "Situación de estima l.- 35º 54,8’N; L.- 005º 33,2’W.",
+      "Situación de estima l.- 35º 54,2’N; L.- 005º 37,4’W."
+    ],
+    "answer": 3,
+    "explanation": "Con la carta 25-C. Las distancias a un faro son arcos de compás con centro en el faro, medidos en la escala de latitudes. Mide el Rv en la carta con el transportador. Ra = Rv − Ct, con Ct = dm + Δ. Tiempo = distancia ÷ velocidad (en horas × 60 = minutos). Súmalo a la HRB de salida (y las paradas, si las hay). Estima: distancia = velocidad × tiempo, llevada sobre el Rv desde el punto de salida.",
+    "gva": {
+      "index": 133,
+      "sittings": ["2021-07"]
+    }
+  },
+  {
+    "id": "gva-0134",
+    "topic": "carta",
+    "q": "Navegando al Ra = 000º, con una declinación magnética 4º NW y desvío 4º NE, obtenemos marcación de C. Espartel = 180º y al mismo tiempo distancia de Pta. Malabata 13 millas. Se pide la distancia a que estaremos en ese instante del Faro de Pta. Paloma:",
+    "options": ["12,5 millas", "12 millas", "11,2 millas", "10 millas"],
+    "answer": 2,
+    "explanation": "Con la carta 25-C. Dv = Rv + marcación (estribor +, babor −). Por el través = ±90º. Las distancias a un faro son arcos de compás con centro en el faro, medidos en la escala de latitudes.",
+    "gva": {
+      "index": 134,
+      "sittings": ["2021-07"]
+    }
+  },
+  {
+    "id": "gva-0175",
+    "topic": "carta",
+    "q": "El día 6 de junio de 2021 encontrándonos navegando al Rumbo verdadero 241º obtenemos marcaciones por estribor simultáneamente del faro de Punta Carnero 36 º y del faro de Punta Europa 90º. Obtener la situación:",
+    "options": [
+      "l=36º 03,2´N L=005º18,0´W",
+      "l=36º 05,3´N L=005º17,3´W",
+      "l=36º 04,1’N L=005º18,8´W",
+      "l=36º 04,0´N L=005º20,1´W"
+    ],
+    "answer": 2,
+    "explanation": "Con la carta 25-C. Dv = Rv + marcación (estribor +, babor −). Por el través = ±90º. Traza las líneas de posición desde los faros (Dv + 180º hacia ti). Tu situación es el corte; léela en las escalas de los márgenes.",
+    "gva": {
+      "index": 175,
+      "sittings": ["2021-06"]
+    }
+  },
+  {
+    "id": "gva-0176",
+    "topic": "carta",
+    "q": "El día 6 de junio de 2021 encontrándonos en situación l=36º 09,2N L=005º17,5´W. Calcular el rumbo de aguja que tendremos que poner si queremos pasar a 2 millas del Faro de Punta Almina siendo el desvío = 4 NW:",
+    "options": ["Ra = 165º", "Ra = 175º", "Ra = 182º", "Ra = 179º"],
+    "answer": 1,
+    "explanation": "Con la carta 25-C. Las distancias a un faro son arcos de compás con centro en el faro, medidos en la escala de latitudes. Mide el Rv en la carta con el transportador. Ra = Rv − Ct, con Ct = dm + Δ. Para pasar a X millas: dibuja el círculo de radio X sobre el faro y traza la tangente desde tu posición.",
+    "gva": {
+      "index": 176,
+      "sittings": ["2021-06"]
+    }
+  },
+  {
+    "id": "gva-0177",
+    "topic": "carta",
+    "q": "El día 6 de junio de 2021 siendo las 16:21 horas obtenemos simultáneamente distancia del faro de Cabo Trafalgar = 7 millas y distancia del faro Cabo Roche = 5 millas. Sabiendo que nos encontramos navegando al Rumbo de aguja = 148º a una velocidad de máquinas de 8 nudos y siendo el desvío = 3 NW. Calcular la situación estimada a las 17:46 horas:",
+    "options": [
+      "l=36º 05,2´N L=006º01,2´W",
+      "l=36º 04,0´N L=006º02,0´W",
+      "l=36º 03,5´N L=006º03,4´W",
+      "l=36º 03,9´N L=006º03,6´W"
+    ],
+    "answer": 1,
+    "explanation": "Con la carta 25-C. Las distancias a un faro son arcos de compás con centro en el faro, medidos en la escala de latitudes. Mide el Rv en la carta con el transportador. Ra = Rv − Ct, con Ct = dm + Δ. Tiempo = distancia ÷ velocidad (en horas × 60 = minutos). Súmalo a la HRB de salida (y las paradas, si las hay). Estima: distancia = velocidad × tiempo, llevada sobre el Rv desde el punto de salida.",
+    "gva": {
+      "index": 177,
+      "sittings": ["2021-06"]
+    }
+  },
+  {
+    "id": "gva-0178",
+    "topic": "carta",
+    "q": "El día 6 de junio de 2021 estamos situados al Norte verdadero del faro de Punta Cires a una distancia del mismo de 3 millas. Calcular el Rumbo de aguja al que deberemos gobernar si queremos pasar a 2,4 millas de distancia al Este verdadero del Faro de Punta Europa sabiendo que el desvío = 2 NW:",
+    "options": ["Ra = 45º", "Ra = 27º", "Ra = 30º", "Ra = 48º"],
+    "answer": 3,
+    "explanation": "Con la carta 25-C. Las distancias a un faro son arcos de compás con centro en el faro, medidos en la escala de latitudes. Mide el Rv en la carta con el transportador. Ra = Rv − Ct, con Ct = dm + Δ. Para pasar a X millas: dibuja el círculo de radio X sobre el faro y traza la tangente desde tu posición.",
+    "gva": {
+      "index": 178,
+      "sittings": ["2021-06"]
+    }
+  },
+  {
+    "id": "gva-0220",
+    "topic": "carta",
+    "q": "El día 27 de noviembre de 2021 siendo las 18:05 horas obtenemos distancia al faro de Punta Alcázar 4 millas y simultáneamente distancia al faro de Punta Cires 5 millas. Obtener la situación:",
+    "options": [
+      "l=36º 54,9´N L=005º35,0´W",
+      "l=35º 55,3´N L=005º33,3´W",
+      "l=35º 54,9’N L=005º34,8´W",
+      "l=35º 53,9´N L=006º35,0´W"
+    ],
+    "answer": 2,
+    "explanation": "Con la carta 25-C. Las distancias a un faro son arcos de compás con centro en el faro, medidos en la escala de latitudes. Traza las líneas de posición desde los faros (Dv + 180º hacia ti). Tu situación es el corte; léela en las escalas de los márgenes.",
+    "gva": {
+      "index": 220,
+      "sittings": ["2021-11"]
+    }
+  },
+  {
+    "id": "gva-0221",
+    "topic": "carta",
+    "q": "El día 27 de noviembre de 2021 nos encontramos al Este verdadero del faro de Punta Europa sobre el veril de 500 metros. Hallar el rumbo al que debemos gobernar si queremos pasar a 3 millas del faro de Isla Tarifa siendo el desvío 4(+):",
+    "options": ["Ra = 236º", "Ra = 056º", "Ra = 242º", "Ra = 062º"],
+    "answer": 0,
+    "explanation": "Con la carta 25-C. Las distancias a un faro son arcos de compás con centro en el faro, medidos en la escala de latitudes. Para pasar a X millas: dibuja el círculo de radio X sobre el faro y traza la tangente desde tu posición.",
+    "gva": {
+      "index": 221,
+      "sittings": ["2021-11"]
+    }
+  },
+  {
+    "id": "gva-0222",
+    "topic": "carta",
+    "q": "El día 27 de noviembre de 2021 siendo las 18:47 horas nos encontramos en la oposición del faro de Punta Cires y el faro de Isla Tarifa siendo la distancia a este último de 4 millas. Sabiendo que nos encontramos navegando a una velocidad de máquinas de 10 nudos en zona sin vientos ni corrientes, calcular a qué hora nos encontraremos al Norte verdadero del faro de Punta Almina y a una distancia al mismo de 3 millas:",
+    "options": ["A las 20:18 horas.", "A las 19:00 horas.", "A las 20:05 horas.", "A las 19:05 horas."],
+    "answer": 2,
+    "explanation": "Con la carta 25-C. Oposición: los dos faros en línea recta contigo en medio. Las distancias a un faro son arcos de compás con centro en el faro, medidos en la escala de latitudes. Tiempo = distancia ÷ velocidad (en horas × 60 = minutos). Súmalo a la HRB de salida (y las paradas, si las hay).",
+    "gva": {
+      "index": 222,
+      "sittings": ["2021-11"]
+    }
+  },
+  {
+    "id": "gva-0223",
+    "topic": "carta",
+    "q": "El día 27 de noviembre 2021 encontrándonos navegando al rumbo verdadero 161º obtenemos marcación del faro de Punta Europa 136º a estribor y distancia al mismo de 2 millas. Obtener la situación.",
+    "options": [
+      "l=36º 03,2´N L=005º18,0´W",
+      "l=36º 05,8´N L=005º18,3´W",
+      "l=35º 04,8’N L=005º21,8´W",
+      "l=36º 06,8´N L=005º17,6´W"
+    ],
+    "answer": 1,
+    "explanation": "Con la carta 25-C. Dv = Rv + marcación (estribor +, babor −). Por el través = ±90º. Las distancias a un faro son arcos de compás con centro en el faro, medidos en la escala de latitudes. Traza las líneas de posición desde los faros (Dv + 180º hacia ti). Tu situación es el corte; léela en las escalas de los márgenes.",
+    "gva": {
+      "index": 223,
+      "sittings": ["2021-11"]
+    }
+  },
+  {
+    "id": "gva-0265",
+    "topic": "carta",
+    "q": "Siendo HRB 1200 nos encontramos a 5 millas del S/v del Faro de Cabo Trafalgar con una Vb de 10 nudos, damos rumbo para pasar a 3 millas del Faro de Isla Tarifa dm - 2º y desvío - 4º. ¿Cuál será el Ra necesario para pasar a 3 millas del Faro de Isla Tarifa y a qué hora tendremos el Faro de Punta Paloma por el través?",
+    "options": ["Ra 120º y HRB 1329", "Ra 130º y HRB 1330", "Ra 300º y HRB 1345", "Ra 300º y HRB 1315"],
+    "answer": 0,
+    "explanation": "Con la carta 25-C. Dv = Rv + marcación (estribor +, babor −). Por el través = ±90º. Las distancias a un faro son arcos de compás con centro en el faro, medidos en la escala de latitudes. Mide el Rv en la carta con el transportador. Ra = Rv − Ct, con Ct = dm + Δ. Para pasar a X millas: dibuja el círculo de radio X sobre el faro y traza la tangente desde tu posición.",
+    "gva": {
+      "index": 265,
+      "sittings": ["2022-12"]
+    }
+  },
+  {
+    "id": "gva-0266",
+    "topic": "carta",
+    "q": "Siendo HRB 2100 nos encontramos en un punto “A” de coordenadas l 36º 09,4´N y L 005º 12,6´W, momento en que damos rumbo con un Vb de 6,5 nudos a la luz verde del espigón exterior del puerto de Ceuta, desvío a dicho rumbo 2º y dm 3º NW ¿Cuál será el Ra para ir a la luz verde del puerto de Ceuta y la situación a HRB 2245?",
+    "options": [
+      "Ra 013º l 35º 54,7´N y L 005º 31,1´W",
+      "Ra 192º l 35º 56,2´N y L 006º 13,2´W",
+      "Ra 186º l 35º 54,2´N y L 005º 30,5´W",
+      "Ra 199º l 35º 58,8´N y L 005º 16,8´W"
+    ],
+    "answer": 3,
+    "explanation": "Con la carta 25-C. Mide el Rv en la carta con el transportador. Ra = Rv − Ct, con Ct = dm + Δ. Tiempo = distancia ÷ velocidad (en horas × 60 = minutos). Súmalo a la HRB de salida (y las paradas, si las hay).",
+    "gva": {
+      "index": 266,
+      "sittings": ["2022-12"]
+    }
+  },
+  {
+    "id": "gva-0267",
+    "topic": "carta",
+    "q": "Nos encontramos en la enfilación del Faro de Punta de Gracia con la cima Silla del Papa con Da 053º y una distancia de 8,2 millas del Faro de Punta Gracia, Vb 8 nudos, momento en el cual recibimos una llamada por VHF de una embarcación próxima que solicita remolque debido a un problema en el motor. Nos indica su situación con dos demoras, siendo la primera del Faro de Punta Malabata Da 135º, y la segunda demora del Faro de Cabo Espartel Da 211º y Ct -5º. ¿Cuánto tardaremos en llegar a dicha posición, y que Ra debemos poner?",
+    "options": ["63´ y Ra 145º", "54´ y Ra 155º", "30´ y Ra 165º", "43´ y Ra 169º"],
+    "answer": 1,
+    "explanation": "Con la carta 25-C. Pasa cada Da a Dv: Dv = Da + Ct (dm + Δ; NE/E +, NW/W −). Enfilación: los dos puntos alineados por el mismo lado; la línea pasa por ti. Las distancias a un faro son arcos de compás con centro en el faro, medidos en la escala de latitudes. Mide el Rv en la carta con el transportador. Ra = Rv − Ct, con Ct = dm + Δ.",
+    "gva": {
+      "index": 267,
+      "sittings": ["2022-12"]
+    }
+  },
+  {
+    "id": "gva-0268",
+    "topic": "carta",
+    "q": "Día 24 de octubre de 2022 siendo HRB 1030 nos encontramos en la oposición del Faro de punta Carnero y del Faro de punta Cires, a una distancia de Cires de 4 millas, momento en que recibimos llamada del armador, y se nos indica poner rumbo a un punto “A” situado al N/v del Faro de punta Malabata y una distancia de 4 millas para llegar a él a HRB 1230 ¿Cuál será la situación del punto “A” y que velocidad del buque deberemos poner?",
+    "options": [
+      "l 35º 53,0´N y L 005º 44,9´W Vb 7,5 nudos",
+      "l 35º 54,2´N y L 005º 38,3´W Vb 8,5 nudos",
+      "l 35º 58,5´N y L 005º 45,2´W Vb 7,8 nudos",
+      "l 35º 44,9´N y L 005º 59,8´W Vb 8,5 nudos"
+    ],
+    "answer": 0,
+    "explanation": "Con la carta 25-C. Oposición: los dos faros en línea recta contigo en medio. Las distancias a un faro son arcos de compás con centro en el faro, medidos en la escala de latitudes. Tiempo = distancia ÷ velocidad (en horas × 60 = minutos). Súmalo a la HRB de salida (y las paradas, si las hay). Velocidad = distancia ÷ tiempo disponible.",
+    "gva": {
+      "index": 268,
+      "sittings": ["2022-12"]
+    }
+  },
+  {
+    "id": "gva-0310",
+    "topic": "carta",
+    "q": "Navegando al rumbo verdadero 253º, a HRB 1715 tomo simultáneamente marcación de Punta Cires por el través y marcación de Isla de Tarifa 033º por estribor. Calcular la situación observada a la HRB 1715. El desvió de la aguja al rumbo 253º es de (+2º):",
+    "options": [
+      "l=35º59,6´N; L=005º31,3´W.",
+      "l=35º58,5´N; L=005º29,8´E.",
+      "l=35º58,8´N; L=005º30,4´W.",
+      "l=35º58,0´N; L=005º31,2´W."
+    ],
+    "answer": 2,
+    "explanation": "Con la carta 25-C. Dv = Rv + marcación (estribor +, babor −). Por el través = ±90º. Traza las líneas de posición desde los faros (Dv + 180º hacia ti). Tu situación es el corte; léela en las escalas de los márgenes.",
+    "gva": {
+      "index": 310,
+      "sittings": ["2022-02"]
+    }
+  },
+  {
+    "id": "gva-0311",
+    "topic": "carta",
+    "q": "¿Cuáles son las coordenadas del faro de Isla Tarifa que emite una luz blanca y roja?:",
+    "options": [
+      "l=36º01,9´N; L=005º36,6´W.",
+      "l=36º00,3´N; L=006º36,4´W.",
+      "l=36º02,0´N; L=005º36,4´W.",
+      "l=36º00,2´N; L=005º36,4´W."
+    ],
+    "answer": 3,
+    "explanation": "Lectura directa de la carta 25-C: Isla de Tarifa ≈ 36º00,2′N 005º36,4′W.",
+    "gva": {
+      "index": 311,
+      "sittings": ["2022-02"]
+    }
+  },
+  {
+    "id": "gva-0312",
+    "topic": "carta",
+    "q": "A la HRB 1200 nos encontramos situados a 6 millas al Sur verdadero de Cabo Trafalgar. Calcular el rumbo de aguja para dirigirnos a un punto con las coordenadas l.- 36º10,0´N; L.- 006º10,0´W, teniendo en cuenta que tenemos un desvió de (- 3º) y una declinación magnética 3º W:",
+    "options": ["Ra =134º.", "Ra=302º.", "Ra=308º.", "Ra=314º."],
+    "answer": 3,
+    "explanation": "Con la carta 25-C. Las distancias a un faro son arcos de compás con centro en el faro, medidos en la escala de latitudes. Mide el Rv en la carta con el transportador. Ra = Rv − Ct, con Ct = dm + Δ.",
+    "gva": {
+      "index": 312,
+      "sittings": ["2022-02"]
+    }
+  },
+  {
+    "id": "gva-0313",
+    "topic": "carta",
+    "q": "Calcular la distancia entre las coordenadas l.- 36º00,0´N; L.- 005º20,0´W y l.- 35º50,0´N; L.- 005º50,0´W:",
+    "options": ["26.4 millas.", "25.4 millas.", "32.4 millas.", "24.4 millas."],
+    "answer": 0,
+    "explanation": "Δl = 10′ y ΔL = 30′. Apartamiento = 30′ × cos 35,9º ≈ 24,3′. d = √(10² + 24,3²) ≈ 26,3 mn. (En la carta: compás sobre la escala de latitudes.)",
+    "gva": {
+      "index": 313,
+      "sittings": ["2022-02"]
+    }
+  },
+  {
+    "id": "gva-0355",
+    "topic": "carta",
+    "q": "El día 4 de septiembre de 2022 a HRB 1000, encontrándonos en la situación de l 36º 12,5´N y L 005º 17,0´W navegamos hasta las 1045 al Ra 185º a una velocidad de 11 nudos, ct 5º.¿Qué situación estimada tendremos a las 1045?",
+    "options": [
+      "36º 05,1´N y 005º 17,8´W",
+      "36º 04,4´N y 005º 18,8´W",
+      "36º 04,6´N y 006º 19,9´W",
+      "36º 05,9´N y 006º 11,1´W"
+    ],
+    "answer": 1,
+    "explanation": "Con la carta 25-C. Tiempo = distancia ÷ velocidad (en horas × 60 = minutos). Súmalo a la HRB de salida (y las paradas, si las hay). Estima: distancia = velocidad × tiempo, llevada sobre el Rv desde el punto de salida.",
+    "gva": {
+      "index": 355,
+      "sittings": ["2022-06"]
+    }
+  },
+  {
+    "id": "gva-0356",
+    "topic": "carta",
+    "q": "Siendo el 21 de mayo del año en curso, navegando por el Estrecho de Gibraltar al ser HRB 1230, Ra 145º, desvió 3º 40´, a HRB 1000 observamos simultáneamente Da del faro de la Isla Tarifa 058º y Da del faro de Punta Cires 101º, dm 2. ¿En qué situación nos encontramos?",
+    "options": [
+      "l = 35º 56,7′ N, L = 005º 41,1′ W",
+      "l = 35º 57,7′ N, L = 006º 42,2′ W",
+      "l = 36º 57,6′ N, L = 005º 46,1′ W",
+      "l = 35º 57,8′ N, L = 005º 42,4′ W"
+    ],
+    "answer": 3,
+    "explanation": "Con la carta 25-C. Pasa cada Da a Dv: Dv = Da + Ct (dm + Δ; NE/E +, NW/W −). Traza las líneas de posición desde los faros (Dv + 180º hacia ti). Tu situación es el corte; léela en las escalas de los márgenes.",
+    "gva": {
+      "index": 356,
+      "sittings": ["2022-06"]
+    }
+  },
+  {
+    "id": "gva-0357",
+    "topic": "carta",
+    "q": "El día 6 de junio de 2022 siendo HRB 1621 estando al S verdadero del faro de Cabo de Trafalgar obtenemos distancia a dicho faro 6 millas. El armador nos ordena poner rumbo para pasar a 3,5 millas del faro de Isla Tarifa, velocidad de máquinas de 8 nudos y siendo el desvío -3 y la dm de la carta. A las 1845 volvemos a recibir una llamada del armador solicitándonos la posición estimada. Calcular la situación estimada a las 1845 y el Ra para pasar a 3,5 millas de Isla Tarifa.",
+    "options": [
+      "35º 57,6´N y 005º 40,4´W Ra 117º",
+      "36º 56,6´N y 005º 44,1´W Ra 120º",
+      "35º 57,7´N y 005º 40,9´W Ra 113,5º",
+      "36º 57,6´N y 005º 42,2´E Ra 111º"
+    ],
+    "answer": 0,
+    "explanation": "Con la carta 25-C. Las distancias a un faro son arcos de compás con centro en el faro, medidos en la escala de latitudes. Mide el Rv en la carta con el transportador. Ra = Rv − Ct, con Ct = dm + Δ. Para pasar a X millas: dibuja el círculo de radio X sobre el faro y traza la tangente desde tu posición. Tiempo = distancia ÷ velocidad (en horas × 60 = minutos). Súmalo a la HRB de salida (y las paradas, si las hay).",
+    "gva": {
+      "index": 357,
+      "sittings": ["2022-06"]
+    }
+  },
+  {
+    "id": "gva-0358",
+    "topic": "carta",
+    "q": "Encontrándonos a HRB 1200 del día 12 de mayo de 2022 en la oposición del Faro de Punta Almina- Faro de punta Europa y una distancia de 4,6 millas de Punta Almina, desde dicha situación ponemos rumbo para pasar a 3,5 millas del Faro de la Isla de Tarifa, desvío a dicho rumbo 3., dm 0º, vb 3´. Calcular la hora estimada en la que estaremos al Sur verdadero de Punta Carnero y la situación verdadera a HRB 1200.",
+    "options": [
+      "Sit. 35º 57,7´N y 005º 40,9´W, HRB 1305",
+      "Sit. 35º 58,2´N y 005º 18,3´W, HRB 1504",
+      "Sit. 35º 58,5´N y 005º 18,2´W, HRB 1400",
+      "Sit. 36º 57,6´N y 005º 42,2´W, HRB 1315"
+    ],
+    "answer": 2,
+    "explanation": "Con la carta 25-C. Oposición: los dos faros en línea recta contigo en medio. Las distancias a un faro son arcos de compás con centro en el faro, medidos en la escala de latitudes. Para pasar a X millas: dibuja el círculo de radio X sobre el faro y traza la tangente desde tu posición. Tiempo = distancia ÷ velocidad (en horas × 60 = minutos). Súmalo a la HRB de salida (y las paradas, si las hay).",
+    "gva": {
+      "index": 358,
+      "sittings": ["2022-06"]
+    }
+  },
+  {
+    "id": "gva-0400",
+    "topic": "carta",
+    "q": "A HRB 1210 con dm = 3º NE y ∆ = 2º, se obtiene simultáneamente del Faro de Pta. Gracia Da = 360º, y del Faro de Isla de Tarifa Da = 095º. Una vez situados se da rumbo para ir a un punto “P” situado a 5,4 millas al NV del Faro de Cabo Espartel. La Vb = 8 nudos, y para el nuevo rumbo dm = 3º NE y ∆ = - 4º. ¿Cuál será la situación verdadera a HRB 1210, y qué Ra pondremos para llegar al punto P?",
+    "options": [
+      "l = 36° 11,8´N L = 005° 44,1´W Ra 235°",
+      "l = 36° 00,2´N L = 005° 42,2´W Ra 187°",
+      "l = 35° 58,2´N L = 005° 46,5´W Ra 215°",
+      "l = 36° 01,8´N L = 005° 48,9´W Ra 212°"
+    ],
+    "answer": 3,
+    "explanation": "Con la carta 25-C. Pasa cada Da a Dv: Dv = Da + Ct (dm + Δ; NE/E +, NW/W −). Las distancias a un faro son arcos de compás con centro en el faro, medidos en la escala de latitudes. Traza las líneas de posición desde los faros (Dv + 180º hacia ti). Tu situación es el corte; léela en las escalas de los márgenes. Mide el Rv en la carta con el transportador. Ra = Rv − Ct, con Ct = dm + Δ.",
+    "gva": {
+      "index": 400,
+      "sittings": ["2023-04"]
+    }
+  },
+  {
+    "id": "gva-0401",
+    "topic": "carta",
+    "q": "Nos encontramos en la situación l = 36º 10,8’ N L = 005º 12,2’ W siendo HRB 1620, y ponemos rumbo a la luz verde del puerto de Ceuta, la dm = 2º NW, el  = 2º, Vb = 12. ¿Cuál será la distancia para llegar a la luz verde y la hora a la que llegaremos?",
+    "options": [
+      "d = 17,8 millas HRB 1749",
+      "d = 20,8 millas HRB 1854",
+      "d = 15,6 millas HRB 1732",
+      "d = 15,5 millas HRB 1810"
+    ],
+    "answer": 0,
+    "explanation": "Con la carta 25-C. Tiempo = distancia ÷ velocidad (en horas × 60 = minutos). Súmalo a la HRB de salida (y las paradas, si las hay).",
+    "gva": {
+      "index": 401,
+      "sittings": ["2023-04"]
+    }
+  },
+  {
+    "id": "gva-0402",
+    "topic": "carta",
+    "q": "A HRB 1515 navegando a Ra = 130º, al cortar la enfilación Fº C. Trafalgar - Fº Cabo Roche tomamos la enfilación con Da = 324º, y simultáneamente distancia al Faro de Cabo Trafalgar 6,4 millas, momento que ponemos proa al espigón de Tánger, desvío al nuevo rumbo 1º, dm 4º NW. ¿Cuál será la Ct a HRB 1515 y la situación estimada al tener el Faro de punta Malabata por el través de babor?",
+    "options": [
+      "Ct -4° l = 36º 00,1’ N L = 005º 46,5’ W",
+      "Ct 4° l = 35º 42,0’ N L = 005º 48,7’ W",
+      "Ct -1° l = 35º 48,2’ N L = 005º 47,9’ W",
+      "Ct -1° l = 36º 04,0’ N L = 005º 51,0’ W"
+    ],
+    "answer": 2,
+    "explanation": "Con la carta 25-C. Pasa cada Da a Dv: Dv = Da + Ct (dm + Δ; NE/E +, NW/W −). Dv = Rv + marcación (estribor +, babor −). Por el través = ±90º. Enfilación: los dos puntos alineados por el mismo lado; la línea pasa por ti. Las distancias a un faro son arcos de compás con centro en el faro, medidos en la escala de latitudes.",
+    "gva": {
+      "index": 402,
+      "sittings": ["2023-04"]
+    }
+  },
+  {
+    "id": "gva-0403",
+    "topic": "carta",
+    "q": "Navegando a Ra = 295º con velocidad = 8 nudos, al estar en la oposición de Faro de punta Cires – Faro punta Carnero, tomamos simultáneamente del Faro de isla Tarifa Dv = 291º. Variamos el rumbo para pasar a 5 millas del Cabo Espartel, desvío nulo y dm 3 NE. ¿Cuánto tiempo tardaremos para tener el Faro de Cabo Espartel por el través y cuál será el rumbo de aguja necesario?",
+    "options": [
+      "Tiempo 165´ Ra = 262°",
+      "Tiempo 189´ Ra = 245°",
+      "Tiempo 180´ Ra = 255°",
+      "Tiempo 175´ Ra = 250°"
+    ],
+    "answer": 2,
+    "explanation": "Con la carta 25-C. Dv = Rv + marcación (estribor +, babor −). Por el través = ±90º. Oposición: los dos faros en línea recta contigo en medio. Las distancias a un faro son arcos de compás con centro en el faro, medidos en la escala de latitudes. Mide el Rv en la carta con el transportador. Ra = Rv − Ct, con Ct = dm + Δ.",
+    "gva": {
+      "index": 403,
+      "sittings": ["2023-04", "2024-11"]
+    }
+  },
+  {
+    "id": "gva-0443",
+    "topic": "carta",
+    "q": "A HRB 1310 con una dm = 3º NE y ∆ = 2º, se obtiene simultáneamente del Faro de Pta. Malabata Da = 206º, y del Faro de Pta. Alcázar Da = 115º. Una vez situados se cambia el rumbo para ir a un punto “P” en situación l = 36º 05,0´N L= 005º 20,0´W. La Vb = 8 nudos, y para el nuevo rumbo dm = 3º NE y ∆ = 4º. ¿Cuál será la situación verdadera a HRB 13 10, y a qué HRB se llegará al punto P?",
+    "options": [
+      "l = 35° 54,0´N L = 005° 41,1´W HRB 15 43",
+      "l = 36° 00,2´N L = 005° 42,2´W HRB 15 30",
+      "l = 35° 53,8´N L = 005° 46,5´W HRB 16 10",
+      "l = 35° 58,7´N L = 005° 40,3´W HRB 15 58"
+    ],
+    "answer": 0,
+    "explanation": "Con la carta 25-C. Pasa cada Da a Dv: Dv = Da + Ct (dm + Δ; NE/E +, NW/W −). Traza las líneas de posición desde los faros (Dv + 180º hacia ti). Tu situación es el corte; léela en las escalas de los márgenes. Tiempo = distancia ÷ velocidad (en horas × 60 = minutos). Súmalo a la HRB de salida (y las paradas, si las hay).",
+    "gva": {
+      "index": 443,
+      "sittings": ["2023-02"]
+    }
+  },
+  {
+    "id": "gva-0444",
+    "topic": "carta",
+    "q": "Estamos en situación l = 36º 00,8’ N L = 005º 17,2’ W, y ponemos Ra = 256º la dm = 4º NW, el  = 10º NE, la velocidad = 11 nudos, y navegamos 2 horas 36 minutos. ¿Cuál será la distancia navegada y la situación a la que llegaremos?",
+    "options": [
+      "d = 25,4 millas l = 35º 57,6’ N L = 05º 45,6’ W",
+      "d = 30,5 millas l = 35º 57,2’ N L = 05º 49,0’ W",
+      "d = 28,6 millas l = 35º 56,8’ N L = 05º 52,2’ W",
+      "d = 26 millas l = 35º 59,7´N L = 005º 46,2´´W"
+    ],
+    "answer": 2,
+    "explanation": "Con la carta 25-C. Mide el Rv en la carta con el transportador. Ra = Rv − Ct, con Ct = dm + Δ. Tiempo = distancia ÷ velocidad (en horas × 60 = minutos). Súmalo a la HRB de salida (y las paradas, si las hay).",
+    "gva": {
+      "index": 444,
+      "sittings": ["2023-02"]
+    }
+  },
+  {
+    "id": "gva-0445",
+    "topic": "carta",
+    "q": "A HRB 1215 navegando a Ra = 130º, al cortar la enfilación Fº C. Trafalgar - Fº Cabo Roche tomamos la enfilación con Da = 331º, y simultáneamente del Fº Pta. Gracia con Da = 080º. ¿Cuál será la Ct y la situación observada a HRB 1215?",
+    "options": [
+      "+ 8° l = 36º 05,1’ N L = 05º 56,5’ W",
+      "10° l = 36º 03,0’ N L = 05º 58,7’ W",
+      "8° l = 36º 03,6’ N L = 05º 55,1’ W",
+      "+ 10° l = 36º 04,0’ N L = 05º 57,0’ W"
+    ],
+    "answer": 2,
+    "explanation": "Con la carta 25-C. Pasa cada Da a Dv: Dv = Da + Ct (dm + Δ; NE/E +, NW/W −). Enfilación: los dos puntos alineados por el mismo lado; la línea pasa por ti. Traza las líneas de posición desde los faros (Dv + 180º hacia ti). Tu situación es el corte; léela en las escalas de los márgenes. Mide el Rv en la carta con el transportador. Ra = Rv − Ct, con Ct = dm + Δ.",
+    "gva": {
+      "index": 445,
+      "sittings": ["2023-02"]
+    }
+  },
+  {
+    "id": "gva-0446",
+    "topic": "carta",
+    "q": "Navegando a Ra = 120º con velocidad = 12 nudos, al estar en la oposición de Faro Cabo Trafalgar – Faro Cabo Espartel, tomamos simultáneamente Espartel con Da = 180º y tenemos una sonda de 50 metros (próximos a la costa española). Mantenemos el mismo rumbo y velocidad durante 1 hora 36 minutos. ¿Cuál será el Rv y la situación a la que llegaremos?",
+    "options": [
+      "l 36º 01,8´N y L 005º 38,3´W Rv = 107°",
+      "l 35º 58,2´N y L 005º 46,3´W Rv = 112°",
+      "l 36º 01,3´N y L 005º 42,6´W Rv = 128°",
+      "l 35º 59,0´N y L 005º 50,0´W Rv = 117°"
+    ],
+    "answer": 0,
+    "explanation": "Con la carta 25-C. Pasa cada Da a Dv: Dv = Da + Ct (dm + Δ; NE/E +, NW/W −). Oposición: los dos faros en línea recta contigo en medio. Mide el Rv en la carta con el transportador. Ra = Rv − Ct, con Ct = dm + Δ. Rv: el ángulo de la derrota en la carta desde el norte verdadero.",
+    "gva": {
+      "index": 446,
+      "sittings": ["2023-02"]
+    }
+  },
+  {
+    "id": "gva-0488",
+    "topic": "carta",
+    "q": "Navegando al Ra = 180°, a HRB 12 20 nos encontramos en la oposición del Faro de Cabo Trafalgar con el Faro de Punta Gracia y a 5 millas de este último faro. Una vez situados ponemos rumbo al puerto de Tánger (farola verde espigón), y se tiene dm = 3° NW y desvío de la aguja ∆ = ‒ 4°, la Vb = 15 nudos. Al tener el faro de Isla Tarifa por el través enganchamos una red perdida a la deriva y detenemos la embarcación. Una hora y veinte minutos más tarde ya desenganchada la red ponemos rumbo de nuevo para ir a Tánger y mantenemos la velocidad ¿Cuál será el Ra para ir al puerto de Tánger y a que HRB llegaremos?",
+    "options": [
+      "Ra = 171° HRB = 15 05",
+      "Ra = 164° HRB = 13 47",
+      "Ra = 162° HRB = 15 20",
+      "Ra = 177° HRB = 15 17"
+    ],
+    "answer": 0,
+    "explanation": "Con la carta 25-C. Dv = Rv + marcación (estribor +, babor −). Por el través = ±90º. Oposición: los dos faros en línea recta contigo en medio. Las distancias a un faro son arcos de compás con centro en el faro, medidos en la escala de latitudes. Mide el Rv en la carta con el transportador. Ra = Rv − Ct, con Ct = dm + Δ.",
+    "gva": {
+      "index": 488,
+      "sittings": ["2023-07"]
+    }
+  },
+  {
+    "id": "gva-0489",
+    "topic": "carta",
+    "q": "Navegando al Ra 240º, dm 1°NW, un Δ 6º, al ser HRB 08 45, observamos simultáneamente Da del Faro de Pta. Europa 326º y Da del faro de Punta Almina 209º. Una vez situados ponemos Rv = 270° y Vb = 8 nudos. Al tener del faro de Pta. Paloma una marcación M = 075° cambiamos el rumbo para dirigirnos al puerto de Barbate (farola roja espigón), la dm = 1°NW, el ∆ = 4°NW y mantenemos la velocidad ¿Cuál será nuestra situación observada a HRB = 08 45 y el Ra para llegar al puerto de Barbate?",
+    "options": [
+      "l 35º 56,7´N y L 005º 14,8´W Ra = 318°",
+      "l 35º 57,8´N y L 005º 13,5´W Ra = 323°",
+      "l 35º 57,0´N y L 005º 14,1´W Ra = 313°",
+      "l 35º 59,0´N y L 005º 13,8´W Ra = 310°"
+    ],
+    "answer": 1,
+    "explanation": "Con la carta 25-C. Pasa cada Da a Dv: Dv = Da + Ct (dm + Δ; NE/E +, NW/W −). Dv = Rv + marcación (estribor +, babor −). Por el través = ±90º. Traza las líneas de posición desde los faros (Dv + 180º hacia ti). Tu situación es el corte; léela en las escalas de los márgenes. Mide el Rv en la carta con el transportador. Ra = Rv − Ct, con Ct = dm + Δ.",
+    "gva": {
+      "index": 489,
+      "sittings": ["2023-07"]
+    }
+  },
+  {
+    "id": "gva-0490",
+    "topic": "carta",
+    "q": "A HRB 15 00 salimos del Puerto de Ceuta (espigón luz roja) con un Rv 015º y una Vb de 8 nudos. Por avería del motor paramos el buque a HRB 17 21. Una hora y media más tarde ya reparada la avería ponemos Rv = 000° y una Vb = 15 nudos. Al tener de la Torre de Guadiaro una M Br = 61° se calienta el motor por lo que tenemos que parar de nuevo la embarcación ¿Cuál será la HRB y la situación de estima al detener la embarcación y marcar la Torre de Guadiaro?",
+    "options": [
+      "l 36º 14,6´N y L 005º 11,5´W HRB = 19 16",
+      "l 36º 15,8´N y L 005º 12,2´W HRB = 19 09",
+      "l 36º 14,2´N y L 005º 12,8´W HRB = 18 58",
+      "l 36º 15,4´N y L 005º 15,1´W HRB = 19 11"
+    ],
+    "answer": 1,
+    "explanation": "Con la carta 25-C. Tiempo = distancia ÷ velocidad (en horas × 60 = minutos). Súmalo a la HRB de salida (y las paradas, si las hay). Estima: distancia = velocidad × tiempo, llevada sobre el Rv desde el punto de salida.",
+    "gva": {
+      "index": 490,
+      "sittings": ["2023-07"]
+    }
+  },
+  {
+    "id": "gva-0491",
+    "topic": "carta",
+    "q": "A HRB 12 35, nos encontramos al N verdadero del Faro de Cabo Espartel y a 6 millas de distancia. Una vez situados ponemos rumbo a pasar a 3 millas del Faro de Punta Cires. Al encontrarnos al 190° verdadero del Faro de Punta Europa cambiamos el rumbo para ir al puerto de Algeciras (espigón farola roja), tenemos una dm = 2° NW, el desvío ∆ = 7° +, la Vb = 12 nudos. ¿Cuál es el Ra para ir a Algeciras y la distancia a la farola del espigón del puerto?",
+    "options": [
+      "Ra = 348º y d 9,1 millas",
+      "Ra = 355º y d 10,1 millas",
+      "Ra = 345º y d 9,8 millas",
+      "Ra = 340º y d 10,6 millas"
+    ],
+    "answer": 3,
+    "explanation": "Con la carta 25-C. Las distancias a un faro son arcos de compás con centro en el faro, medidos en la escala de latitudes. Mide el Rv en la carta con el transportador. Ra = Rv − Ct, con Ct = dm + Δ. Para pasar a X millas: dibuja el círculo de radio X sobre el faro y traza la tangente desde tu posición. Tiempo = distancia ÷ velocidad (en horas × 60 = minutos). Súmalo a la HRB de salida (y las paradas, si las hay).",
+    "gva": {
+      "index": 491,
+      "sittings": ["2023-07"]
+    }
+  },
+  {
+    "id": "gva-0533",
+    "topic": "carta",
+    "q": "Siendo HRB 21 00 nos encontramos en la situación l 36º 02,7´N y L 006º 13,7´W, teniendo una Vb de 10 nudos. ¿A qué HRB llegaremos al puerto de Barbate (luz roja)?",
+    "options": ["HRB 22 41", "HRB 2312", "HRB 22 20", "HRB 23 00"],
+    "answer": 0,
+    "explanation": "Con la carta 25-C. Tiempo = distancia ÷ velocidad (en horas × 60 = minutos). Súmalo a la HRB de salida (y las paradas, si las hay).",
+    "gva": {
+      "index": 533,
+      "sittings": ["2023-11"]
+    }
+  },
+  {
+    "id": "gva-0534",
+    "topic": "carta",
+    "q": "Encontrándonos en la mar obtenemos Da de la Torre de Gracia 005º y Da del Faro de Isla Tarifa 275. Teniendo una dm 4º- y un desvío de 1º -, ponemos rumbo a pasar a 5 millas del Faro de Cabo Trafalgar, desvío al nuevo rumbo 3º ¿Cuál será el rumbo de aguja para pasar a 5 millas del Faro de Cabo de Trafalgar?",
+    "options": ["Ra 289", "Ra 293", "Ra 298", "Ra 304"],
+    "answer": 2,
+    "explanation": "Con la carta 25-C. Pasa cada Da a Dv: Dv = Da + Ct (dm + Δ; NE/E +, NW/W −). Las distancias a un faro son arcos de compás con centro en el faro, medidos en la escala de latitudes. Mide el Rv en la carta con el transportador. Ra = Rv − Ct, con Ct = dm + Δ. Para pasar a X millas: dibuja el círculo de radio X sobre el faro y traza la tangente desde tu posición.",
+    "gva": {
+      "index": 534,
+      "sittings": ["2023-11"]
+    }
+  },
+  {
+    "id": "gva-0535",
+    "topic": "carta",
+    "q": "Siendo HRB 11 30 nos encontramos en la oposición del Faro de Punta Europa con el Faro de Punta Almina y a una distancia de 4 millas del Faro de Punta Europa, desde dicha situación ponemos Ra 252, Ct 4º negativos, Vb 8 nudos. ¿A qué hora tendremos la luz verde del Puerto de Tánger por nuestro través?",
+    "options": ["HRB 1501", "HRB 1432", "HRB 1445", "HRB 1452"],
+    "answer": 3,
+    "explanation": "Con la carta 25-C. Dv = Rv + marcación (estribor +, babor −). Por el través = ±90º. Oposición: los dos faros en línea recta contigo en medio. Las distancias a un faro son arcos de compás con centro en el faro, medidos en la escala de latitudes. Tiempo = distancia ÷ velocidad (en horas × 60 = minutos). Súmalo a la HRB de salida (y las paradas, si las hay).",
+    "gva": {
+      "index": 535,
+      "sittings": ["2023-11"]
+    }
+  },
+  {
+    "id": "gva-0536",
+    "topic": "carta",
+    "q": "El 20 de enero de 2023 nos encontramos en la enfilación del Faro de Punta Paloma con el Cerro de San Bartolomé a una distancia del Faro de Punta Paloma de 7 millas y obtenemos una Da N. Desde dicha situación ponemos rumbo para pasar a 5 millas del Faro de Cabo Espartel. ¿Cuál será el Ra para pasar a 5 millas del Faro de Cabo Espartel y la situación al estar al Nv de dicho Faro?",
+    "options": [
+      "Ra = 250º l = 35º 58,3´N L = 005º 51,3´W",
+      "Ra = 258º l = 35º 52,8´N L = 005º 55,4´W",
+      "Ra = 255º l = 35º 50,1´N L = 005º 57,7´W",
+      "Ra = 261º l = 35º 53,3´N L = 005º 53,6´W"
+    ],
+    "answer": 1,
+    "explanation": "Con la carta 25-C. Pasa cada Da a Dv: Dv = Da + Ct (dm + Δ; NE/E +, NW/W −). Enfilación: los dos puntos alineados por el mismo lado; la línea pasa por ti. Las distancias a un faro son arcos de compás con centro en el faro, medidos en la escala de latitudes. Mide el Rv en la carta con el transportador. Ra = Rv − Ct, con Ct = dm + Δ.",
+    "gva": {
+      "index": 536,
+      "sittings": ["2023-11"]
+    }
+  },
+  {
+    "id": "gva-0578",
+    "topic": "carta",
+    "q": "Encontrándonos en la oposición Torre de Gracia-Faro de Punta Malabata a 4,6 millas del Faro de Punta Malabata, ponemos rumbo al punto “P” situado al S/v de Punta Europa y una distancia de 5 millas de Punta Europa, dm 3º NW, desvío a dicho rumbo 3º ¿Cuál será el Ra para ir al punto “P”?",
+    "options": ["Ra = 060°", "Ra = 076°", "Ra = 068º", "Ra = 086°"],
+    "answer": 2,
+    "explanation": "Con la carta 25-C. Oposición: los dos faros en línea recta contigo en medio. Las distancias a un faro son arcos de compás con centro en el faro, medidos en la escala de latitudes. Mide el Rv en la carta con el transportador. Ra = Rv − Ct, con Ct = dm + Δ.",
+    "gva": {
+      "index": 578,
+      "sittings": ["2023-09"]
+    }
+  },
+  {
+    "id": "gva-0579",
+    "topic": "carta",
+    "q": "Siendo HRB 12 30 nos encontramos en l 35º 55,0´N y L 006º 15,0´W, ponemos rumbo a pasar a 3 millas del Faro de Isla de Tarifa con una Vb de 10 nudos, en el momento de tener a luz verde del espigón de Tánger por el través decidimos poner rumbo a dicho faro, desvío a dicho rumbo 4º negativos, dm 6º NE y Vb 6 nudos ¿Cuál será el Ra para arrumbar a Tánger y a qué hora llegaremos?",
+    "options": ["Ra = 170° HRB 17 59", "Ra = 187° HRB 16 19", "Ra = 178° HRB 16 29", "Ra = 174° HRB 16 09"],
+    "answer": 3,
+    "explanation": "Con la carta 25-C. Dv = Rv + marcación (estribor +, babor −). Por el través = ±90º. Las distancias a un faro son arcos de compás con centro en el faro, medidos en la escala de latitudes. Mide el Rv en la carta con el transportador. Ra = Rv − Ct, con Ct = dm + Δ. Para pasar a X millas: dibuja el círculo de radio X sobre el faro y traza la tangente desde tu posición.",
+    "gva": {
+      "index": 579,
+      "sittings": ["2023-09"]
+    }
+  },
+  {
+    "id": "gva-0580",
+    "topic": "carta",
+    "q": "A HRB 15 00 nos encontramos en la enfilación de Punta Europa con Punta Carnero con una sonda de 275 brazas aproximadamente, Vb 12 nudos, ponemos rumbo a un punto situado al Levante verdadero de Punta Almina con una distancia de 2 millas ¿Cuál será la HRB y la situación de estima al tener la cima de Monte Sem-Sem por nuestro través de estribor?",
+    "options": [
+      "l 35º 45,2´N y L 005º 14,1´W HRB = 16 58",
+      "l 36º 35,8´N y L 005º 12,2´W HRB = 16 45",
+      "l 36º 44,2´N y L 005º 12,8´W HRB = 17 18",
+      "l 36º 45,8´N y L 005º 15,1´W HRB = 16 41"
+    ],
+    "answer": 0,
+    "explanation": "Con la carta 25-C. Dv = Rv + marcación (estribor +, babor −). Por el través = ±90º. Enfilación: los dos puntos alineados por el mismo lado; la línea pasa por ti. Las distancias a un faro son arcos de compás con centro en el faro, medidos en la escala de latitudes. Tiempo = distancia ÷ velocidad (en horas × 60 = minutos). Súmalo a la HRB de salida (y las paradas, si las hay).",
+    "gva": {
+      "index": 580,
+      "sittings": ["2023-09"]
+    }
+  },
+  {
+    "id": "gva-0581",
+    "topic": "carta",
+    "q": "A HRB 11 35, nos encontramos navegando al Ra 074, desvío 5º y dm 1º, momento en que obtenemos una marcación del Cabo de Trafalgar de 269º y una Da de Punta de Gracia de 054º. ¿Cuál será el rumbo verdadero necesario para pasar a 3 millas del Faro de la isla de Tarifa?",
+    "options": ["Rv = 101º", "Rv = 115º", "Rv = 281º", "Rv = 108º"],
+    "answer": 0,
+    "explanation": "Con la carta 25-C. Pasa cada Da a Dv: Dv = Da + Ct (dm + Δ; NE/E +, NW/W −). Dv = Rv + marcación (estribor +, babor −). Por el través = ±90º. Las distancias a un faro son arcos de compás con centro en el faro, medidos en la escala de latitudes. Mide el Rv en la carta con el transportador. Ra = Rv − Ct, con Ct = dm + Δ.",
+    "gva": {
+      "index": 581,
+      "sittings": ["2023-09"]
+    }
+  },
+  {
+    "id": "gva-0623",
+    "topic": "carta",
+    "q": "Siendo HRB 10 00 nos encontramos en la situación l 36º 05,6´N y L 006º 15,0´W, momento en el cuál recibimos una llamada de la embarcación Albacora Uno pidiendo auxilio por problemas en la máquina, y nos encontramos a 10 millas al Nv del Faro de Cabo Espartel. Como nos encontramos en disposición de prestarle ayuda, damos rumbo para ir a su encuentro con un Vb de 14 nudos. ¿A qué hora llegaremos a su costado y cuál será el Rv necesario?",
+    "options": ["HRB 11 10 Rv 116º", "HRB 11 01 Rv 120º", "HRB 11 17 Rv 117º", "HRB 11 28 Rv 115º"],
+    "answer": 2,
+    "explanation": "Con la carta 25-C. Las distancias a un faro son arcos de compás con centro en el faro, medidos en la escala de latitudes. Rv: el ángulo de la derrota en la carta desde el norte verdadero. Tiempo = distancia ÷ velocidad (en horas × 60 = minutos). Súmalo a la HRB de salida (y las paradas, si las hay).",
+    "gva": {
+      "index": 623,
+      "sittings": ["2024-04"]
+    }
+  },
+  {
+    "id": "gva-0624",
+    "topic": "carta",
+    "q": "Nos encontramos en la oposición del Faro de Punta Paloma con el Faro de Punta Malabata y a una distancia de 5 millas de este último. Ponemos rumbo a pasar a 7 millas del Faro de Punta Europa, y en el momento de cortar la enfilación del Faro de Isla de Tarifa con la cima de monte Órganos tenemos una Da de 330º. ¿Cuál será el Ra que llevamos?",
+    "options": ["Ra 067º", "Ra 072º", "Ra 074º", "Ra 061º"],
+    "answer": 0,
+    "explanation": "Con la carta 25-C. Pasa cada Da a Dv: Dv = Da + Ct (dm + Δ; NE/E +, NW/W −). Oposición: los dos faros en línea recta contigo en medio. Enfilación: los dos puntos alineados por el mismo lado; la línea pasa por ti. Las distancias a un faro son arcos de compás con centro en el faro, medidos en la escala de latitudes.",
+    "gva": {
+      "index": 624,
+      "sittings": ["2024-04"]
+    }
+  },
+  {
+    "id": "gva-0625",
+    "topic": "carta",
+    "q": "Día 12 de abril de 2024 a HRB 18 00, obtenemos en el radar una Da del Faro del Cabo de Trafalgar 005º y simultáneamente del Faro de Punta Gracia 095º, teniendo un desvío de 4º negativos y una dm 1º NW ¿Cuál será nuestra situación verdadera?",
+    "options": [
+      "l 36º 08,1´ N L 006º 02,9´ W",
+      "l 36º 05,0´ N L 006º 04,8´ W",
+      "l 36º 07,7´ N L 006º 04,4´ W",
+      "l 36º 05,1´ N L 006º 02,0´ W"
+    ],
+    "answer": 3,
+    "explanation": "Con la carta 25-C. Pasa cada Da a Dv: Dv = Da + Ct (dm + Δ; NE/E +, NW/W −). Traza las líneas de posición desde los faros (Dv + 180º hacia ti). Tu situación es el corte; léela en las escalas de los márgenes.",
+    "gva": {
+      "index": 625,
+      "sittings": ["2024-04"]
+    }
+  },
+  {
+    "id": "gva-0626",
+    "topic": "carta",
+    "q": "¿Cuál será la sonda que tendremos debajo de la quilla en el momento de la 1ª pleamar del día 16 de septiembre de 2024 en el Puerto de Cádiz teniendo un calado de 1,8 metros?",
+    "options": ["1,30 m", "3,10 m", "4,90 m", "1,62 m"],
+    "answer": 0,
+    "explanation": "Tabla de Cádiz, 16 sep: 1ª pleamar 3,10 m. Sonda bajo la quilla = Sc + altura de marea − calado = 0 + 3,10 − 1,8 = 1,30 m.",
+    "gva": {
+      "index": 626,
+      "sittings": ["2024-04"],
+      "image": "img/gva-0626.jpg"
+    }
+  },
+  {
+    "id": "gva-0668",
+    "topic": "carta",
+    "q": "Siendo HRB 12 35 nos encontramos en la oposición del Faro de Cabo Trafalgar – Faro de Cabo Espartel a una distancia del ultimo faro de 7 millas náuticas, momento en que escuchamos el boletín meteorológico y decidimos poner rumbo al Puerto de Barbate (luz roja), Vb = 12 nudos, dm 5º +, desvío a dicho rumbo - 4º ¿A qué HRB tendremos por nuestro través el Faro de Punta de Gracia?",
+    "options": ["HRB 13 34", "HRB 13 21", "HRB 13 41", "HRB 13 38"],
+    "answer": 0,
+    "explanation": "Con la carta 25-C. Dv = Rv + marcación (estribor +, babor −). Por el través = ±90º. Oposición: los dos faros en línea recta contigo en medio. Las distancias a un faro son arcos de compás con centro en el faro, medidos en la escala de latitudes. Tiempo = distancia ÷ velocidad (en horas × 60 = minutos). Súmalo a la HRB de salida (y las paradas, si las hay).",
+    "gva": {
+      "index": 668,
+      "sittings": ["2024-02"]
+    }
+  },
+  {
+    "id": "gva-0669",
+    "topic": "carta",
+    "q": "Encontrándonos en la mar en la situación l 36º 04,´N y L 006º 15,0´W, ponemos rumbo a un punto “P” situado al poniente verdadero del Faro de Cabo Espartel y una distancia de 6,2 millas, desvío 3º y dm 3º - ¿Cuál será el rumbo de aguja para llegar al punto “p”?",
+    "options": ["Ra 140", "Ra 154", "Ra 144", "Ra 149"],
+    "answer": 3,
+    "explanation": "Con la carta 25-C. Las distancias a un faro son arcos de compás con centro en el faro, medidos en la escala de latitudes. Mide el Rv en la carta con el transportador. Ra = Rv − Ct, con Ct = dm + Δ.",
+    "gva": {
+      "index": 669,
+      "sittings": ["2024-02"]
+    }
+  },
+  {
+    "id": "gva-0670",
+    "topic": "carta",
+    "q": "Día 2 de febrero de 2024 a HRB 10 00, observamos en el radar una distancia al Faro de la Isla de Tarifa de 5 millas y simultáneamente distancia al Faro de Punta Cires 9 millas, Vb 12 nudos, ponemos rumbo a la Farola verde del Puerto de Tánger. ¿A qué hora tendremos el Faro de Punta Malabata por nuestro través?",
+    "options": ["HRB 1040", "HRB 1045", "HRB 1035", "HRB 1431"],
+    "answer": 0,
+    "explanation": "Con la carta 25-C. Dv = Rv + marcación (estribor +, babor −). Por el través = ±90º. Las distancias a un faro son arcos de compás con centro en el faro, medidos en la escala de latitudes. Tiempo = distancia ÷ velocidad (en horas × 60 = minutos). Súmalo a la HRB de salida (y las paradas, si las hay).",
+    "gva": {
+      "index": 670,
+      "sittings": ["2024-02"]
+    }
+  },
+  {
+    "id": "gva-0671",
+    "topic": "carta",
+    "q": "HRB 12 35, Rv 000º, encontrándonos en la enfilación del Faro de Punta Carnero con el Cerro de monte Gitano y a una distancia del Faro de Punta Carnero de 9,9 millas y una Da de 275º. Desde dicha situación ponemos rumbo a pasar a 3 millas del Faro de Punta Almina, dm 5º +. ¿Cuál será el Ra para pasar a 3 millas si el desvío al nuevo rumbo es 3º negativos y cuál será el desvío que tenía la aguja a HRB 12 35?",
+    "options": [
+      "Ra = 177º desvío 3º -",
+      "Ra = 175º desvío 3º",
+      "Ra = 179º desvío 4º",
+      "Ra = 171º desvío 4º -"
+    ],
+    "answer": 1,
+    "explanation": "Con la carta 25-C. Pasa cada Da a Dv: Dv = Da + Ct (dm + Δ; NE/E +, NW/W −). Enfilación: los dos puntos alineados por el mismo lado; la línea pasa por ti. Las distancias a un faro son arcos de compás con centro en el faro, medidos en la escala de latitudes. Mide el Rv en la carta con el transportador. Ra = Rv − Ct, con Ct = dm + Δ.",
+    "gva": {
+      "index": 671,
+      "sittings": ["2024-02"]
+    }
+  },
+  {
+    "id": "gva-0713",
+    "topic": "carta",
+    "q": "Siendo HRB 21 00 nos encontramos en la situación l 35º 50,0´N y L 005º 15,0´W, momento en el cual recibimos la llamada de la embarcación Albacora Tres pidiéndonos auxilio por problemas en la máquina, encontrándose a 5 millas al Levante verdadero del Faro de Punta Europa. Damos rumbo para acudir en su ayuda con una Vb de 8 nudos. ¿A qué hora llegaremos a su costado y cuál será el Rv necesario?",
+    "options": ["HRB 23 04 Rv 002º", "HRB 11 01 Rv 006º", "HRB 11 17 Rv 356º", "HRB 11 28 Rv 000º"],
+    "answer": 0,
+    "explanation": "Con la carta 25-C. Las distancias a un faro son arcos de compás con centro en el faro, medidos en la escala de latitudes. Rv: el ángulo de la derrota en la carta desde el norte verdadero. Tiempo = distancia ÷ velocidad (en horas × 60 = minutos). Súmalo a la HRB de salida (y las paradas, si las hay).",
+    "gva": {
+      "index": 713,
+      "sittings": ["2024-06"]
+    }
+  },
+  {
+    "id": "gva-0714",
+    "topic": "carta",
+    "q": "Encontrándonos en la oposición del Faro de Punta Carnero con el Faro de Punta Cires y a una distancia de 4 millas de este último, ponemos rumbo a pasar a 5 millas del Faro de Punta Europa, y en el momento de cortar la oposición del Faro de Punta Europa con el Faro de Punta Almina obtenemos de este último una Da de 160º. ¿Cuál será el Ra que llevamos?",
+    "options": ["Ra 060º", "Ra 072º", "Ra 067º", "Ra 055º"],
+    "answer": 0,
+    "explanation": "Con la carta 25-C. Pasa cada Da a Dv: Dv = Da + Ct (dm + Δ; NE/E +, NW/W −). Oposición: los dos faros en línea recta contigo en medio. Las distancias a un faro son arcos de compás con centro en el faro, medidos en la escala de latitudes. Mide el Rv en la carta con el transportador. Ra = Rv − Ct, con Ct = dm + Δ.",
+    "gva": {
+      "index": 714,
+      "sittings": ["2024-06", "2025-04"]
+    }
+  },
+  {
+    "id": "gva-0715",
+    "topic": "carta",
+    "q": "Día 10 de abril de 2024 a HRB 08 00, obtenemos en el radar una Da del Faro del Cabo de Espartel 213º y simultáneamente del Faro de Punta Malabata Da = 129º, teniendo un desvío de 4º y una dm 1º NE ¿Cuál será nuestra situación verdadera?",
+    "options": [
+      "l 35º 53,2´ N L 005º 50,0´ W",
+      "l 35º 50,0´ N L 005º 54,8´ W",
+      "l 35º 57,7´ N L 005º 47,4´ W",
+      "l 35º 55,1´ N L 005º 42,0´ W"
+    ],
+    "answer": 0,
+    "explanation": "Con la carta 25-C. Pasa cada Da a Dv: Dv = Da + Ct (dm + Δ; NE/E +, NW/W −). Traza las líneas de posición desde los faros (Dv + 180º hacia ti). Tu situación es el corte; léela en las escalas de los márgenes.",
+    "gva": {
+      "index": 715,
+      "sittings": ["2024-06"]
+    }
+  },
+  {
+    "id": "gva-0716",
+    "topic": "carta",
+    "q": "¿Cuál será la sonda que tendremos debajo de la quilla en el momento de la 2ª pleamar del día 2 de noviembre de 2024 en el Puerto de Cádiz teniendo un calado de 1,1 metros y Sc 2 metros?",
+    "options": ["1,20 m", "3,21 m", "2,30 m", "4,11 m"],
+    "answer": 3,
+    "explanation": "Tabla, 2 nov: 2ª pleamar 3,21 m. Bajo la quilla = Sc + h − calado = 2 + 3,21 − 1,1 = 4,11 m.",
+    "gva": {
+      "index": 716,
+      "sittings": ["2024-06"],
+      "image": "img/gva-0716.jpg"
+    }
+  },
+  {
+    "id": "gva-0734",
+    "topic": "carta",
+    "q": "A HRB 12 10 con dm = 3º NE y ∆ = 2º, se obtiene simultáneamente del Faro de Pta. Gracia Da = 360º, y del Faro de Isla de Tarifa Da = 095º. Una vez situados se da rumbo para ir a un punto “P” situado a 5,4 millas al NV del Faro de Cabo Espartel. La Vb = 8 nudos, y para el nuevo rumbo dm = 3º NE y ∆ = ‒ 4º. ¿Cuál será la situación verdadera a HRB 12 10, y qué Ra pondremos para llegar al punto P?",
+    "options": [
+      "l = 36° 11,8´N L = 005° 44,1´W Ra 235°",
+      "l = 36° 00,2´N L = 005° 42,2´W Ra 187°",
+      "l = 35° 58,2´N L = 005° 46,5´W Ra 215°",
+      "l = 36° 01,8´N L = 005° 48,9´W Ra 212°"
+    ],
+    "answer": 3,
+    "explanation": "Con la carta 25-C. Pasa cada Da a Dv: Dv = Da + Ct (dm + Δ; NE/E +, NW/W −). Las distancias a un faro son arcos de compás con centro en el faro, medidos en la escala de latitudes. Traza las líneas de posición desde los faros (Dv + 180º hacia ti). Tu situación es el corte; léela en las escalas de los márgenes. Mide el Rv en la carta con el transportador. Ra = Rv − Ct, con Ct = dm + Δ.",
+    "gva": {
+      "index": 734,
+      "sittings": ["2024-09"]
+    }
+  },
+  {
+    "id": "gva-0735",
+    "topic": "carta",
+    "q": "Encontrándonos en la mar en la situación l 36º 04,0´N y L 006º 15,0´W, ponemos rumbo a un punto “P” situado al poniente verdadero del Faro de Cabo Espartel y a una distancia de 6,2 millas, desvío 3º y dm 3º ‒ ¿Cuál será el rumbo de aguja para llegar al punto “P”?",
+    "options": ["Ra 140", "Ra 154", "Ra 144", "Ra 149"],
+    "answer": 3,
+    "explanation": "Con la carta 25-C. Las distancias a un faro son arcos de compás con centro en el faro, medidos en la escala de latitudes. Mide el Rv en la carta con el transportador. Ra = Rv − Ct, con Ct = dm + Δ.",
+    "gva": {
+      "index": 735,
+      "sittings": ["2024-09"]
+    }
+  },
+  {
+    "id": "gva-0736",
+    "topic": "carta",
+    "q": "A HRB 15 15 navegando a Ra = 130º, al cortar la enfilación Fº Cabo Trafalgar con Fº Cabo Roche tomamos la enfilación con Da = 324º, y simultáneamente distancia al Faro de Cabo Trafalgar 6,4 millas, momento que ponemos proa al espigón de Tánger, desvío al nuevo rumbo 1º, dm 4º NW. ¿Cuál será la Ct a HRB 15 15 y la situación estimada al tener el Faro de punta Malabata por el través de babor?",
+    "options": [
+      "Ct ‒ 4° l = 36º 00,1’ N L = 005º 46,5’ W",
+      "Ct 4° l = 35º 42,0’ N L = 005º 48,7’ W",
+      "Ct ‒ 1° l = 35º 48,2’ N L = 005º 47,9’ W",
+      "Ct ‒ 1° l = 36º 04,0’ N L = 005º 51,0’ W"
+    ],
+    "answer": 2,
+    "explanation": "Con la carta 25-C. Pasa cada Da a Dv: Dv = Da + Ct (dm + Δ; NE/E +, NW/W −). Dv = Rv + marcación (estribor +, babor −). Por el través = ±90º. Enfilación: los dos puntos alineados por el mismo lado; la línea pasa por ti. Las distancias a un faro son arcos de compás con centro en el faro, medidos en la escala de latitudes.",
+    "gva": {
+      "index": 736,
+      "sittings": ["2024-09"]
+    }
+  },
+  {
+    "id": "gva-0737",
+    "topic": "carta",
+    "q": "HRB 12 35 con Rv = 000º, encontrándonos en la enfilación del Faro de Punta Carnero con el Cerro de monte Gitano y, a una distancia del Faro de Punta Carnero de 9,9 millas se obtiene Da = 275º. Desde dicha situación ponemos rumbo a pasar a 3 millas del Faro de Punta Almina, dm 5º +. ¿Cuál será el Ra para pasar a 3 millas si el desvío al nuevo rumbo es 3º negativos y, cuál será el desvío que tenía la aguja a HRB 12 35?",
+    "options": [
+      "Ra = 177º desvío 3º ‒",
+      "Ra = 175º desvío 3º",
+      "Ra = 179º desvío 4º",
+      "Ra = 171º desvío 4º ‒"
+    ],
+    "answer": 1,
+    "explanation": "Con la carta 25-C. Pasa cada Da a Dv: Dv = Da + Ct (dm + Δ; NE/E +, NW/W −). Enfilación: los dos puntos alineados por el mismo lado; la línea pasa por ti. Las distancias a un faro son arcos de compás con centro en el faro, medidos en la escala de latitudes. Mide el Rv en la carta con el transportador. Ra = Rv − Ct, con Ct = dm + Δ.",
+    "gva": {
+      "index": 737,
+      "sittings": ["2024-09"]
+    }
+  },
+  {
+    "id": "gva-0744",
+    "topic": "carta",
+    "q": "Siendo HRB 1200 nos encontramos a 5 millas del S/v del Faro de Cabo Trafalgar con una Vb de 10 nudos, y se pone rumbo para pasar a 3 millas del Faro de Isla Tarifa, dm - 2º y desvío - 4º. ¿Cuál será el Ra necesario para pasar a 3 millas del Faro de Isla Tarifa y a qué hora tendremos el Faro de Punta Paloma por el través?",
+    "options": ["Ra 300º y HRB 1345", "Ra 130º y HRB 1330", "Ra 120º y HRB 1329", "Ra 300º y HRB 1315"],
+    "answer": 2,
+    "explanation": "Con la carta 25-C. Dv = Rv + marcación (estribor +, babor −). Por el través = ±90º. Las distancias a un faro son arcos de compás con centro en el faro, medidos en la escala de latitudes. Mide el Rv en la carta con el transportador. Ra = Rv − Ct, con Ct = dm + Δ. Para pasar a X millas: dibuja el círculo de radio X sobre el faro y traza la tangente desde tu posición.",
+    "gva": {
+      "index": 744,
+      "sittings": ["2024-11"]
+    }
+  },
+  {
+    "id": "gva-0745",
+    "topic": "carta",
+    "q": "Nos encontramos en la situación l = 36º 10,8’ N L = 005º 12,2’ W a HRB 1620, y ponemos rumbo a la luz verde del puerto de Ceuta, la dm = 2º NW, el  = 2º, Vb = 12. ¿Cuál será la distancia para llegar a la luz verde del espigón, y a qué hora llegaremos?",
+    "options": [
+      "d = 15,5 millas HRB 1810",
+      "d = 20,8 millas HRB 1854",
+      "d = 15,6 millas HRB 1732",
+      "d = 17,8 millas HRB 1749"
+    ],
+    "answer": 3,
+    "explanation": "Con la carta 25-C. Tiempo = distancia ÷ velocidad (en horas × 60 = minutos). Súmalo a la HRB de salida (y las paradas, si las hay).",
+    "gva": {
+      "index": 745,
+      "sittings": ["2024-11"]
+    }
+  },
+  {
+    "id": "gva-0746",
+    "topic": "carta",
+    "q": "El 24 de octubre de 2024 siendo HRB 1030 nos encontramos en la oposición del Faro de punta Carnero y del Faro de punta Cires, a una distancia de Cires de 4 millas, momento en que recibimos llamada del armador, y se nos indica poner rumbo a un punto “A” situado al N/v del Faro de punta Malabata y una distancia de 4 millas para llegar a él a HRB 1230 ¿Cuál será la situación del punto “A” y a qué velocidad del buque deberemos poner?",
+    "options": [
+      "l 35º 54,2´N y L 005º 38,3´W Vb 8,5 nudos",
+      "l 35º 53,0´N y L 005º 44,9´W Vb 7,5 nudos",
+      "l 35º 58,5´N y L 005º 45,2´W Vb 7,8 nudos",
+      "l 35º 44,9´N y L 005º 59,8´W Vb 8,5 nudos"
+    ],
+    "answer": 1,
+    "explanation": "Con la carta 25-C. Oposición: los dos faros en línea recta contigo en medio. Las distancias a un faro son arcos de compás con centro en el faro, medidos en la escala de latitudes. Tiempo = distancia ÷ velocidad (en horas × 60 = minutos). Súmalo a la HRB de salida (y las paradas, si las hay). Velocidad = distancia ÷ tiempo disponible.",
+    "gva": {
+      "index": 746,
+      "sittings": ["2024-11"]
+    }
+  },
+  {
+    "id": "gva-0771",
+    "topic": "carta",
+    "q": "Desde la situación del punto A que está a 5 millas del Faro de Punta Alcázar y 4 millas del Faro de Punta Cires, damos rumbo para pasar a 8 millas del Faro de Cabo de Trafalgar. Teniendo en cuanta una velocidad del buque de 12 nudos, dm 1º y un desvío a dicho rumbo de -1º. ¿Cuál será el Ra para pasar a 8 millas de Trafalgar y la situación del punto A?",
+    "options": [
+      "l 35º 44,5´N y L 005º 57,5´W Rv 245°",
+      "l 36º 04,3´N y L 005º 55,8´W Rv 106°",
+      "l 35º 45,9´N y L 006º 01,9´W Rv 286°",
+      "l 35º 56,0´N y L 005º 33,4´W Rv 286°"
+    ],
+    "answer": 3,
+    "explanation": "Con la carta 25-C. Las distancias a un faro son arcos de compás con centro en el faro, medidos en la escala de latitudes. Mide el Rv en la carta con el transportador. Ra = Rv − Ct, con Ct = dm + Δ. Para pasar a X millas: dibuja el círculo de radio X sobre el faro y traza la tangente desde tu posición.",
+    "gva": {
+      "index": 771,
+      "sittings": ["2025-04"]
+    }
+  },
+  {
+    "id": "gva-0772",
+    "topic": "carta",
+    "q": "Siendo HRB 2110, salimos del Puerto de Ceuta luz Verde a un Rv 020º, con una vb de 9 nudos. ¿Cuál será la situación una hora y media más tarde?",
+    "options": [
+      "l 35º 56.2´N y L 005º 21,3´W",
+      "l 36º 01.2´N y L 006º 02.3´W",
+      "l 36º 10.2´N y L 005º 02,8´W",
+      "l 36º 06.6´N y L 005º 12,8´W"
+    ],
+    "answer": 3,
+    "explanation": "Con la carta 25-C. Tiempo = distancia ÷ velocidad (en horas × 60 = minutos). Súmalo a la HRB de salida (y las paradas, si las hay). Estima: distancia = velocidad × tiempo, llevada sobre el Rv desde el punto de salida.",
+    "gva": {
+      "index": 772,
+      "sittings": ["2025-04"]
+    }
+  },
+  {
+    "id": "gva-0773",
+    "topic": "carta",
+    "q": "¿Cuál será la sonda que tendremos debajo de la quilla en el momento de la 1ª pleamar del día 2 de noviembre de 2024 en el Puerto de Cádiz teniendo un calado de 1,1 metros y Sc 2 metros?",
+    "options": ["3,20 m", "6,29 m", "2,30 m", "4,09 m"],
+    "answer": 3,
+    "explanation": "Tabla (la del examen es la de 2025), 2 nov: 1ª pleamar 3,19 m. Bajo la quilla = 2 + 3,19 − 1,1 = 4,09 m.",
+    "gva": {
+      "index": 773,
+      "sittings": ["2025-04"],
+      "image": "img/gva-0773.jpg"
+    }
+  },
+  {
+    "id": "gva-0788",
+    "topic": "carta",
+    "q": "Nos encontramos en la oposición de Punta Carnero con Punta Cires y a una distancia de 3 millas de Punta Cires. Recibimos una llamada de nuestro armador dando instrucciones para acudir al auxilio del buque “El Sardinal” que se encuentra en el veril de los 200 metros al Nv del Cabo de Espartel, dm 3º NW, el desvío vale 2º, Vb 10 nudos. ¿Cuál será el Ra necesario para ir al encuentro de “El Sardinal”, y cuánto tiempo tardaremos?",
+    "options": [
+      "Ra = 253° Tiempo = 2 h 22´",
+      "Ra = 257° Tiempo = 2 h 32´",
+      "Ra = 250º Tiempo = 2 h 40´",
+      "Ra = 256° Tiempo = 2 h 15´"
+    ],
+    "answer": 0,
+    "explanation": "Con la carta 25-C. Oposición: los dos faros en línea recta contigo en medio. Las distancias a un faro son arcos de compás con centro en el faro, medidos en la escala de latitudes. Mide el Rv en la carta con el transportador. Ra = Rv − Ct, con Ct = dm + Δ. Tiempo = distancia ÷ velocidad (en horas × 60 = minutos). Súmalo a la HRB de salida (y las paradas, si las hay).",
+    "gva": {
+      "index": 788,
+      "sittings": ["2025-06"]
+    }
+  },
+  {
+    "id": "gva-0789",
+    "topic": "carta",
+    "q": "Siendo HRB 12 00 nos encontramos a 5 millas del Faro de Cabo Trafagar y simultáneamente obtenemos con el radar una distancia de 8,2 millas del Faro de Punta Gracia al Oc (2) 5s13M, Vb 10 nudos, desde dicha situación ponemos rumbo a la luz verde del puerto de Tánger, dm 3º NE y desvío 2º. ¿Cuál será el Ra para arrumbar a Tánger y qué velocidad tendremos que poner para llegar a HRB 14 45?",
+    "options": ["Ra = 155° Vb 7,7", "Ra = 146° Vb 10,1", "Ra = 148° Vb 9,9", "Ra = 150° Vb 7,9"],
+    "answer": 3,
+    "explanation": "Con la carta 25-C. Las distancias a un faro son arcos de compás con centro en el faro, medidos en la escala de latitudes. Mide el Rv en la carta con el transportador. Ra = Rv − Ct, con Ct = dm + Δ. Tiempo = distancia ÷ velocidad (en horas × 60 = minutos). Súmalo a la HRB de salida (y las paradas, si las hay). Velocidad = distancia ÷ tiempo disponible.",
+    "gva": {
+      "index": 789,
+      "sittings": ["2025-06"]
+    }
+  },
+  {
+    "id": "gva-0790",
+    "topic": "carta",
+    "q": "A HRB 10 00 nos encontramos en la situación l 36º 15,6´N y L 005º 12,0´W, ponemos rumbo para pasar a 2,4 millas de Punta Almina, Vb 8 nudos, dm 2º, desvío 1º. Al tener el Faro de Punta Europa por nuestro través ponemos rumbo a la luz roja del puerto de Ceuta aumentando la Vb a 15 nudos. ¿A qué hora llegaremos a la luz roja del puerto de Ceuta y cuál será el primer Rumbo aguja?",
+    "options": [
+      "HRB = 12 02 Ra = 180º",
+      "HRB = 12 15 Ra = 184º",
+      "HRB = 12 12 Ra = 186º",
+      "HRB = 12 20 Ra = 175º"
+    ],
+    "answer": 0,
+    "explanation": "Con la carta 25-C. Dv = Rv + marcación (estribor +, babor −). Por el través = ±90º. Las distancias a un faro son arcos de compás con centro en el faro, medidos en la escala de latitudes. Para pasar a X millas: dibuja el círculo de radio X sobre el faro y traza la tangente desde tu posición. Tiempo = distancia ÷ velocidad (en horas × 60 = minutos). Súmalo a la HRB de salida (y las paradas, si las hay).",
+    "gva": {
+      "index": 790,
+      "sittings": ["2025-06"]
+    }
+  },
+  {
+    "id": "gva-0791",
+    "topic": "carta",
+    "q": "A HRB 11 35 observamos con el radar que estamos al S/v de Cabo Roche y de la alidada obtenemos una Da de dicho Cabo de 005º. Al mismo tiempo obtenemos del Cabo de Trafalgar una Da 095º. Desde la situación obtenida ponemos rumbo a un punto “P” situado al poniente verdadero de Cabo Espartel y una distancia a dicho cabo de 5 millas, dm = 2° NW, desvío 4°NW. ¿Cuál será el Ra necesario para ir al punto “P”?",
+    "options": ["Ra = 173º", "Ra = 167º", "Ra = 176º", "Ra = 170º"],
+    "answer": 0,
+    "explanation": "Con la carta 25-C. Pasa cada Da a Dv: Dv = Da + Ct (dm + Δ; NE/E +, NW/W −). Las distancias a un faro son arcos de compás con centro en el faro, medidos en la escala de latitudes. Mide el Rv en la carta con el transportador. Ra = Rv − Ct, con Ct = dm + Δ.",
+    "gva": {
+      "index": 791,
+      "sittings": ["2025-06"]
+    }
+  },
+  {
+    "id": "gva-0830",
+    "topic": "carta",
+    "q": "Siendo 25 de agosto de 2025, a HRB 22 00 nos encontramos en la situación l 35º 50´N y L 006º 10´W, ponemos rumbo para ir al punto “P” situado en la oposición del Faro de Isla de Tarifa con el Faro de punta Cires y en el veril de 500 metros más cercano a Cires. Con una dm de 4º NE y un desvió a dicho rumbo de 5º negativo, ponemos Vb= 12 nudos. ¿A qué hora tendremos el faro de Punta Malabata por nuestro través?",
+    "options": ["HRB 22 40", "HRB 23 40", "HRB 00 15", "HRB 23 25"],
+    "answer": 1,
+    "explanation": "Con la carta 25-C. Dv = Rv + marcación (estribor +, babor −). Por el través = ±90º. Oposición: los dos faros en línea recta contigo en medio. Tiempo = distancia ÷ velocidad (en horas × 60 = minutos). Súmalo a la HRB de salida (y las paradas, si las hay).",
+    "gva": {
+      "index": 830,
+      "sittings": ["2025-09"]
+    }
+  },
+  {
+    "id": "gva-0831",
+    "topic": "carta",
+    "q": "Nos encontramos a 8 millas del Cabo de Trafalgar y 8 millas del Faro de Punta de Gracia Oc (2)5s 13M, con una dm 3º NE y un desvió de 3º negativo, ponemos rumbo para ir al W verdadero de Cabo Espartel y del meridiano 6º W. ¿Cuál será el Ra necesario?",
+    "options": ["Ra 186", "Ra 189", "Ra 183", "Ra 180"],
+    "answer": 0,
+    "explanation": "Con la carta 25-C. Las distancias a un faro son arcos de compás con centro en el faro, medidos en la escala de latitudes. Mide el Rv en la carta con el transportador. Ra = Rv − Ct, con Ct = dm + Δ.",
+    "gva": {
+      "index": 831,
+      "sittings": ["2025-09"]
+    }
+  },
+  {
+    "id": "gva-0832",
+    "topic": "carta",
+    "q": "Nos encontramos en la enfilación del cerro de Órganos con el faro de Punta Paloma y a una distancia de 6 millas del faro de Punta Paloma, obtenemos una Da de la enfilación de 038º. Desde dicha situación ponemos rumbo a pasar a 5 millas de Punta Almina. ¿Cuál será el Ra si tenemos una dm de 4º NE y desvío 0º?",
+    "options": ["Ra 084º", "Ra 095º", "Ra 091º", "Ra 087º"],
+    "answer": 3,
+    "explanation": "Con la carta 25-C. Pasa cada Da a Dv: Dv = Da + Ct (dm + Δ; NE/E +, NW/W −). Enfilación: los dos puntos alineados por el mismo lado; la línea pasa por ti. Las distancias a un faro son arcos de compás con centro en el faro, medidos en la escala de latitudes. Mide el Rv en la carta con el transportador. Ra = Rv − Ct, con Ct = dm + Δ.",
+    "gva": {
+      "index": 832,
+      "sittings": ["2025-09"]
+    }
+  },
+  {
+    "id": "gva-0833",
+    "topic": "carta",
+    "q": "Saliendo del puerto de Barbate al Rv 225º con una Vb de 11 nudos, ¿Cuál será nuestra situación 135´más tarde?",
+    "options": [
+      "l 35º 48,6´N L 006º 22,3´W",
+      "l 35º 53,4´N L 006º 16,6´W",
+      "l 35º 53,1´N L 006º 13.6´W",
+      "l 35º 52,6´N L 006º 18,6´W"
+    ],
+    "answer": 1,
+    "explanation": "Con la carta 25-C. Estima: distancia = velocidad × tiempo, llevada sobre el Rv desde el punto de salida.",
+    "gva": {
+      "index": 833,
+      "sittings": ["2025-09"]
+    }
+  },
+  {
+    "id": "gva-0862",
+    "topic": "carta",
+    "q": "Nos encontramos navegando con Rumbo de aguja 120°, desvío 2° NW, declinación magnética 3° NW, y obtenemos simultáneamente marcación del faro de Punta Paloma 108° por babor y marcación del faro de Punta Alcázar 5° por estribor. ¿A qué distancia de Punta Malabata se encuentra la embarcación?",
+    "options": ["2,6 millas", "7,0 millas", "8,2 millas", "9,0 millas"],
+    "answer": 1,
+    "explanation": "Con la carta 25-C. Dv = Rv + marcación (estribor +, babor −). Por el través = ±90º. Las distancias a un faro son arcos de compás con centro en el faro, medidos en la escala de latitudes.",
+    "gva": {
+      "index": 862,
+      "sittings": ["2026-04"]
+    }
+  },
+  {
+    "id": "gva-0863",
+    "topic": "carta",
+    "q": "A HRB = 11 00 obtenemos simultáneamente desde nuestra embarcación una demora de aguja del faro de Isla Tarifa = 276º y otra demora de aguja al faro de Punta Carnero = 022º. ¿Cuál de las siguientes respuestas es nuestra situación teniendo en cuenta que la Corrección Total es de 6º (-)?",
+    "options": [
+      "l: 35º 59,8´N L: 006º 33,8’W",
+      "l: 36º 02,0’N L: 005º 27,6’W",
+      "l: 36º 02,2’N L: 006º 27,5’W",
+      "l: 36º 00,2’N L: 005º 27,0’W"
+    ],
+    "answer": 3,
+    "explanation": "Con la carta 25-C. Pasa cada Da a Dv: Dv = Da + Ct (dm + Δ; NE/E +, NW/W −).",
+    "gva": {
+      "index": 863,
+      "sittings": ["2026-04"]
+    }
+  },
+  {
+    "id": "gva-0864",
+    "topic": "carta",
+    "q": "A HRB = 04 12, tomamos la demora verdadera del faro de Punta Alcázar = 205º y la demora verdadera del faro de Punta Cires = 154º. Damos rumbo a la punta del espigón exterior del puerto de Tarifa. Hallar la HRB de llegada y Ra si la velocidad = 8,6 nudos y la corrección total = 2,5º NW.",
+    "options": [
+      "Ra = 310º, HRB = 04 59.",
+      "Ra = 306º, HRB = 04 55.",
+      "Ra = 308º, HRB = 04 54.",
+      "Ra = 303º, HRB = 04 54."
+    ],
+    "answer": 2,
+    "explanation": "Con la carta 25-C. Mide el Rv en la carta con el transportador. Ra = Rv − Ct, con Ct = dm + Δ. Tiempo = distancia ÷ velocidad (en horas × 60 = minutos). Súmalo a la HRB de salida (y las paradas, si las hay).",
+    "gva": {
+      "index": 864,
+      "sittings": ["2026-04"]
+    }
+  },
+  {
+    "id": "gva-0865",
+    "topic": "carta",
+    "q": "Con una variación local de 1,5° NW y un desvío de aguja de ‒2,5°, nos encontramos situados en un punto C de coordenadas l = 36°00′N L = 006°10′W. Desde esta posición damos rumbo hacia el extremo del espigón del puerto de Tánger (farola verde). ¿Qué rumbo de aguja habría que poner para llegar a Tánger?",
+    "options": ["Ra = 128º", "Ra = 120º", "Ra = 124º", "Ra = 116º"],
+    "answer": 0,
+    "explanation": "Con la carta 25-C. Ejercicio de carta 25-C: plantea Rv / Ra con Ct = dm + Δ, y mide distancias en la escala de latitudes.",
+    "gva": {
+      "index": 865,
+      "sittings": ["2026-04"]
+    }
+  },
+  {
+    "id": "gva-0907",
+    "topic": "carta",
+    "q": "Una embarcación se sitúa en la enfilación del faro de Pta. Cires y del faro de Pta. Alcázar. Calcular la Corrección total (Ct), si la Da obtenida del faro de Pta. Cires= 227º.",
+    "options": ["Ct= 5º+", "Ct= 5º-", "Ct= 0º", "Ct= 3º-"],
+    "answer": 2,
+    "explanation": "La enfilación da la Dv en la carta (≈ 227º). Ct = Dv − Da = 227 − 227 = 0º.",
+    "gva": {
+      "index": 907,
+      "sittings": ["2026-07"]
+    }
+  },
+  {
+    "id": "gva-0908",
+    "topic": "carta",
+    "q": "Una embarcación situada en l= 36º 01,4’N L= 005º 19,2’W, pone rumbo a pasar a 1,8 millas de Pta. Europa para aproximarse al puerto de Algeciras. Calcular el Ra, si el desvío para este rumbo es de 2º NE y la declinación magnética 4º (+).",
+    "options": ["Ra= 327º", "Ra= 321º", "Ra= 333º", "Ra= 317º"],
+    "answer": 1,
+    "explanation": "Con la carta 25-C. Las distancias a un faro son arcos de compás con centro en el faro, medidos en la escala de latitudes. Mide el Rv en la carta con el transportador. Ra = Rv − Ct, con Ct = dm + Δ. Para pasar a X millas: dibuja el círculo de radio X sobre el faro y traza la tangente desde tu posición.",
+    "gva": {
+      "index": 908,
+      "sittings": ["2026-07"]
+    }
+  },
+  {
+    "id": "gva-0909",
+    "topic": "carta",
+    "q": "A HRB 0800, navegando al Rv= 257º y velocidad = 7 nudos, se observa el faro de Pta. Carnero con una marcación= 035º por estribor y el faro de Pta. Almina al través de babor. Calcular la hora a la que estaremos a 3 millas al SE verdadero del faro de la Isla de Tarifa.",
+    "options": ["HRB= 0945", "HRB= 0951", "HRB= 0940", "HRB= 1002"],
+    "answer": 1,
+    "explanation": "Con la carta 25-C. Dv = Rv + marcación (estribor +, babor −). Por el través = ±90º. Las distancias a un faro son arcos de compás con centro en el faro, medidos en la escala de latitudes. Tiempo = distancia ÷ velocidad (en horas × 60 = minutos). Súmalo a la HRB de salida (y las paradas, si las hay).",
+    "gva": {
+      "index": 909,
+      "sittings": ["2026-07"]
+    }
+  },
+  {
+    "id": "gva-0910",
+    "topic": "carta",
+    "q": "A HRB 1215 con Ct=4º NE nos encontramos a 2,4 millas de la farola del dique exterior del puerto de Barbate (luz roja) y con una Da= 031º del mismo punto. Una vez situados ponemos rumbo al faro de C. Espartel con una velocidad de 15 nudos. Calcular la situación de estima, transcurridas 1 hora y 20 minutos.",
+    "options": [
+      "l= 35º50,0’ N L= 006º 10,0’ W",
+      "l= 35º50,0’ N L= 006º 00,0’ W",
+      "l= 35º49,0’ N L= 005º 55,5’ W",
+      "l= 35º48,9’ N L= 005º 50, 5’W"
+    ],
+    "answer": 2,
+    "explanation": "Con la carta 25-C. Pasa cada Da a Dv: Dv = Da + Ct (dm + Δ; NE/E +, NW/W −). Las distancias a un faro son arcos de compás con centro en el faro, medidos en la escala de latitudes. Tiempo = distancia ÷ velocidad (en horas × 60 = minutos). Súmalo a la HRB de salida (y las paradas, si las hay). Estima: distancia = velocidad × tiempo, llevada sobre el Rv desde el punto de salida.",
+    "gva": {
+      "index": 910,
+      "sittings": ["2026-07"]
+    }
+  },
+  {
+    "id": "gva-0952",
+    "topic": "carta",
+    "q": "Situados en l = 36º01,2N L = 006º10,0W y sabiendo que nuestra declinación magnética es 4º NW y un desvío de 8º NE ¿Qué rumbo de aguja deberemos poner para ir a un punto situado a 6 millas al sur verdadero de C. Trafalgar?:",
+    "options": ["Ra= 055º", "Ra= 039º", "Ra= 075º", "Ra= 065º"],
+    "answer": 0,
+    "explanation": "Con la carta 25-C. Las distancias a un faro son arcos de compás con centro en el faro, medidos en la escala de latitudes.",
+    "gva": {
+      "index": 952,
+      "sittings": ["2026-10"]
+    }
+  },
+  {
+    "id": "gva-0953",
+    "topic": "carta",
+    "q": "Situados en l=35º56,6´N L=006º12,2´W y sabiendo que la velocidad de nuestro barco es de 9 nudos. ¿Cuánto tiempo tardará nuestra embarcación en llegar a un punto situado a 6 millas al sur verdadero de C. Trafalgar?",
+    "options": ["1 hora 26 min.", "1 hora 19 min.", "1 hora 42 min.", "1 hora 33 min."],
+    "answer": 1,
+    "explanation": "Con la carta 25-C. Las distancias a un faro son arcos de compás con centro en el faro, medidos en la escala de latitudes. Tiempo = distancia ÷ velocidad (en horas × 60 = minutos). Súmalo a la HRB de salida (y las paradas, si las hay).",
+    "gva": {
+      "index": 953,
+      "sittings": ["2026-10"]
+    }
+  },
+  {
+    "id": "gva-0954",
+    "topic": "carta",
+    "q": "El día 15 de octubre de 2026. A HRB 17:20 horas un yate se encuentra a 4,4 millas al sur verdadero de Punta Europa. Si navegamos al Rv = 252º a una velocidad de máquinas de 8 nudos sin viento ni corriente, calcular a qué hora estaremos al sur verdadero del Faro de Isla Tarifa:",
+    "options": ["HRB: 19:15", "HRB: 19:02", "HRB: 18:52", "HRB: 19:12"],
+    "answer": 1,
+    "explanation": "Con la carta 25-C. Las distancias a un faro son arcos de compás con centro en el faro, medidos en la escala de latitudes. Tiempo = distancia ÷ velocidad (en horas × 60 = minutos). Súmalo a la HRB de salida (y las paradas, si las hay).",
+    "gva": {
+      "index": 954,
+      "sittings": ["2026-10"]
+    }
+  },
+  {
+    "id": "gva-0955",
+    "topic": "carta",
+    "q": "El día 20 de octubre de 2026 nos encontramos navegando al Rv = 211º en la isóbata de 500 m. próxima al faro de Pta. Almina y obtenemos una marcación a ese faro de 40º Br. Hallar nuestra situación:",
+    "options": [
+      "l=35º 59,5’N L= 005º 16,4’ W",
+      "l=36º 00,5’N L= 005º 19,4’ W",
+      "l=35º 57,5’N L= 005º 17,4’ W",
+      "l=35º 47,5’N L= 005º 21,4’ W"
+    ],
+    "answer": 2,
+    "explanation": "Con la carta 25-C. Dv = Rv + marcación (estribor +, babor −). Por el través = ±90º. Traza las líneas de posición desde los faros (Dv + 180º hacia ti). Tu situación es el corte; léela en las escalas de los márgenes.",
+    "gva": {
+      "index": 955,
+      "sittings": ["2026-10"]
+    }
+  }
+]

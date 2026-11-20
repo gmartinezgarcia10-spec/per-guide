@@ -1,0 +1,655 @@
+[
+  {
+    "id": "gva-0010",
+    "topic": "leg",
+    "q": "¿Desde qué distancia las embarcaciones, si se dirigen a las playas, deberán hacerlo perpendicularmente a tierra, navegando con precaución y siempre a menos de tres nudos?:",
+    "options": [
+      "Desde 120 metros hasta la costa.",
+      "Desde 50 metros hasta la costa.",
+      "Desde al menos una milla hasta la costa.",
+      "Desde los 200 metros hasta la costa."
+    ],
+    "answer": 3,
+    "explanation": "Desde 200 m de la playa: rumbo perpendicular y menos de 3 nudos.",
+    "gva": {
+      "index": 10,
+      "sittings": ["2019-11"]
+    }
+  },
+  {
+    "id": "gva-0011",
+    "topic": "leg",
+    "q": "Cómo regla general, ¿cuáles de los siguientes productos no está prohibido arrojar al mar a más de 12 millas de la costa?:",
+    "options": ["Embalajes.", "Aceites.", "Vidrios.", "Restos de comida desmenuzadas."],
+    "answer": 3,
+    "explanation": "Más allá de 12 mn solo se permiten restos de comida desmenuzados. Plásticos, aceites, vidrio y embalajes nunca.",
+    "gva": {
+      "index": 11,
+      "sittings": ["2019-11"]
+    }
+  },
+  {
+    "id": "gva-0055",
+    "topic": "leg",
+    "q": "¿Qué frase es correcta?:",
+    "options": [
+      "En las reservas marinas se permite la actividad extractiva de todo tipo.",
+      "En las reservas marinas se permiten los vertidos de todo tipo desde las embarcaciones.",
+      "En las reservas marinas puede haber zonas donde el fondeo esté prohibido.",
+      "En ninguna de las reservas marinas existen áreas dedicada a la pesca a pequeña escala y sostenible."
+    ],
+    "answer": 2,
+    "explanation": "Las reservas marinas pueden tener zonas sin fondeo y otras de pesca artesanal regulada.",
+    "gva": {
+      "index": 55,
+      "sittings": ["2021-04"]
+    }
+  },
+  {
+    "id": "gva-0056",
+    "topic": "leg",
+    "q": "Podemos verter aguas sucias a la mar según la Orden FOM 1144/2003, a más de 12 millas siempre y cuando la velocidad del barco sea:",
+    "options": ["1 nudo.", "2 nudos.", "3 nudos.", "Superior a 4 nudos."],
+    "answer": 3,
+    "explanation": "Pregunta de la Orden FOM/1144/2003: aguas sucias sin tratar a más de 12 mn y a 4 nudos o más.",
+    "gva": {
+      "index": 56,
+      "sittings": ["2021-04"]
+    }
+  },
+  {
+    "id": "gva-0100",
+    "topic": "leg",
+    "q": "Las zonas situadas en el interior de una banda litoral, paralela a la costa, en la cual la navegación está prohibida tienen una anchura de ….",
+    "options": ["500 metros", "200 metros.", "30 metros.", "2 millas náuticas"],
+    "answer": 1,
+    "explanation": "Franja de 200 m en playas balizadas (50 m en el resto del litoral).",
+    "gva": {
+      "index": 100,
+      "sittings": ["2021-07"]
+    }
+  },
+  {
+    "id": "gva-0101",
+    "topic": "leg",
+    "q": "¿Qué código en su capítulo V habla de la seguridad de la navegación, incluyendo la prestación de auxilio?:",
+    "options": ["El SOLAS.", "El MARPOL.", "EL IALA.", "EL RIPA"],
+    "answer": 0,
+    "explanation": "SOLAS capítulo V: seguridad de la navegación y deber de auxilio.",
+    "gva": {
+      "index": 101,
+      "sittings": ["2021-07"]
+    }
+  },
+  {
+    "id": "gva-0145",
+    "topic": "leg",
+    "q": "Los desechos de alimentos en el Mediterráneo se pueden descargar:",
+    "options": [
+      "A una distancia superior a 3 millas de la costa.",
+      "A una distancia superior a 12 millas de la costa.",
+      "En ningún caso ya que está prohibido.",
+      "A cualquier distancia de la costa si han sido previamente desmenuzados."
+    ],
+    "answer": 1,
+    "explanation": "Mediterráneo (zona especial MARPOL V): restos de comida solo a más de 12 mn.",
+    "gva": {
+      "index": 145,
+      "sittings": ["2021-06"]
+    }
+  },
+  {
+    "id": "gva-0146",
+    "topic": "leg",
+    "q": "¿De qué color es la bandera “Bravo” modificada?:",
+    "options": [
+      "Azul y blanca.",
+      "Azul y amarilla.",
+      "Azul con una franja diagonal roja.",
+      "Roja con una franja diagonal blanca."
+    ],
+    "answer": 3,
+    "explanation": "Bravo modificada (o «A» regional): roja con franja diagonal blanca = buceadores.",
+    "gva": {
+      "index": 146,
+      "sittings": ["2021-06"]
+    }
+  },
+  {
+    "id": "gva-0189",
+    "topic": "leg",
+    "q": "En las playas debidamente balizadas, con la excepción de los canales debidamente balizados:",
+    "options": [
+      "Estará permitida la utilización de cualquier tipo de embarcación o medio flotante movido a vela.",
+      "Estará prohibida únicamente la utilización de cualquier tipo de embarcación o medio flotante movido a motor.",
+      "Estará prohibida la utilización de cualquier tipo de embarcación o medio flotante movido a vela o motor.",
+      "Ninguna de las respuestas anteriores es correcta."
+    ],
+    "answer": 2,
+    "explanation": "En playas balizadas no pueden entrar embarcaciones de vela ni motor, salvo por los canales balizados.",
+    "gva": {
+      "index": 189,
+      "sittings": ["2021-11"]
+    }
+  },
+  {
+    "id": "gva-0190",
+    "topic": "leg",
+    "q": "En una embarcación una bandera izada blanca y azul en forma de corneta, ¿Nos estará indicando?:",
+    "options": [
+      "Estoy embarcando, descargando o transportando mercancías peligrosas.",
+      "Tengo buzo sumergido, manténgase alejado de mí.",
+      "Estoy sin gobierno.",
+      "Necesito auxilio."
+    ],
+    "answer": 1,
+    "explanation": "Bandera Alfa (blanca y azul, en corneta): buzo sumergido, manténgase alejado.",
+    "gva": {
+      "index": 190,
+      "sittings": ["2021-11"]
+    }
+  },
+  {
+    "id": "gva-0234",
+    "topic": "leg",
+    "q": "¿Qué bandera de las siguientes deberemos izar para indicar que tenemos buzos sumergidos?",
+    "options": [
+      "La Alfa",
+      "La Bravo modificada",
+      "Ninguna respuesta es correcta",
+      "Las repuestas a y b son ciertas"
+    ],
+    "answer": 3,
+    "explanation": "Buzos: la Alfa o la Bravo modificada.",
+    "gva": {
+      "index": 234,
+      "sittings": ["2022-12"]
+    }
+  },
+  {
+    "id": "gva-0235",
+    "topic": "leg",
+    "q": "Se permite la descarga desmenuzada y desinfestada de aguas sucias a más de 4 nudos de velocidad y a una distancia de la costa superior a:",
+    "options": ["3 millas", "2 millas", "1 millas", "No está permitida dicha descarga"],
+    "answer": 0,
+    "explanation": "Aguas sucias desmenuzadas y desinfectadas: a más de 3 mn y navegando a 4 nudos o más.",
+    "gva": {
+      "index": 235,
+      "sittings": ["2022-12"]
+    }
+  },
+  {
+    "id": "gva-0279",
+    "topic": "leg",
+    "q": "En el interior de un puerto está prohibido:",
+    "options": [
+      "Arrojar basura al agua.",
+      "La pesca ya sea submarina, con caña o desde embarcación.",
+      "Navegar a velocidad que forme olas que haga peligrar a las embarcaciones atracadas.",
+      "Todas ellas están prohibidas."
+    ],
+    "answer": 3,
+    "explanation": "En puerto está prohibido tirar basura, pescar y levantar olas.",
+    "gva": {
+      "index": 279,
+      "sittings": ["2022-02"]
+    }
+  },
+  {
+    "id": "gva-0280",
+    "topic": "leg",
+    "q": "En playas balizadas, ¿a cuántos metros de la orilla está prohibida la navegación?:",
+    "options": ["A 50 metros", "A 200 metros.", "A 250 metros", "A 500 metros."],
+    "answer": 1,
+    "explanation": "200 m en playas balizadas.",
+    "gva": {
+      "index": 280,
+      "sittings": ["2022-02"]
+    }
+  },
+  {
+    "id": "gva-0324",
+    "topic": "leg",
+    "q": "Encontrándonos navegando en la mar y siendo testigos de que una embarcación vecina está produciendo un acto de contaminación ¿cómo deberemos actuar?",
+    "options": [
+      "Le ayudaremos a que finalice la tarea",
+      "Avisaremos a la cruz roja",
+      "Llamaremos a Salvamento Marítimo",
+      "a y b son correctas"
+    ],
+    "answer": 2,
+    "explanation": "Contaminación: aviso a Salvamento Marítimo (VHF 16 o 900 202 202).",
+    "gva": {
+      "index": 324,
+      "sittings": ["2022-06"]
+    }
+  },
+  {
+    "id": "gva-0325",
+    "topic": "leg",
+    "q": "¿Qué distancia de seguridad deberán pasar las embarcaciones cuando vean la bandera Alfa del código internacional de señales?:",
+    "options": ["25 m", "50 m", "20 m", "40 m"],
+    "answer": 1,
+    "explanation": "Con la bandera de buceo a la vista, mantén al menos 50 m de resguardo.",
+    "gva": {
+      "index": 325,
+      "sittings": ["2022-06"]
+    }
+  },
+  {
+    "id": "gva-0369",
+    "topic": "leg",
+    "q": "En las playas no balizadas, dentro de la franja contigua a la costa, de una anchura de 200 metros no se deberá navegar a una velocidad mayor de:",
+    "options": ["6 nudos", "5 nudos", "3 nudos", "8 nudos"],
+    "answer": 2,
+    "explanation": "Playas sin balizar: en la franja de 200 m, máximo 3 nudos.",
+    "gva": {
+      "index": 369,
+      "sittings": ["2023-04", "2024-11", "2026-04"]
+    }
+  },
+  {
+    "id": "gva-0370",
+    "topic": "leg",
+    "q": "¿Qué margen de resguardo mínimo debemos dar cuando nos encontremos una bandera de color rojo con una franja blanca en diagonal?",
+    "options": ["25 m", "50 m", "35 m", "30 m"],
+    "answer": 1,
+    "explanation": "Bravo modificada (buzos): 50 m de resguardo.",
+    "gva": {
+      "index": 370,
+      "sittings": ["2023-04"]
+    }
+  },
+  {
+    "id": "gva-0414",
+    "topic": "leg",
+    "q": "En el interior de un puerto de la Comunidad Valenciana, una embarcación de recreo navegará por seguridad a una velocidad máxima de:",
+    "options": ["3 nudos", "5 nudos", "6 nudos", "8 nudos"],
+    "answer": 0,
+    "explanation": "En los puertos de la Comunitat Valenciana, 3 nudos.",
+    "gva": {
+      "index": 414,
+      "sittings": ["2023-02"]
+    }
+  },
+  {
+    "id": "gva-0415",
+    "topic": "leg",
+    "q": "En algunos espacios protegidos del medio marino en el mar Mediterráneo, existe una planta marina (fanerógama) que se extiende formando extensas praderas en el fondo cerca de la costa, y es la:",
+    "options": ["Gorgonia", "Radofícea o alga roja", "Feofícea o alga parda", "Posidonia oceánica"],
+    "answer": 3,
+    "explanation": "Posidonia oceánica. En la Comunitat Valenciana está prohibido fondear sobre ella (Decreto 64/2022).",
+    "gva": {
+      "index": 415,
+      "sittings": ["2023-02"]
+    }
+  },
+  {
+    "id": "gva-0457",
+    "topic": "leg",
+    "q": "Las basuras orgánicas que son producidas por las embarcaciones de recreo:",
+    "options": [
+      "Son arrojadas directamente al mar sin desmenuzar ni triturar a 2 millas de la costa como mínimo",
+      "Son arrojadas al mar en bolsas de plástico herméticamente cerradas",
+      "Se depositan en los contenedores habilitados en el puerto en bolsas cerradas",
+      "Se incineran a bordo y las cenizas se arrojan al mar"
+    ],
+    "answer": 2,
+    "explanation": "La basura orgánica se lleva a los contenedores del puerto en bolsas cerradas.",
+    "gva": {
+      "index": 457,
+      "sittings": ["2023-07"]
+    }
+  },
+  {
+    "id": "gva-0458",
+    "topic": "leg",
+    "q": "El convenio internacional para prevenir la contaminación por los buques se conoce como:",
+    "options": ["OMI", "MARPOL", "FAO", "UNCLOS"],
+    "answer": 1,
+    "explanation": "MARPOL: contaminación por buques. OMI es la organización.",
+    "gva": {
+      "index": 458,
+      "sittings": ["2023-07"]
+    }
+  },
+  {
+    "id": "gva-0502",
+    "topic": "leg",
+    "q": "Al entrar en un puerto la velocidad de navegación suele estar limitada a:",
+    "options": ["6 nudos", "3 nudos", "5 nudos", "Un nudo"],
+    "answer": 1,
+    "explanation": "En puerto, 3 nudos como norma general.",
+    "gva": {
+      "index": 502,
+      "sittings": ["2023-11"]
+    }
+  },
+  {
+    "id": "gva-0503",
+    "topic": "leg",
+    "q": "En el Mar Mediterráneo existe una planta que forma extensas praderas en el lecho marino que se conoce como:",
+    "options": ["Posidonia oceánica", "Caulerpa", "Gorgonia roja", "Alga parda"],
+    "answer": 0,
+    "explanation": "Posidonia oceánica.",
+    "gva": {
+      "index": 503,
+      "sittings": ["2023-11", "2025-06"]
+    }
+  },
+  {
+    "id": "gva-0547",
+    "topic": "leg",
+    "q": "¿A partir de qué distancia de la costa se podrá realizar la actividad de esquí náutico?",
+    "options": [
+      "a más de 200 metros de las playas",
+      "a más de 200 metros de las playas balizadas",
+      "a más de 60 metros del resto de litoral",
+      "las respuestas a y c son ciertas"
+    ],
+    "answer": 1,
+    "explanation": "El esquí náutico se practica a más de 200 m de las playas balizadas (y a 50 m del resto del litoral).",
+    "gva": {
+      "index": 547,
+      "sittings": ["2023-09"]
+    }
+  },
+  {
+    "id": "gva-0548",
+    "topic": "leg",
+    "q": "Si navegando avistamos por la proa un buque con una bandera tipo corneta blanca y azul, deberemos:",
+    "options": [
+      "Mantener un margen de seguridad de 60 metros",
+      "Mantener un margen de seguridad de 50 metros",
+      "Esa bandera está en desuso por la OMI",
+      "Mantener un margen de seguridad de 25 metros"
+    ],
+    "answer": 1,
+    "explanation": "Alfa: 50 m de resguardo.",
+    "gva": {
+      "index": 548,
+      "sittings": ["2023-09"]
+    }
+  },
+  {
+    "id": "gva-0592",
+    "topic": "leg",
+    "q": "Nos encontramos con la bandera BRAVO modificada, ¿A qué distancia mínima debemos dejar la bandera de nuestra embarcación?",
+    "options": ["50 metros", "25 metros", "30 metros", "Esa bandera no requiere de distancia mínima"],
+    "answer": 0,
+    "explanation": "Bravo modificada: 50 m.",
+    "gva": {
+      "index": 592,
+      "sittings": ["2024-04"]
+    }
+  },
+  {
+    "id": "gva-0593",
+    "topic": "leg",
+    "q": "¿Dónde podrá izarse la bandera autonómica?",
+    "options": ["En el puerto", "En aguas interiores", "En alta mar", "Las respuestas a y b son ciertas"],
+    "answer": 3,
+    "explanation": "La bandera autonómica puede izarse en puerto y en aguas interiores.",
+    "gva": {
+      "index": 593,
+      "sittings": ["2024-04"]
+    }
+  },
+  {
+    "id": "gva-0637",
+    "topic": "leg",
+    "q": "La pesca en las zonas balizadas para el baño está permitida por:",
+    "options": [
+      "El práctico del puerto",
+      "La Capitanía Marítima",
+      "No está permitido pescar en zonas de baño",
+      "Las respuestas a y b son ciertas"
+    ],
+    "answer": 2,
+    "explanation": "En las zonas de baño balizadas no se puede pescar.",
+    "gva": {
+      "index": 637,
+      "sittings": ["2024-02", "2024-09"]
+    }
+  },
+  {
+    "id": "gva-0638",
+    "topic": "leg",
+    "q": "¿Qué tipos de basuras o residuos se pueden arrojar al agua desde un barco en el interior de un puerto?",
+    "options": [
+      "Solamente restos de comida",
+      "De todo, siempre que no flote",
+      "Botellas de vidrio y latas",
+      "No se pueden echar residuos al agua en un puerto"
+    ],
+    "answer": 3,
+    "explanation": "En puerto no se arroja ningún residuo.",
+    "gva": {
+      "index": 638,
+      "sittings": ["2024-02"]
+    }
+  },
+  {
+    "id": "gva-0682",
+    "topic": "leg",
+    "q": "La práctica de deportes náuticos en embarcaciones de motor y esquí náutico está permitida:",
+    "options": [
+      "A más de 200 metros de las playas",
+      "A más de 50 metros del resto de litoral",
+      "A más de 50 metros de las playas y todo el litoral",
+      "Las respuestas a y b son ciertas"
+    ],
+    "answer": 3,
+    "explanation": "Motor y esquí náutico: a más de 200 m de las playas y a más de 50 m del resto del litoral.",
+    "gva": {
+      "index": 682,
+      "sittings": ["2024-06"]
+    }
+  },
+  {
+    "id": "gva-0683",
+    "topic": "leg",
+    "q": "¿Cuál de las siguientes zonas marítimas (ZEPIM) no corresponde para el mar Mediterráneo?",
+    "options": ["Islas Columbretes", "Isla de Tabarca", "Mar Menor", "Islas Medas"],
+    "answer": 1,
+    "explanation": "Tabarca es reserva marina, pero no ZEPIM. Columbretes, el Mar Menor y las Medas sí lo son.",
+    "gva": {
+      "index": 683,
+      "sittings": ["2024-06"]
+    }
+  },
+  {
+    "id": "gva-0722",
+    "topic": "leg",
+    "q": "Navegando cerca de la costa observamos una bandera de color rojo con una franja blanca en diagonal. ¿Qué margen de resguardo mínimo debemos dar?",
+    "options": ["25 m", "50 m", "35 m", "30 m"],
+    "answer": 1,
+    "explanation": "Bravo modificada: 50 m.",
+    "gva": {
+      "index": 722,
+      "sittings": ["2024-09"]
+    }
+  },
+  {
+    "id": "gva-0739",
+    "topic": "leg",
+    "q": "Se permite la descarga desmenuzada y desinfectada de aguas sucias a más de 4 nudos de velocidad y a una distancia de la costa superior a:",
+    "options": ["1 millas", "2 millas", "3 millas", "No está permitida dicha descarga"],
+    "answer": 2,
+    "explanation": "Aguas sucias tratadas: a más de 3 mn y a 4 nudos o más.",
+    "gva": {
+      "index": 739,
+      "sittings": ["2024-11"]
+    }
+  },
+  {
+    "id": "gva-0753",
+    "topic": "leg",
+    "q": "La práctica de deportes náuticos en embarcaciones de motor y esquí náutico está permitida:",
+    "options": [
+      "A partir de 40 metros de las playas",
+      "A más de 100 metros del resto de la costa (no playa)",
+      "A más de 200 metros de una playa balizada y a 50 metros del resto de la costa",
+      "Las respuestas a y b son ciertas"
+    ],
+    "answer": 2,
+    "explanation": "200 m de playa balizada y 50 m del resto de la costa.",
+    "gva": {
+      "index": 753,
+      "sittings": ["2025-04"]
+    }
+  },
+  {
+    "id": "gva-0754",
+    "topic": "leg",
+    "q": "En las embarcaciones de recreo que tengan aseos a bordo los vertidos de las aguas sucias se podrán echar:",
+    "options": [
+      "En aguas portuarias",
+      "En zonas protegidas",
+      "A más de 6 millas sin desmenuzar ni tratar",
+      "A más de 12 millas sin desmenuzar ni tratar"
+    ],
+    "answer": 3,
+    "explanation": "Sin desmenuzar ni tratar: a más de 12 mn.",
+    "gva": {
+      "index": 754,
+      "sittings": ["2025-04"]
+    }
+  },
+  {
+    "id": "gva-0777",
+    "topic": "leg",
+    "q": "¿A partir de qué distancia de la costa (no playa) se podrá realizar la actividad de esquí náutico?",
+    "options": [
+      "a más de 300 metros de las playas",
+      "a más de 500 metros de las playas balizadas",
+      "a más de 600 metros del resto de litoral",
+      "Ninguna respuesta es cierta"
+    ],
+    "answer": 3,
+    "explanation": "Lo correcto es 200 m de las playas y 50 m del resto del litoral: ninguna opción lo dice.",
+    "gva": {
+      "index": 777,
+      "sittings": ["2025-06"]
+    }
+  },
+  {
+    "id": "gva-0802",
+    "topic": "leg",
+    "q": "La práctica de deportes náuticos a vela, surf y motor queda prohibida cuando se realicen:",
+    "options": [
+      "A menos de 200 metros de la playa y 50 metros del resto del litoral",
+      "A menos de 50 metros de la playa y 200 metros del resto del litoral",
+      "No están prohibidas dichas prácticas",
+      "A menos de 150 metros de la playa y 100 del resto del litoral"
+    ],
+    "answer": 0,
+    "explanation": "Prohibido a menos de 200 m de la playa y de 50 m del resto del litoral.",
+    "gva": {
+      "index": 802,
+      "sittings": ["2025-09"]
+    }
+  },
+  {
+    "id": "gva-0803",
+    "topic": "leg",
+    "q": "En España la descarga de aguas sucias desde la embarcación sólo está permitida:",
+    "options": [
+      "En zonas portuarias",
+      "En aguas protegidas en la mar a más de 4 millas de la costa",
+      "En bahías a cualquier distancia de la costa",
+      "En la mar a más de 3 millas de la costa más próxima"
+    ],
+    "answer": 3,
+    "explanation": "Aguas sucias (tratadas): a más de 3 mn de la costa.",
+    "gva": {
+      "index": 803,
+      "sittings": ["2025-09"]
+    }
+  },
+  {
+    "id": "gva-0843",
+    "topic": "leg",
+    "q": "En las zonas especiales se permitirá la descarga en el mar de desechos de alimentos:",
+    "options": [
+      "Si estos están desmenuzados o triturados de manera que puedan pasar por cribas con mallas de una abertura máxima de 25 mm.",
+      "Cuando estos estén contaminados con algún otro tipo de basuras, si dichos productos han sido tratados para su esterilización, a no menos de 4 millas.",
+      "Si se realiza tan lejos como sea posible de la costa, pero a no menos de 12 millas marinas de la tierra más próxima.",
+      "Siempre que sean productos avícolas introducidos, incluidas las aves o partes de aves."
+    ],
+    "answer": 2,
+    "explanation": "MARPOL V, zona especial: restos de comida a no menos de 12 mn y lo más lejos posible.",
+    "gva": {
+      "index": 843,
+      "sittings": ["2026-04"]
+    }
+  },
+  {
+    "id": "gva-0876",
+    "topic": "leg",
+    "q": "En una zona de playa no balizada:",
+    "options": [
+      "Se puede acceder a menos de 50 metros a una velocidad de 5 nudos.",
+      "Se puede acceder a menos de 200 metros a una velocidad inferior a 3 nudos alejándose de los bañistas.",
+      "Se puede acceder a menos de 50 metros a una velocidad de 4 nudos.",
+      "Se puede acceder a menos de 200 metros a una velocidad inferior a 5 nudos."
+    ],
+    "answer": 1,
+    "explanation": "Sin balizar: dentro de los 200 m, a menos de 3 nudos y lejos de los bañistas.",
+    "gva": {
+      "index": 876,
+      "sittings": ["2026-07"]
+    }
+  },
+  {
+    "id": "gva-0877",
+    "topic": "leg",
+    "q": "Las aguas negras provenientes de los aseos de una embarcación:",
+    "options": [
+      "Se pueden verter en puerto, pero solamente por la noche.",
+      "No se pueden verter en puerto.",
+      "Se pueden verter en puerto siempre que el barco esté en movimiento.",
+      "Se pueden verter en puerto mientras se navega a velocidad elevada."
+    ],
+    "answer": 1,
+    "explanation": "En puerto nunca se vierten aguas negras.",
+    "gva": {
+      "index": 877,
+      "sittings": ["2026-07"]
+    }
+  },
+  {
+    "id": "gva-0921",
+    "topic": "leg",
+    "q": "Cuando estamos navegando ¿Qué debemos hacer en caso de un avistamiento de contaminación por hidrocarburos?",
+    "options": [
+      "Tomar muestras del agua contaminada para cuando lleguemos a puerto llevarlas a analizar.",
+      "Informar lo más rápido posible sobre el lugar de avistamiento, el tamaño y tipo de contaminación detectada.",
+      "Verter detergente desengrasante lo más rápido posible.",
+      "Procurar hacer varias pasadas sobre la mancha para intentar disiparla."
+    ],
+    "answer": 1,
+    "explanation": "Ante una mancha de hidrocarburos: informar enseguida de la posición, el tamaño y el tipo.",
+    "gva": {
+      "index": 921,
+      "sittings": ["2026-10"]
+    }
+  },
+  {
+    "id": "gva-0922",
+    "topic": "leg",
+    "q": "Desde una embarcación, la descarga de aguas sucias a la mar:",
+    "options": [
+      "Se puede hacer a menos de 12 millas de la costa, pero de forma gradual y con velocidad mínima de 5 nudos.",
+      "Se puede hacer a menos de 3 millas de costa.",
+      "Está prohibida siempre.",
+      "Todas las respuestas son incorrectas."
+    ],
+    "answer": 3,
+    "explanation": "Sin tratar a más de 12 mn y tratadas a más de 3 mn: ninguna opción coincide.",
+    "gva": {
+      "index": 922,
+      "sittings": ["2026-10"]
+    }
+  }
+]

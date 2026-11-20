@@ -1,0 +1,828 @@
+[
+  {
+    "id": "g-0075",
+    "topic": "man",
+    "q": "Con hélice dextrógira y máquina atrás, la popa tiende a caer a…",
+    "options": ["Estribor", "Babor", "No cae", "Depende del timón"],
+    "answer": 1,
+    "explanation": "Por eso es más fácil atracar por babor."
+  },
+  {
+    "id": "g-0076",
+    "topic": "man",
+    "q": "Atracados por estribor y anunciado viento de proa, reforzaremos…",
+    "options": [
+      "Largo de proa y esprín de popa",
+      "Largo de popa y través de proa",
+      "Largo de popa y esprín de proa",
+      "Solo los traveses"
+    ],
+    "answer": 0,
+    "explanation": "Ambos impiden que el barco se vaya hacia atrás."
+  },
+  {
+    "id": "g-0077",
+    "topic": "man",
+    "q": "Los agentes que más influyen en la maniobra son…",
+    "options": ["Las bajas presiones", "El viento y la corriente", "La eslora", "La temperatura"],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "g-0078",
+    "topic": "man",
+    "q": "Gobernando con caña, para caer a estribor la caña se lleva a…",
+    "options": ["Estribor", "Babor", "Al centro", "Depende de la hélice"],
+    "answer": 1,
+    "explanation": "La caña va al lado contrario del giro."
+  },
+  {
+    "id": "g-0079",
+    "topic": "man",
+    "q": "Para amarrarse a una boya, la aproximación se hará…",
+    "options": [
+      "Con viento y corriente por la popa",
+      "Proa al viento o a la corriente",
+      "A toda máquina",
+      "De costado"
+    ],
+    "answer": 1,
+    "explanation": "Así el viento y la corriente frenan el barco."
+  },
+  {
+    "id": "g-0206",
+    "topic": "man",
+    "q": "Con hélice dextrógira y marcha avante, la popa tiende a caer a…",
+    "options": ["Babor", "Estribor", "No cae", "Depende del viento"],
+    "answer": 1,
+    "explanation": "Avante: popa a estribor. Atrás: a babor (más marcado)."
+  },
+  {
+    "id": "g-0207",
+    "topic": "man",
+    "q": "Con una hélice dextrógira es más fácil atracar…",
+    "options": ["Por estribor", "Por babor", "De proa", "Da igual"],
+    "answer": 1,
+    "explanation": "La palada final atrás acerca la popa al muelle."
+  },
+  {
+    "id": "g-0208",
+    "topic": "man",
+    "q": "El timón solo es eficaz si…",
+    "options": [
+      "El barco está parado",
+      "Pasa agua por la pala (arrancada o chorro de la hélice)",
+      "El motor está apagado",
+      "Se lleva la caña al centro"
+    ],
+    "answer": 1,
+    "explanation": "Sin flujo de agua no gobierna."
+  },
+  {
+    "id": "g-0209",
+    "topic": "man",
+    "q": "Para desatracar abriendo la popa se trabaja sobre el…",
+    "options": ["Largo de popa", "Esprín de proa", "Través de popa", "Largo de proa"],
+    "answer": 1,
+    "explanation": "Avante sobre el esprín de proa con timón hacia el muelle."
+  },
+  {
+    "id": "g-0210",
+    "topic": "man",
+    "q": "El diámetro táctico de la curva de evolución es la separación lateral cuando el barco ha caído…",
+    "options": ["45°", "90°", "180°", "360°"],
+    "answer": 2,
+    "explanation": "El avance se mide a los 90°."
+  },
+  {
+    "id": "g-0211",
+    "topic": "man",
+    "q": "Girar sobre sí mismo en poco espacio, con paladas avante y atrás, es…",
+    "options": ["Capear", "Ciaboga", "Abarloar", "Bornear"],
+    "answer": 1,
+    "explanation": "Ciaboga."
+  },
+  {
+    "id": "g-0212",
+    "topic": "man",
+    "q": "Amarrarse costado con costado a otra embarcación se llama…",
+    "options": ["Atracar en punta", "Abarloarse", "Fondear", "Arranchar"],
+    "answer": 1,
+    "explanation": "Abarloarse, siempre con defensas."
+  },
+  {
+    "id": "g-0213",
+    "topic": "man",
+    "q": "En el atraque en punta (de popa) típico del Mediterráneo se usa normalmente…",
+    "options": ["Un esprín", "Un muerto o el ancla a proa", "Dos traveses", "Ninguna amarra a proa"],
+    "answer": 1,
+    "explanation": "El muerto o el ancla sujeta la proa."
+  },
+  {
+    "id": "g-0214",
+    "topic": "man",
+    "q": "Con mar de popa fuerte, el principal riesgo es…",
+    "options": [
+      "Que el barco se atraviese",
+      "Que se clave la proa en la ola de frente",
+      "Que se pare el motor",
+      "Que se sobrecaliente"
+    ],
+    "answer": 0,
+    "explanation": "La ola levanta la popa y la cruza."
+  },
+  {
+    "id": "g-0215",
+    "topic": "man",
+    "q": "Navegando en aguas poco profundas el barco…",
+    "options": ["Gobierna mejor", "Gobierna peor y aumenta su calado efectivo", "No cambia", "Planea antes"],
+    "answer": 1,
+    "explanation": "Asentamiento: reducir velocidad."
+  },
+  {
+    "id": "g-0216",
+    "topic": "man",
+    "q": "Con viento fuerte, la proa de una lancha parada tiende a…",
+    "options": ["Aproarse al viento", "Caer a sotavento", "Quedarse quieta", "Girar a estribor"],
+    "answer": 1,
+    "explanation": "La proa es alta y ligera."
+  },
+  {
+    "id": "g-0366",
+    "topic": "man",
+    "q": "Con hélice dextrógira y marcha atrás, la proa tiende a caer a…",
+    "options": ["Babor", "Estribor", "No cae", "Al viento"],
+    "answer": 1,
+    "explanation": "La popa a babor, la proa a estribor."
+  },
+  {
+    "id": "g-0367",
+    "topic": "man",
+    "q": "Con hélice levógira y marcha avante, la popa tiende a caer a…",
+    "options": ["Estribor", "Babor", "No cae", "Al centro"],
+    "answer": 1,
+    "explanation": "Al revés que la dextrógira."
+  },
+  {
+    "id": "g-0368",
+    "topic": "man",
+    "q": "En el atraque de costado, la aproximación se hace con un ángulo de unos…",
+    "options": ["5°", "20–30°", "60°", "90°"],
+    "answer": 1,
+    "explanation": "Muy despacio."
+  },
+  {
+    "id": "g-0369",
+    "topic": "man",
+    "q": "Para frenar un barco que avanza hay que…",
+    "options": ["Poner punto muerto y esperar", "Dar atrás", "Meter todo el timón", "Fondear"],
+    "answer": 1,
+    "explanation": "No tiene frenos."
+  },
+  {
+    "id": "g-0370",
+    "topic": "man",
+    "q": "Atracados con viento de popa, se refuerzan…",
+    "options": [
+      "Largo de proa y esprín de popa",
+      "Largo de popa y esprín de proa",
+      "Solo traveses",
+      "Ninguno"
+    ],
+    "answer": 1,
+    "explanation": "Impiden que el barco avance."
+  },
+  {
+    "id": "g-0371",
+    "topic": "man",
+    "q": "Con viento que sopla del muelle hacia el mar, al atracar…",
+    "options": [
+      "El barco se pega solo",
+      "El viento separa el barco; hay que dar rápido la primera amarra",
+      "No influye",
+      "Hay que ir más rápido"
+    ],
+    "answer": 1,
+    "explanation": "Llegar más cerrado y rápido con la amarra."
+  },
+  {
+    "id": "g-0372",
+    "topic": "man",
+    "q": "Para desatracar abriendo la proa se trabaja sobre el…",
+    "options": ["Esprín de proa avante", "Esprín de popa dando atrás", "Largo de proa", "Través"],
+    "answer": 1,
+    "explanation": "La proa se abre."
+  },
+  {
+    "id": "g-0373",
+    "topic": "man",
+    "q": "El amarre de popa al muelle con un muerto a proa es el atraque…",
+    "options": ["De costado", "En punta (mediterráneo)", "Abarloado", "A la gira"],
+    "answer": 1,
+    "explanation": "Muy habitual en el Mediterráneo."
+  },
+  {
+    "id": "g-0374",
+    "topic": "man",
+    "q": "La distancia que avanza el barco desde que mete el timón hasta caer 90° es el…",
+    "options": ["Diámetro táctico", "Avance", "Abatimiento", "Retroceso"],
+    "answer": 1,
+    "explanation": "Avance."
+  },
+  {
+    "id": "g-0375",
+    "topic": "man",
+    "q": "Las paladas cortas avante y atrás con el timón a una banda sirven para…",
+    "options": ["Fondear", "Ciabogar (girar en poco espacio)", "Planear", "Correr el temporal"],
+    "answer": 1,
+    "explanation": "Ciaboga."
+  },
+  {
+    "id": "g-0376",
+    "topic": "man",
+    "q": "En una lancha rápida, los flaps o el trim de la cola sirven para…",
+    "options": ["Frenar", "Ajustar el asiento (proa arriba o abajo) al navegar", "Achicar", "Fondear"],
+    "answer": 1,
+    "explanation": "Trimado."
+  },
+  {
+    "id": "g-0377",
+    "topic": "man",
+    "q": "Con mar de proa conviene…",
+    "options": [
+      "Aumentar velocidad",
+      "Reducir velocidad y cortar las olas por la amura",
+      "Ponerse de través",
+      "Parar el motor"
+    ],
+    "answer": 1,
+    "explanation": "Para no golpear."
+  },
+  {
+    "id": "g-0378",
+    "topic": "man",
+    "q": "Con mar de través grande conviene…",
+    "options": [
+      "Mantener el rumbo de través",
+      "Navegar en zigzag cogiéndola por la amura o la aleta",
+      "Parar",
+      "Ir a toda velocidad"
+    ],
+    "answer": 1,
+    "explanation": "De través el balance es máximo."
+  },
+  {
+    "id": "g-0379",
+    "topic": "man",
+    "q": "Al coger una boya, se llega…",
+    "options": [
+      "Con viento de popa",
+      "Proa al viento o a la corriente, muy despacio",
+      "De costado",
+      "Rápido"
+    ],
+    "answer": 1,
+    "explanation": "Cogerla con el bichero por la amura."
+  },
+  {
+    "id": "g-0380",
+    "topic": "man",
+    "q": "Al levar el ancla, el barco avanza despacio hacia ella hasta que la cadena está…",
+    "options": ["Filada", "A pique (vertical)", "Garreando", "Bajo el casco"],
+    "answer": 1,
+    "explanation": "Entonces se desclava."
+  },
+  {
+    "id": "g-0381",
+    "topic": "man",
+    "q": "Un barco parado con viento de través tiende a…",
+    "options": ["Quedarse quieto", "Derivar a sotavento", "Ir a barlovento", "Avanzar"],
+    "answer": 1,
+    "explanation": "Abatimiento."
+  },
+  {
+    "id": "g-0804",
+    "topic": "man",
+    "q": "Al encapillar una gaza en un noray donde ya hay otras, se pasa…",
+    "options": [
+      "Por encima de todas",
+      "De abajo arriba por dentro de las otras gazas",
+      "Por fuera",
+      "Anudada a otra"
+    ],
+    "answer": 1,
+    "explanation": "Así cualquier barco puede soltar la suya sin quitar las demás."
+  },
+  {
+    "id": "g-0805",
+    "topic": "man",
+    "q": "Amarrar por seno consiste en…",
+    "options": [
+      "Dar una gaza fija al noray",
+      "Pasar el seno por el noray y hacer firmes los dos chicotes a bordo",
+      "Usar una cadena",
+      "Amarrar a una boya"
+    ],
+    "answer": 1,
+    "explanation": "Para largar basta soltar un chicote y cobrar del otro."
+  },
+  {
+    "id": "g-0806",
+    "topic": "man",
+    "q": "«Virar» un cabo es…",
+    "options": ["Soltarlo", "Cobrarlo por medios mecánicos", "Aflojarlo un poco", "Enrollarlo"],
+    "answer": 1,
+    "explanation": "Con molinete o cabrestante."
+  },
+  {
+    "id": "g-0807",
+    "topic": "man",
+    "q": "«Amollar» es…",
+    "options": ["Soltar un poco de cabo", "Cobrar", "Hacer firme", "Adujar"],
+    "answer": 0,
+    "explanation": "Lascar es aflojar un poco un cabo que estaba tenso."
+  },
+  {
+    "id": "g-0808",
+    "topic": "man",
+    "q": "La codera sirve para…",
+    "options": [
+      "Fondear por popa",
+      "Aguantar el barco con viento de fuera y que no apriete contra el muelle",
+      "Remolcar",
+      "Sujetar el ancla"
+    ],
+    "answer": 1,
+    "explanation": "También ayuda a separarlo al desatracar."
+  },
+  {
+    "id": "g-0809",
+    "topic": "man",
+    "q": "Al cobrar del largo de proa, el barco…",
+    "options": ["Se mueve atrás", "Atraca la proa y se mueve avante", "Se separa del muelle", "No se mueve"],
+    "answer": 1,
+    "explanation": "El largo de popa: atraca la popa y lo mueve atrás."
+  },
+  {
+    "id": "g-0810",
+    "topic": "man",
+    "q": "Al cobrar del esprín de proa, el barco…",
+    "options": [
+      "Se mueve hacia proa",
+      "Atraca la proa y se mueve hacia popa",
+      "Se separa",
+      "Gira a estribor"
+    ],
+    "answer": 1,
+    "explanation": "El esprín trabaja al revés que su largo."
+  },
+  {
+    "id": "g-0811",
+    "topic": "man",
+    "q": "Para desatracar con viento o corriente de proa, se deja el…",
+    "options": ["Largo de proa", "Esprín de popa", "Través de proa", "Largo de popa"],
+    "answer": 1,
+    "explanation": "El barco se abre de proa."
+  },
+  {
+    "id": "g-0812",
+    "topic": "man",
+    "q": "Para desatracar con viento o corriente de popa, se deja el…",
+    "options": ["Esprín de proa", "Esprín de popa", "Largo de popa", "Través de popa"],
+    "answer": 0,
+    "explanation": "El barco se abre de popa."
+  },
+  {
+    "id": "g-0813",
+    "topic": "man",
+    "q": "Si el viento acuesta fuertemente el barco contra el muelle, para desatracar se usan…",
+    "options": [
+      "Solo los largos",
+      "Una o dos coderas a una boya, muelle o barco",
+      "El ancla de capa",
+      "Los traveses"
+    ],
+    "answer": 1,
+    "explanation": "Y se vira de ellas."
+  },
+  {
+    "id": "g-0814",
+    "topic": "man",
+    "q": "Con un timón de caña, para que el barco caiga a estribor la caña se mete a…",
+    "options": ["Estribor", "Babor", "La vía", "Proa"],
+    "answer": 1,
+    "explanation": "La pala va a la banda contraria de la caña."
+  },
+  {
+    "id": "g-0815",
+    "topic": "man",
+    "q": "La velocidad de gobierno es…",
+    "options": [
+      "La máxima del barco",
+      "La mínima con la que el barco sigue siendo gobernable desde el timón",
+      "La de crucero",
+      "La de planeo"
+    ],
+    "answer": 1,
+    "explanation": "Arrancada es la velocidad que lleva el barco."
+  },
+  {
+    "id": "g-0816",
+    "topic": "man",
+    "q": "La curva de evolución se describe con…",
+    "options": [
+      "El timón cambiando",
+      "Revoluciones y ángulo de timón constantes",
+      "El motor parado",
+      "Viento de través"
+    ],
+    "answer": 1,
+    "explanation": "Trayectoria del centro de gravedad."
+  },
+  {
+    "id": "g-0817",
+    "topic": "man",
+    "q": "Las tres fases de la curva de evolución son…",
+    "options": [
+      "Avance, giro y parada",
+      "Maniobra, variable y uniforme",
+      "Aceleración, crucero y frenado",
+      "Proa, través y popa"
+    ],
+    "answer": 1,
+    "explanation": "La que más interesa es la fase de maniobra."
+  },
+  {
+    "id": "g-0818",
+    "topic": "man",
+    "q": "La fase de maniobra va desde que se empieza a meter el timón hasta que…",
+    "options": [
+      "El barco ha girado 90°",
+      "La pala alcanza el ángulo deseado",
+      "Se alcanza el equilibrio",
+      "El barco se para"
+    ],
+    "answer": 1,
+    "explanation": "Después viene la fase variable."
+  },
+  {
+    "id": "g-0819",
+    "topic": "man",
+    "q": "En la fase de maniobra, la popa se desplaza hacia…",
+    "options": ["La banda de la metida", "La banda contraria a la metida", "Proa", "No se desplaza"],
+    "answer": 1,
+    "explanation": "Es el rabeo."
+  },
+  {
+    "id": "g-0820",
+    "topic": "man",
+    "q": "El desplazamiento transversal de la popa al girar se llama…",
+    "options": ["Abatimiento", "Rabeo", "Deriva", "Cabeceo"],
+    "answer": 1,
+    "explanation": "Ojo con la aleta cerca de barcos, muelles o boyas."
+  },
+  {
+    "id": "g-0821",
+    "topic": "man",
+    "q": "Al girar, un barco escora…",
+    "options": [
+      "A la banda de la metida",
+      "A la banda contraria a la metida",
+      "Siempre a babor",
+      "No escora"
+    ],
+    "answer": 1,
+    "explanation": "Por la fuerza centrífuga, más cuanto mayor sea la velocidad."
+  },
+  {
+    "id": "g-0822",
+    "topic": "man",
+    "q": "¿Qué barco hace una curva de evolución más abierta y con más rabeo?",
+    "options": [
+      "Un velero con quilla",
+      "Una lancha con obra viva muy plana",
+      "Un catamarán",
+      "Un remolcador"
+    ],
+    "answer": 1,
+    "explanation": "El velero pivota casi sobre su quilla."
+  },
+  {
+    "id": "g-0823",
+    "topic": "man",
+    "q": "Sin arrancada, al dar máquina la popa cae…",
+    "options": [
+      "A la banda contraria al giro de la hélice",
+      "A la banda hacia la que gira la hélice",
+      "Siempre a estribor",
+      "No cae"
+    ],
+    "answer": 1,
+    "explanation": "Efecto de rodadura; la proa cae a la contraria."
+  },
+  {
+    "id": "g-0824",
+    "topic": "man",
+    "q": "Con una hélice levógira, al dar atrás la popa cae inicialmente a…",
+    "options": ["Babor", "Estribor", "Ninguna banda", "Proa"],
+    "answer": 1,
+    "explanation": "Con dextrógira, a babor."
+  },
+  {
+    "id": "g-0825",
+    "topic": "man",
+    "q": "Parado, con el timón a la vía y dando atrás, en los primeros segundos…",
+    "options": [
+      "El timón gobierna perfectamente",
+      "El timón no influye y manda la presión lateral de las palas",
+      "El barco va avante",
+      "La proa cae a babor siempre"
+    ],
+    "answer": 1,
+    "explanation": "El chorro va hacia proa y no toca la pala."
+  },
+  {
+    "id": "g-0826",
+    "topic": "man",
+    "q": "Dando avante desde parado, el timón…",
+    "options": [
+      "No gobierna hasta coger arrancada",
+      "Gobierna desde el primer momento",
+      "Solo gobierna a babor",
+      "Gobierna al revés"
+    ],
+    "answer": 1,
+    "explanation": "El chorro de la hélice va directo a la pala."
+  },
+  {
+    "id": "g-0827",
+    "topic": "man",
+    "q": "Navegando avante con una dextrógira, al dar atrás…",
+    "options": ["Solo frena", "Frena y la popa cae a babor", "Frena y la popa cae a estribor", "Acelera"],
+    "answer": 1,
+    "explanation": "Una vez con arrancada atrás, se gobierna con el timón."
+  },
+  {
+    "id": "g-0828",
+    "topic": "man",
+    "q": "El origen del término «ciaboga» está en…",
+    "options": ["Los veleros de regata", "Los botes de remos: bogar y ciar", "Los remolcadores", "La pesca"],
+    "answer": 1,
+    "explanation": "Bogando con un remo y ciando con el otro, el bote pivota."
+  },
+  {
+    "id": "g-0829",
+    "topic": "man",
+    "q": "Para ciabogar a estribor con una hélice dextrógira se alterna…",
+    "options": [
+      "Avante con timón a babor y atrás con timón a estribor",
+      "Avante con timón a estribor y atrás, manteniendo el timón a estribor",
+      "Solo atrás",
+      "Avante con timón a la vía"
+    ],
+    "answer": 1,
+    "explanation": "Atrás la popa cae a babor, es decir, la proa a estribor."
+  },
+  {
+    "id": "g-0830",
+    "topic": "man",
+    "q": "En la ciaboga con dos hélices, la proa cae…",
+    "options": [
+      "A la banda de la hélice que da avante",
+      "A la banda contraria a la hélice que da avante",
+      "Siempre a estribor",
+      "No gira: el barco va atrás"
+    ],
+    "answer": 1,
+    "explanation": "Motor de babor avante y estribor atrás: proa a estribor."
+  },
+  {
+    "id": "g-0831",
+    "topic": "man",
+    "q": "En la ciaboga con dos hélices, la que da atrás debe ir a…",
+    "options": ["Las mismas revoluciones", "Aproximadamente el doble de revoluciones", "La mitad", "Parada"],
+    "answer": 1,
+    "explanation": "Rinde mucho menos atrás; si no, el barco coge arrancada avante."
+  },
+  {
+    "id": "g-0832",
+    "topic": "man",
+    "q": "En la ciaboga con dos hélices, los timones se dejan…",
+    "options": ["A estribor", "A babor", "A la vía", "Alternando"],
+    "answer": 2,
+    "explanation": "Su efecto es inapreciable."
+  },
+  {
+    "id": "g-0833",
+    "topic": "man",
+    "q": "El abatimiento es el desplazamiento lateral del barco por efecto…",
+    "options": [
+      "De la corriente sobre la obra viva",
+      "Del viento sobre la obra muerta",
+      "De las olas",
+      "De la hélice"
+    ],
+    "answer": 1,
+    "explanation": "Si el viento entra por proa o popa, solo cambia la velocidad."
+  },
+  {
+    "id": "g-0834",
+    "topic": "man",
+    "q": "La deriva es el desplazamiento del barco por efecto…",
+    "options": ["Del viento", "De la corriente sobre la obra viva", "Del timón", "Del oleaje"],
+    "answer": 1,
+    "explanation": "En la dirección de la corriente."
+  },
+  {
+    "id": "g-0835",
+    "topic": "man",
+    "q": "«Libre a sotavento» significa…",
+    "options": [
+      "Navegar a sotavento de otro",
+      "Mantenerse alejado de cualquier peligro a sotavento con margen para maniobrar",
+      "Soltar las amarras de sotavento",
+      "Fondear a sotavento"
+    ],
+    "answer": 1,
+    "explanation": "Por si el viento nos empuja hacia él."
+  },
+  {
+    "id": "g-0836",
+    "topic": "man",
+    "q": "En el atraque de puntas, la crujía queda…",
+    "options": ["Paralela al muelle", "Perpendicular al muelle", "A 45°", "Indiferente"],
+    "answer": 1,
+    "explanation": "Dando al muelle la popa o la proa."
+  },
+  {
+    "id": "g-0837",
+    "topic": "man",
+    "q": "En el atraque de puntas, la guía…",
+    "options": [
+      "Trabaja como amarra principal",
+      "No trabaja: solo une el largo con el muelle",
+      "Va al ancla",
+      "Se da al barco vecino"
+    ],
+    "answer": 1,
+    "explanation": "El largo va de proa al muerto."
+  },
+  {
+    "id": "g-0838",
+    "topic": "man",
+    "q": "Un barco atracado de puntas queda con…",
+    "options": [
+      "Un largo al muelle",
+      "Dos largos al muelle y uno o dos al agua, a un muerto o cadena",
+      "Traveses y esprines",
+      "Solo el ancla"
+    ],
+    "answer": 1,
+    "explanation": "Atraque mediterráneo."
+  },
+  {
+    "id": "g-0839",
+    "topic": "man",
+    "q": "Con hélice dextrógira, si el puesto de amarre está a babor, para entrar de popa…",
+    "options": [
+      "Se entra de proa",
+      "Se pasa un poco el hueco y se da atrás con timón a babor, aprovechando la caída de la popa",
+      "Se gira con dos hélices",
+      "Se usa el ancla"
+    ],
+    "answer": 1,
+    "explanation": "Supuesto 1 del manual."
+  },
+  {
+    "id": "g-0840",
+    "topic": "man",
+    "q": "Con viento fuerte perpendicular al amarre o poca experiencia, en el atraque de puntas conviene…",
+    "options": [
+      "Entrar de popa a toda máquina",
+      "Entrar de proa, avante con poca arrancada",
+      "Fondear fuera",
+      "Esperar"
+    ],
+    "answer": 1,
+    "explanation": "Gobernar atrás siempre es más difícil."
+  },
+  {
+    "id": "g-0841",
+    "topic": "man",
+    "q": "Al amarrar, ¿qué amarras se dan primero?",
+    "options": ["Las de sotavento", "Las de barlovento", "Las de popa siempre", "Los traveses"],
+    "answer": 1,
+    "explanation": "Son las que trabajan en cuanto el barco se para."
+  },
+  {
+    "id": "g-0842",
+    "topic": "man",
+    "q": "Al desamarrar, las amarras de barlovento se largan…",
+    "options": ["Las primeras", "Las últimas", "A la vez que las otras", "Nunca"],
+    "answer": 1,
+    "explanation": "Para sujetar el barco hasta el último segundo."
+  },
+  {
+    "id": "g-0843",
+    "topic": "man",
+    "q": "Atracando de puntas con la popa al muelle y viento de proa (del mar), la primera amarra es…",
+    "options": ["El largo de popa", "El largo de proa", "Un través", "Un esprín"],
+    "answer": 1,
+    "explanation": "Es la de barlovento: evita que la popa golpee el muelle."
+  },
+  {
+    "id": "g-0844",
+    "topic": "man",
+    "q": "Atracando de puntas con viento del muelle (de popa), las primeras amarras son…",
+    "options": ["El largo de proa", "Los largos de popa por seno", "La guía", "Los traveses"],
+    "answer": 1,
+    "explanation": "El viento nos separa del muelle."
+  },
+  {
+    "id": "g-0845",
+    "topic": "man",
+    "q": "En un atraque de costado, la aproximación se hace…",
+    "options": [
+      "Con el viento de popa",
+      "Proa al viento o a la corriente, al más fuerte de los dos",
+      "De través",
+      "A toda máquina"
+    ],
+    "answer": 1,
+    "explanation": "Así se frena y se controla mejor."
+  },
+  {
+    "id": "g-0846",
+    "topic": "man",
+    "q": "«Hacer cabeza» es…",
+    "options": [
+      "Fondear de proa",
+      "Separar la popa del muelle trabajando sobre el esprín de proa para salir atrás",
+      "Atracar de proa",
+      "Abarloarse"
+    ],
+    "answer": 1,
+    "explanation": "Defensa grande en la amura, todo largado menos el esprín de proa, poco avante con timón hacia el muelle."
+  },
+  {
+    "id": "g-0847",
+    "topic": "man",
+    "q": "Al hacer cabeza atracado por babor, el timón se mete…",
+    "options": ["A estribor", "A babor (hacia el muelle)", "A la vía", "Indiferente"],
+    "answer": 1,
+    "explanation": "Con muy poco avante: la popa se abre."
+  },
+  {
+    "id": "g-0848",
+    "topic": "man",
+    "q": "Al desatracar de costado con viento de proa paralelo, se aguanta…",
+    "options": ["El esprín de proa", "El esprín de popa", "El largo de proa", "Un través"],
+    "answer": 1,
+    "explanation": "Defensa grande en la aleta y separar la proa con el bichero."
+  },
+  {
+    "id": "g-0849",
+    "topic": "man",
+    "q": "Atracando por babor con viento de popa paralelo al muelle, la amarra que detiene el barco y atraca la proa es…",
+    "options": ["El largo de popa", "El esprín de proa", "El través de popa", "La codera"],
+    "answer": 1,
+    "explanation": "Después, largo de popa y largo de proa."
+  },
+  {
+    "id": "g-0850",
+    "topic": "man",
+    "q": "Al abarloarse a un barco atracado, los largos van…",
+    "options": ["Al otro barco", "Al muelle", "Al fondo", "A una boya"],
+    "answer": 1,
+    "explanation": "Traveses y esprines, al barco al que nos abarloamos."
+  },
+  {
+    "id": "g-0851",
+    "topic": "man",
+    "q": "Para desabarloarse se sale…",
+    "options": [
+      "Contra el viento",
+      "A favor del viento o de la corriente",
+      "De través",
+      "Dando atrás siempre"
+    ],
+    "answer": 1,
+    "explanation": "Así los barcos exteriores siguen firmes con sus estachas de barlovento."
+  },
+  {
+    "id": "g-0852",
+    "topic": "man",
+    "q": "Para abarloarse a un barco fondeado, la aproximación se hace…",
+    "options": ["Con viento de popa", "Proa al viento", "De través al viento", "Por su popa"],
+    "answer": 1,
+    "explanation": "Así está todo barco fondeado."
+  },
+  {
+    "id": "g-0853",
+    "topic": "man",
+    "q": "Al amarrar a una boya, hay que quedar parado muy cerca de ella y…",
+    "options": ["A sotavento", "A barlovento", "Por la popa", "De través"],
+    "answer": 1,
+    "explanation": "Y amarrar mejor por seno a las cornamusas de proa."
+  }
+]

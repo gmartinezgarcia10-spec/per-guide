@@ -13,7 +13,8 @@
     "resolveJsonModule": true,
     "skipLibCheck": true,
     "noEmit": true,
-    "types": ["node"]
+    "types": ["node"],
+    "allowImportingTsExtensions": true
   },
-  "include": ["src", "tests/unit", "tests/e2e", "*.config.ts"]
+  "include": ["src", "scripts", "tests/unit", "tests/e2e", "*.config.ts"]
 }

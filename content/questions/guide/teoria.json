@@ -1,0 +1,1565 @@
+[
+  {
+    "id": "g-0097",
+    "topic": "teoria",
+    "q": "El meridiano origen de las longitudes se denomina…",
+    "options": ["De lugar", "De París", "Cero (Greenwich)", "Ciento ochenta"],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "id": "g-0098",
+    "topic": "teoria",
+    "q": "La milla náutica equivale a…",
+    "options": ["1000 m", "1609 m", "1852 m", "1 minuto de longitud"],
+    "answer": 2,
+    "explanation": "1 minuto de latitud."
+  },
+  {
+    "id": "g-0099",
+    "topic": "teoria",
+    "q": "En una carta Mercator, las escalas de latitud están…",
+    "options": ["Arriba y abajo", "A la derecha y a la izquierda", "Solo arriba", "En la rosa"],
+    "answer": 1,
+    "explanation": "Las distancias también se miden ahí."
+  },
+  {
+    "id": "g-0100",
+    "topic": "teoria",
+    "q": "El ángulo entre la línea proa-popa y la visual a un objeto es la…",
+    "options": ["Demora", "Marcación", "Declinación", "Acimut"],
+    "answer": 1,
+    "explanation": "La demora se mide desde el norte."
+  },
+  {
+    "id": "g-0101",
+    "topic": "teoria",
+    "q": "La corrección total (Ct) es igual a…",
+    "options": ["dm − Δ", "dm + Δ", "Rv + Ra", "Dv − Rv"],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "g-0102",
+    "topic": "teoria",
+    "q": "El desvío de la aguja depende principalmente…",
+    "options": ["Del año", "Del rumbo de la embarcación", "De la latitud", "De la marea"],
+    "answer": 1,
+    "explanation": "Por eso se busca en la tablilla de desvíos con el Ra."
+  },
+  {
+    "id": "g-0103",
+    "topic": "teoria",
+    "q": "Los diversos aspectos que toma una luz durante un período son…",
+    "options": ["Alcances", "Sectores", "Fases", "Frecuencias"],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "id": "g-0104",
+    "topic": "teoria",
+    "q": "Navegando con viento por estribor, el abatimiento es…",
+    "options": ["Positivo", "Negativo", "Nulo", "Igual a la deriva"],
+    "answer": 1,
+    "explanation": "El viento nos desplaza a babor."
+  },
+  {
+    "id": "g-0105",
+    "topic": "teoria",
+    "q": "Dos objetos de la costa que se ven en línea forman una…",
+    "options": ["Oposición", "Enfilación", "Isobata", "Marcación"],
+    "answer": 1,
+    "explanation": "Es una línea de posición muy precisa."
+  },
+  {
+    "id": "g-0106",
+    "topic": "teoria",
+    "q": "La publicación que relaciona los faros, sus características y alcances es…",
+    "options": [
+      "El derrotero",
+      "El libro de faros y señales de niebla",
+      "El anuario de mareas",
+      "El aviso a los navegantes"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "g-0243",
+    "topic": "teoria",
+    "q": "La latitud se cuenta…",
+    "options": [
+      "De 0° a 180° desde Greenwich",
+      "De 0° a 90° N o S desde el ecuador",
+      "De 0° a 360°",
+      "Desde el polo"
+    ],
+    "answer": 1,
+    "explanation": "La longitud va de 0° a 180° E o W."
+  },
+  {
+    "id": "g-0244",
+    "topic": "teoria",
+    "q": "Las distancias en la carta se miden en la escala de…",
+    "options": ["Longitudes", "Latitudes", "Cualquiera", "Rumbos"],
+    "answer": 1,
+    "explanation": "1′ de latitud = 1 mn."
+  },
+  {
+    "id": "g-0245",
+    "topic": "teoria",
+    "q": "Una propiedad de la proyección Mercator es que…",
+    "options": [
+      "Conserva las superficies",
+      "Conserva los ángulos (es conforme)",
+      "Los meridianos son curvos",
+      "La ortodrómica es recta"
+    ],
+    "answer": 1,
+    "explanation": "Y la loxodrómica es una recta."
+  },
+  {
+    "id": "g-0246",
+    "topic": "teoria",
+    "q": "La declinación magnética es el ángulo entre…",
+    "options": ["Nv y Na", "Nv y Nm", "Nm y Na", "Proa y Nv"],
+    "answer": 1,
+    "explanation": "El desvío está entre Nm y Na."
+  },
+  {
+    "id": "g-0247",
+    "topic": "teoria",
+    "q": "El rumbo S 30° W en notación circular es…",
+    "options": ["150°", "210°", "240°", "330°"],
+    "answer": 1,
+    "explanation": "180 + 30 = 210°."
+  },
+  {
+    "id": "g-0248",
+    "topic": "teoria",
+    "q": "Navegando a Rv 080°, vemos un faro por la marcación 50° a babor. Su Dv es…",
+    "options": ["030°", "130°", "050°", "310°"],
+    "answer": 0,
+    "explanation": "Dv = Rv + M = 080 − 50 = 030°."
+  },
+  {
+    "id": "g-0249",
+    "topic": "teoria",
+    "q": "Las sondas de la carta están referidas al…",
+    "options": [
+      "Nivel medio del mar",
+      "Cero hidrográfico (bajamar escorada)",
+      "Nivel de pleamar",
+      "Nivel del puerto"
+    ],
+    "answer": 1,
+    "explanation": "El nivel más bajo esperable."
+  },
+  {
+    "id": "g-0250",
+    "topic": "teoria",
+    "q": "Sonda en carta 3 m y altura de marea 1,5 m. La sonda en el momento es…",
+    "options": ["1,5 m", "3 m", "4,5 m", "6 m"],
+    "answer": 2,
+    "explanation": "Sonda = carta + marea."
+  },
+  {
+    "id": "g-0251",
+    "topic": "teoria",
+    "q": "La diferencia de altura entre una pleamar y la bajamar siguiente es la…",
+    "options": ["Sonda", "Amplitud", "Estoa", "Repunte"],
+    "answer": 1,
+    "explanation": "Amplitud o carrera."
+  },
+  {
+    "id": "g-0252",
+    "topic": "teoria",
+    "q": "Las mareas vivas se producen…",
+    "options": ["En cuarto creciente", "En luna nueva y luna llena", "Solo en verano", "Con borrascas"],
+    "answer": 1,
+    "explanation": "Sol y Luna alineados."
+  },
+  {
+    "id": "g-0253",
+    "topic": "teoria",
+    "q": "El instrumento que mide la velocidad y la distancia navegada en el agua es la…",
+    "options": ["Sonda", "Corredera", "Alidada", "Aguja"],
+    "answer": 1,
+    "explanation": "La sonda mide profundidad."
+  },
+  {
+    "id": "g-0254",
+    "topic": "teoria",
+    "q": "La publicación que corrige semanalmente cartas y libros náuticos es…",
+    "options": ["El Derrotero", "Avisos a los Navegantes", "Libro de Faros", "Anuario de Mareas"],
+    "answer": 1,
+    "explanation": "Avisos a los Navegantes."
+  },
+  {
+    "id": "g-0255",
+    "topic": "teoria",
+    "q": "El rumbo de una corriente indica…",
+    "options": ["De dónde viene", "Hacia dónde va", "Su intensidad", "La marea"],
+    "answer": 1,
+    "explanation": "Al revés que el viento."
+  },
+  {
+    "id": "g-0414",
+    "topic": "teoria",
+    "q": "La longitud se cuenta…",
+    "options": [
+      "De 0° a 90° desde el ecuador",
+      "De 0° a 180° E o W desde Greenwich",
+      "De 0° a 360°",
+      "Desde el polo norte"
+    ],
+    "answer": 1,
+    "explanation": "La latitud, de 0° a 90° N o S."
+  },
+  {
+    "id": "g-0415",
+    "topic": "teoria",
+    "q": "Un cable equivale a…",
+    "options": ["0,1 mn (185 m)", "1 mn", "100 m", "10 mn"],
+    "answer": 0,
+    "explanation": "Décima de milla."
+  },
+  {
+    "id": "g-0416",
+    "topic": "teoria",
+    "q": "Un nudo es…",
+    "options": ["Una milla", "Una milla náutica por hora", "Un kilómetro por hora", "Una braza"],
+    "answer": 1,
+    "explanation": "Velocidad."
+  },
+  {
+    "id": "g-0417",
+    "topic": "teoria",
+    "q": "Los paralelos son…",
+    "options": [
+      "Círculos máximos de polo a polo",
+      "Círculos paralelos al ecuador",
+      "Líneas de igual sonda",
+      "Rumbos"
+    ],
+    "answer": 1,
+    "explanation": "Los meridianos van de polo a polo."
+  },
+  {
+    "id": "g-0418",
+    "topic": "teoria",
+    "q": "La línea que corta a todos los meridianos con el mismo ángulo es la…",
+    "options": ["Ortodrómica", "Loxodrómica", "Isobata", "Enfilación"],
+    "answer": 1,
+    "explanation": "Rumbo constante; recta en Mercator."
+  },
+  {
+    "id": "g-0419",
+    "topic": "teoria",
+    "q": "El camino más corto entre dos puntos de la Tierra es la…",
+    "options": ["Loxodrómica", "Ortodrómica (círculo máximo)", "Paralela", "Isobárica"],
+    "answer": 1,
+    "explanation": "Ortodrómica."
+  },
+  {
+    "id": "g-0420",
+    "topic": "teoria",
+    "q": "El ángulo entre el norte magnético y el norte de aguja es el…",
+    "options": ["Declinación magnética", "Desvío", "Abatimiento", "Rumbo"],
+    "answer": 1,
+    "explanation": "Desvío Δ."
+  },
+  {
+    "id": "g-0421",
+    "topic": "teoria",
+    "q": "Rumbo de aguja 120°, Ct −4°. El rumbo verdadero es…",
+    "options": ["124°", "116°", "120°", "296°"],
+    "answer": 1,
+    "explanation": "Rv = Ra + Ct."
+  },
+  {
+    "id": "g-0422",
+    "topic": "teoria",
+    "q": "Rv 270° y Ct +3°. El rumbo de aguja es…",
+    "options": ["273°", "267°", "270°", "093°"],
+    "answer": 1,
+    "explanation": "Ra = Rv − Ct."
+  },
+  {
+    "id": "g-0423",
+    "topic": "teoria",
+    "q": "El rumbo N 45° W en notación circular es…",
+    "options": ["045°", "135°", "225°", "315°"],
+    "answer": 3,
+    "explanation": "360 − 45."
+  },
+  {
+    "id": "g-0424",
+    "topic": "teoria",
+    "q": "Navegando a Rv 200°, un faro está por la marcación 30° Er. Su Dv es…",
+    "options": ["170°", "230°", "200°", "030°"],
+    "answer": 1,
+    "explanation": "Dv = Rv + M = 200 + 30."
+  },
+  {
+    "id": "g-0425",
+    "topic": "teoria",
+    "q": "Una oposición es una línea de posición en la que…",
+    "options": [
+      "Dos objetos están en línea",
+      "Estás situado entre dos objetos",
+      "Ves un faro por la proa",
+      "Hay igual sonda"
+    ],
+    "answer": 1,
+    "explanation": "La enfilación es cuando están en línea."
+  },
+  {
+    "id": "g-0426",
+    "topic": "teoria",
+    "q": "La isobata o veril es la línea que une puntos de igual…",
+    "options": ["Presión", "Sonda (profundidad)", "Temperatura", "Latitud"],
+    "answer": 1,
+    "explanation": "Isobática."
+  },
+  {
+    "id": "g-0427",
+    "topic": "teoria",
+    "q": "Navegando con viento por babor, el abatimiento es…",
+    "options": ["Negativo", "Positivo", "Nulo", "Igual al rumbo"],
+    "answer": 1,
+    "explanation": "El viento nos desplaza a estribor."
+  },
+  {
+    "id": "g-0428",
+    "topic": "teoria",
+    "q": "Las mareas muertas se producen…",
+    "options": ["Con luna nueva", "En cuarto creciente y menguante", "En luna llena", "Con borrascas"],
+    "answer": 1,
+    "explanation": "Menor amplitud."
+  },
+  {
+    "id": "g-0429",
+    "topic": "teoria",
+    "q": "Una presión de 993 hPa hace que el nivel del mar sea, respecto a 1013 hPa…",
+    "options": ["20 cm más bajo", "20 cm más alto", "Igual", "2 m más alto"],
+    "answer": 1,
+    "explanation": "≈1 cm por hPa; presión baja, más agua."
+  },
+  {
+    "id": "g-0966",
+    "topic": "teoria",
+    "q": "El ecuador es…",
+    "options": [
+      "Una circunferencia menor",
+      "La circunferencia máxima perpendicular al eje de la Tierra",
+      "Un meridiano",
+      "El paralelo de 45°"
+    ],
+    "answer": 1,
+    "explanation": "Divide la Tierra en hemisferios norte y sur."
+  },
+  {
+    "id": "g-0967",
+    "topic": "teoria",
+    "q": "Los meridianos son…",
+    "options": [
+      "Circunferencias menores",
+      "Circunferencias máximas que pasan por los polos",
+      "Paralelos al ecuador",
+      "Líneas de igual presión"
+    ],
+    "answer": 1,
+    "explanation": "Perpendiculares al ecuador y a los paralelos."
+  },
+  {
+    "id": "g-0968",
+    "topic": "teoria",
+    "q": "La mitad «opuesta» de un meridiano se llama…",
+    "options": [
+      "Meridiano superior",
+      "Antimeridiano o meridiano inferior",
+      "Paralelo",
+      "Meridiano del lugar"
+    ],
+    "answer": 1,
+    "explanation": "La visible es el meridiano superior."
+  },
+  {
+    "id": "g-0969",
+    "topic": "teoria",
+    "q": "El meridiano cero es el de…",
+    "options": ["París", "Greenwich", "Cádiz", "El ecuador"],
+    "answer": 1,
+    "explanation": "Divide la Tierra en mitades oriental y occidental."
+  },
+  {
+    "id": "g-0970",
+    "topic": "teoria",
+    "q": "La latitud se mide…",
+    "options": [
+      "Sobre el ecuador desde Greenwich",
+      "Sobre el meridiano del lugar, desde el ecuador",
+      "Desde el polo",
+      "En la escala de longitudes"
+    ],
+    "answer": 1,
+    "explanation": "De 0° a 90° N o S."
+  },
+  {
+    "id": "g-0971",
+    "topic": "teoria",
+    "q": "La latitud nunca puede superar…",
+    "options": ["45°", "90°", "180°", "360°"],
+    "answer": 1,
+    "explanation": "En los polos es 90°."
+  },
+  {
+    "id": "g-0972",
+    "topic": "teoria",
+    "q": "La longitud se mide…",
+    "options": [
+      "De 0° a 90°",
+      "De 0° a 180° E o W desde Greenwich",
+      "De 0° a 360°",
+      "Desde el ecuador hacia el polo"
+    ],
+    "answer": 1,
+    "explanation": "Arco de ecuador hasta el meridiano del lugar."
+  },
+  {
+    "id": "g-0973",
+    "topic": "teoria",
+    "q": "Un punto en el cruce de Greenwich y el ecuador tiene…",
+    "options": ["l 90°, L 0°", "l 0°, L 0°", "l 0°, L 180°", "l 45°, L 45°"],
+    "answer": 1,
+    "explanation": "Latitud y longitud cero."
+  },
+  {
+    "id": "g-0974",
+    "topic": "teoria",
+    "q": "El antimeridiano de Greenwich tiene longitud…",
+    "options": ["0°", "90°", "180°", "360°"],
+    "answer": 2,
+    "explanation": "Greenwich es 0°."
+  },
+  {
+    "id": "g-0975",
+    "topic": "teoria",
+    "q": "El organismo que publica las cartas náuticas en España es…",
+    "options": [
+      "Salvamento Marítimo",
+      "El Instituto Hidrográfico de la Marina",
+      "Puertos del Estado",
+      "AEMET"
+    ],
+    "answer": 1,
+    "explanation": "También derroteros y libros de faros."
+  },
+  {
+    "id": "g-0976",
+    "topic": "teoria",
+    "q": "Una carta a escala 1/10.000 representa la zona…",
+    "options": [
+      "10.000 veces mayor",
+      "10.000 veces más pequeña que la real",
+      "A tamaño real",
+      "100 veces más pequeña"
+    ],
+    "answer": 1,
+    "explanation": "El numerador es siempre 1."
+  },
+  {
+    "id": "g-0977",
+    "topic": "teoria",
+    "q": "Las cartas de gran escala, como las costeras y los portulanos, se llaman de…",
+    "options": ["Punto menor", "Punto mayor", "Arrumbamiento", "Generales"],
+    "answer": 1,
+    "explanation": "Las de punto menor cubren grandes extensiones."
+  },
+  {
+    "id": "g-0978",
+    "topic": "teoria",
+    "q": "Las cartas que representan grandes extensiones de océano o costa son de…",
+    "options": ["Punto mayor", "Punto menor", "Portulano", "Aproche"],
+    "answer": 1,
+    "explanation": "Escala pequeña."
+  },
+  {
+    "id": "g-0979",
+    "topic": "teoria",
+    "q": "Los portulanos se usan para…",
+    "options": [
+      "Navegación oceánica",
+      "Llegar a puertos, radas y fondeaderos",
+      "Rumbos directos",
+      "Navegación costera lejana"
+    ],
+    "answer": 1,
+    "explanation": "Son las de mayor escala."
+  },
+  {
+    "id": "g-0980",
+    "topic": "teoria",
+    "q": "Las cartas de arrumbamiento sirven para…",
+    "options": ["Entrar en puerto", "Navegación media con rumbos directos", "Fondear", "Leer las mareas"],
+    "answer": 1,
+    "explanation": "Entre las generales y las costeras."
+  },
+  {
+    "id": "g-0981",
+    "topic": "teoria",
+    "q": "Los palos clavados al fondo para marcar un peligro se llaman…",
+    "options": ["Boyas", "Espeques", "Balizas flotantes", "Veriles"],
+    "answer": 1,
+    "explanation": "No cambian de lugar con los temporales."
+  },
+  {
+    "id": "g-0982",
+    "topic": "teoria",
+    "q": "En una carta, la posición exacta de un faro está…",
+    "options": [
+      "En el centro de la lágrima",
+      "En la estrellita donde arranca la lágrima",
+      "En el nombre",
+      "En el número de alcance"
+    ],
+    "answer": 1,
+    "explanation": "La lágrima es de color rojizo."
+  },
+  {
+    "id": "g-0983",
+    "topic": "teoria",
+    "q": "Las abreviaturas de las cartas, por decisión de la OMI, se expresan en…",
+    "options": ["Español", "Inglés", "Francés", "Latín"],
+    "answer": 1,
+    "explanation": "Idioma internacional del mar."
+  },
+  {
+    "id": "g-0984",
+    "topic": "teoria",
+    "q": "En una carta, «S» junto a una sonda significa fondo de…",
+    "options": ["Piedra", "Arena", "Fango", "Alga"],
+    "answer": 1,
+    "explanation": "Sand."
+  },
+  {
+    "id": "g-0985",
+    "topic": "teoria",
+    "q": "En una carta, «G» junto a una sonda significa fondo de…",
+    "options": ["Arena", "Cascajo (gravel)", "Fango", "Roca"],
+    "answer": 1,
+    "explanation": "Trozos de concha y piedra."
+  },
+  {
+    "id": "g-0986",
+    "topic": "teoria",
+    "q": "En una carta, «Wd» significa fondo de…",
+    "options": ["Roca", "Alga", "Madera", "Arcilla"],
+    "answer": 1,
+    "explanation": "Weed."
+  },
+  {
+    "id": "g-0987",
+    "topic": "teoria",
+    "q": "En una carta, «Cl» significa fondo de…",
+    "options": ["Conchuela", "Arcilla", "Cascajo", "Coral"],
+    "answer": 1,
+    "explanation": "Clay."
+  },
+  {
+    "id": "g-0988",
+    "topic": "teoria",
+    "q": "En inglés, el centelleo rápido se abrevia…",
+    "options": ["Fl", "Oc", "Q", "Iso"],
+    "answer": 2,
+    "explanation": "Quick flashing."
+  },
+  {
+    "id": "g-0989",
+    "topic": "teoria",
+    "q": "«Fl(4) WR 20s 16M» describe un faro…",
+    "options": [
+      "Fijo blanco y rojo",
+      "De sectores blanco y rojo, con 4 destellos cada 20 s y alcance de 16 millas",
+      "De 4 ocultaciones",
+      "De 16 destellos"
+    ],
+    "answer": 1,
+    "explanation": "Ejemplo del manual."
+  },
+  {
+    "id": "g-0990",
+    "topic": "teoria",
+    "q": "¿Qué publicación contiene la característica, elevación y alcance de cada faro?",
+    "options": ["Derrotero", "Libro de faros", "Anuario de mareas", "Avisos a los navegantes"],
+    "answer": 1,
+    "explanation": "Necesario sobre todo para navegar de noche."
+  },
+  {
+    "id": "g-0991",
+    "topic": "teoria",
+    "q": "El Código Internacional de Señales es una…",
+    "options": ["Carta náutica", "Guía náutica", "Derrotero", "Ley"],
+    "answer": 1,
+    "explanation": "Junto al manual de primeros auxilios y el reglamento de comunicaciones."
+  },
+  {
+    "id": "g-0992",
+    "topic": "teoria",
+    "q": "Una milla náutica equivale a…",
+    "options": ["1.000 m", "1.609 m", "1.852 m", "1.952 m"],
+    "answer": 2,
+    "explanation": "40.000.000 m / 21.600 minutos."
+  },
+  {
+    "id": "g-0993",
+    "topic": "teoria",
+    "q": "Un minuto de latitud equivale a…",
+    "options": ["Un kilómetro", "Una milla náutica", "Un cable", "Un nudo"],
+    "answer": 1,
+    "explanation": "Por eso se mide en la escala de latitudes."
+  },
+  {
+    "id": "g-0994",
+    "topic": "teoria",
+    "q": "¿Por qué no se miden distancias en la escala de longitudes?",
+    "options": [
+      "Porque está arriba",
+      "Porque los paralelos son circunferencias menores",
+      "Porque es más pequeña",
+      "Porque está en inglés"
+    ],
+    "answer": 1,
+    "explanation": "Solo en el ecuador valdría."
+  },
+  {
+    "id": "g-0995",
+    "topic": "teoria",
+    "q": "Si la distancia verdadera es 4,5 millas y la corredera marca 3, el coeficiente es…",
+    "options": ["0,67", "1,5", "7,5", "1,35"],
+    "answer": 1,
+    "explanation": "K = Dv / Dc."
+  },
+  {
+    "id": "g-0996",
+    "topic": "teoria",
+    "q": "Un coeficiente de corredera K = 1 indica que…",
+    "options": [
+      "La corredera está estropeada",
+      "La corredera está perfectamente ajustada",
+      "Hay corriente",
+      "Hay abatimiento"
+    ],
+    "answer": 1,
+    "explanation": "Puede ser mayor o menor que 1."
+  },
+  {
+    "id": "g-0997",
+    "topic": "teoria",
+    "q": "Para hallar el coeficiente de corredera hay que navegar…",
+    "options": [
+      "Al azar",
+      "A rumbo fijo una distancia conocida marcada por enfilaciones",
+      "Con viento de popa",
+      "Fondeado"
+    ],
+    "answer": 1,
+    "explanation": "Y comparar con lo que marca la corredera."
+  },
+  {
+    "id": "g-0998",
+    "topic": "teoria",
+    "q": "A la lectura de la sonda ecoica hay que sumar…",
+    "options": ["La marea", "La distancia del transductor a la flotación", "El calado de proa", "Nada"],
+    "answer": 1,
+    "explanation": "Mide desde donde está instalada."
+  },
+  {
+    "id": "g-0999",
+    "topic": "teoria",
+    "q": "Un huso horario equivale a…",
+    "options": ["1° de longitud", "15° de longitud", "30° de longitud", "360°"],
+    "answer": 1,
+    "explanation": "360° / 24 h."
+  },
+  {
+    "id": "g-1000",
+    "topic": "teoria",
+    "q": "En navegación costera, como la del PER, se usa la…",
+    "options": ["Hora legal", "Hora oficial, la de nuestro reloj", "Hora de Greenwich", "Hora sidérea"],
+    "answer": 1,
+    "explanation": "Hrb = Ho."
+  },
+  {
+    "id": "g-1001",
+    "topic": "teoria",
+    "q": "Si el norte magnético está a la izquierda del verdadero, la declinación es…",
+    "options": ["NE, positiva", "NW, negativa", "Nula", "Siempre positiva"],
+    "answer": 1,
+    "explanation": "A la derecha: NE, positiva."
+  },
+  {
+    "id": "g-1002",
+    "topic": "teoria",
+    "q": "Una dm de 4° 25′ NW en 2005 con variación anual de 7′ E, en 2014 vale aproximadamente…",
+    "options": ["5° 30′ NW", "3° 30′ NW", "4° 25′ NW", "1° 03′ E"],
+    "answer": 1,
+    "explanation": "−4° 25′ + 1° 03′ = −3° 22′ ≈ 3° 30′ NW."
+  },
+  {
+    "id": "g-1003",
+    "topic": "teoria",
+    "q": "La dm actualizada se redondea a…",
+    "options": ["Grados y segundos", "Medio grado o grado entero", "Décimas", "Nunca se redondea"],
+    "answer": 1,
+    "explanation": "00′ o 30′."
+  },
+  {
+    "id": "g-1004",
+    "topic": "teoria",
+    "q": "El disco ligero de la aguja con los 360° grabados es la…",
+    "options": ["Rosa", "Bitácora", "Chapitel", "Línea de fe"],
+    "answer": 0,
+    "explanation": "Las agujas imantadas van debajo."
+  },
+  {
+    "id": "g-1005",
+    "topic": "teoria",
+    "q": "El eje vertical muy afilado sobre el que gira la rosa es el…",
+    "options": ["Chapitel", "Estilo", "Mortero", "Cardan"],
+    "answer": 1,
+    "explanation": "El chapitel es la hendidura que se apoya en él."
+  },
+  {
+    "id": "g-1006",
+    "topic": "teoria",
+    "q": "La caja circular con tapa de cristal que aloja la rosa es el…",
+    "options": ["Mortero", "Estilo", "Chapitel", "Alidada"],
+    "answer": 0,
+    "explanation": "Lleva las líneas de fe."
+  },
+  {
+    "id": "g-1007",
+    "topic": "teoria",
+    "q": "Las líneas de fe del mortero coinciden con…",
+    "options": ["El norte magnético", "La línea proa-popa del barco", "El ecuador", "La línea de flotación"],
+    "answer": 1,
+    "explanation": "Sirven para leer el rumbo."
+  },
+  {
+    "id": "g-1008",
+    "topic": "teoria",
+    "q": "El líquido del mortero suele ser…",
+    "options": ["Aceite", "Agua destilada con alcohol", "Mercurio", "Agua de mar"],
+    "answer": 1,
+    "explanation": "No se congela y amortigua."
+  },
+  {
+    "id": "g-1009",
+    "topic": "teoria",
+    "q": "Las propiedades fundamentales de una aguja náutica son…",
+    "options": ["Peso y color", "Sensibilidad y estabilidad", "Brillo y tamaño", "Precio y marca"],
+    "answer": 1,
+    "explanation": "Precisión ante cambios de rumbo y estabilidad ante balances."
+  },
+  {
+    "id": "g-1010",
+    "topic": "teoria",
+    "q": "El desvío de la aguja se debe a…",
+    "options": [
+      "La declinación",
+      "Objetos y equipos de a bordo imantados por inducción",
+      "La corriente",
+      "El viento"
+    ],
+    "answer": 1,
+    "explanation": "Y al casco si es metálico."
+  },
+  {
+    "id": "g-1011",
+    "topic": "teoria",
+    "q": "La tablilla de desvíos suele hacerse de…",
+    "options": ["1° en 1°", "15° en 15°", "45° en 45°", "90° en 90°"],
+    "answer": 1,
+    "explanation": "Los intermedios se prorratean."
+  },
+  {
+    "id": "g-1012",
+    "topic": "teoria",
+    "q": "Calcula el Rv con Ra = 228°, dm = 3° NW y Δ = 1° NE.",
+    "options": ["230°", "226°", "232°", "224°"],
+    "answer": 1,
+    "explanation": "Ct = −3° + 1° = −2°; Rv = 228° − 2°."
+  },
+  {
+    "id": "g-1013",
+    "topic": "teoria",
+    "q": "Calcula el Ra con Rv = 342°, dm = 5° NW y Δ = 2° NW.",
+    "options": ["335°", "349°", "347°", "337°"],
+    "answer": 1,
+    "explanation": "Ct = −7°; Ra = 342° + 7°."
+  },
+  {
+    "id": "g-1014",
+    "topic": "teoria",
+    "q": "Navegas a Ra 003° con Ct = −8°. El Rv es…",
+    "options": ["−5°", "355°", "011°", "005°"],
+    "answer": 1,
+    "explanation": "Si sale negativo, se suman 360°."
+  },
+  {
+    "id": "g-1015",
+    "topic": "teoria",
+    "q": "Navegas a Ra 357° con Ct = +8°. El Rv es…",
+    "options": ["365°", "005°", "349°", "355°"],
+    "answer": 1,
+    "explanation": "Si pasa de 360°, se restan 360°."
+  },
+  {
+    "id": "g-1021",
+    "topic": "teoria",
+    "q": "Un rumbo de 65° expresado en cuadrantal es…",
+    "options": ["S 65° E", "N 65° E", "N 25° E", "E 65° N"],
+    "answer": 1,
+    "explanation": "Primero N o S, luego los grados y luego E o W."
+  },
+  {
+    "id": "g-1022",
+    "topic": "teoria",
+    "q": "En el sistema cuadrantal los rumbos van de…",
+    "options": ["0° a 360°", "0° a 180°", "0° a 90°", "0° a 45°"],
+    "answer": 2,
+    "explanation": "Se cuentan desde el N o el S hacia el E o el W."
+  },
+  {
+    "id": "g-1023",
+    "topic": "teoria",
+    "q": "S 50° E en circular es…",
+    "options": ["050°", "130°", "230°", "310°"],
+    "answer": 1,
+    "explanation": "2.º cuadrante: 180° − 50°."
+  },
+  {
+    "id": "g-1024",
+    "topic": "teoria",
+    "q": "S 25° W en circular es…",
+    "options": ["205°", "155°", "245°", "335°"],
+    "answer": 0,
+    "explanation": "3.er cuadrante: 180° + 25°."
+  },
+  {
+    "id": "g-1025",
+    "topic": "teoria",
+    "q": "N 50° W en circular es…",
+    "options": ["050°", "130°", "230°", "310°"],
+    "answer": 3,
+    "explanation": "4.º cuadrante: 360° − 50°."
+  },
+  {
+    "id": "g-1026",
+    "topic": "teoria",
+    "q": "Para operar, tienen signo negativo los rumbos cuadrantales del…",
+    "options": ["1.º y 3.er cuadrante", "2.º y 4.º cuadrante", "1.º y 2.º cuadrante", "3.º y 4.º cuadrante"],
+    "answer": 1,
+    "explanation": "Positivos: 1.º y 3.º."
+  },
+  {
+    "id": "g-1027",
+    "topic": "teoria",
+    "q": "El rumbo SW en circular vale…",
+    "options": ["135°", "225°", "247,5°", "315°"],
+    "answer": 1,
+    "explanation": "NE 45°, SE 135°, SW 225°, NW 315°."
+  },
+  {
+    "id": "g-1028",
+    "topic": "teoria",
+    "q": "Una cuarta vale…",
+    "options": ["22° 30′", "11° 15′", "45°", "5° 37′"],
+    "answer": 1,
+    "explanation": "La rosa dividida en 32 partes."
+  },
+  {
+    "id": "g-1029",
+    "topic": "teoria",
+    "q": "El rumbo ENE vale…",
+    "options": ["22,5°", "67,5°", "112,5°", "45°"],
+    "answer": 1,
+    "explanation": "A medio camino entre NE (45°) y E (90°)."
+  },
+  {
+    "id": "g-1030",
+    "topic": "teoria",
+    "q": "La rosa de los vientos nació para…",
+    "options": [
+      "Medir la profundidad",
+      "Designar la procedencia del viento",
+      "Medir la velocidad",
+      "Calcular mareas"
+    ],
+    "answer": 1,
+    "explanation": "Luego se aplicó también a los rumbos."
+  },
+  {
+    "id": "g-1031",
+    "topic": "teoria",
+    "q": "La demora es el ángulo entre…",
+    "options": [
+      "La proa y el objeto",
+      "El meridiano del lugar (norte) y la visual al objeto",
+      "Dos faros",
+      "El rumbo y el viento"
+    ],
+    "answer": 1,
+    "explanation": "La marcación se mide desde la proa."
+  },
+  {
+    "id": "g-1032",
+    "topic": "teoria",
+    "q": "Las demoras se toman normalmente con…",
+    "options": ["El sextante", "El compás de alidada", "La corredera", "La sonda"],
+    "answer": 1,
+    "explanation": "Una aguja portátil: da demoras de aguja (Da)."
+  },
+  {
+    "id": "g-1033",
+    "topic": "teoria",
+    "q": "Calcula la Dv con Da 235°, dm 5° NW y Δ +4°.",
+    "options": ["236°", "234°", "244°", "226°"],
+    "answer": 1,
+    "explanation": "Ct = −5° + 4° = −1°."
+  },
+  {
+    "id": "g-1034",
+    "topic": "teoria",
+    "q": "Con dos demoras, para que la situación sea fiable deben cortarse con una abertura de…",
+    "options": ["0° a 30°", "60° a 120°", "150° a 180°", "Cualquiera"],
+    "answer": 1,
+    "explanation": "Fuera de ese margen se agrandan los errores."
+  },
+  {
+    "id": "g-1035",
+    "topic": "teoria",
+    "q": "Al tomar dos demoras, se toma primero la del faro cuya demora…",
+    "options": ["Cambia más deprisa", "Cambia más despacio", "Está más cerca", "Es mayor"],
+    "answer": 1,
+    "explanation": "Así se reduce el desfase entre una y otra observación."
+  },
+  {
+    "id": "g-1036",
+    "topic": "teoria",
+    "q": "Una situación por demoras es fiable cuando, entre otras cosas…",
+    "options": [
+      "La tablilla de desvíos está bien hecha",
+      "Hay niebla",
+      "La mar es gruesa",
+      "Solo hay una demora"
+    ],
+    "answer": 0,
+    "explanation": "Y con buena visibilidad y mar razonable."
+  },
+  {
+    "id": "g-1037",
+    "topic": "teoria",
+    "q": "En una oposición, el observador está…",
+    "options": ["Detrás de las dos marcas", "Entre las dos marcas", "Muy lejos de ambas", "En una de ellas"],
+    "answer": 1,
+    "explanation": "En la enfilación las ve una detrás de otra."
+  },
+  {
+    "id": "g-1038",
+    "topic": "teoria",
+    "q": "Comparada con la enfilación, la oposición es…",
+    "options": ["Más precisa", "Mucho menos precisa", "Igual de precisa", "No es línea de posición"],
+    "answer": 1,
+    "explanation": "El manual la considera mucho menos precisa."
+  },
+  {
+    "id": "g-1039",
+    "topic": "teoria",
+    "q": "Una enfilación es más fiable si…",
+    "options": [
+      "Estamos muy cerca de las marcas",
+      "Estamos alejados y las marcas están algo separadas entre sí",
+      "Las marcas están juntas",
+      "Es de noche"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "g-1040",
+    "topic": "teoria",
+    "q": "Desde una oposición, las demoras a las dos marcas se diferencian…",
+    "options": ["90°", "180°", "0°", "45°"],
+    "answer": 1,
+    "explanation": "Hay que decir cuál se toma como referencia."
+  },
+  {
+    "id": "g-1041",
+    "topic": "teoria",
+    "q": "La corrección total en una enfilación se calcula como…",
+    "options": ["Ct = Da − Dv", "Ct = Dv − Da", "Ct = Dv + Da", "Ct = Rv − Ra"],
+    "answer": 1,
+    "explanation": "Dv de la carta, Da de la alidada."
+  },
+  {
+    "id": "g-1042",
+    "topic": "teoria",
+    "q": "La línea de posición con menor error de observación es la…",
+    "options": ["Demora", "Enfilación", "Sonda", "Distancia por radar"],
+    "answer": 1,
+    "explanation": "Su error es prácticamente nulo."
+  },
+  {
+    "id": "g-1043",
+    "topic": "teoria",
+    "q": "Las sondas como línea de posición pueden fallar porque…",
+    "options": [
+      "El agua cambia de color",
+      "Los fondos se mueven o la carta no está actualizada",
+      "El compás se desvía",
+      "La marea no existe"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "g-1044",
+    "topic": "teoria",
+    "q": "Situándonos por dos distancias, si los dos cortes de los arcos caen en el mar elegimos…",
+    "options": [
+      "El más al norte",
+      "El más cercano a la situación de estima",
+      "El más alejado de la costa",
+      "Cualquiera"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "g-1045",
+    "topic": "teoria",
+    "q": "Las distancias a la costa para situarse se obtienen normalmente con…",
+    "options": ["La corredera", "El radar", "La alidada", "El barómetro"],
+    "answer": 1,
+    "explanation": "Y se trazan como arcos de circunferencia."
+  },
+  {
+    "id": "g-1046",
+    "topic": "teoria",
+    "q": "La situación por una demora y un veril es…",
+    "options": [
+      "Muy fiable",
+      "Una situación estimada de cierto rigor, poco fiable",
+      "Imposible",
+      "Siempre exacta"
+    ],
+    "answer": 1,
+    "explanation": "Útil a falta de otras referencias."
+  },
+  {
+    "id": "g-1047",
+    "topic": "teoria",
+    "q": "La marcación es el ángulo entre…",
+    "options": [
+      "El norte y el objeto",
+      "La línea de crujía (proa) y el objeto",
+      "Dos faros",
+      "El meridiano y la proa"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "g-1048",
+    "topic": "teoria",
+    "q": "En la marcación semicircular, por babor el signo es…",
+    "options": ["+", "−", "Depende del rumbo", "No lleva signo"],
+    "answer": 1,
+    "explanation": "Estribor +, babor −."
+  },
+  {
+    "id": "g-1049",
+    "topic": "teoria",
+    "q": "La marcación circular se cuenta…",
+    "options": [
+      "De 0° a 180° por cada banda",
+      "De 0° a 360° en sentido horario, siempre positiva",
+      "Desde el norte",
+      "Desde la popa"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "g-1050",
+    "topic": "teoria",
+    "q": "Navegando a Rv 111°, marcas un faro 30° por babor. Su Dv es…",
+    "options": ["141°", "081°", "030°", "261°"],
+    "answer": 1,
+    "explanation": "Dv = Rv + M = 111° − 30°."
+  },
+  {
+    "id": "g-1051",
+    "topic": "teoria",
+    "q": "Navegando a Rv 111°, marcas un faro 154° por babor. Su Dv es…",
+    "options": ["265°", "317°", "043°", "223°"],
+    "answer": 1,
+    "explanation": "111° − 154° = −43° + 360°."
+  },
+  {
+    "id": "g-1052",
+    "topic": "teoria",
+    "q": "La situación de estima se representa en la carta con…",
+    "options": ["Un círculo", "Un triángulo con un punto en el centro", "Una cruz", "Un cuadrado"],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "g-1053",
+    "topic": "teoria",
+    "q": "En navegación por estima, la operación se repite a intervalos de…",
+    "options": ["Un minuto", "Una hora", "Un día", "Una guardia de 4 h"],
+    "answer": 1,
+    "explanation": "Y siempre que se cambie de rumbo."
+  },
+  {
+    "id": "g-1054",
+    "topic": "teoria",
+    "q": "El período de una luz es…",
+    "options": [
+      "Su color",
+      "El tiempo tras el que repite sus aspectos en el mismo orden",
+      "Su alcance",
+      "El número de destellos"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "g-1055",
+    "topic": "teoria",
+    "q": "El faro del Cabo de La Nao da un destello blanco cada 5 s. Su fase es…",
+    "options": ["5 segundos", "Un destello", "Blanca", "Fija"],
+    "answer": 1,
+    "explanation": "Período 5 s; color blanco."
+  },
+  {
+    "id": "g-1056",
+    "topic": "teoria",
+    "q": "El alcance geográfico de una luz depende de…",
+    "options": [
+      "Su potencia",
+      "La curvatura de la Tierra y las alturas del foco y del observador",
+      "La visibilidad",
+      "El color"
+    ],
+    "answer": 1,
+    "explanation": "El luminoso depende de la potencia y la visibilidad."
+  },
+  {
+    "id": "g-1057",
+    "topic": "teoria",
+    "q": "El alcance luminoso de una luz depende de…",
+    "options": [
+      "Solo de su altura",
+      "Su potencia, la visibilidad meteorológica y la duración de los destellos",
+      "La curvatura terrestre",
+      "La altura del observador"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "g-1058",
+    "topic": "teoria",
+    "q": "Un faro de sectores sirve para…",
+    "options": [
+      "Indicar el norte",
+      "Señalar bajos o peligros con colores distintos según el arco",
+      "Dar la hora",
+      "Marcar la marea"
+    ],
+    "answer": 1,
+    "explanation": "Como el de Botafoch en Ibiza."
+  },
+  {
+    "id": "g-1059",
+    "topic": "teoria",
+    "q": "Al identificar un faro, lo primero es observar…",
+    "options": ["Su color", "Su período", "Su altura", "Su forma"],
+    "answer": 1,
+    "explanation": "Luego se afina la fase."
+  },
+  {
+    "id": "g-1060",
+    "topic": "teoria",
+    "q": "Las boyas hay que usarlas con precaución porque…",
+    "options": [
+      "Brillan poco",
+      "Pueden desplazarse o desaparecer con los temporales",
+      "Cambian de color",
+      "Son caras"
+    ],
+    "answer": 1,
+    "explanation": "Salvo los espeques, clavados al fondo."
+  },
+  {
+    "id": "g-1061",
+    "topic": "teoria",
+    "q": "Las balizas fijas son…",
+    "options": [
+      "Boyas flotantes",
+      "Pilares o estacas en aguas poco profundas que señalan canales o bajos",
+      "Buques faro",
+      "Luces de los barcos"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "g-1062",
+    "topic": "teoria",
+    "q": "Las farolas están normalmente en…",
+    "options": ["Lo alto de los acantilados", "Los extremos de los muelles", "Mar abierto", "Los buques"],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "g-1063",
+    "topic": "teoria",
+    "q": "La causa principal de las mareas es la atracción de…",
+    "options": ["El Sol", "La Luna", "Los planetas", "El viento"],
+    "answer": 1,
+    "explanation": "La de la Luna es unas 2,17 veces la del Sol."
+  },
+  {
+    "id": "g-1064",
+    "topic": "teoria",
+    "q": "La Luna influye más que el Sol en las mareas porque…",
+    "options": ["Tiene más masa", "Está mucho más cerca de la Tierra", "Brilla menos", "Gira más rápido"],
+    "answer": 1,
+    "explanation": "Masa casi 27 millones de veces menor, pero 389 veces más cerca."
+  },
+  {
+    "id": "g-1065",
+    "topic": "teoria",
+    "q": "El tiempo entre una pleamar y la bajamar siguiente es de unas…",
+    "options": ["12 h", "6 h 15 min", "3 h", "24 h"],
+    "answer": 1,
+    "explanation": "Duración de la vaciante."
+  },
+  {
+    "id": "g-1066",
+    "topic": "teoria",
+    "q": "La marea creciente también se llama…",
+    "options": ["Reflujo", "Flujo o entrante", "Vaciante", "Repunte"],
+    "answer": 1,
+    "explanation": "La vaciante: saliente o reflujo."
+  },
+  {
+    "id": "g-1067",
+    "topic": "teoria",
+    "q": "El cero hidrográfico o LAT es…",
+    "options": [
+      "El nivel medio",
+      "La bajamar más baja que puede predecirse en condiciones meteorológicas medias",
+      "La pleamar máxima",
+      "El nivel del mar en Greenwich"
+    ],
+    "answer": 1,
+    "explanation": "También se llama bajamar escorada o Datum."
+  },
+  {
+    "id": "g-1068",
+    "topic": "teoria",
+    "q": "Las sondas de las cartas españolas están referidas a…",
+    "options": [
+      "La pleamar",
+      "El nivel medio",
+      "El cero hidrográfico (bajamar escorada)",
+      "La superficie del agua en el momento"
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "id": "g-1069",
+    "topic": "teoria",
+    "q": "Las horas del Anuario de Mareas están en…",
+    "options": ["Hora oficial", "GMT (huso 0)", "Hora solar", "Hora de verano"],
+    "answer": 1,
+    "explanation": "Para la hora del reloj, sumar el adelanto vigente (+1 o +2)."
+  },
+  {
+    "id": "g-1070",
+    "topic": "teoria",
+    "q": "Con una presión atmosférica alta, las alturas reales de la marea serán…",
+    "options": ["Mayores que en el Anuario", "Menores que en el Anuario", "Iguales", "Nulas"],
+    "answer": 1,
+    "explanation": "Con presión baja, mayores."
+  },
+  {
+    "id": "g-1071",
+    "topic": "teoria",
+    "q": "Con viento de mar (de fuera), la marea…",
+    "options": ["Baja y se retrasa", "Sube y se adelanta la pleamar", "No cambia", "Se invierte"],
+    "answer": 1,
+    "explanation": "De tierra, al revés."
+  },
+  {
+    "id": "g-1072",
+    "topic": "teoria",
+    "q": "La tabla de corrección por presión del Anuario va aproximadamente de…",
+    "options": ["−0,25 m a 1038 mb a +0,50 m a 963 mb", "+1 m a −1 m", "0 a 10 cm", "−0,50 m a +0,25 m"],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "id": "g-1073",
+    "topic": "teoria",
+    "q": "El Anuario de Mareas lo publica…",
+    "options": [
+      "AEMET",
+      "El Instituto Hidrográfico de la Marina",
+      "Salvamento Marítimo",
+      "Puertos del Estado"
+    ],
+    "answer": 1,
+    "explanation": "Cada año."
+  },
+  {
+    "id": "g-1082",
+    "topic": "teoria",
+    "q": "Un viento NE es el que…",
+    "options": ["Va hacia el NE", "Viene del NE, del 045°", "Viene del 225°", "Gira al NE"],
+    "answer": 1,
+    "explanation": "El viento se nombra por de dónde viene."
+  },
+  {
+    "id": "g-1083",
+    "topic": "teoria",
+    "q": "La dirección de una corriente indica…",
+    "options": ["De dónde viene", "Hacia dónde va", "Su intensidad", "Su temperatura"],
+    "answer": 1,
+    "explanation": "Al revés que el viento."
+  },
+  {
+    "id": "g-1084",
+    "topic": "teoria",
+    "q": "El rumbo de superficie es…",
+    "options": [
+      "El rumbo de aguja",
+      "El que sigue el barco sobre el agua por efecto del viento",
+      "El rumbo sobre el fondo",
+      "El de la corriente"
+    ],
+    "answer": 1,
+    "explanation": "Rs = Rv + Abt."
+  },
+  {
+    "id": "g-1085",
+    "topic": "teoria",
+    "q": "El abatimiento cambia la dirección de la proa…",
+    "options": [
+      "Sí, siempre",
+      "No: el barco se desliza de lado sin cambiar la proa",
+      "Solo en veleros",
+      "Solo con corriente"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "g-1086",
+    "topic": "teoria",
+    "q": "Con el viento justo por la proa o por la popa, el abatimiento es…",
+    "options": ["Máximo", "Nulo; el viento solo frena o empuja", "Positivo", "Negativo"],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "g-1087",
+    "topic": "teoria",
+    "q": "Abaten más con viento de través…",
+    "options": [
+      "Los veleros con quilla",
+      "Las lanchas de motor planas con mucha obra muerta",
+      "Los barcos de calado profundo",
+      "Todos igual"
+    ],
+    "answer": 1,
+    "explanation": "Los veleros resisten mejor gracias a quilla y timón."
+  },
+  {
+    "id": "g-1088",
+    "topic": "teoria",
+    "q": "Para contrarrestar el abatimiento hay que caer…",
+    "options": [
+      "Hacia sotavento",
+      "Hacia barlovento los mismos grados que se abate",
+      "Hacia el viento el doble",
+      "A la vía"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "g-1089",
+    "topic": "teoria",
+    "q": "El Rv a seguir para compensar el abatimiento es…",
+    "options": ["Rv = Rs + Abt", "Rv = Rs − Abt", "Rv = Ra + Abt", "Rv = Rs"],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "g-1090",
+    "topic": "teoria",
+    "q": "Quieres un Rs de 225° con viento del NW que te abate 5°. Debes navegar a Rv…",
+    "options": ["220°", "230°", "225°", "235°"],
+    "answer": 1,
+    "explanation": "El viento entra por estribor: Abt −5°; Rv = 225° + 5°."
+  },
+  {
+    "id": "g-1091",
+    "topic": "teoria",
+    "q": "La corriente general del Estrecho de Gibraltar es de tipo…",
+    "options": ["Oceánica", "De descarga, hacia el E", "De marea, hacia el W", "De impulsión, hacia el N"],
+    "answer": 1,
+    "explanation": "Puede llegar a 4 nudos en verano."
+  },
+  {
+    "id": "g-1092",
+    "topic": "teoria",
+    "q": "Las corrientes más frecuentes y complicadas para la navegación son las…",
+    "options": ["Oceánicas", "De marea", "De descarga", "De impulsión"],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "g-1093",
+    "topic": "teoria",
+    "q": "Las corrientes provocadas por un viento constante se llaman…",
+    "options": ["De descarga", "De impulsión o de superficie", "De marea", "Oceánicas"],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "g-1094",
+    "topic": "teoria",
+    "q": "La deriva es el ángulo entre…",
+    "options": ["Rv y Rs", "Rv y el rumbo efectivo", "Ra y Rv", "Rc y Rs"],
+    "answer": 1,
+    "explanation": "Afecta igual a todas las embarcaciones."
+  },
+  {
+    "id": "g-1095",
+    "topic": "teoria",
+    "q": "A diferencia del abatimiento, la deriva…",
+    "options": [
+      "Depende de cada barco",
+      "Afecta por igual a todos los barcos",
+      "Es siempre nula",
+      "Solo afecta a veleros"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "g-1096",
+    "topic": "teoria",
+    "q": "El rumbo efectivo también se llama…",
+    "options": ["Rumbo de superficie", "Rumbo sobre el fondo", "Rumbo de aguja", "Rumbo magnético"],
+    "answer": 1,
+    "explanation": "El fondo es la única referencia inmóvil."
+  },
+  {
+    "id": "g-1097",
+    "topic": "teoria",
+    "q": "La velocidad de máquinas (Vm) es la que…",
+    "options": [
+      "Da el GPS sobre el fondo",
+      "El barco hace sobre el agua y marca la corredera",
+      "Lleva la corriente",
+      "Resulta del triángulo"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "g-1098",
+    "topic": "teoria",
+    "q": "Rv 090° a 6 nudos con corriente de Rc 090° e Ihc 2 nudos. La Vef es…",
+    "options": ["4 nudos", "8 nudos", "6 nudos", "2 nudos"],
+    "answer": 1,
+    "explanation": "Mismo sentido: se suman."
+  },
+  {
+    "id": "g-1099",
+    "topic": "teoria",
+    "q": "Rv 090° a 6 nudos con corriente de Rc 270° e Ihc 2 nudos. La Vef es…",
+    "options": ["8 nudos", "4 nudos", "6 nudos", "3 nudos"],
+    "answer": 1,
+    "explanation": "Sentidos opuestos: se restan."
+  },
+  {
+    "id": "g-1100",
+    "topic": "teoria",
+    "q": "Si la corriente va justo en contra del barco con la misma intensidad que su Vm…",
+    "options": ["Avanza al doble", "No avanza sobre el fondo", "Retrocede al doble", "Cambia de rumbo"],
+    "answer": 1,
+    "explanation": "Vef = 0; si Ihc > Vm, retrocede."
+  },
+  {
+    "id": "g-1101",
+    "topic": "teoria",
+    "q": "«Ihc» significa…",
+    "options": [
+      "Intensidad horaria de la corriente",
+      "Índice de hora civil",
+      "Inclinación del casco",
+      "Intensidad del viento"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "id": "g-1102",
+    "topic": "teoria",
+    "q": "«Sc» en los ejercicios de carta es…",
+    "options": ["Situación corregida", "Sonda de la carta", "Superficie", "Sector"],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "g-1103",
+    "topic": "teoria",
+    "q": "«HCL» significa…",
+    "options": ["Hora del reloj de bitácora", "Hora civil del lugar", "Hora de Greenwich", "Hora de llegada"],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "g-1104",
+    "topic": "teoria",
+    "q": "«Se» y «Sv» son…",
+    "options": [
+      "Sur estimado y sur verdadero",
+      "Situación estimada y situación verdadera",
+      "Sonda estimada y verdadera",
+      "Sector y sonda"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "g-1105",
+    "topic": "teoria",
+    "q": "El rumbo de superficie se calcula con…",
+    "options": ["Rs = Rv − Abt", "Rs = Rv + Abt", "Rs = Ra + Ct", "Rs = Rv + M"],
+    "answer": 1,
+    "explanation": ""
+  }
+]

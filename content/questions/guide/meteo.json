@@ -1,0 +1,857 @@
+[
+  {
+    "id": "g-0088",
+    "topic": "meteo",
+    "q": "La presión atmosférica normal a nivel del mar es de…",
+    "options": ["1000 hPa", "1013 hPa", "1030 hPa", "760 hPa"],
+    "answer": 1,
+    "explanation": "1013 hPa = 760 mmHg."
+  },
+  {
+    "id": "g-0089",
+    "topic": "meteo",
+    "q": "El barómetro que se basa en la deformación de una cápsula metálica cerrada es el…",
+    "options": ["De mercurio", "Aneroide", "Alcohólico", "Isobárico"],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "g-0090",
+    "topic": "meteo",
+    "q": "El cambio de dirección del viento se denomina…",
+    "options": ["Refrescar", "Rachear", "Rolar", "Amainar"],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "id": "g-0091",
+    "topic": "meteo",
+    "q": "En el hemisferio norte, el viento en una borrasca gira…",
+    "options": [
+      "En sentido horario y divergente",
+      "En sentido antihorario y convergente",
+      "En línea recta",
+      "Solo de norte"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "g-0092",
+    "topic": "meteo",
+    "q": "Según Buys-Ballot (hemisferio norte), de espaldas al viento las bajas presiones quedan a…",
+    "options": ["La derecha", "La izquierda", "Detrás", "Delante a la derecha"],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "g-0093",
+    "topic": "meteo",
+    "q": "La virazón es la brisa que sopla…",
+    "options": [
+      "De tierra a mar por la noche",
+      "Del mar a tierra durante el día",
+      "Del norte en invierno",
+      "En las borrascas"
+    ],
+    "answer": 1,
+    "explanation": "El terral sopla de tierra a mar por la noche."
+  },
+  {
+    "id": "g-0094",
+    "topic": "meteo",
+    "q": "Las isobaras muy juntas indican…",
+    "options": ["Calma", "Viento fuerte", "Niebla", "Altas presiones estables"],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "g-0095",
+    "topic": "meteo",
+    "q": "El mar de fondo es el oleaje…",
+    "options": [
+      "Generado por el viento local",
+      "Producido por vientos lejanos, que llega con olas largas y regulares",
+      "Que solo hay en puerto",
+      "Producido por las mareas"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "g-0096",
+    "topic": "meteo",
+    "q": "Fuerza 7 de Beaufort corresponde a un viento de…",
+    "options": ["11–16 nudos", "17–21 nudos", "28–33 nudos", "41–47 nudos"],
+    "answer": 2,
+    "explanation": "Frescachón."
+  },
+  {
+    "id": "g-0230",
+    "topic": "meteo",
+    "q": "En el hemisferio norte, el viento en un anticiclón gira…",
+    "options": [
+      "En sentido horario y hacia fuera",
+      "En sentido antihorario y hacia dentro",
+      "Hacia el centro",
+      "No gira"
+    ],
+    "answer": 0,
+    "explanation": "Divergente y horario."
+  },
+  {
+    "id": "g-0231",
+    "topic": "meteo",
+    "q": "Un frente frío suele traer…",
+    "options": [
+      "Lluvia fina y continua",
+      "Chubascos, cumulonimbos y rolada brusca del viento",
+      "Niebla de radiación",
+      "Calma total"
+    ],
+    "answer": 1,
+    "explanation": "Después sube la presión y aclara."
+  },
+  {
+    "id": "g-0232",
+    "topic": "meteo",
+    "q": "La niebla más frecuente en la mar, por aire cálido y húmedo sobre agua fría, es la de…",
+    "options": ["Radiación", "Advección", "Evaporación", "Montaña"],
+    "answer": 1,
+    "explanation": "Advección."
+  },
+  {
+    "id": "g-0233",
+    "topic": "meteo",
+    "q": "El terral es la brisa que sopla…",
+    "options": ["Del mar a tierra de día", "De tierra al mar de noche", "Del norte", "Con borrascas"],
+    "answer": 1,
+    "explanation": "De noche la tierra está más fría."
+  },
+  {
+    "id": "g-0234",
+    "topic": "meteo",
+    "q": "Fuerza 4 en la escala Beaufort se denomina…",
+    "options": ["Flojo", "Bonancible", "Fresco", "Frescachón"],
+    "answer": 1,
+    "explanation": "11–16 nudos."
+  },
+  {
+    "id": "g-0235",
+    "topic": "meteo",
+    "q": "Según la escala Douglas, «marejada» corresponde a olas de…",
+    "options": ["0,1–0,5 m", "0,5–1,25 m", "1,25–2,5 m", "2,5–4 m"],
+    "answer": 1,
+    "explanation": "Grado 3."
+  },
+  {
+    "id": "g-0236",
+    "topic": "meteo",
+    "q": "El viento del este en el Mediterráneo español se llama…",
+    "options": ["Poniente", "Levante", "Tramontana", "Lebeche"],
+    "answer": 1,
+    "explanation": "Levante (E), poniente (W)."
+  },
+  {
+    "id": "g-0237",
+    "topic": "meteo",
+    "q": "El viento del noroeste en el Mediterráneo se denomina…",
+    "options": ["Mistral (maestral)", "Siroco", "Gregal", "Garbí"],
+    "answer": 0,
+    "explanation": "Gregal NE, siroco SE, garbí SW."
+  },
+  {
+    "id": "g-0238",
+    "topic": "meteo",
+    "q": "Una caída rápida del barómetro (3 hPa o más en 3 h) anuncia…",
+    "options": ["Buen tiempo estable", "Empeoramiento y viento fuerte", "Niebla", "Calma"],
+    "answer": 1,
+    "explanation": "Lo importante es la tendencia."
+  },
+  {
+    "id": "g-0239",
+    "topic": "meteo",
+    "q": "El tamaño de las olas depende de la fuerza del viento, su duración y…",
+    "options": [
+      "La temperatura del agua",
+      "El fetch (distancia de mar sobre la que sopla)",
+      "La marea",
+      "La latitud"
+    ],
+    "answer": 1,
+    "explanation": "Fuerza, duración y fetch."
+  },
+  {
+    "id": "g-0240",
+    "topic": "meteo",
+    "q": "El instrumento que registra de forma continua la presión es el…",
+    "options": ["Barómetro aneroide", "Barógrafo", "Anemómetro", "Higrómetro"],
+    "answer": 1,
+    "explanation": "Da la tendencia."
+  },
+  {
+    "id": "g-0241",
+    "topic": "meteo",
+    "q": "La nube de gran desarrollo vertical con forma de yunque, asociada a tormentas, es el…",
+    "options": ["Cirro", "Cumulonimbo", "Estrato", "Altocúmulo"],
+    "answer": 1,
+    "explanation": "Rachas violentas y granizo."
+  },
+  {
+    "id": "g-0242",
+    "topic": "meteo",
+    "q": "Según la dirección del viento, un «viento norte» es el que…",
+    "options": [
+      "Va hacia el norte",
+      "Viene del norte",
+      "Sopla en el hemisferio norte",
+      "Sopla paralelo a la costa norte"
+    ],
+    "answer": 1,
+    "explanation": "El viento se nombra por de dónde viene."
+  },
+  {
+    "id": "g-0398",
+    "topic": "meteo",
+    "q": "La presión normal de 1013 hPa equivale a…",
+    "options": ["700 mmHg", "760 mmHg", "1000 mmHg", "1013 mmHg"],
+    "answer": 1,
+    "explanation": "Mercurio."
+  },
+  {
+    "id": "g-0399",
+    "topic": "meteo",
+    "q": "Un anticiclón trae normalmente…",
+    "options": ["Temporal", "Tiempo estable y vientos flojos", "Lluvia continua", "Tormentas"],
+    "answer": 1,
+    "explanation": "Altas presiones."
+  },
+  {
+    "id": "g-0400",
+    "topic": "meteo",
+    "q": "En una borrasca, el aire…",
+    "options": ["Desciende", "Converge y asciende, formando nubes", "Está quieto", "Se enfría siempre"],
+    "answer": 1,
+    "explanation": "De ahí la lluvia y el viento."
+  },
+  {
+    "id": "g-0401",
+    "topic": "meteo",
+    "q": "Según Buys-Ballot, mirando de cara al viento en el hemisferio norte, las bajas presiones quedan a…",
+    "options": ["La izquierda", "La derecha", "Delante", "Detrás"],
+    "answer": 1,
+    "explanation": "De espaldas al viento, a la izquierda."
+  },
+  {
+    "id": "g-0402",
+    "topic": "meteo",
+    "q": "Fuerza 6 en la escala Beaufort se denomina…",
+    "options": ["Fresquito", "Fresco", "Frescachón", "Temporal"],
+    "answer": 1,
+    "explanation": "22–27 nudos."
+  },
+  {
+    "id": "g-0403",
+    "topic": "meteo",
+    "q": "Fuerza 8 en la escala Beaufort corresponde a…",
+    "options": ["Frescachón", "Temporal (34–40 nudos)", "Calma", "Bonancible"],
+    "answer": 1,
+    "explanation": "Aviso de temporal."
+  },
+  {
+    "id": "g-0404",
+    "topic": "meteo",
+    "q": "En la escala Douglas, «mar gruesa» son olas de…",
+    "options": ["0,5–1,25 m", "1,25–2,5 m", "2,5–4 m", "6–9 m"],
+    "answer": 2,
+    "explanation": "Grado 5."
+  },
+  {
+    "id": "g-0405",
+    "topic": "meteo",
+    "q": "«Marejadilla» en la escala Douglas corresponde a olas de…",
+    "options": ["0–0,1 m", "0,1–0,5 m", "0,5–1,25 m", "1,25–2,5 m"],
+    "answer": 1,
+    "explanation": "Grado 2."
+  },
+  {
+    "id": "g-0406",
+    "topic": "meteo",
+    "q": "El viento del suroeste en el Mediterráneo se llama…",
+    "options": ["Levante", "Lebeche o garbí", "Gregal", "Tramontana"],
+    "answer": 1,
+    "explanation": "SW."
+  },
+  {
+    "id": "g-0407",
+    "topic": "meteo",
+    "q": "El viento del norte en el Mediterráneo se denomina…",
+    "options": ["Tramontana", "Siroco", "Poniente", "Mediodía"],
+    "answer": 0,
+    "explanation": "N."
+  },
+  {
+    "id": "g-0408",
+    "topic": "meteo",
+    "q": "El viento del sureste se denomina…",
+    "options": ["Siroco (xaloc)", "Mistral", "Poniente", "Gregal"],
+    "answer": 0,
+    "explanation": "SE."
+  },
+  {
+    "id": "g-0409",
+    "topic": "meteo",
+    "q": "Que el viento aumente de fuerza se dice que…",
+    "options": ["Amaina", "Refresca", "Rola", "Calma"],
+    "answer": 1,
+    "explanation": "Amainar es disminuir."
+  },
+  {
+    "id": "g-0410",
+    "topic": "meteo",
+    "q": "Que el viento disminuya se dice que…",
+    "options": ["Refresca", "Amaina", "Rola", "Racha"],
+    "answer": 1,
+    "explanation": "Amainar o calmar."
+  },
+  {
+    "id": "g-0411",
+    "topic": "meteo",
+    "q": "El instrumento que mide la velocidad del viento es el…",
+    "options": ["Barómetro", "Anemómetro", "Higrómetro", "Termómetro"],
+    "answer": 1,
+    "explanation": "La veleta da la dirección."
+  },
+  {
+    "id": "g-0412",
+    "topic": "meteo",
+    "q": "Un frente cálido trae normalmente…",
+    "options": [
+      "Chubascos fuertes y rolada brusca",
+      "Nubes que se espesan y lluvia continua",
+      "Cielo despejado",
+      "Granizo siempre"
+    ],
+    "answer": 1,
+    "explanation": "El frío trae chubascos."
+  },
+  {
+    "id": "g-0413",
+    "topic": "meteo",
+    "q": "El receptor automático de avisos meteorológicos y de navegación en 518 kHz es el…",
+    "options": ["GPS", "NAVTEX", "AIS", "Radar"],
+    "answer": 1,
+    "explanation": "490 kHz en español."
+  },
+  {
+    "id": "g-0914",
+    "topic": "meteo",
+    "q": "La causa fundamental del mal tiempo en la mar es…",
+    "options": ["La temperatura", "El viento", "La humedad", "La presión"],
+    "answer": 1,
+    "explanation": "Levanta el oleaje que afecta al barco y a la tripulación."
+  },
+  {
+    "id": "g-0915",
+    "topic": "meteo",
+    "q": "Según el manual, una navegación puede considerarse razonablemente segura, estudiando antes el tiempo, si no supera unas…",
+    "options": ["6 horas", "48–72 horas", "7 días", "15 días"],
+    "answer": 1,
+    "explanation": "Es el horizonte de las previsiones fiables a corto plazo."
+  },
+  {
+    "id": "g-0916",
+    "topic": "meteo",
+    "q": "Los partes meteorológicos por VHF se anuncian por el canal…",
+    "options": ["9", "16", "70", "72"],
+    "answer": 1,
+    "explanation": "Después se pasa al canal de trabajo indicado."
+  },
+  {
+    "id": "g-0917",
+    "topic": "meteo",
+    "q": "En la web de AEMET, los mapas isobáricos de previsión se actualizan cada…",
+    "options": ["Hora", "3 horas", "6 horas", "24 horas"],
+    "answer": 2,
+    "explanation": "Con previsión a 72 horas."
+  },
+  {
+    "id": "g-0918",
+    "topic": "meteo",
+    "q": "Los modelos de viento y oleaje enlazados desde AEMET son de…",
+    "options": ["Salvamento Marítimo", "Puertos del Estado", "La OMI", "Capitanía"],
+    "answer": 1,
+    "explanation": "Con datos en tiempo real de viento, corrientes y oleaje."
+  },
+  {
+    "id": "g-0919",
+    "topic": "meteo",
+    "q": "La presión atmosférica es…",
+    "options": [
+      "La temperatura del aire",
+      "El peso por unidad de superficie de la columna de aire sobre un lugar",
+      "La humedad del aire",
+      "La velocidad del viento"
+    ],
+    "answer": 1,
+    "explanation": "Por la atracción terrestre sobre la masa de aire."
+  },
+  {
+    "id": "g-0920",
+    "topic": "meteo",
+    "q": "La medida de la presión en milímetros de mercurio procede del experimento de…",
+    "options": ["Pascal", "Torricelli", "Beaufort", "Celsius"],
+    "answer": 1,
+    "explanation": "En 1643."
+  },
+  {
+    "id": "g-0921",
+    "topic": "meteo",
+    "q": "La baria es la unidad de presión del sistema…",
+    "options": ["Internacional", "Cegesimal (CGS)", "Inglés", "Náutico"],
+    "answer": 1,
+    "explanation": "Una dina sobre un centímetro cuadrado."
+  },
+  {
+    "id": "g-0922",
+    "topic": "meteo",
+    "q": "La unidad de presión del Sistema Internacional es el…",
+    "options": ["Milibar", "Pascal", "Bar", "Torr"],
+    "answer": 1,
+    "explanation": "1 newton sobre 1 m²."
+  },
+  {
+    "id": "g-0923",
+    "topic": "meteo",
+    "q": "Un hectopascal equivale a…",
+    "options": ["10 pascales", "Un milibar", "Una atmósfera", "1 mm de mercurio"],
+    "answer": 1,
+    "explanation": "1 hPa = 100 Pa = 1 mb."
+  },
+  {
+    "id": "g-0924",
+    "topic": "meteo",
+    "q": "Un pascal equivale a…",
+    "options": ["1 baria", "10 barias", "100 barias", "1 milibar"],
+    "answer": 1,
+    "explanation": "Según el manual."
+  },
+  {
+    "id": "g-0925",
+    "topic": "meteo",
+    "q": "El valor normal de la presión al nivel del mar es…",
+    "options": ["1000 hPa", "760 mm = 1013,25 hPa = 1 atmósfera", "1020 mb", "750 mm"],
+    "answer": 1,
+    "explanation": "A 0 °C y 45° de latitud."
+  },
+  {
+    "id": "g-0926",
+    "topic": "meteo",
+    "q": "El barómetro más usado en náutica es el…",
+    "options": ["De mercurio", "Aneroide", "Digital de pared", "Barógrafo"],
+    "answer": 1,
+    "explanation": "Por su lectura fácil y su robustez."
+  },
+  {
+    "id": "g-0927",
+    "topic": "meteo",
+    "q": "El barómetro aneroide funciona mediante…",
+    "options": [
+      "Una columna de mercurio",
+      "Cápsulas metálicas onduladas con vacío parcial",
+      "Un gas que se dilata",
+      "Un muelle de agua"
+    ],
+    "answer": 1,
+    "explanation": "Se contraen o expanden y mueven la aguja."
+  },
+  {
+    "id": "g-0928",
+    "topic": "meteo",
+    "q": "Para el navegante, lo más importante del barómetro es…",
+    "options": [
+      "El valor exacto",
+      "Su variación en un periodo de tiempo",
+      "La marca",
+      "El color de la aguja"
+    ],
+    "answer": 1,
+    "explanation": "La tendencia."
+  },
+  {
+    "id": "g-0929",
+    "topic": "meteo",
+    "q": "Una subida lenta y suave del barómetro indica…",
+    "options": ["Temporal", "Tendencia a la mejoría", "Vientos fuertes", "Niebla"],
+    "answer": 1,
+    "explanation": "Una subida brusca: mejoría pero con vientos fuertes."
+  },
+  {
+    "id": "g-0930",
+    "topic": "meteo",
+    "q": "Una bajada brusca y rápida del barómetro indica…",
+    "options": [
+      "Mejoría",
+      "Empeoramiento con vientos fuertes, precipitaciones y riesgo de temporal",
+      "Calma",
+      "Niebla de radiación"
+    ],
+    "answer": 1,
+    "explanation": "Una bajada lenta: tendencia al empeoramiento."
+  },
+  {
+    "id": "g-0931",
+    "topic": "meteo",
+    "q": "Una subida brusca y rápida del barómetro indica…",
+    "options": ["Mejoría sin viento", "Mejoría pero con vientos fuertes", "Empeoramiento", "Calma chicha"],
+    "answer": 1,
+    "explanation": "Por el gradiente existente."
+  },
+  {
+    "id": "g-0932",
+    "topic": "meteo",
+    "q": "Según el manual, una oscilación es suave y lenta cuando en una hora no supera…",
+    "options": ["0,5 mb", "1,3 mb", "2 mb", "5 mb"],
+    "answer": 1,
+    "explanation": "Es grande cuando llega a 2 mb en una hora."
+  },
+  {
+    "id": "g-0933",
+    "topic": "meteo",
+    "q": "El gradiente de presión es…",
+    "options": [
+      "La temperatura del aire",
+      "La diferencia de presión entre dos puntos al mismo nivel",
+      "La altura de las olas",
+      "El viento aparente"
+    ],
+    "answer": 1,
+    "explanation": "Pregunta real (julio 2026)."
+  },
+  {
+    "id": "g-0934",
+    "topic": "meteo",
+    "q": "En la atmósfera, a mayor altura…",
+    "options": ["Mayor temperatura", "Menor temperatura", "Igual temperatura", "Más presión"],
+    "answer": 1,
+    "explanation": "La atmósfera se calienta con el calor que devuelve la Tierra."
+  },
+  {
+    "id": "g-0935",
+    "topic": "meteo",
+    "q": "La variación de la temperatura en un intervalo de altura se llama…",
+    "options": ["Gradiente de presión", "Gradiente térmico", "Persistencia", "Fetch"],
+    "answer": 1,
+    "explanation": "Gradiente térmico."
+  },
+  {
+    "id": "g-0936",
+    "topic": "meteo",
+    "q": "La temperatura máxima del día se alcanza…",
+    "options": [
+      "Al mediodía solar",
+      "Entre 2 y 3 horas después de pasar el Sol por el meridiano",
+      "Al ponerse el Sol",
+      "A medianoche"
+    ],
+    "answer": 1,
+    "explanation": "La mínima, una media hora después de salir el Sol."
+  },
+  {
+    "id": "g-0937",
+    "topic": "meteo",
+    "q": "Las oscilaciones de temperatura son menores en las zonas marítimas porque…",
+    "options": [
+      "Hay más viento",
+      "El agua gana y pierde calor muy lentamente",
+      "Hay más nubes",
+      "La presión es mayor"
+    ],
+    "answer": 1,
+    "explanation": "La tierra se calienta y se enfría mucho más deprisa."
+  },
+  {
+    "id": "g-0938",
+    "topic": "meteo",
+    "q": "La temperatura media de un día es…",
+    "options": ["La máxima", "La semisuma de la máxima y la mínima", "La de mediodía", "La mínima más 10"],
+    "answer": 1,
+    "explanation": "Igual para la media anual."
+  },
+  {
+    "id": "g-0939",
+    "topic": "meteo",
+    "q": "En la escala centígrada, el 0 corresponde a…",
+    "options": [
+      "La ebullición del agua",
+      "La fusión del hielo (congelación del agua)",
+      "El cero absoluto",
+      "37 °C"
+    ],
+    "answer": 1,
+    "explanation": "Y 100 a la ebullición."
+  },
+  {
+    "id": "g-0940",
+    "topic": "meteo",
+    "q": "En una borrasca, la presión…",
+    "options": [
+      "Aumenta hacia el centro",
+      "Disminuye conforme nos acercamos al centro",
+      "Es constante",
+      "Solo cambia de noche"
+    ],
+    "answer": 1,
+    "explanation": "Pregunta real (2024)."
+  },
+  {
+    "id": "g-0941",
+    "topic": "meteo",
+    "q": "En los mapas ingleses, una baja presión se indica con…",
+    "options": ["H", "L", "A", "B"],
+    "answer": 1,
+    "explanation": "Low; en español, B."
+  },
+  {
+    "id": "g-0942",
+    "topic": "meteo",
+    "q": "Las bajas presiones se forman cuando el aire…",
+    "options": ["Se enfría y desciende", "Se calienta, se aligera y asciende", "Se seca", "Se para"],
+    "answer": 1,
+    "explanation": "Los anticiclones, cuando se hace más pesado y desciende."
+  },
+  {
+    "id": "g-0943",
+    "topic": "meteo",
+    "q": "En una borrasca del hemisferio norte, el viento gira…",
+    "options": [
+      "En el sentido de las agujas del reloj",
+      "En sentido contrario a las agujas del reloj, hacia el centro",
+      "Alejándose del centro",
+      "Sin dirección fija"
+    ],
+    "answer": 1,
+    "explanation": "A unos 10–30° de las isobaras."
+  },
+  {
+    "id": "g-0944",
+    "topic": "meteo",
+    "q": "El viento forma con las isobaras un ángulo de unos…",
+    "options": ["0°", "10–30°", "45–60°", "90°"],
+    "answer": 1,
+    "explanation": "Hacia el centro en las bajas; hacia fuera en las altas."
+  },
+  {
+    "id": "g-0945",
+    "topic": "meteo",
+    "q": "En el hemisferio norte, las borrascas se desplazan generalmente…",
+    "options": ["De este a oeste", "De oeste a este", "De sur a norte", "No se mueven"],
+    "answer": 1,
+    "explanation": "Cargándose de humedad en el Atlántico."
+  },
+  {
+    "id": "g-0946",
+    "topic": "meteo",
+    "q": "El anticiclón de las Azores es un ejemplo de que los anticiclones…",
+    "options": [
+      "Se mueven muy rápido",
+      "Son casi estacionarios y toman el nombre de su zona",
+      "Solo existen en invierno",
+      "Son bajas presiones"
+    ],
+    "answer": 1,
+    "explanation": "Se mueven muy lentamente."
+  },
+  {
+    "id": "g-0947",
+    "topic": "meteo",
+    "q": "El viento se desplaza…",
+    "options": [
+      "De las bajas a las altas presiones",
+      "De las altas a las bajas presiones",
+      "Siempre del norte",
+      "Siempre hacia el Ecuador"
+    ],
+    "answer": 1,
+    "explanation": "Desviado por la rotación terrestre y el rozamiento."
+  },
+  {
+    "id": "g-0948",
+    "topic": "meteo",
+    "q": "El cambio repentino del viento a la dirección opuesta o casi opuesta se llama…",
+    "options": ["Recalmada", "Contraste", "Rolada", "Racha"],
+    "answer": 1,
+    "explanation": "Contraste."
+  },
+  {
+    "id": "g-0949",
+    "topic": "meteo",
+    "q": "La disminución repentina y momentánea del viento que luego vuelve a su fuerza anterior es una…",
+    "options": ["Calmada", "Recalmada", "Racha", "Caída"],
+    "answer": 1,
+    "explanation": "Recalmada."
+  },
+  {
+    "id": "g-0950",
+    "topic": "meteo",
+    "q": "«Caer» el viento significa…",
+    "options": ["Aumentar", "Disminuir progresivamente", "Cambiar de dirección", "Soplar a rachas"],
+    "answer": 1,
+    "explanation": "Calmar: disminuir total o parcialmente."
+  },
+  {
+    "id": "g-0951",
+    "topic": "meteo",
+    "q": "El instrumento que mide la intensidad del viento es el…",
+    "options": ["Barómetro", "Anemómetro", "Higrómetro", "Catavientos"],
+    "answer": 1,
+    "explanation": "La veleta da la dirección."
+  },
+  {
+    "id": "g-0952",
+    "topic": "meteo",
+    "q": "Una lanita fijada al obenque de un velero es un…",
+    "options": ["Anemómetro", "Catavientos", "Barógrafo", "Pluviómetro"],
+    "answer": 1,
+    "explanation": "Indica la dirección del viento respecto a la crujía (el aparente)."
+  },
+  {
+    "id": "g-0953",
+    "topic": "meteo",
+    "q": "El viento real se mide…",
+    "options": ["Navegando a toda máquina", "Con el barco parado", "Con viento de popa", "De noche"],
+    "answer": 1,
+    "explanation": "Navegando se mide el aparente."
+  },
+  {
+    "id": "g-0954",
+    "topic": "meteo",
+    "q": "El viento de la marcha o relativo tiene siempre…",
+    "options": [
+      "La dirección del viento real",
+      "Dirección opuesta al rumbo e intensidad igual a la velocidad del barco",
+      "Dirección norte",
+      "Intensidad nula"
+    ],
+    "answer": 1,
+    "explanation": "Lo provoca el propio barco al avanzar."
+  },
+  {
+    "id": "g-0955",
+    "topic": "meteo",
+    "q": "El viento aparente es…",
+    "options": [
+      "El viento real",
+      "La suma vectorial del viento real y el de la marcha",
+      "El viento de la marcha",
+      "El que da el parte"
+    ],
+    "answer": 1,
+    "explanation": "Es el que medimos navegando."
+  },
+  {
+    "id": "g-0956",
+    "topic": "meteo",
+    "q": "Con viento real por el través, el viento aparente…",
+    "options": ["Entra más a popa", "Entra más a proa que el real", "Coincide con el real", "Desaparece"],
+    "answer": 1,
+    "explanation": "Pregunta real (julio 2023)."
+  },
+  {
+    "id": "g-0957",
+    "topic": "meteo",
+    "q": "¿Cuántas fuerzas tiene la escala Beaufort?",
+    "options": ["10", "12", "13 (de 0 a 12)", "9"],
+    "answer": 2,
+    "explanation": "Del 0 al 12."
+  },
+  {
+    "id": "g-0958",
+    "topic": "meteo",
+    "q": "La utilidad de la escala Beaufort a bordo es…",
+    "options": [
+      "Medir la presión",
+      "Relacionar los nudos del anemómetro con las fuerzas de los partes",
+      "Medir las olas",
+      "Calcular la marea"
+    ],
+    "answer": 1,
+    "explanation": "Y decidir la superficie vélica."
+  },
+  {
+    "id": "g-0959",
+    "topic": "meteo",
+    "q": "La escala Douglas describe…",
+    "options": [
+      "La fuerza del viento",
+      "El estado de la mar y la altura de las olas",
+      "La presión",
+      "La visibilidad"
+    ],
+    "answer": 1,
+    "explanation": "10 grados, del 0 al 9."
+  },
+  {
+    "id": "g-0960",
+    "topic": "meteo",
+    "q": "Las brisas costeras aparecen cuando…",
+    "options": [
+      "Hay un temporal",
+      "No hay gradiente de presión (no hay viento general)",
+      "Pasa un frente",
+      "Hay niebla"
+    ],
+    "answer": 1,
+    "explanation": "Terral de noche y virazón de día."
+  },
+  {
+    "id": "g-0961",
+    "topic": "meteo",
+    "q": "El terral se nota hasta unas…",
+    "options": ["2 millas", "20 millas mar adentro", "100 millas", "50 km tierra adentro"],
+    "answer": 1,
+    "explanation": "La virazón llega hasta unos 50 km tierra adentro."
+  },
+  {
+    "id": "g-0962",
+    "topic": "meteo",
+    "q": "El terral se produce porque de noche…",
+    "options": [
+      "La tierra se calienta más que el mar",
+      "La tierra se enfría más deprisa que el mar",
+      "Sube la marea",
+      "Baja la presión en tierra"
+    ],
+    "answer": 1,
+    "explanation": "Sobre el mar queda una baja relativa."
+  },
+  {
+    "id": "g-0963",
+    "topic": "meteo",
+    "q": "Las variables que determinan la altura de la ola son…",
+    "options": [
+      "Temperatura, presión y humedad",
+      "Intensidad del viento, persistencia y fetch",
+      "Marea, corriente y luna",
+      "Profundidad y salinidad"
+    ],
+    "answer": 1,
+    "explanation": "Pregunta real (2021)."
+  },
+  {
+    "id": "g-0964",
+    "topic": "meteo",
+    "q": "El número de horas que ha soplado un viento con la misma dirección e intensidad es la…",
+    "options": ["Fetch", "Persistencia", "Racha", "Duración de la marea"],
+    "answer": 1,
+    "explanation": "La mar necesita tiempo para crecer."
+  },
+  {
+    "id": "g-0965",
+    "topic": "meteo",
+    "q": "La extensión sobre la que el viento sopla con la misma dirección e intensidad se llama…",
+    "options": ["Persistencia", "Fetch", "Gradiente", "Isobara"],
+    "answer": 1,
+    "explanation": "Se mide en esa dirección, en km o millas."
+  }
+]
