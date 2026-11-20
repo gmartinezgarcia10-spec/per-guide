@@ -357,6 +357,7 @@ MCP hygiene:
 | **F2** | Baseline snapshot of the current app + port the 12 Python tests to Playwright assertions (run against `legacy/index.html`) | Tests pass on legacy and **fail** when a keyword is deliberately broken (proves the tests can fail) |
 | **F3** | Extract the question bank → `content/questions/**` JSON with stable IDs + schema + validator | Extracted bank == baseline bank; validator clean; counts match the 1,105 + 956 recorded in CLAUDE.md |
 | **F4** | Extract CSS + core (store, router, helpers, exam spec from `T[]`) into `src/` | Equivalence gate passes |
+| | *As built:* core is typed in `src/core/`, `T` comes from `src/exam/spec.ts`, and CSS is in `src/styles/app.css` (the minified output is identical). Everything else moved verbatim to `src/legacy/{chapters,bank,app}.js` as ES modules. The router stays inside `app.js`: extracting it means rewriting the app's internals, which belongs with the phase 2 rewrite. | |
 | **F5** | Extract chapters 1–11 (one commit per chapter) | Equivalence gate passes after each chapter |
 | **F6** | `per2:` progress migration to stable IDs + e2e test with seeded old progress | Old progress shows the same in `#progreso` |
 | **F7** | `.claude/`: settings, hooks, rules, skills, agents, `.mcp.json`, statusline | Canary prompts behave correctly; hooks block a deliberate violation |
