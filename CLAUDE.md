@@ -10,7 +10,7 @@ Spanish PER (Patrón de Embarcaciones de Recreo) study guide, intended to become
 
 ## What's here
 - `index.html` — the HTML shell (views, header, footer); loads `src/main.ts`. **Not runnable on its own**: run `npm run dev` (http://localhost:5173) or `npm run build` and open `dist/index.html`.
-- `src/` — `main.ts` (entry; import order matters), `core/` (typed: dom, store, util, draw, audio, `per.ts` publishes `window.PER`), `exam/spec.ts`, `content/` (bank schema, validator, Vite plugin), `styles/app.css`, `legacy/` (moved verbatim, `@ts-nocheck`, not linted: `chapters.js`, `bank.js`, `app.js`).
+- `src/` — `main.ts` (entry; import order matters), `core/` (typed: dom, store, util, draw, audio, `per.ts` publishes `window.PER`), `exam/spec.ts`, `content/` (bank schema, validator, Vite plugin), `styles/app.css`, `chapters/tema-NN-<name>/index.js` (one module per chapter) and `legacy/` (`bank.js`, `app.js`). Chapter and legacy files were moved verbatim: `@ts-nocheck`, not linted by Biome.
 - `content/questions/{guide,gva}/<topic>.json` — the question bank (source of truth). Schema and rules: `src/content/schema.ts`; validator: `npm run validate:content`.
 - `src/styles/app.css` is kept byte-for-byte (Biome formatter off) so the build's CSS stays identical; restyle it on purpose, not via formatting.
 - `tools/patches/patch1.py … patch14.py` — the history of content merges from Gerardo's printed manual (one per chapter). Kept for reference; don't re-run them on the current file.
@@ -18,7 +18,7 @@ Spanish PER (Patrón de Embarcaciones de Recreo) study guide, intended to become
 - `tests/baseline/` — snapshot of the app before the split (bank, visible text of every route, TOCs, widget outputs). The refactor must reproduce it exactly; update only on purpose (`npx playwright test --project=baseline --update-snapshots`) and explain why in the PR.
 
 ## Code layout
-- **Chapters** (`src/legacy/chapters.js`, split per chapter in F5): `CH[n] = {intro, sections: [[id, title, `html`], ...], init(root){...}}`, n = 1..11. Sections render as collapsible blocks; the chapter's table of contents is built from the array. Widgets are wired in `init(root)`.
+- **Chapters** (`src/chapters/tema-NN-<name>/index.js`, registered by `src/chapters/index.js`): `CH[n] = {intro, sections: [[id, title, `html`], ...], init(root){...}}`, n = 1..11. Each module destructures what it needs from `PER`; two helpers are shared explicitly (`AR` from tema 7 → 9, `sg` from tema 10 → 11). Sections render as collapsible blocks; the chapter's table of contents is built from the array. Widgets are wired in `init(root)`.
 - **Helpers:** `window.PER` (`src/core/per.ts`): `$`, `$$`, `store`, `T` (= `TOPICS` from `src/exam/spec.ts`), `TBY`, `CH`, `Q`, `COL`, `buoy`, `boatTop`, `r`, `n360`, `deg`, `pm`, `rad`, `esc`, `shuffle`, `horn`. Legacy code destructures from it; new code imports the modules directly.
 - **Question bank `PER.Q`:** built from `content/questions/` by `src/content/vite-plugin-bank.ts`, which injects `window.PER_BANK = {guide, real}` as legacy arrays: `[topic, question, options[4], answer, explanation]`, plus `{i, p: [sittings], d?, img?}` for real questions. `index.html` does `PER.Q.push(...PER_BANK.guide)` and `const R=PER_BANK.real`.
   - Topic keys: nom, amarre, seg, leg, baliz, ripa, man, emerg, meteo, teoria, carta.
