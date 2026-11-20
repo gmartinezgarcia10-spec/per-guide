@@ -6,8 +6,8 @@ Exam: **Sat 12 Dec 2026** (GVA Valencia). Status is updated at the end of every 
 
 | Step | What | Status |
 |---|---|---|
-| F0 | Docs baseline: fix CLAUDE.md, EXAM-SPEC (checked against GVA), ROADMAP, record decisions | **in progress**, branch `f0-docs-baseline` |
-| F1 | Tooling skeleton (Vite, TS, Biome, Vitest, Playwright Test, CI) + minimal guard/post-edit hooks + branch protection | todo |
+| F0 | Docs baseline: fix CLAUDE.md, EXAM-SPEC (checked against GVA), ROADMAP, record decisions | done (#1) |
+| F1 | Tooling skeleton (Vite, TS, Biome, Vitest, Playwright Test, CI) + minimal guard/post-edit hooks + branch protection | **in progress**, branch `f1-tooling` |
 | F2 | Baseline snapshot of the current app + port the 12 Python tests to real assertions | todo |
 | F3 | Question bank → `content/questions/**` JSON, stable IDs, schema, validator | todo |
 | F4 | CSS + core (store, router, helpers, exam spec) → `src/` | todo |

@@ -1,0 +1,31 @@
+{
+  "name": "per-guide",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "PER study guide (Generalitat Valenciana)",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "typecheck": "tsc --noEmit",
+    "lint": "biome check .",
+    "format": "biome check --write .",
+    "validate:content": "echo 'validate:content: added in F3' && exit 0",
+    "check": "npm run typecheck && npm run lint && npm run validate:content",
+    "test": "vitest run",
+    "e2e": "playwright test",
+    "verify": "npm run check && npm run test && npm run build && npm run e2e"
+  },
+  "devDependencies": {
+    "@biomejs/biome": "2.6.8",
+    "@playwright/test": "1.65.1",
+    "@types/node": "26.6.6",
+    "typescript": "7.0.2",
+    "vite": "8.3.8",
+    "vite-plugin-singlefile": "2.3.4",
+    "vitest": "5.1.1"
+  }
+}
