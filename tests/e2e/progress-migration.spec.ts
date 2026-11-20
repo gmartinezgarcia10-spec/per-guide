@@ -53,6 +53,9 @@ test("migrated progress shows up in the plan and progress views", async ({ page,
   await expect(page.locator(VIEW)).toContainText("Preguntas que no he visto (2059)");
   await expect(page.locator(VIEW)).toContainText("Repasar mis fallos (1)");
   await expect(page.locator("#activity tr")).toHaveCount(3); // header + 2 answers
+  // "Vuelve" column comes from src/learn/srs.ts nextReviewLabel.
+  await expect(page.locator("#activity")).toContainText("vuelve en 3 días");
+  await expect(page.locator("#activity")).toContainText("toca repasarla hoy");
 });
 
 test.describe("importing an old exported file", () => {

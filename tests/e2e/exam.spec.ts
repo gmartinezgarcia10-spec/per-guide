@@ -1,3 +1,4 @@
+import { readFileSync } from "node:fs";
 import type { Page } from "@playwright/test";
 import { expect, test } from "./fixtures";
 
@@ -59,7 +60,58 @@ test("missing the carta minimum fails even with 42 correct", async ({ page, open
   });
   await expect(result).toContainText("42 / 45 · NO APTO");
   await expect(result).toContainText("No llegas al mínimo en: Carta de navegación.");
+  // Per-topic table: correct/asked, failed minimum in red.
+  await expect(result.locator(".blk span.fail", { hasText: "1/4" })).toBeVisible();
+  await expect(result.locator(".blk span.pass", { hasText: "10/10" })).toBeVisible();
   expect((await state(page)).hist.at(-1)).toMatchObject({ total: 42, pass: false, per: { carta: 1 } });
+});
+
+test("handing in with a blank scores it as wrong and doesn't record it for review", async ({
+  page,
+  open,
+}) => {
+  await open("test");
+  await page.locator("#v-test button.paper", { hasText: "Octubre 2026" }).click();
+  const key = await paperKey(page, "2026-10");
+  const ids = await page.evaluate(() => {
+    const { PAPERS, RQ } = (window as unknown as { PER: PerGlobal }).PER;
+    const p = PAPERS.find((x) => x[0] === "2026-10");
+    return (p?.[2] ?? [])
+      .filter((i): i is number => i != null)
+      .map((i) => (RQ[i] as unknown as { id: string }).id);
+  });
+  const area = page.locator("#mockArea");
+  for (let k = 1; k < key.length; k++) {
+    await area.locator(`.qnav [data-go="${k}"]`).click();
+    await area.locator(`.q .opt[data-k="${key[k]?.answer ?? 0}"]`).click();
+  }
+  await area.locator("[data-end]").click();
+  await expect(area.locator("[data-confirm]")).toContainText("Te quedan 1 sin responder.");
+  await page.locator("#reallyEnd").click();
+  await expect(area.locator(".result")).toContainText("44 / 45 · APTO");
+
+  const s = await state(page);
+  expect(s.stats[ids[0] as string]).toBeUndefined();
+  // Answered questions are scheduled: right answer → box 1, back in 1 day.
+  expect(s.stats[ids[1] as string]).toEqual([1, 1, true, expect.any(Number), 1, expect.any(Number)]);
+  expect(Object.keys(s.stats)).toHaveLength(44);
+});
+
+test("weak-spot mode picks the questions you got wrong", async ({ page, open }) => {
+  const amarre = JSON.parse(readFileSync("content/questions/guide/amarre.json", "utf8")) as { id: string }[];
+  const failed = amarre.slice(3, 5).map((q) => q.id); // amarre has 2 questions per mock
+  await page.addInitScript((ids) => {
+    if (location.protocol !== "file:") return;
+    const t = Date.now();
+    const stats = Object.fromEntries(ids.map((id) => [id, [3, 0, false, t, 0, t]]));
+    localStorage.setItem("per2:state", JSON.stringify({ v: 3, stats, upd: t }));
+  }, failed);
+  await open("test");
+  await page.locator("#mockWeak").check();
+  await page.locator("#startMock").click();
+  await expect(page.locator("#mockArea .qnav button")).toHaveCount(45);
+  const cur = (await state(page)).cur.ids as string[];
+  expect(cur).toEqual(expect.arrayContaining(failed));
 });
 
 test("a sitting with a voided question is scored out of the remaining 44", async ({ page, open }) => {

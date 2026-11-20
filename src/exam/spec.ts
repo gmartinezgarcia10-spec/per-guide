@@ -1,5 +1,5 @@
 // Official PER exam format (GVA, RD 875/2014 annex II). Source of truth: docs/EXAM-SPEC.md.
-// Mirrors `T[]` in index.html; the app switches to this module in F4.
+// The app uses it as PER.T (topics) and PER.exam (scoring, exam date).
 
 export type TopicId =
   | "nom"
