@@ -2,7 +2,7 @@
 
 Exam: **Sat 12 Dec 2026** (GVA Valencia). Status is updated at the end of every step, and each step is one PR.
 
-## Phase 1: Foundations (plan: `docs/FOUNDATIONS.md`)
+## Phase 1: Foundations (plan: `docs/FOUNDATIONS.md`): complete
 
 | Step | What | Status |
 |---|---|---|
@@ -13,11 +13,11 @@ Exam: **Sat 12 Dec 2026** (GVA Valencia). Status is updated at the end of every 
 | F4 | CSS + core (store, helpers, exam spec) → `src/`; rest of the script → `src/legacy/` modules (router stays in `app.js` until phase 2) | done (#5) |
 | F5 | `src/legacy/chapters.js` → `src/chapters/tema-NN-<name>/` | done (#6) |
 | F6 | `per2:` progress migration to stable IDs | done (#7) |
-| F7 | Full `.claude/` setup: settings, hooks, rules, skills, agents, `.mcp.json`, statusline | **in progress**, branch `f7-claude-setup` |
-| F8 | ARCHITECTURE, CONTENT-GUIDE, ADRs, slim CLAUDE.md, move old files to `legacy/` | todo |
+| F7 | Full `.claude/` setup: settings, hooks, rules, skills, agents, `.mcp.json`, statusline | done (#8) |
+| F8 | ARCHITECTURE, CONTENT-GUIDE, ADRs, slim CLAUDE.md, move old files to `legacy/` | done |
 
 ## Phase 2: Learning core
-Spaced repetition already exists (1/3/7/14/30-day reviews + mistakes queue) and is keyed by stable IDs since F6: upgrade the scheduler · rewrite `src/legacy/app.js` (quiz engine, router, views) as typed modules · weak-spot queues · readiness score / pass probability · PNB fallback result in the simulator · explanations linked to theory sections.
+Spaced repetition already exists (1/3/7/14/30-day reviews + mistakes queue) and is keyed by stable IDs since F6: upgrade the scheduler · rewrite `src/legacy/app.js` (quiz engine, router, views) as typed modules, using `src/exam/spec.ts` for the exam date and pass rule (still hard-coded there) · fill the 39 empty explanations · weak-spot queues · readiness score / pass probability · PNB fallback result in the simulator · explanations linked to theory sections.
 
 ## Phase 3: Interactive training
 Chart-work trainer (course, current, compass correction) · lights, shapes and sound-signal drills (RIPA) · IALA A buoyage drills.

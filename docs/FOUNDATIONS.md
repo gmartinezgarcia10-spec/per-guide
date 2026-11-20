@@ -1,6 +1,6 @@
 # Phase 1: Foundations
 
-Status: **approved 20 Nov 2026** (decisions in §14) · Written 20 Nov 2026 · Owner: Gerardo
+Status: **complete, 20 Nov 2026** (decisions in §14; each step's "as built" notes are in §13) · Written 20 Nov 2026 · Owner: Gerardo
 
 **Goal.** Make the project fast and safe for Claude Code to work on before any new learning features are added. Nothing changes for the person studying: the app looks and behaves exactly as it does today, and progress saved under `per2:` in the browser survives.
 
@@ -67,7 +67,7 @@ per-guide/
 │   ├── unit/                  # Vitest
 │   ├── e2e/                   # Playwright Test (TypeScript)
 │   └── baseline/              # snapshot of the current app (proves the split changed nothing)
-├── legacy/                    # the current index.html, python tests, tools/patches (read-only)
+├── legacy/                    # historical scripts: patches/ (manual merges), read-only
 └── dist/index.html            # BUILD OUTPUT: still a single file that works offline (gitignored)
 ```
 
@@ -364,6 +364,7 @@ MCP hygiene:
 | **F7** | `.claude/`: settings, hooks, rules, skills, agents, `.mcp.json`, statusline | Canary prompts behave correctly; hooks block a deliberate violation |
 | | *As built:* 5 rules, 6 skills (`/new-widget` deferred until widgets move out of the verbatim chapter files), 5 agents, Playwright MCP 0.0.84. Hooks: guard-paths, post-edit (+ bank validation), guard-bash, Stop gate, SessionStart, statusline; each was tested with sample input. There's no PreCompact hook, because SessionStart also fires after compaction and re-injects the context. Added `npm run check:ids`, which fails if an id from `main` disappears; CI fetches `main` for it. The MCP server needs `--allow-unrestricted-file-access` to open `file://` (it blocks that by default). The canaries are in `docs/CANARIES.md` and need a fresh interactive session to run. | |
 | **F8** | Docs: ARCHITECTURE, CONTENT-GUIDE, EXAM-SPEC, ADRs 0001–0003; slim CLAUDE.md; move the old file and tests to `legacy/` | `/catchup` from a fresh session gives a correct status |
+| | *As built:* ADRs 0001–0004 (0004 covers the move-verbatim strategy). CLAUDE.md went from 56 dense lines to a short index, with the hard rules in the top third. `tools/patches` moved to `legacy/patches`. The old `index.html` and Python tests needed no `legacy/` copy: they had already been replaced, and they stay in git history. | |
 
 F7 could move earlier, right after F1. That way the hooks protect the risky split steps, though they would need adjusting as the paths change. **Recommendation:** put in a minimal `guard-paths` and `post-edit` hook right after F1, and leave the full `.claude/` setup for F7.
 
