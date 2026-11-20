@@ -11,9 +11,9 @@
     "id": "g-0089",
     "topic": "meteo",
     "q": "El barómetro que se basa en la deformación de una cápsula metálica cerrada es el…",
-    "options": ["De mercurio", "Aneroide", "Alcohólico", "Isobárico"],
+    "options": ["De mercurio", "Aneroide", "Alcohólico", "Higrómetro"],
     "answer": 1,
-    "explanation": ""
+    "explanation": "El aneroide (del griego «sin líquido») mide la presión por cuánto se aplasta o se dilata una cápsula metálica con vacío parcial. El de mercurio, en cambio, mide la altura de una columna de líquido."
   },
   {
     "id": "g-0090",
@@ -21,7 +21,7 @@
     "q": "El cambio de dirección del viento se denomina…",
     "options": ["Refrescar", "Rachear", "Rolar", "Amainar"],
     "answer": 2,
-    "explanation": ""
+    "explanation": "«Rolar» es cambiar de dirección. «Refrescar» es aumentar de intensidad, «amainar» es disminuir y «rachear» es soplar a rachas: los cuatro se refieren al viento, pero solo rolar habla de dirección."
   },
   {
     "id": "g-0091",
@@ -30,19 +30,19 @@
     "options": [
       "En sentido horario y divergente",
       "En sentido antihorario y convergente",
-      "En línea recta",
-      "Solo de norte"
+      "En sentido horario y convergente",
+      "En sentido antihorario y divergente"
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "En el hemisferio norte el aire entra hacia el centro de la borrasca (converge) girando en sentido contrario a las agujas del reloj. En el anticiclón es al revés: sale (diverge) en sentido horario."
   },
   {
     "id": "g-0092",
     "topic": "meteo",
     "q": "Según Buys-Ballot (hemisferio norte), de espaldas al viento las bajas presiones quedan a…",
-    "options": ["La derecha", "La izquierda", "Detrás", "Delante a la derecha"],
+    "options": ["La derecha", "La izquierda", "Detrás", "De frente"],
     "answer": 1,
-    "explanation": ""
+    "explanation": "Ley de Buys-Ballot en el hemisferio norte: con el viento en la espalda, las bajas presiones quedan a la izquierda (algo adelantadas) y las altas a la derecha. En el hemisferio sur es justo al contrario."
   },
   {
     "id": "g-0093",
@@ -63,7 +63,7 @@
     "q": "Las isobaras muy juntas indican…",
     "options": ["Calma", "Viento fuerte", "Niebla", "Altas presiones estables"],
     "answer": 1,
-    "explanation": ""
+    "explanation": "Isobaras juntas significan que la presión cambia mucho en poca distancia (gran gradiente), y el viento sopla más cuanto mayor es el gradiente. Isobaras separadas indican poco viento."
   },
   {
     "id": "g-0095",
@@ -76,7 +76,7 @@
       "Producido por las mareas"
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "El mar de fondo lo generó un viento que sopla o sopló lejos; llega con olas largas, redondeadas y regulares, aunque donde estás no haga viento. La mar de viento es la que levanta el viento local: olas cortas y con borregos."
   },
   {
     "id": "g-0096",

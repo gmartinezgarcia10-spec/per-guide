@@ -6,11 +6,11 @@
     "options": [
       "Vaciarlas con una aguja",
       "No vaciarlas y taparlas con un apósito graso",
-      "Dejarlas al sol",
-      "Frotarlas con agua salada"
+      "Cubrirlas con crema solar y seguir al sol",
+      "Aplicar alcohol y dejarlas al aire"
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "Una ampolla es una barrera estéril: si se pincha, se abre la puerta a la infección. Se deja intacta, se cubre con un apósito graso y se evita volver a exponerla al sol."
   },
   {
     "id": "g-0081",
@@ -28,7 +28,7 @@
   {
     "id": "g-0082",
     "topic": "emerg",
-    "q": "Tras un abordaje, la medida prioritaria es…",
+    "q": "Tras un abordaje, y antes de separar los barcos, lo primero es…",
     "options": [
       "Separarse inmediatamente dando atrás",
       "Enviar un MAYDAY",
@@ -36,7 +36,7 @@
       "Tomar los datos del otro buque"
     ],
     "answer": 2,
-    "explanation": ""
+    "explanation": "Lo primero es comprobar el estado de las personas y la gravedad de las averías en los dos barcos antes de separarse: al dar atrás puede abrirse de golpe una vía de agua que la proa del otro estaba taponando. Según lo que se encuentre, se pide ayuda (MAYDAY si hay peligro grave e inminente), se presta auxilio al otro buque si lo necesita y después se intercambian los datos."
   },
   {
     "id": "g-0083",
@@ -91,7 +91,7 @@
       "Bengalas"
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "Los espiches son tacos cónicos de madera que se introducen a golpes en un orificio (un grifo de fondo roto, una pasacascos) para taponar la vía de agua. Conviene llevar uno atado junto a cada grifo de fondo."
   },
   {
     "id": "g-0217",
