@@ -1,0 +1,239 @@
+1
+4 preg.
+2
+2 preg.
+3
+4 preg.
+4
+2 preg.
+5
+5 preg.
+6
+10 preg.
+7
+2 preg.
+8
+3 preg.
+9
+4 preg.
+10
+5 preg.
+11
+4 preg.
+TEMA 9 DE 11 · 4 PREGUNTAS EN EL EXAMEN
+Meteorología
+
+Cuatro preguntas. Lo que más cae: presión e isobaras, cómo gira el viento en borrascas y anticiclones, Buys-Ballot, escalas Beaufort y Douglas, brisas y nieblas. Y lo más útil en la mar: saber leer un parte y la tendencia del barómetro.
+
+El tiempo y la seguridad: cómo obtener el parte
+Presión atmosférica e isobaras
+Ley de Buys-Ballot
+Frentes, nubes y nieblas
+Viento: escalas, brisas y vientos locales
+Información meteorológica
+Preguntas de examen (174)
+9.1
+El tiempo y la seguridad: cómo obtener el parte
+
+El viento es la causa fundamental del mal tiempo en la mar: según su fuerza, levanta el oleaje que afecta a la estabilidad del barco y a la tripulación (junto con otros factores, como las corrientes). Hoy, estudiando antes la situación, una navegación puede ser razonablemente segura si no dura más de 48–72 horas, el horizonte de las previsiones fiables a corto plazo. Zarpar sin conocer la previsión, o sin instrumentos adecuados, puede tener consecuencias muy graves: hay que leerla cada día antes de salir.
+
+Clubes náuticos y puertos deportivos: tienen los partes locales.
+VHF: Salvamento Marítimo emite los partes costeros de AEMET a horas fijas; se anuncian por el canal 16 y luego se pasa al canal de trabajo que indiquen.
+Televisión e internet: en la web de AEMET, El tiempo → Predicción → Marítima, eliges tu zona del litoral y lees el parte de aguas costeras y alta mar a 72 horas. Desde ahí, los enlaces asociados llevan a los modelos de viento y oleaje de Puertos del Estado, con mapas en color (azul, poca intensidad; rojo y negro, la mayor) y datos en tiempo real de viento, corrientes y oleaje.
+Mapas isobáricos: en AEMET, Predicción → Modelos numéricos, con previsión a 72 h, actualizados cada 6 horas.
+
+Un parte costero suele traer, por este orden: avisos (si los hay), la situación general (bajas y altas con su presión y evolución) y la predicción por zonas (dirección y fuerza del viento, estado de la mar, mar de fondo, visibilidad y chubascos).
+
+9.2
+Presión atmosférica e isobaras
+Presión normal: 1013 hPa (milibares) = 760 mm de mercurio. Se mide con el barómetro (aneroide: una cápsula metálica de vacío que se deforma) y su registro continuo con el barógrafo.
+Lo importante es la tendencia: una caída de 3 hPa o más en 3 horas anuncia viento fuerte. Caída lenta y continua: empeora poco a poco. Subida rápida tras un frente: viento racheado que luego amaina.
+Isobaras: líneas que unen puntos de igual presión. Cuanto más juntas, más viento (mayor gradiente).
+Qué es y cómo se mide
+Presión atmosférica: el peso de la columna de aire, por unidad de superficie, sobre un lugar; se debe a la atracción de la Tierra sobre la masa de aire.
+Unidades: los milímetros de mercurio vienen del experimento de Torricelli (1643). Después se usó la baria, unidad del sistema cegesimal (CGS: centímetro, gramo, segundo): una dina sobre un cm². Hoy, la del Sistema Internacional es el pascal (Pa): 1 newton sobre 1 m² (1 Pa = 10 barias). 1 hPa = 100 Pa = 1 milibar.
+Valor normal al nivel del mar (a 0 °C y 45° de latitud): 760 mm = 1013,25 mb = 1013,25 hPa = 1 atmósfera. En el examen suele aparecer como 1013,2 mb.
+Barómetro aneroide: el más usado a bordo por su lectura fácil y su robustez. Cápsulas metálicas onduladas con vacío parcial que se contraen o expanden con la presión y mueven una aguja sobre un limbo graduado. El barógrafo la mide y registra de forma continua.
+Para el navegante importa poco el valor exacto: lo que importa es cómo varía en un periodo de tiempo.
+BARÓMETRO	INDICA
+Sube lento y suave	Tendencia a la mejoría
+Sube brusco y rápido	Mejoría pero con vientos fuertes (por el gradiente)
+Baja lento y suave	Tendencia al empeoramiento
+Baja brusco y rápido	Empeoramiento con vientos fuertes, precipitaciones y riesgo de temporal
+
+Según el manual, una variación es suave y lenta si no pasa de 1,3 mb en una hora, y grande si llega a 2 mb en una hora. Gradiente de presión: diferencia de presión entre dos puntos al mismo nivel, por unidad de distancia.
+
+Temperatura
+Grado de calor de los cuerpos; en meteorología, el de la atmósfera. A más altura, menos temperatura, porque la atmósfera se calienta desde abajo, con el calor que devuelve la Tierra. Gradiente térmico: variación de temperatura con la altura.
+La tierra se calienta y se enfría mucho más deprisa que el mar, que retiene el calor: por eso las oscilaciones son menores en las zonas marítimas que en las continentales.
+Al día, la máxima se da entre 2 y 3 horas después de pasar el Sol por el meridiano (mediodía solar) y la mínima, una media hora después de salir el Sol. La temperatura media es la semisuma de la máxima y la mínima.
+Se mide con el termómetro (el de mercurio se basa en la dilatación del líquido). Escala Celsius o centígrada: 0° es la fusión del hielo (congelación del agua) y 100° la ebullición, con 100 divisiones. Como con la presión, importa más la variación que el valor exacto.
+INTERACTIVO · EL VIENTO EN LAS ISOBARAS
+996
+1000
+1004
+1028
+1024
+1020
+B
+A
+Hemisferio norte · isobaras en hPa
+Mostrar el viento
+En el hemisferio norte: borrasca (B) antihoraria y hacia dentro; anticiclón (A) horario y hacia fuera.
+BORRASCA · BAJA PRESIÓN
+
+También depresión o ciclón extratropical: isobaras cerradas con la presión disminuyendo hacia el centro. «B» en los mapas («L», low, en inglés). Se forma cuando el aire se calienta, se aligera y sube. Viento a unos 10–30° de las isobaras, hacia el centro. Aire que converge y asciende: nubes, lluvia y viento. En el hemisferio norte el viento gira en sentido antihorario y hacia dentro. Lleva asociados los frentes.
+
+ANTICICLÓN · ALTA PRESIÓN
+
+Isobaras cerradas con la presión aumentando hacia el centro. «A» («H», high). El aire se hace más pesado y baja. Viento a 10–30° de las isobaras, alejándose del centro. Aire que desciende y diverge: tiempo estable, cielos despejados, vientos flojos. Gira en sentido horario y hacia fuera. En verano, posibles nieblas y calimas.
+
+9.3
+Ley de Buys-Ballot
+INTERACTIVO · ¿DÓNDE ESTÁ LA BORRASCA?
+N
+viento
+tú
+B
+A
+El viento viene del: S (180°)
+
+Mirando hacia el N con el viento en la espalda, la borrasca queda hacia el WNW.
+
+Hemisferio norte: de espaldas al viento, las bajas presiones quedan a tu izquierda y algo adelantadas; las altas, a la derecha y algo atrás. En el hemisferio sur, al revés.
+
+9.4
+Frentes, nubes y nieblas
+FRENTE FRÍO
+cumulonimbos, chubascos, rolada brusca
+FRENTE CÁLIDO
+nubes que se espesan, lluvia continua
+Trayectorias: en el hemisferio norte, las borrascas se desplazan de oeste a este, cargándose de humedad al cruzar el Atlántico (otras masas de aire pueden desviarlas). Los anticiclones se mueven muy despacio, casi fijos en zonas concretas, y toman su nombre: el anticiclón de las Azores.
+Por qué sopla el viento: el aire calentado por el Sol se dilata, pierde densidad y sube; el aire va siempre de las altas a las bajas presiones, desviado por la rotación de la Tierra y el rozamiento con la superficie. En el Ecuador el aire sube y va hacia los polos, y lo sustituye aire polar: esta circulación general, con la rotación terrestre, fija los vientos dominantes del planeta.
+Frente frío: el aire frío empuja al cálido y lo levanta de golpe. Cumulonimbos, chubascos fuertes, rachas y cambio brusco del viento. Después, la presión sube y el cielo se despeja.
+Frente cálido: el aire cálido sube despacio sobre el frío. Cirros, después estratos que se espesan, lluvia continua y visibilidad reducida.
+Frente ocluido: el frío alcanza al cálido. Tiempo de los dos.
+Cumulonimbo: nube de gran desarrollo vertical en forma de yunque. Tormenta, rachas violentas, granizo. Evítalo.
+Niebla de advección (la típica en la mar): aire cálido y húmedo que pasa sobre agua fría. Niebla de radiación: se forma en tierra en noches despejadas y puede llegar a la costa por la mañana.
+Calima: polvo en suspensión (del norte de África). Reduce la visibilidad sin humedad.
+9.5
+Viento: escalas, brisas y vientos locales
+El viento se nombra por de dónde viene: viento norte es el que sopla desde el norte. (Las corrientes, al revés: hacia dónde van).
+Rolar: cambiar de dirección. Refrescar: aumentar la fuerza. Calmar: disminuir la fuerza del viento o de la mar, total o parcialmente. Caer: disminución progresiva del viento. Racha: aumento de fuerza durante un intervalo corto. Contraste: cambio repentino a la dirección opuesta o casi. Recalmada: bajada repentina y momentánea, que luego vuelve a la fuerza anterior. Chubasco: precipitación intensa y breve con viento.
+Instrumentos: anemómetro (intensidad), veleta (dirección; suele ir en el tope del palo) y catavientos: un indicador sencillo de la dirección respecto a la crujía (una manga troncocónica pequeña o una lanita en el obenque).
+Viento real, relativo y aparente
+Real: el que sopla en un momento dado; es el que mides con el barco parado.
+De la marcha o relativo (viento de la velocidad del barco): el que provocas al avanzar; siempre de dirección opuesta a tu rumbo e intensidad igual a tu velocidad.
+Aparente: la suma vectorial de los dos; el que mides navegando, y el que marca el catavientos. Siempre queda más a proa que el real: con viento real de través, el aparente entra por la amura.
+INTERACTIVO · VIENTO APARENTE
+real
+marcha
+aparente
+Viento real: 12 nudos desde 90° de la proa Velocidad del barco: 6 nudos
+
+Aparente: 13.4 nudos desde 63° de la proa (más a proa que el real).
+
+La escala Beaufort divide el viento en 13 fuerzas (0 a 12). Es útil porque los anemómetros dan nudos y los partes, fuerzas. Nació en la época de la navegación a vela, describiendo cómo se comportaba un navío en cada fuerza. El manual indica que la tabla completa no es necesario estudiarla.
+INTERACTIVO · ESCALA BEAUFORT
+Fuerza: 4
+
+Bonancible
+
+11–16 nudos
+
+Olas más largas, borreguillos frecuentes.
+
+Mar típica: Marejada (Douglas 3, 0,5–1,25 m)
+
+DOUGLAS	NOMBRE	ALTURA DE OLA
+0	Calma (llana)	0 m
+1	Rizada	0–0,1 m
+2	Marejadilla	0,1–0,5 m
+3	Marejada	0,5–1,25 m
+4	Fuerte marejada	1,25–2,5 m
+5	Gruesa	2,5–4 m
+6	Muy gruesa	4–6 m
+7	Arbolada	6–9 m
+8	Montañosa	9–14 m
+9	Enorme	> 14 m
+
+Escala Douglas: ideada por el vicealmirante Douglas y adoptada internacionalmente; 10 grados (0 a 9) del estado de la mar y la altura de ola. Tampoco hace falta estudiar la tabla completa. El manual da 0–0,2 m para rizada y 0,2–0,5 m para marejadilla; la tabla de arriba usa los límites de la OMM (0,1 m).
+
+La altura de ola no depende solo de la fuerza del viento. Las tres variables son: intensidad, persistencia (el número de horas que ha soplado con la misma dirección e intensidad: la mar necesita tiempo para crecer) y fetch (la extensión de mar sobre la que sopla con la misma dirección e intensidad, medida en esa dirección en km o millas). Mar de viento: la que levanta el viento local, corta y desordenada. Mar de fondo (mar tendida): olas largas y regulares que vienen de un temporal lejano.
+
+Brisas costeras: vientos flojos que aparecen en la costa cuando no hay gradiente de presión, es decir, sin viento general. Terral: de noche, la tierra se enfría antes que el mar; sobre el mar queda una baja relativa, el aire cálido sube y lo sustituye el aire frío de tierra: sopla de tierra al mar, y se nota hasta unas 20 millas mar adentro. Virazón: de día, la tierra se calienta antes; sopla del mar a tierra y llega hasta unos 50 km tierra adentro. Entre uno y otro hay calmas, cuando tierra y mar están a la misma temperatura.
+
+INTERACTIVO · BRISAS COSTERAS
+De día
+De noche
+MAR (más fría)
+TIERRA (se calienta)
+VIRAZÓN: del mar a tierra
+N
+Tramontana
+NE
+Gregal
+E
+Levante
+SE
+Siroco
+S
+Mediodía
+SW
+Lebeche
+W
+Poniente
+NW
+Mistral
+VIENTOS DEL MEDITERRÁNEO ESPAÑOL
+N: Tramontana
+NE: Gregal
+E: Levante
+SE: Siroco · xaloc
+S: Mediodía · migjorn
+SW: Lebeche · garbí
+W: Poniente
+NW: Mistral · maestral
+
+En la Comunitat Valenciana, el levante es el que levanta más mar en la costa (y trae las gotas frías en otoño). El poniente es seco y racheado, y despeja.
+
+9.6
+Información meteorológica
+AEMET: predicción costera (hasta 20 mn) y de alta mar, por web, app y teléfono.
+Salvamento Marítimo: boletines por VHF a horas fijas, anunciados por el canal 16 y emitidos en un canal de trabajo.
+NAVTEX: receptor automático de avisos en 518 kHz (en inglés) y 490 kHz (en español).
+Avisos: aviso de temporal a partir de fuerza 8. «Aviso costero» con fuerza 7 en las aguas costeras.
+A bordo. Mira el parte de la víspera y el de la mañana, y anota la presión al salir. Si baja rápido o ves cumulonimbos acercándose, vuelve a puerto: en el Mediterráneo el tiempo cambia en una hora.
+PARA FIJAR CONOCIMIENTOS
+Preguntas de examen del tema
+
+174 preguntas en el banco de este tema. Elige cuántas hacer; las que no has visto y las que fallaste se pueden repasar aparte.
+
+Tu progreso en este tema: 0/174 vistas · 0 dominadas.
+
+Preguntas:
+Todas (2061)
+Exámenes reales (956)
+Banco de la guía (1105)
+10 preguntas
+25 preguntas
+Todas (174)
+No vistas (174)
+Mis fallos (0)
+Repetidas en exámenes (11)
+PREGUNTA 1 DE 10 · NUEVA
+0 aciertos
+
+La presión atmosférica es…
+
+A
+La humedad del aire
+B
+El peso por unidad de superficie de la columna de aire sobre un lugar
+C
+La velocidad del viento
+D
+La temperatura del aire
+Terminar aquí
+← 8. Emergencias en la mar
+10. Teoría de navegación →

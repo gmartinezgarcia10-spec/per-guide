@@ -1,0 +1,119 @@
+PRÁCTICAS OBLIGATORIAS
+Qué se hace a bordo
+
+Las prácticas no son un examen: se acredita la asistencia. Completas las horas y la escuela firma el certificado. Cada bloque de abajo corresponde a algo que harás de verdad, para que llegues sabiendo ya el porqué.
+
+SEGURIDAD Y NAVEGACIÓN
+16 h en una lancha
+
+Normalmente 2 días de 8 h en grupos de hasta unas 6 personas. Cada alumno lleva el timón por turnos.
+
+RADIOCOMUNICACIONES
+12 h, casi todo en simulador
+
+Lo habitual son 4 h de teoría y 8 h en un simulador homologado de VHF/LSD en la escuela.
+
+HABILITACIÓN A VELA (OPCIONAL)
+16 h en un velero
+
+Permite patronear veleros con las mismas atribuciones del PER. Manejo de velas, viradas, trasluchadas y rizos.
+
+Atribuciones una vez aprobado
+
+Embarcaciones a motor de hasta 15 m de eslora, hasta 12 mn de la costa, más la navegación interinsular en Baleares y Canarias. Con prácticas adicionales se amplía a 24 m y a la travesía Península–Baleares. Para veleros hace falta la habilitación a vela.
+
+Día 1, primera hora: comprobaciones antes de soltar amarras
+
+El instructor las repasará en el pantalán. Márcalas cuando seas capaz de explicar cada una en voz alta.
+
+Parte meteorológico: Previsión de AEMET o por VHF para toda la salida, y su tendencia.
+Combustible por tercios: ⅓ para ir, ⅓ para volver, ⅓ de reserva. Revisa el filtro decantador de agua.
+Nivel de aceite: Varilla entre las marcas, con el motor frío y nivelado.
+Refrigeración: Grifo de fondo abierto. Tras arrancar, comprueba que sale agua por el escape.
+Correas y baterías: Tensión de las correas. Desconectador de baterías encendido y tensión de unos 12,5 V o más.
+Sentina: Seca y sin olor a combustible. Bomba funcionando.
+Ventilación (gasolina): Extractor encendido 4–5 min antes de arrancar.
+Material de seguridad: Chalecos para todos, bengalas en vigor, manómetro del extintor en verde, aro salvavidas, bocina.
+Luces y VHF: Luces de navegación funcionando. Prueba de radio en el canal de trabajo.
+Amarras y defensas: Decidir qué amarra se suelta la última y quién se encarga de cada defensa.
+Maniobras que harás
+Arranque y parada
+
+Palanca en punto muerto, baterías conectadas, ventilar, arrancar y comprobar la salida de agua de refrigeración. Para parar: punto muerto, un momento al ralentí y apagar.
+
+Desatraque
+
+Lo primero es ver de dónde viene el viento. Usa un esprín para abrir la proa o la popa. Recoge las defensas solo cuando estés libre.
+
+Atraque de costado
+
+Aproximación a unos 30° muy despacio. Una palada breve atrás para el barco y, con hélice dextrógira, acerca la popa si atracas por babor. Primero el largo de proa, después el esprín.
+
+Atraque en punta (de popa)
+
+El amarre habitual en el Mediterráneo. Coger el muerto o largar el ancla bien separado, entrar atrás en línea recta y dar las amarras de popa.
+
+Fondeo
+
+Fondo de arena lejos de la posidonia. Aproarse al viento y parar. Largar el ancla cuando el barco empiece a ir atrás, filar 3 veces la sonda o más, clavarla con una palada atrás y comprobar con enfilaciones.
+
+Hombre al agua
+
+Con una defensa como náufrago: dar la voz, vigía, botón MOB, timón a la banda de caída, maniobra de Anderson y recogida por sotavento con el motor en punto muerto.
+
+Navegación y situación
+
+Mantener un rumbo de aguja, tomar demoras con la aguja de marcar, situarse en la carta y compararlo con el GPS.
+
+Ciaboga
+
+Girar sobre el propio eje: con dos motores, uno avante y otro atrás. Con uno solo, paladas cortas avante y atrás con el timón todo a una banda.
+
+Nudos: los seis que te pedirán
+NUDO	PARA QUÉ SIRVE
+As de guía	Gaza fija que no se corre: una amarra a un noray o rodear a una persona
+Ballestrinque	Defensas al guardamancebos, amarre rápido a un poste
+Vuelta de cornamusa	Hacer firme en una cornamusa: vuelta completa, ochos y vuelta mordida para bloquear
+Nudo llano	Unir dos cabos de igual mena
+Vuelta de escota	Unir cabos de distinta mena
+Nudo de ocho	Tope en el chicote de una escota o un cabo
+Radio: lo que tendrás que decir en voz alta
+CANAL	USO
+16 (156,8 MHz)	Socorro, urgencia, seguridad y llamada. Escucha en él en la mar y cambia de canal para hablar.
+70	Solo LSD (DSC): alertas digitales, sin voz.
+6, 8, 72, 77	Canales de trabajo entre barcos. El 6 también se usa en operaciones SAR en la zona.
+9	Marinas y clubes náuticos en muchos puertos españoles.
+Salvamento Marítimo	VHF 16 / LSD 70 · teléfono 900 202 202 o 112
+MAYDAY (peligro grave e inminente)
+
+Primero la alerta LSD: levanta la tapa roja y mantén pulsado DISTRESS 5 s. El equipo envía tu MMSI y tu posición GPS. Después, por voz en el canal 16:
+
+MAYDAY MAYDAY MAYDAY
+AQUÍ  [nombre ×3]  [indicativo]  MMSI [nº]
+MAYDAY  [nombre]  [indicativo]  MMSI [nº]
+POSICIÓN  [lat/long, o demora y distancia a un punto conocido]
+NATURALEZA  [vía de agua / incendio / hombre al agua…]
+AYUDA REQUERIDA  [evacuación / remolque…]
+[nº] PERSONAS A BORDO  ·  [otra info: abandonamos en balsa…]
+CAMBIO
+PREFIJO	SIGNIFICADO	EJEMPLO
+MAYDAY ×3	Socorro: peligro grave e inminente para el barco o para las personas	Hundimiento, incendio descontrolado, hombre al agua
+PAN PAN ×3	Urgencia: riesgo para la seguridad del barco o de una persona, pero no inminente	Avería de motor derivando hacia las rocas, tripulante herido
+SÉCURITÉ ×3	Seguridad: aviso a la navegación o meteorológico	Contenedor a la deriva, aviso de temporal
+SEELONCE MAYDAY	Silencio impuesto durante el tráfico de socorro	Lo emite la estación que dirige el socorro
+SEELONCE FEENEE	Fin del tráfico de socorro	
+
+¿Falsa alerta LSD? No apagues el equipo. Cancela por el canal 16: «A todas las estaciones ×3, aquí [nombre, MMSI], posición…, cancelo mi alerta de socorro de las [hora]».
+
+Alfabeto: Alfa Bravo Charlie Delta Echo Foxtrot Golf Hotel India Juliett Kilo Lima Mike November Oscar Papa Quebec Romeo Sierra Tango Uniform Victor Whiskey X-ray Yankee Zulu.
+
+Vocabulario para la habilitación a vela
+TÉRMINO	SIGNIFICADO
+Barlovento / sotavento	Lado de donde viene el viento / lado hacia donde va
+Amurado a babor / estribor	Recibiendo el viento por babor / por estribor
+Ceñida · través · largo · aleta · empopada	Rumbos respecto al viento, de más cerrado a viento en popa
+Orzar / arribar	Acercar la proa al viento / separarla
+Virar por avante / trasluchar	Cambiar de amura pasando la proa por el viento / pasando la popa
+Rizar · aferrar · cazar · amollar	Reducir vela · recogerla y sujetarla · tensar la escota · soltarla
+Escota · driza · botavara · génova · mayor	Cabo que regula la vela · cabo que la iza · palo horizontal de la mayor · vela de proa grande · vela principal
+Ponerse al pairo / proa al viento	Parar el barco con las velas compensadas / parar aproado al viento

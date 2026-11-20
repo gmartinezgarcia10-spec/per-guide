@@ -1,0 +1,343 @@
+1
+4 preg.
+2
+2 preg.
+3
+4 preg.
+4
+2 preg.
+5
+5 preg.
+6
+10 preg.
+7
+2 preg.
+8
+3 preg.
+9
+4 preg.
+10
+5 preg.
+11
+4 preg.
+TEMA 6 DE 11 · 10 PREGUNTAS EN EL EXAMEN · MÍNIMO 5/10
+Reglamento (RIPA)
+
+Diez preguntas y hacen falta cinco. Es el tema que más pesa y el más importante en la mar: quién se aparta de quién y cómo reconocer cada buque por sus luces y marcas. Dedícale la mitad de tu tiempo.
+
+Definiciones (regla 3)
+Quién se aparta de quién
+Reglas 1 a 10 en detalle
+Reglas 11 a 19 en detalle
+Reglas 20 a 25: definiciones y buques
+Luces de navegación: sectores y alcances
+Reconocer buques por sus luces y marcas
+Señales acústicas
+Reglas 26 a 37 en detalle
+Señales de socorro (anexo IV)
+Preguntas de examen (375)
+6.1
+Definiciones (regla 3)
+TÉRMINO	QUÉ SIGNIFICA
+Buque de propulsión mecánica	Cualquier buque movido por una máquina. Un velero con el motor en marcha lo es, aunque lleve velas izadas.
+Buque de vela	Navega solo a vela, sin usar el motor.
+Dedicado a la pesca	Pesca con redes, líneas o arrastre que restringen su maniobrabilidad. La pesca con curricán o caña no cuenta.
+Sin gobierno	No puede maniobrar por una circunstancia excepcional (avería del timón o del motor).
+Maniobrabilidad restringida	Por la naturaleza de su trabajo: colocar o recoger balizas, cables o conductos; dragados, trabajos hidrográficos, oceanográficos o submarinos; transbordar combustible, carga, provisiones o personas navegando; lanzar o recuperar aeronaves; limpieza de minas; remolques que le restrinjan mucho apartarse.
+Restringido por su calado	Buque de propulsión mecánica que, por su calado respecto a la sonda, no puede apartarse de su derrota.
+En navegación	No está fondeado, ni amarrado, ni varado. Puede estar parado: «en navegación sin arrancada».
+Visibilidad reducida	Por niebla, bruma, nieve, chubascos o arena.
+Buque	Toda embarcación usada o utilizable para transportarse sobre el agua, incluidas las sin desplazamiento (aerodeslizadores), las naves de vuelo rasante y los hidroaviones.
+Hidroavión · nave de vuelo rasante	Aeronave proyectada para maniobrar sobre el agua · nave multimodal que en su modo principal vuela muy cerca de la superficie (WIG).
+Eslora y manga	Eslora total y manga máxima.
+A la vista	Solo cuando uno puede ser observado visualmente desde el otro (no por radar).
+6.2
+Quién se aparta de quién
+1. Sin gobierno
+2 rojas
+2. Maniobra restringida
+roja-blanca-roja
+3. Restringido por calado
+3 rojas · no estorbar
+4. Pesca
+verde/blanca · roja/blanca
+5. Vela
+solo costados y alcance
+6. Propulsión mecánica
+tope, costados, alcance
+preferencia
+Cada buque se aparta de los que están por encima de él. Por debajo de todos, los hidroaviones y naves WIG.
+Por encima de la escala. El buque que alcanza se aparta siempre (regla 13), sea del tipo que sea: un velero que alcanza a una lancha se aparta. En canales angostos y dispositivos de separación de tráfico, los buques de menos de 20 m y los de vela no estorbarán a los que solo pueden navegar dentro (reglas 9 y 10).
+SITUACIÓN	REGLA	QUIÉN MANIOBRA
+Alcance: te acercas desde más de 22,5° a popa del través del otro (de noche solo verías su luz de alcance)	13	El que alcanza
+Vuelta encontrada: dos de motor proa con proa (ves sus dos costados o sus palos en línea)	14	Los dos caen a estribor
+Cruce de dos de motor	15	El que tiene al otro por su estribor
+Dos veleros, amuras distintas	12	El amurado a babor
+Dos veleros, misma amura	12	El de barlovento
+Velero amurado a babor que no sabe por dónde recibe el viento el otro	12	Se aparta igualmente
+Regla 5, vigilancia: mantener siempre vigilancia visual y auditiva, y con todos los medios disponibles.
+Regla 6, velocidad de seguridad: la que permite parar o maniobrar a tiempo según visibilidad, tráfico, maniobrabilidad, viento, mar y corrientes.
+Regla 7, riesgo de abordaje: existe si la demora de un buque que se acerca no cambia de forma apreciable. Si hay duda, se considera que existe.
+Regla 8, maniobras: con antelación, amplias y claras. Nada de pequeños cambios sucesivos. Reducir velocidad también es una maniobra.
+Regla 16: el que cede el paso maniobra pronto y franco. Regla 17: el que sigue a rumbo mantiene rumbo y velocidad; puede maniobrar si el otro no lo hace y debe hacerlo si ya no basta la maniobra del otro. Si es de motor, evita caer a babor ante un buque por su babor.
+Regla 19, visibilidad reducida y contacto solo por radar: no caer a babor ante un buque a proa del través (salvo que lo alcances) ni caer hacia un buque por el través o a popa. Si oyes una señal de niebla a proa del través: reducir al mínimo para gobernar y, si hace falta, parar.
+INTERACTIVO · ¿QUIÉN MANIOBRA?
+TÚ (motor)
+velero
+
+Alcanzas a un velero que va más despacio, por su popa.
+
+Me aparto yo
+Se aparta el otro: yo mantengo rumbo y velocidad
+Los dos caemos a estribor
+
+Otra situación
+6.3
+Reglas 1 a 10 en detalle
+
+El RIPA (COLREG) se firmó en Londres el 20 de octubre de 1972 y entró en vigor el 15 de julio de 1977. Tiene 37 reglas. Según el manual, es el tema que explica la gran mayoría de suspensos.
+
+REGLA	LO ESENCIAL
+1 · Ámbito	Todos los buques en alta mar y en las aguas comunicadas con ella navegables por buques de mar (también aguas interiores). Las autoridades pueden dictar reglas especiales para radas, puertos, ríos o lagos, lo más parecidas posible al RIPA; y los Estados, luces o señales extra para buques de guerra, convoyes o pesca en flotilla. La OMI aprueba los dispositivos de separación de tráfico. Buques especiales: lo más parecido posible que su Gobierno decida.
+2 · Responsabilidad	Cumplir el RIPA no exime de las consecuencias de una negligencia ni de las precauciones de la buena práctica marinera. Para evitar un peligro inmediato se puede apartar del Reglamento.
+4–5	Las reglas de rumbo y gobierno valen en cualquier condición de visibilidad. Vigilancia visual y auditiva siempre, con todos los medios.
+6 · Velocidad de seguridad	Todos: visibilidad, densidad de tráfico (pesqueros incluidos), maniobrabilidad (distancia de parada, giro), de noche el resplandor de luces de tierra o propias, viento, mar, corriente y peligros, y el calado respecto a la sonda. Con radar además: sus limitaciones, la escala en uso, ecos perdidos por la mar o la lluvia, buques pequeños o hielos que no detecta, y que permite medir mejor la visibilidad.
+7 · Riesgo de abordaje	Usar todos los medios, el radar a larga distancia y el punteo. Nada de suposiciones con información escasa, sobre todo de radar. Hay riesgo si la demora no cambia; y puede haberlo aunque cambie, con un buque grande, un remolque o a muy corta distancia.
+8 · Maniobras	Claras, con antelación y de buen marino; cambios amplios, visibles a ojo o por radar, sin pequeños cambios sucesivos. Con espacio, cambiar solo el rumbo puede ser lo más eficaz si se hace pronto y no crea otra aproximación. Comprobar la eficacia hasta que el otro esté pasado y en franquía. Si hace falta, reducir o parar. Quien debe «no estorbar» maniobra pronto, y sigue obligado aunque llegue a haber riesgo; el que no debe ser estorbado sigue obligado por estas reglas.
+9 · Canales angostos	Navegar lo más cerca posible del límite de estribor. Los de <20 m, los de vela y los pesqueros no estorbarán a quien solo puede navegar dentro. No cruzar si se estorba (el otro puede dar la señal de duda, regla 34d). Para adelantar, señales de la regla 34c y conformidad del alcanzado; sigue vigente la regla 13. En recodos sin visibilidad, la señal de la regla 34e. Evitar fondear.
+10 · Dispositivos de separación de tráfico	Seguir la vía en su dirección, fuera de la zona o línea de separación; entrar y salir por los extremos o, por los lados, con el menor ángulo posible. Cruzar lo más perpendicular posible. Quien pueda usar la vía no usa la zona de navegación costera, salvo <20 m, vela y pesca, o para ir o venir de un puerto o evitar un peligro. No entrar en la zona de separación salvo emergencia o para pescar. Precaución en los extremos; evitar fondear dentro. Los que no lo usan, se apartan con el mayor margen. Pesca, <20 m y vela no estorban a los que siguen la vía. Exentos, en lo necesario, los de maniobra restringida trabajando en él (seguridad o cables).
+6.4
+Reglas 11 a 19 en detalle
+Regla 11: la sección II (reglas 12 a 18) solo se aplica a buques a la vista uno del otro.
+Regla 12 · veleros: amuras distintas, se aparta el que recibe el viento por babor; misma amura, el de barlovento; si un amurado a babor ve a otro a barlovento y no sabe su amura, se aparta (suele darse con viento de popa). Banda de barlovento = la contraria a la que lleva cazada la mayor (en aparejo cruzado, la mayor de cuchillo).
+Regla 13 · alcance: se aparta el que alcanza, prevalece sobre las secciones I y II. Viene desde más de 22,5° a popa del través: de noche solo vería la luz de alcance. Con duda, se considera que alcanza. Ningún cambio posterior de marcación lo convierte en cruce hasta que esté adelantado y en franquía.
+Regla 14 · vuelta encontrada: dos de motor a rumbos opuestos o casi; de noche ves sus topes enfilados y/o los dos costados. Ambos caen a estribor y pasan babor con babor. Con duda, se supone que existe.
+Regla 15 · cruce: se aparta el que tiene al otro por su estribor y, si puede, evita cortarle la proa.
+Regla 16: el que cede, pronto y de forma decidida. Regla 17: el que sigue a rumbo mantiene rumbo y velocidad; puede maniobrar en cuanto vea que el otro no lo hace; debe maniobrar si ya no basta la del otro. Siendo de motor en un cruce, no cae a babor por un buque que tenga por su babor. Nada de esto exime al que cede.
+Regla 18 · categorías (sin perjuicio de las reglas 9, 10 y 13): el de motor se aparta de sin gobierno, maniobra restringida, pesca y vela. El de vela, de sin gobierno, maniobra restringida y pesca. El de pesca, en lo posible, de sin gobierno y maniobra restringida. Todos salvo sin gobierno y maniobra restringida evitan estorbar al restringido por su calado que muestre las señales de la regla 28; éste navega con particular precaución. El hidroavión amarado se aleja de todos y, si hay riesgo, cumple estas reglas. Las naves de vuelo rasante despegando, aterrizando o volando bajo se apartan de todos; navegando en superficie, como un buque de motor.
+Regla 19 · visibilidad reducida (buques que no están a la vista): velocidad de seguridad y máquinas listas. Contacto solo por radar: si hay aproximación excesiva, maniobrar con antelación evitando caer a babor por un buque a proa del través (salvo que lo alcances) y caer hacia uno por el través o a popa. Si oyes una señal de niebla a proa del través o no puedes evitar la aproximación: velocidad mínima de gobierno o parar, y extrema precaución.
+A bordo. Un mercante que se acerca por tu estribor con riesgo aparente puede saber por su radar que te pasará por la proa con margen. Vigila la demora: si cambia de forma clara, no hay riesgo.
+6.5
+Reglas 20 a 25: definiciones y buques
+Regla 20: las luces, con cualquier tiempo, de la puesta a la salida del sol (ninguna otra que pueda confundirse o dificultar la vigilancia); también de día con visibilidad reducida, y cuando se considere necesario. Las marcas, de día.
+Regla 21: tope blanca en crujía, 225° (20 cuartas); costados verde Er y roja Br, 112,5° (10 cuartas) cada una, y combinadas en un farol en crujía si <20 m; alcance blanca, 135° (12 cuartas), 67,5° (6 cuartas) a cada banda desde la popa; remolque amarilla como la de alcance; todo horizonte 360°; centelleante, 120 o más por minuto.
+Regla 22 (alcances): el manual la marca como no examinable; la tabla de la sección anterior basta como referencia.
+BUQUE	LUCES
+Motor ≥50 m	Tope a proa, otro a popa más alto, costados y alcance. De día no lleva marca.
+Motor <50 m	Un tope (el segundo es opcional), costados y alcance
+Motor <12 m	Puede llevar blanca todo horizonte + costados. La blanca puede ir fuera de crujía si los costados van en farol combinado en crujía.
+Motor <7 m y ≤7 nudos	Blanca todo horizonte y, si es posible, costados
+Aerodeslizador sin desplazamiento	Las de motor + amarilla centelleante todo horizonte
+Nave de vuelo rasante (despegando, aterrizando o en vuelo bajo)	Las de motor + roja centelleante todo horizonte de gran intensidad
+Remolcando por popa	2 topes en vertical (3 si el remolque mide más de 200 m, desde la popa del remolcador al extremo del remolcado), costados, alcance y remolque amarilla sobre la de alcance; bicono de día si >200 m. Si ≥50 m, también el tope de popa.
+Empujando o remolcando abarloado	2 topes en vertical, costados y alcance (sin luz amarilla). Unidad rígida empujador-empujado: como un solo buque de motor.
+Remolcado	Costados y alcance; bicono si >200 m. Empujado: costados a proa. Abarloado: alcance y costados a proa. Varios en grupo: como un solo buque.
+Objeto remolcado poco visible o semisumergido	Manga <25 m: blanca todo horizonte a proa y a popa (los dragones no llevan la de proa). ≥25 m: otras dos en los extremos de la manga. >100 m de largo: más blancas, a ≤100 m entre sí. Bicono en el extremo de popa y otro a proa si >200 m.
+Remolque de auxilio imprevisto	Un buque que no remolca normalmente no está obligado a esas luces si remolca a otro en peligro: iluminará el cabo de remolque (regla 36).
+Vela	Costados y alcance. <20 m: pueden ir en un farol combinado en el tope del palo. Opcional: roja sobre verde todo horizonte en el tope, pero nunca con el farol combinado. <7 m: si no puede, linterna de luz blanca a mano.
+Remo	Las de vela o una linterna de luz blanca a mano
+Vela a motor	Las de motor; de día cono vértice abajo a proa
+6.6
+Luces de navegación: sectores y alcances
+INTERACTIVO · RODEA EL BARCO
+tope 225°
+verde 112,5°
+roja 112,5°
+alcance 135°
+Tu posición respecto a su proa: 20° por su estribor
+
+Ves: tope blanca + verde
+
+Si solo ves la luz de alcance blanca, estás a más de 22,5° a popa de su través: si te acercas, le estás alcanzando.
+
+LUZ	SECTOR	≥ 50 M	12–50 M	< 12 M
+Tope, blanca	225° (de proa a 22,5° a popa del través)	6 mn	5 mn (3 si <20 m)	2 mn
+Costado, roja Br / verde Er	112,5° cada una	3	2	1
+Alcance, blanca	135° hacia popa	3	2	2
+Remolque, amarilla	135° (sobre la de alcance)	3	2	2
+Todo horizonte	360°	3	2	2
+
+Las luces se encienden de la puesta a la salida del sol y con visibilidad reducida. Las marcas (esferas, conos…) se muestran de día.
+
+6.7
+Reconocer buques por sus luces y marcas
+INTERACTIVO · SIMULADOR DE LUCES Y MARCAS
+Propulsión mecánica, menos de 50 m
+Propulsión mecánica, 50 m o más
+Propulsión mecánica, menos de 12 m
+Velero en navegación
+Velero navegando también a motor
+Sin gobierno, sin arrancada
+Sin gobierno, con arrancada
+Maniobra restringida, con arrancada
+Restringido por su calado
+Pesquero de arrastre, con arrancada
+Pesquero (no arrastre), con arrancada
+Práctico en servicio
+Remolcador, remolque de 200 m o menos
+Remolcador, remolque de más de 200 m
+Fondeado, menos de 50 m
+Fondeado, 50 m o más
+Varado
+Dragaminas
+Por la proa
+Por estribor
+Por la popa
+Por babor
+Noche
+Día
+
+Propulsión mecánica, menos de 50 m. Una luz de tope a proa, costados y alcance.
+
+BUQUE	NOCHE (TODO HORIZONTE, EN VERTICAL)	DÍA	TRUCO
+Sin gobierno	Roja, roja	2 esferas	«Rojo sobre rojo, peligro de muerte»
+Maniobra restringida	Roja, blanca, roja	Esfera, bicono, esfera	Mismo dibujo de día y de noche
+Restringido por calado	Roja, roja, roja	Cilindro	Tres rojas: «tres veces cuidado»
+Arrastrero	Verde sobre blanca	2 conos vértice con vértice	«Verde sobre blanco, arrastrero»
+Pesquero (no arrastre)	Roja sobre blanca	2 conos vértice con vértice	«Rojo sobre blanco, pesca al cerco»
+Práctico	Blanca sobre roja	—	«Blanco sobre rojo, práctico a bordo»
+Fondeado	Blanca a proa (y a popa si ≥50 m)	1 esfera	
+Varado	Fondeo + roja, roja	3 esferas	
+Velero a motor	Las de motor	Cono vértice abajo	
+Remolque >200 m	3 topes en vertical + amarilla	Bicono	
+Dragaminas	3 verdes en triángulo	3 esferas	Mantente a 1000 m
+INTERACTIVO · ¿QUÉ BUQUE VES?
+
+De noche, visto por la popa.
+
+Velero navegando también a motor
+Dragaminas
+Pesquero (no arrastre), con arrancada
+Remolcador, remolque de 200 m o menos
+
+Otro
+6.8
+Señales acústicas
+
+Una pitada corta dura ≈ 1 s y una larga de 4 a 6 s. Pulsa cada una para oírla (acelerada).
+
+•
+Caigo a estribor
+Maniobra (regla 34)
+• •
+Caigo a babor
+Maniobra
+• • •
+Estoy dando atrás
+Maniobra
+• • • • •
+No entiendo sus intenciones (duda)
+Al menos 5 cortas y rápidas
+▬ ▬ •
+Pretendo alcanzarle por su estribor
+Canal angosto
+▬ ▬ • •
+Pretendo alcanzarle por su babor
+Canal angosto
+▬ • ▬ •
+Conforme, puede alcanzarme
+Canal angosto
+▬
+Me acerco a un recodo
+Canal angosto · también, buque de motor con arrancada en niebla
+▬ ▬
+Buque de motor parado, sin arrancada
+Visibilidad reducida · cada 2 min
+▬ • •
+Sin gobierno, maniobra restringida, calado, vela, pesca o remolcando
+Visibilidad reducida · cada 2 min
+▬ • • •
+Buque remolcado (tripulado)
+Visibilidad reducida · tras la del remolcador
+• ▬ •
+Buque fondeado: aviso de su posición
+Opcional, además de la campana
+Fondeado en niebla: repique rápido de campana durante 5 s cada minuto (≥100 m: además gong a popa). Varado: 3 campanadas separadas + repique + 3 campanadas.
+Equipo acústico (regla 33): ≥12 m, pito; ≥20 m, pito y campana; ≥100 m, además gong. Menos de 12 m: cualquier medio eficaz.
+Señal luminosa (regla 34): los destellos de una luz blanca pueden acompañar a las pitadas de maniobra con el mismo significado.
+6.9
+Reglas 26 a 37 en detalle
+Pesca, sin gobierno y maniobra restringida (26–27)
+Pesca (en navegación o fondeado), solo estas luces. Arrastre: verde sobre blanca; tope a popa más alto que la verde (opcional <50 m); con arrancada, costados y alcance. No arrastre: roja sobre blanca; si el aparejo se extiende más de 150 m, blanca todo horizonte o cono vértice arriba hacia el aparejo; con arrancada, costados y alcance. De día, ambos: dos conos unidos por los vértices. Fuera de faena, como cualquier buque de su eslora. El anexo II añade señales para pesqueros faenando juntos.
+Sin gobierno: dos rojas todo horizonte en vertical o dos bolas; con arrancada, más costados y alcance (nunca tope).
+Maniobra restringida (salvo dragaminas): roja-blanca-roja o bola-bicono-bola; con arrancada, más tope(s), costados y alcance; fondeado, más las de fondeo. Remolque que restringe en extremo: las de remolque (24a) más roja-blanca-roja.
+Dragado u operaciones submarinas con obstrucción: además, dos rojas o dos bolas en la banda de la obstrucción y dos verdes o dos biconos en la banda por la que se puede pasar. Fondeados, estas en lugar de las de fondeo.
+Buceo en buque pequeño: roja-blanca-roja y una bandera A rígida de al menos 1 m visible en todo el horizonte.
+Dragaminas: además de las de motor o fondeo, tres verdes o tres bolas, una en el tope del palo de proa y una en cada penol de su verga. Peligroso acercarse a menos de 1.000 m.
+Los de menos de 12 m no están obligados a las luces de la regla 27, salvo los de buceo. Estas señales no son de socorro (anexo IV).
+Calado, práctico, fondeados, varados e hidroaviones (28–31)
+Restringido por su calado: luces de motor + tres rojas en vertical o un cilindro (es potestativo: «podrá exhibir»).
+Práctico en servicio: blanca sobre roja en el tope; navegando, más costados y alcance; fondeado, más las de fondeo. Fuera de servicio, como cualquier buque de su eslora.
+Fondeado: a proa blanca todo horizonte o bola; a popa otra blanca más baja. <50 m: puede llevar solo una blanca. Luces de cubierta: opcionales, obligatorias con ≥100 m. <7 m, fuera de canales, fondeaderos y zonas de tráfico: no está obligado.
+Varado: las de fondeo + dos rojas en vertical o tres bolas. <12 m: no obligado a las rojas ni a las bolas.
+Hidroaviones y WIG: si no pueden llevar las luces reglamentarias, las más parecidas posibles.
+Señales acústicas y luminosas (32–36)
+Pitada corta ≈ 1 s; larga 4–6 s. Equipo: ≥12 m pito; ≥20 m pito y campana; ≥100 m además gong. Campana y gong pueden sustituirse por equipos equivalentes que puedan accionarse a mano. <12 m: otro medio eficaz.
+Maniobra (buques de motor a la vista): 1 corta estribor, 2 babor, 3 atrás. Pueden acompañarse de destellos de luz blanca todo horizonte visible a 5 mn: cada uno de ≈1 s, con ≈1 s entre ellos y al menos 10 s entre señales.
+Canal angosto: 2 largas + 1 corta, «le alcanzo por su estribor»; 2 largas + 2 cortas, «por su babor»; conformidad: larga-corta-larga-corta. Duda: al menos 5 cortas y rápidas (o 5 destellos). Recodo: una larga, contestada con otra larga. Si los pitos distan más de 100 m entre sí, solo se usa uno.
+VISIBILIDAD REDUCIDA (REGLA 35)	SEÑAL
+Motor con arrancada	1 larga cada ≤2 min
+Motor parado, sin arrancada	2 largas separadas por ≈2 s, cada ≤2 min
+Sin gobierno, maniobra restringida, calado, vela, pesca, remolcando o empujando	1 larga + 2 cortas cada ≤2 min. Pesqueros y maniobra restringida fondeados, la misma.
+Remolcado tripulado (el último)	1 larga + 3 cortas cada ≤2 min, justo después de la del remolcador
+Unidad rígida empujador-empujado	Como un buque de motor
+Fondeado	Repique de campana ≈5 s cada ≤1 min. ≥100 m: campana a proa y luego gong a popa ≈5 s. Opcional: corta-larga-corta para avisar a quien se acerque.
+Varado	La de fondeado + 3 golpes de campana claros antes y después del repique; puede añadir una señal de pito.
+12–20 m fondeado o varado	Campana no obligatoria; si no, otra señal eficaz cada ≤2 min
+<12 m	No obligado; si no, otra señal eficaz cada ≤2 min
+Práctico en servicio	Además puede dar 4 cortas de identificación
+
+Regla 36: para llamar la atención, señales que no se confundan con otras o el haz del proyector hacia el peligro, sin molestar. Se evitan las luces intermitentes o giratorias de gran intensidad (estroboscópicas).
+
+Señales de peligro (regla 37, anexo IV)
+
+Además de las de la última sección: cohetes o granadas que despiden estrellas rojas uno a uno a cortos intervalos; alerta LSD en el canal 70 o en 2187,5, 8414,5, 4207,5, 6312, 12577 o 16804,5 kHz; alerta buque-costera por Inmarsat u otro servicio por satélite; radiobalizas; y respondedores de radar de las embarcaciones de supervivencia. Para identificación desde el aire: lona naranja con un cuadrado y un círculo negros, y colorante en el agua. Prohibido usarlas salvo en peligro, o usar señales que puedan confundirse con ellas.
+
+6.10
+Señales de socorro (anexo IV)
+SOS (··· ——— ···) por cualquier medio
+«MAYDAY» por radio
+Cohete con paracaídas o bengala de mano roja
+Humo naranja
+Subir y bajar lentamente los brazos extendidos
+Banderas N sobre C
+Una bandera cuadra con una esfera encima o debajo
+Sonido continuo con la bocina
+Cañonazos a intervalos de 1 min
+Llamas a bordo (un barril ardiendo)
+Radiobaliza o alerta LSD
+Colorante en el agua
+Ojo en el examen. Una luz blanca o una bengala blanca no es señal de socorro: sirve para llamar la atención. La de socorro es roja.
+PARA FIJAR CONOCIMIENTOS
+Preguntas de examen del tema
+
+375 preguntas en el banco de este tema. Elige cuántas hacer; las que no has visto y las que fallaste se pueden repasar aparte.
+
+Tu progreso en este tema: 0/375 vistas · 0 dominadas.
+
+Preguntas:
+Todas (2061)
+Exámenes reales (956)
+Banco de la guía (1105)
+10 preguntas
+25 preguntas
+Todas (375)
+No vistas (375)
+Mis fallos (0)
+Repetidas en exámenes (29)
+PREGUNTA 1 DE 10 · NUEVA
+0 aciertos
+
+Un buque fondeado de 40 m puede exhibir…
+
+A
+Una sola blanca todo horizonte en el lugar más visible
+B
+Dos blancas
+C
+Nada
+D
+Una roja
+Terminar aquí
+← 5. Balizamiento
+7. Maniobra y navegación →

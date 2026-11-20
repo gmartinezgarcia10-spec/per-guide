@@ -1,0 +1,11 @@
+{
+  "tema1.asTxt": "Calado medio = (1.10 + 1.30) / 2 = 1.20 m\nAsiento = 1.30 − 1.10 = +0.20 m → apopado",
+  "tema2.bTxt.initial": "✓ Hay sitio: cada uno bornea en su círculo.",
+  "tema2.bTxt.90": "✓ Hay sitio: cada uno bornea en su círculo.",
+  "tema2.bTxt.lejos": "✓ Hay sitio: cada uno bornea en su círculo.",
+  "tema3.zoneInfo.1": "Zona 1\n\nNavegación ilimitada\n\nChaleco 275 N, uno por persona, con luz\n6 bengalas de mano\n6 cohetes con paracaídas\n2 fumígenas flotantes\nBalsa salvavidas para todos\n2 aros salvavidas: uno con luz y rabiza y otro sin ellas",
+  "tema3.zoneInfo.4": "Zona 4\n\nHasta 12 mn de la costa\n\nChaleco 150 N, uno por persona, con luz (se puede prescindir de ella si solo navegas de día)\n3 bengalas de mano\n3 cohetes con paracaídas\nAro salvavidas con luz y rabiza\n\nEs el máximo con el PER (12 mn).",
+  "tema4.czInfo.buceo": "Bandera de buceo. Bandera A (Alfa) del Código Internacional (blanca y azul, en forma de corneta), o la Bravo modificada (roja con franja diagonal blanca). Salvo la embarcación de apoyo, hay que mantenerse a 50 m como mínimo de la zona de buceo y reducir la velocidad.",
+  "tema5.selTxt.9": "Azul 1 s y amarilla 1 s, con 0,5 s de oscuridad entre ambas: peligro nuevo",
+  "tema10.mzSteps": "1. Corrección por presión: (1013 − 1003) cm = +0,10 m\n2. Altura corregida: 2,31 + 0,10 = 2,41 m\n3. Sonda: 6,2 + 2,41 = 8,61 m"
+}
