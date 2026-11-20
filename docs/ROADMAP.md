@@ -17,7 +17,16 @@ Exam: **Sat 12 Dec 2026** (GVA Valencia). Status is updated at the end of every 
 | F8 | ARCHITECTURE, CONTENT-GUIDE, ADRs, slim CLAUDE.md, move old files to `legacy/` | done |
 
 ## Phase 2: Learning core
-Spaced repetition already exists (1/3/7/14/30-day reviews + mistakes queue) and is keyed by stable IDs since F6: upgrade the scheduler · rewrite `src/legacy/app.js` (quiz engine, router, views) as typed modules, using `src/exam/spec.ts` for the exam date and pass rule (still hard-coded there) · fill the 39 empty explanations · weak-spot queues · readiness score / pass probability · PNB fallback result in the simulator · explanations linked to theory sections.
+
+Already in the app (found while splitting it): spaced repetition (1/3/7/14/30-day boxes and a mistakes queue), a pass-probability forecast (Bayesian per topic plus a 4,000-exam Monte Carlo, with "which topic helps most"), real sittings, weak-spot mocks.
+
+| Step | What | Status |
+|---|---|---|
+| P1 | Exam logic as typed, tested modules: scoring (`spec.ts`), mock assembly (`assemble.ts`), spaced repetition (`learn/srs.ts`), exam date; `app.js` calls them | **in progress**, branch `p2-exam-logic` |
+| P2 | Pass forecast (`forecast()` in `app.js`) → typed module with seeded-random tests; use the spec's pass rule | todo |
+| P3 | PNB result when a mock fails PER: needs the exact rule for how GVA grades PNB from a PER paper (which 27 questions count). Confirm the source first | todo |
+| P4 | Fill the 39 empty explanations (`/content-audit` per topic) | todo |
+| P5 | Rewrite the quiz and exam views and the router from `app.js` as typed modules | todo |
 
 ## Phase 3: Interactive training
 Chart-work trainer (course, current, compass correction) · lights, shapes and sound-signal drills (RIPA) · IALA A buoyage drills.

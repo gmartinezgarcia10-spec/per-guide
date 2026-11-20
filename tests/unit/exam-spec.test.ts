@@ -52,8 +52,9 @@ describe("scoreExam", () => {
     expect(r.failedMinimums).toEqual(["baliz", "ripa", "carta"]);
   });
 
-  it("rejects impossible counts", () => {
-    expect(() => scoreExam({ ripa: 11 })).toThrow(RangeError);
+  it("rejects counts that aren't counts (more than the blueprint is fine: real papers vary)", () => {
     expect(() => scoreExam({ nom: -1 })).toThrow(RangeError);
+    expect(() => scoreExam({ ripa: 2.5 })).toThrow(RangeError);
+    expect(() => scoreExam({ ripa: 11 })).not.toThrow();
   });
 });
