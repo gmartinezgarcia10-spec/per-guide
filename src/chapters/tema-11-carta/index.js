@@ -1,34 +1,12 @@
 // @ts-nocheck
-/* Tema 11: CH[11] = {intro, sections, init}. Moved verbatim from src/legacy/chapters.js in F5.
+/* Tema 11: CH[11] = {intro, sections, init}. Moved verbatim from src/legacy/chapters.js in F5;
+   the 11.2 practice chart was replaced by src/chart/practice.ts in C1.
    Shared helpers come from window.PER (src/core/per.ts). */
 import { sg } from "../tema-10-teoria/index.js";
+import { initPractice, practiceHTML } from "../../chart/practice.ts";
 const {$,$$,CH,boatTop,r,n360,deg,pm,rad}=PER;
 
 /* ================= TEMA 11 · CARTA ================= */
-/* practice chart: lat 36°00'–36°11' N, long 5°40'–5°20' W ; Mercator px: 28/min long, 34.55/min lat */
-const CX0=20,CY0=400,KL=28,KP=34.55,LAT0=36*60,LON0=-(5*60+40);
-const toXY=(latm,lonm)=>[CX0+(lonm-LON0)*KL,CY0-(latm-LAT0)*KP];
-const toLL=(x,y)=>[LAT0+(CY0-y)/KP,LON0+(x-CX0)/KL];
-const fLat=m=>{const d=Math.floor(m/60),mm=m-d*60;return `${d}° ${mm.toFixed(1).replace(".",",").padStart(4,"0")}′ N`};
-const fLon=m=>{const a=Math.abs(m);const d=Math.floor(a/60),mm=a-d*60;return `${String(d).padStart(3,"0")}° ${mm.toFixed(1).replace(".",",").padStart(4,"0")}′ W`};
-const LH=[{n:"Faro Pta. Alta",lat:LAT0+9.2,lon:LON0+4.5,c:"Fl(2) 10s 15M"},{n:"Faro C. Gaviota",lat:LAT0+8.6,lon:LON0+15.8,c:"Oc 4s 12M"},{n:"Torre del Moro",lat:LAT0+10.1,lon:LON0+10.2,c:"(visible)"}];
-function chartSVG(){
-  let s=`<svg viewBox="0 0 600 420" id="chSvg" role="img" aria-label="Carta de práctica" style="max-height:none;touch-action:manipulation"><rect width="600" height="420" fill="var(--water)"/>`;
-  /* coast */
-  const coast=[[0,0],[600,0],[600,90],[560,96],[520,130],[470,124],[440,108],[400,104],[370,80],[330,90],[300,74],[250,82],[200,96],[180,128],[150,120],[110,88],[70,100],[40,80],[20,84],[20,0]];
-  s+=`<path d="M${coast.map(p=>p.join(" ")).join(" L")} Z" fill="var(--land)" stroke="var(--ink)" stroke-width="1.4"/>`;
-  s+=`<path d="M20 130 Q 120 160 200 150 Q 300 140 420 170 Q 520 190 580 160" fill="none" stroke="var(--sea)" stroke-width="1" stroke-dasharray="4 3"/><text x="300" y="150" font-size="9" fill="var(--sea)">10</text><text x="160" y="250" font-size="11" fill="var(--sea)">24  ·  31 A</text><text x="420" y="300" font-size="11" fill="var(--sea)">48 F</text><text x="300" y="360" font-size="11" fill="var(--sea)">63</text>`;
-  /* scales */
-  for(let i=0;i<=11;i++){const y=CY0-i*KP;s+=`<line x1="20" y1="${y}" x2="${i%1?26:30}" y2="${y}" stroke="var(--ink)"/>${i%2===0&&i>0?`<text x="34" y="${y+4}" font-size="9" fill="var(--ink)">36°${String(i).padStart(2,"0")}′</text>`:""}`;for(let k=1;k<10&&i<11;k++){const yy=y-k*KP/10;s+=`<line x1="20" y1="${yy}" x2="24" y2="${yy}" stroke="var(--ink)" stroke-width=".6"/>`}}
-  for(let i=0;i<=20;i++){const x=CX0+i*KL;s+=`<line x1="${x}" y1="410" x2="${x}" y2="402" stroke="var(--ink)"/>${i%4===0?`<text x="${x}" y="398" font-size="9" text-anchor="middle" fill="var(--ink)">5°${String(40-i).padStart(2,"0")}′W</text>`:""}`}
-  s+=`<line x1="20" y1="0" x2="20" y2="420" stroke="var(--ink)" stroke-width="1.4"/><line x1="0" y1="410" x2="600" y2="410" stroke="var(--ink)" stroke-width="1.4"/>`;
-  /* grid lines */
-  [2,4,6,8,10].forEach(i=>s+=`<line x1="20" y1="${CY0-i*KP}" x2="600" y2="${CY0-i*KP}" stroke="var(--ink)" stroke-width=".3" opacity=".5"/>`);[4,8,12,16].forEach(i=>s+=`<line x1="${CX0+i*KL}" y1="0" x2="${CX0+i*KL}" y2="410" stroke="var(--ink)" stroke-width=".3" opacity=".5"/>`);
-  LH.forEach((l,i)=>{const [x,y]=toXY(l.lat,l.lon);s+=`<g><circle cx="${x}" cy="${y}" r="4" fill="var(--accent)"/><path d="M${x} ${y} l14 -10 a 16 16 0 0 1 -4 18 z" fill="var(--accent)" opacity=".6"/><text x="${x+8}" y="${y-12}" font-size="10" font-weight="700" fill="var(--ink)">${l.n}</text><text x="${x+8}" y="${y-2}" font-size="9" fill="var(--accent)">${l.c}</text></g>`});
-  s+=`<g transform="translate(520 330)"><circle r="40" fill="none" stroke="var(--accent)"/><circle r="28" fill="none" stroke="var(--accent)" stroke-dasharray="2 2"/><line x1="0" y1="-44" x2="0" y2="44" stroke="var(--accent)"/><line x1="-44" y1="0" x2="44" y2="0" stroke="var(--accent)"/><text y="-46" text-anchor="middle" font-size="9" fill="var(--accent)">N</text><text y="56" text-anchor="middle" font-size="8" fill="var(--accent)">dm 2°W (2026)</text></g>`;
-  s+=`<text x="590" y="414" font-size="8" text-anchor="end" fill="var(--muted)">Carta de práctica, no para navegar</text>`;
-  return s+`<g id="chLayer"></g></svg>`;
-}
 const DRILLS={
  rarv:{name:"Ra → Rv (de aguja a verdadero)",gen(){const ra=r(0,359),dm=r(-6,4)||-2,dv=r(-5,5);const ct=dm+dv;return{q:`Gobiernas Ra = ${deg(ra)}. dm = ${sg(dm)}, Δ = ${pm(dv)}. ¿Rv?`,ans:n360(ra+ct),unit:"°",steps:`Ct = dm + Δ = ${pm(dm)} ${pm(dv)} = ${pm(ct)}\nRv = Ra + Ct = ${deg(ra)} ${pm(ct)} = ${deg(ra+ct)}`}}},
  rvra:{name:"Rv → Ra (de verdadero a aguja)",gen(){const rv=r(0,359),dm=r(-6,4)||-3,dv=r(-5,5);const ct=dm+dv;return{q:`Necesitas Rv = ${deg(rv)}. dm = ${sg(dm)}, Δ = ${pm(dv)}. ¿Ra a gobernar?`,ans:n360(rv-ct),unit:"°",steps:`Ct = ${pm(dm)} ${pm(dv)} = ${pm(ct)}\nRa = Rv − Ct = ${deg(rv)} − (${pm(ct)}) = ${deg(rv-ct)}`}}},
@@ -53,12 +31,7 @@ sections:[
 <div class="panel"><h4>Calculadora</h4><p>No programable, para D = V·t y las horas.</p></div>
 <div class="panel"><h4>Lo primero</h4><p>Corregir siempre la <b>dm al año del examen</b> con la rosa de la carta antes de pasar rumbos.</p></div>
 </div>`],
-["practica","Carta de práctica interactiva",`
-<div class="widget"><div class="eyebrow">Interactivo · trabaja sobre la carta</div>
-<div class="seg" id="chModes"><button class="btn sm" data-m="pos" aria-pressed="true">Leer coordenadas</button><button class="btn sm ghost" data-m="rd" aria-pressed="false">Rumbo y distancia</button><button class="btn sm ghost" data-m="dem" aria-pressed="false">Situación por 2 demoras</button></div>
-<figure style="margin:8px 0">${chartSVG()}</figure>
-<div id="chPanel" class="info"></div></div>
-<p class="small muted">Esta carta es inventada pero respeta la proyección Mercator: fíjate en que un minuto de latitud (lateral) mide más que uno de longitud (abajo). Por eso las distancias se miden siempre en la escala lateral.</p>`],
+["practica","Carta de práctica interactiva",practiceHTML()],
 ["trazado","Trazado paso a paso (ejemplos del manual)",`
 <ul>
 <li>En la carta los <b>meridianos</b> son rectas verticales con su longitud en los bordes de arriba y abajo; los <b>paralelos</b>, rectas horizontales con la latitud en los bordes laterales. En el hemisferio norte la latitud crece hacia arriba; la longitud W crece de derecha a izquierda (la E, al revés).</li>
@@ -121,41 +94,7 @@ sections:[
 <tr><td><b>dm</b></td><td>Este (NE)</td><td>Oeste (NW)</td></tr><tr><td><b>Δ</b></td><td>Este / «+»</td><td>Oeste / «−»</td></tr><tr><td><b>M</b> marcación</td><td>Estribor</td><td>Babor</td></tr><tr><td><b>Abt</b></td><td>Viento por babor</td><td>Viento por estribor</td></tr></table></div>`]
 ],
 init(root){
-  const svg=$("#chSvg",root),L=$("#chLayer",root),P=$("#chPanel",root);let mode="pos",pts=[];const DM=-2;
-  const pt=e=>{const b=svg.getBoundingClientRect();return [(e.clientX-b.left)*600/b.width,(e.clientY-b.top)*420/b.height]};
-  const dot=(x,y,c="var(--ink)")=>`<circle cx="${x}" cy="${y}" r="4.5" fill="${c}" stroke="#fff" stroke-width="1.5"/>`;
-  let ex=null;
-  const setMode=m=>{mode=m;pts=[];L.innerHTML="";$$("#chModes button",root).forEach(b=>{b.classList.toggle("ghost",b.dataset.m!==m);b.setAttribute("aria-pressed",b.dataset.m===m)});
-    if(m==="pos")P.innerHTML="Toca cualquier punto de la carta para leer su latitud y longitud.";
-    if(m==="rd")P.innerHTML="Toca el punto de salida y después el de llegada.";
-    if(m==="dem")newEx()};
-  const newEx=()=>{const lat=LAT0+r(25,55)/10,lon=LON0+r(60,150)/10;const [a,b]=[LH[0],LH[1]];
-    const bear=(l)=>{const dl=l.lat-lat,dL=(l.lon-lon)*Math.cos(rad(36.1));return n360(Math.atan2(dL,dl)*180/Math.PI)};
-    const dv=r(-4,4);const ct=DM+dv;ex={lat,lon,d1:Math.round(bear(a)),d2:Math.round(bear(b)),ct,dv};
-    P.innerHTML=`<p style="margin-top:0">Tomas simultáneamente <b>Da ${deg(ex.d1-ct)}</b> del ${a.n} y <b>Da ${deg(ex.d2-ct)}</b> del ${b.n}. dm = 2° W, Δ = ${pm(dv)}. Pasa a Dv y ajusta las dos demoras.</p>
-    <label class="small">Dv al ${a.n}: <b id="d1V"></b></label><input type="range" id="d1" min="0" max="359" value="${r(150,200)}">
-    <label class="small">Dv al ${b.n}: <b id="d2V"></b></label><input type="range" id="d2" min="0" max="359" value="${r(250,320)}">
-    <div class="row"><button class="btn sm" id="dChk">Comprobar</button><button class="btn sm ghost" id="dNew">Otro ejercicio</button></div><div id="dOut" class="small"></div>`;
-    const draw=()=>{const v1=+$("#d1",root).value,v2=+$("#d2",root).value;$("#d1V",root).textContent=deg(v1);$("#d2V",root).textContent=deg(v2);
-      const line=(l,dv)=>{const [x,y]=toXY(l.lat,l.lon);const op=n360(dv+180);const dx=Math.sin(rad(op)),dy=-Math.cos(rad(op));return {x,y,dx,dy,svg:`<line x1="${x}" y1="${y}" x2="${x+dx*500}" y2="${y+dy*500}" stroke="var(--accent)" stroke-width="1.6"/>`}};
-      const A=line(a,v1),B=line(b,v2);const den=A.dx*B.dy-A.dy*B.dx;let cut="";
-      if(Math.abs(den)>1e-6){const t=((B.x-A.x)*B.dy-(B.y-A.y)*B.dx)/den;const u=((B.x-A.x)*A.dy-(B.y-A.y)*A.dx)/den;if(t>0&&u>0){const cx=A.x+A.dx*t,cy=A.y+A.dy*t;cut=`<circle cx="${cx}" cy="${cy}" r="7" fill="none" stroke="var(--ink)" stroke-width="2"/>`;ex.cut=[cx,cy]}else ex.cut=null}
-      L.innerHTML=A.svg+B.svg+cut};
-    $("#d1",root).addEventListener("input",draw);$("#d2",root).addEventListener("input",draw);draw();
-    $("#dNew",root).addEventListener("click",newEx);
-    $("#dChk",root).addEventListener("click",()=>{const v1=+$("#d1",root).value,v2=+$("#d2",root).value;const ok=Math.abs(((v1-ex.d1+540)%360)-180)<=1&&Math.abs(((v2-ex.d2+540)%360)-180)<=1;const [tx,ty]=toXY(ex.lat,ex.lon);
-      $("#dOut",root).innerHTML=`<p class="${ok?"pass":"fail"}">${ok?"✓ Bien trazado.":"✗ Revisa las demoras."}</p><div class="steps">Ct = dm + Δ = −2° ${pm(ex.dv)} = ${pm(ex.ct)}\nDv1 = Da + Ct = ${deg(ex.d1-ex.ct)} ${pm(ex.ct)} = ${deg(ex.d1)}\nDv2 = ${deg(ex.d2-ex.ct)} ${pm(ex.ct)} = ${deg(ex.d2)}\nSituación: ${fLat(ex.lat)}  ${fLon(ex.lon)}</div>`;
-      L.innerHTML+=dot(tx,ty,"var(--ok)")})};
-  svg.addEventListener("click",e=>{const [x,y]=pt(e);if(y>405||x<20)return;const [la,lo]=toLL(x,y);
-    if(mode==="pos"){L.innerHTML=dot(x,y)+`<line x1="20" y1="${y}" x2="${x}" y2="${y}" stroke="var(--ink)" stroke-dasharray="3 3"/><line x1="${x}" y1="${y}" x2="${x}" y2="410" stroke="var(--ink)" stroke-dasharray="3 3"/>`;P.innerHTML=`<b class="mono">${fLat(la)}  ·  ${fLon(lo)}</b><br><span class="small muted">Latitud leída en la escala lateral; longitud en la inferior.</span>`}
-    if(mode==="rd"){pts.push([x,y,la,lo]);if(pts.length>2)pts=[pts[2]];
-      L.innerHTML=pts.map(p=>dot(p[0],p[1])).join("");
-      if(pts.length===2){const [a,b]=pts;const dl=b[2]-a[2],dL=(b[3]-a[3])*Math.cos(rad((a[2]+b[2])/120));const rv=n360(Math.atan2(dL,dl)*180/Math.PI),d=Math.hypot(dl,dL);
-        L.innerHTML+=`<line x1="${a[0]}" y1="${a[1]}" x2="${b[0]}" y2="${b[1]}" stroke="var(--accent)" stroke-width="2"/><line x1="12" y1="${a[1]}" x2="12" y2="${a[1]-d*KP}" stroke="var(--accent)" stroke-width="4"/>`;
-        P.innerHTML=`<b>Rv = ${deg(rv)}</b> · <b>distancia = ${d.toFixed(1).replace(".",",")} mn</b><br><span class="small">La barra magenta de la escala lateral es esa distancia medida en minutos de latitud. Rumbo de aguja con Δ = 0: Ra = Rv − dm = ${deg(rv+2)}.</span>`}
-      else P.innerHTML="Ahora toca el punto de llegada."}
-  });
-  $$("#chModes button",root).forEach(b=>b.addEventListener("click",()=>setMode(b.dataset.m)));setMode("pos");
+  initPractice(root);
   /* drills */
   const box=$("#drill",root);
   const newDrill=()=>{const p=DRILLS[$("#drillType",root).value].gen();

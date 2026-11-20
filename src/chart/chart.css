@@ -1,0 +1,235 @@
+/* Strait practice chart (src/chart/view.ts). Colours come from the app's tokens in app.css. */
+.ch-wrap {
+  position: relative;
+  margin: 8px 0;
+}
+.ch-wrap .ch-svg {
+  display: block;
+  width: 100%;
+  height: auto;
+  max-height: none;
+
+  user-select: none;
+  -webkit-user-select: none;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: var(--paper);
+  cursor: crosshair;
+}
+.ch-wrap .ch-svg:focus-visible {
+  outline: 3px solid var(--sea);
+  outline-offset: 2px;
+}
+.ch-paper {
+  fill: var(--paper);
+}
+.ch-water {
+  fill: var(--water);
+}
+.ch-land {
+  fill: var(--land);
+  stroke: var(--ink);
+  stroke-width: 0.8;
+  vector-effect: non-scaling-stroke;
+}
+.ch-frame {
+  fill: none;
+  stroke: var(--ink);
+  stroke-width: 1.2;
+}
+.ch-grid {
+  stroke: var(--ink);
+  stroke-width: 0.4;
+  opacity: 0.45;
+  vector-effect: non-scaling-stroke;
+}
+.ch-scale {
+  font: 9px var(--mono);
+  fill: var(--ink);
+}
+.ch-name {
+  font: 700 8.5px var(--body);
+  fill: var(--ink);
+  paint-order: stroke;
+  stroke: var(--paper);
+  stroke-width: 2.4px;
+  stroke-linejoin: round;
+}
+.ch-light {
+  font: 400 7.5px var(--mono);
+  fill: var(--accent);
+}
+.ch-flare {
+  fill: var(--accent);
+  opacity: 0.7;
+}
+.ch-dot {
+  fill: var(--accent);
+  stroke: var(--paper);
+  stroke-width: 0.8;
+}
+.ch-country {
+  font: 700 13px var(--display);
+  letter-spacing: 3px;
+  fill: var(--muted);
+}
+.ch-sea {
+  font: italic 11px var(--body);
+  fill: var(--sea);
+}
+.ch-credit {
+  font: 7px var(--body);
+  fill: var(--muted);
+}
+.ch-rose circle,
+.ch-rose line {
+  fill: none;
+  stroke: var(--sea);
+  stroke-width: 0.7;
+}
+.ch-rose text {
+  font: 7px var(--mono);
+  fill: var(--sea);
+}
+.ch-rose .ch-north {
+  font: 700 9px var(--body);
+}
+.ch-needle {
+  fill: var(--sea);
+  opacity: 0.6;
+}
+.ch-zoom {
+  display: flex;
+  justify-content: flex-end;
+  gap: 6px;
+  margin-top: 6px;
+}
+.ch-zoom .btn {
+  min-width: 44px;
+  min-height: 44px;
+  font-size: 15px;
+}
+.ch-cross {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  width: 22px;
+  height: 22px;
+  margin: -11px 0 0 -11px;
+  pointer-events: none;
+  opacity: 0;
+  background:
+    linear-gradient(var(--accent), var(--accent)) center / 2px 100% no-repeat,
+    linear-gradient(var(--accent), var(--accent)) center / 100% 2px no-repeat;
+}
+.ch-wrap:has(.ch-svg:focus-visible) .ch-cross {
+  opacity: 0.8;
+}
+/* Drawing layer (practice widget and, later, the instruments). */
+.ch-layer .ch-track {
+  stroke: var(--accent);
+  stroke-width: 2;
+  fill: none;
+  vector-effect: non-scaling-stroke;
+}
+.ch-layer .ch-aux {
+  stroke: var(--ink);
+  stroke-width: 1;
+  stroke-dasharray: 4 3;
+  fill: none;
+  vector-effect: non-scaling-stroke;
+}
+.ch-layer .ch-bar {
+  stroke: var(--accent);
+  stroke-width: 5;
+  vector-effect: non-scaling-stroke;
+}
+.ch-layer .ch-pt {
+  fill: var(--ink);
+  stroke: var(--paper);
+  stroke-width: 1.5;
+  vector-effect: non-scaling-stroke;
+}
+.ch-layer .ch-pt.ok {
+  fill: var(--ok);
+}
+.ch-layer .ch-cut {
+  fill: none;
+  stroke: var(--ink);
+  stroke-width: 2;
+  vector-effect: non-scaling-stroke;
+}
+.ch-ctl {
+  display: grid;
+  grid-template-columns: auto 1fr auto;
+  gap: 6px 8px;
+  align-items: center;
+  margin: 8px 0;
+}
+.ch-ctl input[type="range"] {
+  width: 100%;
+  min-height: 44px;
+}
+.ch-ctl .btn {
+  min-width: 44px;
+  min-height: 44px;
+}
+.ch-ctl label {
+  grid-column: 1 / -1;
+}
+/* Text keeps a readable size on screen at any zoom: --u is chart units per screen pixel (view.ts). */
+.ch-svg .ch-name {
+  font-size: calc(clamp(7.5px, 8.5px / var(--u, 1), 12px) * var(--u, 1));
+}
+.ch-svg .ch-light {
+  font-size: calc(clamp(7px, 7.5px / var(--u, 1), 11px) * var(--u, 1));
+}
+.ch-svg .ch-sea {
+  font-size: calc(clamp(8px, 11px / var(--u, 1), 14px) * var(--u, 1));
+}
+.ch-svg .ch-country {
+  font-size: calc(clamp(9px, 13px / var(--u, 1), 18px) * var(--u, 1));
+}
+.ch-wrap[data-dense] .ch-light,
+.ch-wrap[data-dense] .ch-pre,
+.ch-wrap[data-dense] .ch-scale,
+.ch-wrap[data-dense] .ch-credit,
+.ch-wrap[data-dense] .ch-rose text {
+  display: none;
+}
+.ch-rband {
+  fill: var(--paper);
+  opacity: 0.88;
+}
+.ch-rtick {
+  stroke: var(--ink);
+  stroke-width: 1;
+  vector-effect: non-scaling-stroke;
+}
+.ch-rtext {
+  font-family: var(--mono);
+  fill: var(--ink);
+}
+.ch-layer .ch-track.b {
+  stroke: var(--sea);
+}
+.ch-layer .ch-sol {
+  stroke: var(--ok);
+  stroke-width: 1.5;
+  stroke-dasharray: 6 4;
+  fill: none;
+  vector-effect: non-scaling-stroke;
+}
+#chPractice .seg button,
+#chPractice .row .btn {
+  min-height: 44px;
+}
+.ch-key-a {
+  color: var(--accent);
+}
+.ch-key-b {
+  color: var(--sea);
+}
+.ch-stage {
+  position: relative;
+}

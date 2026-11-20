@@ -10,11 +10,13 @@
       "**",
       "!src/legacy",
       "!src/chapters/tema-*",
+      "!src/chart/coast.json",
       "!index.html",
       "!dist",
       "!legacy",
       "!playwright-report",
       "!test-results",
+      "!.playwright-mcp",
       "!**/*.md",
       "!.claude/settings.local.json"
     ]
